@@ -156,7 +156,7 @@ declare module 'astro:content' {
   slug: "bola-ai";
   body: string;
   collection: "company";
-  data: any
+  data: InferEntrySchema<"company">
 } & { render(): Render[".md"] };
 };
 "customers": {
@@ -165,21 +165,21 @@ declare module 'astro:content' {
   slug: "1";
   body: string;
   collection: "customers";
-  data: any
+  data: InferEntrySchema<"customers">
 } & { render(): Render[".md"] };
 "2.md": {
 	id: "2.md";
   slug: "2";
   body: string;
   collection: "customers";
-  data: any
+  data: InferEntrySchema<"customers">
 } & { render(): Render[".md"] };
 "3.md": {
 	id: "3.md";
   slug: "3";
   body: string;
   collection: "customers";
-  data: any
+  data: InferEntrySchema<"customers">
 } & { render(): Render[".md"] };
 };
 "helpcenter": {
@@ -188,35 +188,35 @@ declare module 'astro:content' {
   slug: "1";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 "2.md": {
 	id: "2.md";
   slug: "2";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 "3.md": {
 	id: "3.md";
   slug: "3";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 "4.md": {
 	id: "4.md";
   slug: "4";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 "5.md": {
 	id: "5.md";
   slug: "5";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 };
 "infopages": {
@@ -225,28 +225,28 @@ declare module 'astro:content' {
   slug: "bug-bounty";
   body: string;
   collection: "infopages";
-  data: any
+  data: InferEntrySchema<"infopages">
 } & { render(): Render[".md"] };
 "dpa.md": {
 	id: "dpa.md";
   slug: "dpa";
   body: string;
   collection: "infopages";
-  data: any
+  data: InferEntrySchema<"infopages">
 } & { render(): Render[".md"] };
 "privacy.md": {
 	id: "privacy.md";
   slug: "privacy";
   body: string;
   collection: "infopages";
-  data: any
+  data: InferEntrySchema<"infopages">
 } & { render(): Render[".md"] };
 "terms.md": {
 	id: "terms.md";
   slug: "terms";
   body: string;
   collection: "infopages";
-  data: any
+  data: InferEntrySchema<"infopages">
 } & { render(): Render[".md"] };
 };
 "integrations": {
@@ -255,42 +255,42 @@ declare module 'astro:content' {
   slug: "1";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "2.md": {
 	id: "2.md";
   slug: "2";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "3.md": {
 	id: "3.md";
   slug: "3";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "4.md": {
 	id: "4.md";
   slug: "4";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "5.md": {
 	id: "5.md";
   slug: "5";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "6.md": {
 	id: "6.md";
   slug: "6";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 };
 "jobs": {
@@ -299,28 +299,28 @@ declare module 'astro:content' {
   slug: "bola-jr-software-engineer-id-bf8921";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "bola-lead-software-engineer-id-bf9821.md": {
 	id: "bola-lead-software-engineer-id-bf9821.md";
   slug: "bola-lead-software-engineer-id-bf9821";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "bola-software-engineer-id-bd9423.md": {
 	id: "bola-software-engineer-id-bd9423.md";
   slug: "bola-software-engineer-id-bd9423";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "bols-vp-software-engineering-id-bf4328.md": {
 	id: "bols-vp-software-engineering-id-bf4328.md";
   slug: "bols-vp-software-engineering-id-bf4328";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 };
 "posts": {
@@ -329,56 +329,56 @@ declare module 'astro:content' {
   slug: "journeyman-electrician-job-description";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "apprentice-electrician-jobs.md": {
 	id: "apprentice-electrician-jobs.md";
   slug: "apprentice-electrician-jobs";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "best-paying-electrician-jobs.md": {
 	id: "best-paying-electrician-jobs.md";
   slug: "best-paying-electrician-jobs";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "electrician-job-outlook.md": {
 	id: "electrician-job-outlook.md";
   slug: "electrician-job-outlook";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how-to-find-electrician-jobs.md": {
 	id: "how-to-find-electrician-jobs.md";
   slug: "how-to-find-electrician-jobs";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "journeyman-electrician-jobs.md": {
 	id: "journeyman-electrician-jobs.md";
   slug: "journeyman-electrician-jobs";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "master-electrician-employment.md": {
 	id: "master-electrician-employment.md";
   slug: "master-electrician-employment";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "residential-electrician-careers.md": {
 	id: "residential-electrician-careers.md";
   slug: "residential-electrician-careers";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 };
 
@@ -390,5 +390,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../../src/content/config.js");
 }
