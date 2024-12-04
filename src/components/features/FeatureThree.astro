@@ -2,13 +2,13 @@
 import { Code } from "astro/components";
 const features = [
   {
-    title: "Commercial Electricians",
-    description:
-      "Experts in office buildings, retail spaces, and industrial facilities.",
+    title: "JavaScript Engineers",
+    description: 
+      "Full-stack experts in React, Vue, Node.js and modern web architectures.",
   },
   {
-    title: "Residential Electricians",
-    description: "Specialists in home wiring, panel upgrades, and smart home installations.",
+    title: "AI/Python Engineers",
+    description: "Specialists in machine learning, data science, and AI model development.",
   },
 ];
 ---
@@ -18,19 +18,19 @@ const features = [
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-24 items-start">
       <div>
         <span class="text-sm font-medium tracking-wide text-blue-600 uppercase"
-          >Electrical Skills</span
+          >Engineering Excellence</span
         >
         <h2
           class="text-purple-900 font-semibold tracking-tight lg:text-5xl mt-6 text-3xl">
-          Commercial and Residential Electricians
+          Top-Tier Software Engineers
         </h2>
         <p class="text-slate-500 mt-5">
-          Electricians need deep technical knowledge and hands-on experience in their specialty.
-          Commercial and residential work requires different skills and certifications.
+          We connect companies with exceptional software engineering talent who drive innovation and results.
+          Our engineers bring deep expertise in modern JavaScript frameworks and cutting-edge AI technologies.
           <br />
           <br />
-          From industrial control systems to home automation, modern electricians combine
-          traditional electrical knowledge with cutting-edge technology.
+          From scalable web applications to advanced machine learning systems, our candidates combine
+          technical mastery with practical business impact.
         </p>
         <ul
           role="list"
@@ -50,7 +50,6 @@ const features = [
         </ul>
       </div>
       <div class="lg:mt-0 mt-12 h-full lg:order-first">
-        <!-- Include these scripts somewhere on the page: -->
         <div class="lg:mt-0 mt-12 h-full">
           <div
             x-data="{
@@ -79,14 +78,14 @@ const features = [
                 @click="tabButtonClicked($el);"
                 type="button"
                 class="relative z-20 inline-flex items-center justify-center w-full h-8 px-3 text-sm font-medium transition-all rounded-full cursor-pointer whitespace-nowrap"
-                >Commercial</button
+                >JavaScript</button
               >
               <button
                 :id="$id(tabId)"
                 @click="tabButtonClicked($el);"
                 type="button"
                 class="relative z-20 inline-flex items-center justify-center w-full h-8 px-3 text-sm font-medium transition-all rounded-md cursor-pointer whitespace-nowrap"
-                >Residential</button
+                >AI/Python</button
               >
               <div
                 x-ref="tabMarker"
@@ -102,35 +101,36 @@ const features = [
                 :id="$id(tabId + '-content')"
                 x-show="tabContentActive($el)"
                 class="relative">
-                <!-- Tab Content 1 - Replace with your content -->
                 <section
                   class="text-xs font-mono mt-4 rounded-3xl hadow-2xl overflow-hidden h-full p-4">
                   <Code
-                    code={`// Commercial Electrician Knowledge
+                    code={`// Modern JavaScript Stack Expertise
 
-const industrialControls = {
-  plcProgramming: ['Ladder Logic', 'Function Block', 'Structured Text'],
-  motorControls: ['VFD Configuration', 'Soft Starters', 'Motor Protection'],
-  buildingAutomation: {
-    lighting: 'DALI Protocol',
-    hvac: 'BACnet Integration',
-    security: 'Access Control Systems'
+const engineerCapabilities = {
+  frontendFrameworks: ['React', 'Vue', 'Next.js', 'Nuxt'],
+  backendTechnologies: {
+    runtime: 'Node.js',
+    frameworks: ['Express', 'NestJS', 'Fastify'],
+    databases: ['MongoDB', 'PostgreSQL', 'Redis']
   },
-  powerDistribution: ['Switchgear', 'Transformers', 'Load Calculations']
+  modernPractices: {
+    architecture: ['Microservices', 'JAMstack', 'Serverless'],
+    testing: ['Jest', 'Cypress', 'Testing Library'],
+    deployment: ['Docker', 'AWS', 'Vercel']
+  }
 };
 
-// Required Certifications
-
-const certifications = [
-  'Journeyman Electrician License',
-  'OSHA Safety Certification',
-  'PLC Programming Certificate'
+// Key Strengths
+const expertise = [
+  'Full Stack Development',
+  'Performance Optimization',
+  'Scalable Architecture Design',
+  'Real-time Applications'
 ];`}
                     lang="js"
                     theme="css-variables"
                   />
                 </section>
-                <!-- End Tab Content 1 -->
               </div>
               <div
                 :id="$id(tabId + '-content')"
@@ -140,29 +140,30 @@ const certifications = [
                 <section
                   class="text-xs font-mono mt-4 rounded-3xl hadow-2xl overflow-hidden h-full p-4">
                   <Code
-                    code={`// Residential Electrician Knowledge
+                    code={`# AI and Machine Learning Expertise
 
-const residentialSystems = {
-  smartHome: {
-    automation: ['Lutron', 'Control4', 'HomeKit'],
-    security: ['Cameras', 'Alarms', 'Access Control'],
-    entertainment: ['Whole-House Audio', 'Home Theater']
-  },
-  electrical: {
-    service: ['Panel Upgrades', 'Circuit Installation'],
-    renewable: ['Solar Integration', 'Battery Backup'],
-    lighting: ['LED Systems', 'Dimming Controls']
-  }
-};
+class AIEngineer:
+    def __init__(self):
+        self.core_skills = {
+            'frameworks': ['PyTorch', 'TensorFlow', 'Scikit-learn'],
+            'specialties': ['NLP', 'Computer Vision', 'Deep Learning'],
+            'data_engineering': ['Pandas', 'PySpark', 'Numpy']
+        }
+        
+        self.domains = {
+            'ml_ops': ['MLflow', 'Kubeflow', 'DVC'],
+            'cloud_platforms': ['AWS SageMaker', 'Google AI', 'Azure ML'],
+            'deployment': ['FastAPI', 'Docker', 'Kubernetes']
+        }
 
-// Common Tasks
-
-const dailyWork = [
-  'Code Compliance Checks',
-  'Troubleshooting',
-  'Installation Planning'
-];`}
-                    lang="js"
+    def key_achievements(self):
+        return [
+            'Production ML Systems',
+            'Model Optimization',
+            'Large Language Models',
+            'Real-time Inference'
+        ]`}
+                    lang="python"
                     theme="css-variables"
                   />
                 </section>

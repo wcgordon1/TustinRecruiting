@@ -1,4 +1,5 @@
 ---
+import CtaWack from "@/components/cta/CtaWack.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 
 const features = [
@@ -28,32 +29,31 @@ const features = [
 const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Best Electrician Jobs",
-  "url": "https://bestelectricianjobs.com",
-  "logo": "https://bestelectricianjobs.com/images/eleclog.png",
+  "name": "Tustin Recruiting",
+  "url": "https://tustinrecruiting.com",
+  "logo": "https://tustinrecruiting.com/images/eleclog.png",
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "customer service",
-    "email": "hello@bestelectricianjobs.com",
+    "email": "hello@tustinrecruiting.com",
     "availableLanguage": "English",
     "areaServed": "US"
   },
   "sameAs": [
-    "https://www.reddit.com/r/ElectricalJobs/",
-    "https://www.linkedin.com/company/electrician-jobs/",
-    "https://x.com/electricaljob__"
+    "https://www.linkedin.com/company/tustin-recruiting/",
+    "https://x.com/tustinrecruiting"
   ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "695 Town Center Dr Suite 1100",
-    "addressLocality": "Costa Mesa",
+    "addressLocality": "Costa Mesa",  
     "addressRegion": "CA",
     "postalCode": "92626",
     "addressCountry": "US"
   }
 };
 const pageTitle = "Contact Us. We are happy to help!";
-const pageDescription = "Contact Best Electrician Jobs to learn more about our services and how we can help you find the perfect electrician or technician for your business.";
+const pageDescription = "Contact Tustin Recruiting to learn more about our services and how we can help you find the perfect electrician or technician for your business.";
 ---
 
 <BaseLayout title={pageTitle} description={pageDescription}>
@@ -71,7 +71,7 @@ const pageDescription = "Contact Best Electrician Jobs to learn more about our s
               Contact us
             </span>
             <h1 class="text-purple-900 font-semibold tracking-tight lg:text-5xl mt-6 text-3xl lg:text-balance">
-              Get in touch with Best Electrician Jobs
+              Get in touch with Tustin Recruiting
             </h1>
             <dl class="mt-10 space-y-4 text-sm">
               <div class="flex gap-x-4">
@@ -82,7 +82,7 @@ const pageDescription = "Contact Best Electrician Jobs to learn more about our s
                     <path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0z"></path>
                   </svg>
                 </dt>
-                <dd class="text-slate-500">Costa Mesa, California</dd>
+                <dd class="text-slate-500">Tustin, California</dd>
               </div>
               <div class="flex gap-x-4">
                 <dt class="flex-none">
@@ -93,8 +93,8 @@ const pageDescription = "Contact Best Electrician Jobs to learn more about our s
                   </svg>
                 </dt>
                 <dd>
-                  <a href="mailto:hello@bestelectricianjobs.com" class="text-slate-500 hover:text-blue-600">
-                    hello @ bestelectricianjobs.com
+                  <a href="mailto:hello@tustinrecruiting.com" class="text-slate-500 hover:text-blue-600">
+                    hello @ tustinrecruiting.com
                   </a>
                 </dd>
               </div>
@@ -277,6 +277,7 @@ const pageDescription = "Contact Best Electrician Jobs to learn more about our s
       </div>
     </div>
   </section>
+  <CtaWack />
 </BaseLayout>
 
 <script>

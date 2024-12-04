@@ -1,39 +1,63 @@
 ---
 // Define the FAQ data
 const faqs = [
-  {
-    question: "Can I use spaziobianco for my site?",
-    answer:
-      "Upswing securities passively index inverse bondholders capitalization financial health Moody's debt managed. management district stocks. Potential funds consulting expenses.",
-  },
-  {
-    question: "Will I get updates?",
-    answer:
-      "Upswing securities passively index inverse bondholders capitalization financial health Moody's debt managed.",
-  },
-  {
-    question: "How much do disputes cost?",
-    answer:
-      "Upswing securities passively index inverse bondholders capitalization financial health Moody's debt managed.",
-  },
-  {
-    question: "How do refunds work?",
-    answer:
-      "Upswing securities passively index inverse bondholders capitalization financial health Moody's debt managed.",
-  },
-  {
-    question: "How long do payouts take?",
-    answer:
-      "Upswing securities passively index inverse bondholders capitalization financial health Moody's debt managed.",
-  },
-  {
-    question: "Is there a fee to use Google Pay?",
-    answer:
-      "Upswing securities passively index inverse bondholders capitalization financial health Moody's debt managed.",
-  },
-  // Add more FAQs as needed
+{
+question: "What industries do you specialize in for Orange County?",
+answer: "We focus on high-growth industries in Orange County including Software Engineering, SaaS Sales, Medical Device Sales, and Technology. Our deep local network spans from Irvine's tech corridor to Newport Beach's medical device companies.",
+},
+{
+question: "How does your recruiting process actually work?",
+answer: "It's pretty straightforward - we start by getting to know your company culture and what you're looking for. Then we tap into our Orange County network to find the right people. We handle everything from reaching out to candidates through to offer negotiations.",
+},
+{
+question: "What types of software roles do you usually fill?",
+answer: "We work across the full engineering stack, especially with React, Python, and cloud tech. We've placed everyone from Senior Engineers to CTOs at both established companies and startups throughout Orange County.",
+},
+{
+question: "What's different about your sales recruitment?",
+answer: "We really know our stuff when it comes to enterprise SaaS and medical device sales in Orange County. We get that these roles need specific technical knowledge and experience with complex sales cycles.",
+},
+{
+question: "Do you back your placements with any guarantees?",
+answer: "Absolutely - all our direct-hire placements come with replacement guarantees, typically ranging from 60-90 days depending on the role. We're invested in making sure these placements stick.",
+},
+{
+question: "How long does it usually take to fill a position?",
+answer: "While every search is different, you can usually expect to see strong candidates within 2-3 weeks. Being well-connected in Orange County helps us move quickly without sacrificing quality.",
+},
+{
+question: "How thorough are you in checking candidates' backgrounds?",
+answer: "We don't just take resumes at face value. For engineers, we do technical assessments and review their work. For sales roles, we verify their track record and numbers. Plus, we always do detailed reference checks.",
+},
+{
+question: "Where in Orange County do you work?",
+answer: "We cover all of Orange County, but we're especially active in the tech hubs - Irvine, Newport Beach, Costa Mesa, and Tustin. Our candidates are either local or ready to move here.",
+},
+{
+question: "What are your fees and payment terms?",
+answer: "Our fees are competitive for Orange County and based on the position level. We offer flexible payment terms and only get paid when we successfully place a candidate. Let's discuss specifics based on your needs.",
+}
 ];
+
+// Create the JSON-LD data structure
+const faqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(faq => ({
+    "@type": "Question",
+    "name": faq.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": faq.answer
+    }
+  }))
+};
 ---
+
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd, null, 2)} />
+</Fragment>
+
 
 <section>
   <div
@@ -44,8 +68,8 @@ const faqs = [
       </h2>
       <h2
         class="text-purple-900 font-semibold tracking-tight lg:text-5xl mt-6 text-3xl">
-        Frequent questions
-        <span class="lg:block"> and answers</span>
+        Frequent Questions
+        <span class="lg:block"> and Answers</span>
       </h2>
 
       <div class="mt-12 bg-slate-50 rounded-3xl p-4 lg:p-10 divide-y">

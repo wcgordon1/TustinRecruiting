@@ -1,18 +1,16 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import HeaderOne from "@/components/headers/HeaderOne.astro";
-import FeatureOne from "@/components/features/FeatureOne.astro";
 import FeatureThree from "@/components/features/FeatureThree.astro";
-import FeatureFour from "@/components/features/FeatureFour.astro";
 import TestimonialTwo from "@/components/testimonials/TestimonialTwo.astro";
 import PricingOne from "@/components/pricing/PricingOne.astro";
-import FaqOne from "@/components/faqs/FaqOne.astro";
+import FaqTwo from "@/components/faqs/FaqTwo.astro";
 import CtaOne from "@/components/cta/CtaOne.astro";
 import CompanyEntries from "@/components/company/CompanyEntries.astro";
 import CtaIndeed from "@/components/cta/CtaIndeed.astro";
-
-const pageTitle = "Best Electrician Jobs | The #1 Platform for Hiring Qualified Electricians";
-const pageDescription = "Discover roles at innovative companies. Our recruiters connect talented professionals with opportunities that match their skills and aspirations.";
+import CtaTwo from "@/components/cta/CtaTwo.astro";
+const pageTitle = "Orange County's Direct Hire Recruiting Firm";
+const pageDescription = "With over 20 years of experience, Tustin Recruiting is your direct hire firm for Orange County. We specialize in placing qualified Orange County professionals in Orange County.";
 ---
 
 <BaseLayout title={pageTitle} description={pageDescription}>
@@ -23,11 +21,10 @@ const pageDescription = "Discover roles at innovative companies. Our recruiters 
   <HeaderOne />
   <TestimonialTwo />
   <CompanyEntries />
-  <CtaIndeed
+  <CtaTwo />
   <FeatureThree />
-  <FeatureOne />
-  <FeatureFour />
+  <FaqTwo />
   <PricingOne />
-  <FaqOne />
-  <CtaOne />
+  <CtaTwo />
+
 </BaseLayout>
