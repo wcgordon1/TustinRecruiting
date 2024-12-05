@@ -157,6 +157,13 @@ Would you like me to explain any part in more detail?
 
 
 
+### added this first to test:
+},
+  "engines": {
+    "node": "18.x"
+  }
+  <<< This seems to have worked... not sure why... going to test.
+
 
 Vercel error: https://vercel.com/guides/serverless-function-contains-invalid-runtime-error
 
