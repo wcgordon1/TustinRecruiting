@@ -1,77 +1,103 @@
 ---
 page: Terms
-pubDate: 2024-10-21
+pubDate: 2024-08-08
 ---
-# Terms and Conditions
 
-**Last Updated:** November 7, 2024
+# Terms of Use
 
-Welcome to **bestelectricianjobs.com** (the "Website"). By using our Website, you agree to these Terms and Conditions. Please read them carefully before accessing or using any services provided by us.
+**Last updated on August 8, 2024**  
 
-## 1. **Service Overview**
-
-bestelectricianjobs.com is a job board connecting employers with potential candidates in the electrician industry. We offer paid job posting services for employers and provide job listings for job seekers.
-
-## 2. **Payment Terms**
-
-- Employers can pay for job postings through **Stripe**, a secure payment processing service.
-- We do **not store any payment information** on our servers.
-- All payments are handled securely through Stripe's PCI-compliant system.
-
-## 3. **Refund and Cancellation Policy**
-
-- You can **cancel** your job posting at any time.
-- If no applicants have applied within the first **14 days**, you are eligible for a **full refund** upon request.
-- Job postings remain active on the Website for **30 days** unless cancelled earlier.
-
-## 4. **User Responsibilities**
-
-- **Accuracy of Information**: Both employers and job seekers are expected to provide accurate information to the best of their ability.
-- **Prohibited Activities**:
-  - No spamming or unsolicited promotions.
-  - No posting of fake or misleading job advertisements.
-  - Any abuse of the system may result in a ban from the Website.
-
-## 5. **Account Registration**
-
-- There is **no account registration or login** required for using our Website features.
-- We do not require email verification or identity verification from users.
-
-## 6. **Ownership of Content**
-
-- All content posted on the Website, including job listings and blog articles, is owned by **bestelectricianjobs.com**.
-- Users are **not permitted** to use any content from the Website for commercial purposes without explicit permission.
-
-## 7. **Intellectual Property**
-
-- The Website, its content, features, and functionality are and will remain the exclusive property of **bestelectricianjobs.com**.
-- Unauthorized use of our content may result in legal action.
-
-## 8. **Liability and Disclaimers**
-
-- The Website provides a platform for employers to post job listings and for job seekers to find opportunities. We do **not guarantee** job placements or the accuracy of job listings.
-- We are **not liable** for any false information provided by employers or job seekers. Users are encouraged to verify the details independently before making any decisions.
-- We do not endorse any employer or job seeker using the Website.
-
-## 9. **Termination of Services**
-
-- We reserve the right to suspend or terminate access to the Website at our discretion if we believe a user has violated these Terms and Conditions.
-- In the event of termination, users will be notified via the email provided (if applicable).
-
-## 10. **Changes to These Terms**
-
-- We may update these Terms and Conditions from time to time. Any changes will be posted on this page with an updated revision date.
-- By continuing to use the Website after changes are posted, you accept the revised Terms and Conditions.
-
-## 11. **Governing Law**
-
-- These Terms and Conditions are governed by and construed in accordance with the laws of the State of California, USA. Any disputes arising out of or related to these Terms will be subject to the exclusive jurisdiction of the courts located in California.
-
-## 12. **Contact Us**
-
-If you have any questions or concerns about these Terms and Conditions, please contact us at:
-
-**Email:** [hello@bestelectricianjobs.com](mailto:hello@bestelectricianjobs.com)  
+Welcome to **Tustin Recruiting**! These Terms of Use govern your access to and use of our website and services. By using our website, you agree to these terms. If you do not agree, please do not use our services.
 
 ---
 
+## 1. Acceptance of Terms
+
+By accessing or using our website and services, you agree to comply with and be bound by these Terms of Use and our Privacy Policy. If you do not agree with any part of these terms, please refrain from using our website.
+
+---
+
+## 2. Use of Our Services
+
+### Eligibility
+- You must be at least 18 years old or have the consent of a parent or guardian to use our services.
+
+### User Responsibilities
+- You agree to provide accurate, current, and complete information when submitting resumes or using our contact forms.  
+- You are responsible for maintaining the confidentiality of your login credentials and for all activities that occur under your account.
+
+### Prohibited Activities
+- You may not use our website for any unlawful purposes or in any way that could harm, disable, or impair the site or interfere with other users' enjoyment.  
+- You may not attempt to gain unauthorized access to any part of the site or its related systems.
+
+---
+
+## 3. Resume Submission
+
+### Accuracy of Information
+- You are solely responsible for the content of your resume and any other materials you submit. We are not responsible for verifying the accuracy or completeness of the information provided.
+
+### Use of Information
+- The information you provide through your resume submissions may be used to match you with job opportunities and to communicate with you regarding recruiting services.
+
+---
+
+## 4. Intellectual Property
+
+### Ownership
+- All content and materials on our website, including but not limited to text, graphics, logos, and software, are the property of Tustin Recruiting or our licensors and are protected by intellectual property laws.
+
+### Use of Content
+- You may not reproduce, distribute, modify, or create derivative works from any content on our website without our prior written consent.
+
+---
+
+## 5. Third-Party Links
+
+Our website may contain links to third-party websites or services. We are not responsible for the content or practices of these third-party sites. Your use of any third-party websites is at your own risk.
+
+---
+
+## 6. Disclaimers and Limitation of Liability
+
+### Disclaimer
+- Our website and services are provided "as is" and "as available" without warranties of any kind, either express or implied. We do not warrant that our website will be error-free or uninterrupted.
+
+### Limitation of Liability
+- To the fullest extent permitted by law, Tustin Recruiting shall not be liable for any indirect, incidental, consequential, or punitive damages arising out of or related to your use of our website or services.
+
+---
+
+## 7. Indemnification
+
+You agree to indemnify and hold harmless Tustin Recruiting, its affiliates, officers, directors, employees, and agents from any claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising out of or related to your use of our website or services.
+
+---
+
+## 8. Changes to Terms
+
+We may update these Terms of Use from time to time. We will notify you of any significant changes by posting the updated terms on our website with an updated effective date. Your continued use of our website after such changes constitutes your acceptance of the revised terms.
+
+---
+
+## 9. Termination
+
+We reserve the right to suspend or terminate your access to our website and services at our sole discretion, without notice, for any reason, including but not limited to a breach of these Terms of Use.
+
+---
+
+## 10. Governing Law
+
+These Terms of Use shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law principles.
+
+---
+
+## 11. Contact Us
+
+If you have any questions or concerns about these Terms of Use, please contact us at:
+
+**Tustin Recruiting**  
+1401 21ST ST, STE R  
+SACRAMENTO, CA 95811  
+**Email:** support@tustinrecruiting.com  
+**Phone:** 949-436-7486  

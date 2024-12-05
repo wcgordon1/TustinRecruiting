@@ -81,12 +81,12 @@ const currentCategory = searchParams.get('category');
     </div>
 
     <!-- Reset Button -->
-    <a
-      href="/open-positions"
+    <button
+      id="resetFilters"
       class="block w-full text-center text-white bg-blue-500 hover:bg-blue-600 font-medium py-2 rounded-full mt-6"
     >
       Reset Filters
-    </a>
+    </button>
   </div>
 </div>
 
@@ -147,10 +147,10 @@ const currentCategory = searchParams.get('category');
   });
 
   // Reset Filters
-  const resetButton = document.querySelector('a[href="/open-positions"]');
+  const resetButton = document.getElementById('resetFilters');
   if (resetButton) {
-    resetButton.addEventListener('click', (e) => {
-      e.preventDefault();
+    resetButton.addEventListener('click', () => {
+      // Reset all filters
       activeFilters = { salary: null, team: null, category: null };
       document.querySelectorAll<HTMLInputElement>('input[type="radio"]')
         .forEach(radio => radio.checked = false);
@@ -164,6 +164,12 @@ const currentCategory = searchParams.get('category');
 
       // Check for results
       document.dispatchEvent(new CustomEvent('checkResults'));
+
+      // Scroll to search container
+      const searchContainer = document.getElementById('searchContainer');
+      if (searchContainer) {
+        searchContainer.scrollIntoView({ behavior: 'smooth' });
+      }
     });
   }
 </script> 

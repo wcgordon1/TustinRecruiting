@@ -350,6 +350,13 @@ declare module 'astro:content' {
   collection: "jobs";
   data: any
 } & { render(): Render[".md"] };
+"tr-cypress-account-executive-idbf8931.md": {
+	id: "tr-cypress-account-executive-idbf8931.md";
+  slug: "tr-cypress-account-executive-idbf8931";
+  body: string;
+  collection: "jobs";
+  data: any
+} & { render(): Render[".md"] };
 "tr-doc-specialist-id-bf8402.md": {
 	id: "tr-doc-specialist-id-bf8402.md";
   slug: "tr-doc-specialist-id-bf8402";
@@ -394,6 +401,27 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "posts": {
+"10-high-paying-sales-jobs-you-can-get-without-a-degree.md": {
+	id: "10-high-paying-sales-jobs-you-can-get-without-a-degree.md";
+  slug: "10-high-paying-sales-jobs-you-can-get-without-a-degree";
+  body: string;
+  collection: "posts";
+  data: any
+} & { render(): Render[".md"] };
+"common-employee-benefits-in-orange-county-ca-private-sector.md": {
+	id: "common-employee-benefits-in-orange-county-ca-private-sector.md";
+  slug: "common-employee-benefits-in-orange-county-ca-private-sector";
+  body: string;
+  collection: "posts";
+  data: any
+} & { render(): Render[".md"] };
+"how-to-implement-structured-json-ld-for-google-jobs.md": {
+	id: "how-to-implement-structured-json-ld-for-google-jobs.md";
+  slug: "how-to-implement-structured-json-ld-for-google-jobs";
+  body: string;
+  collection: "posts";
+  data: any
+} & { render(): Render[".md"] };
 "software-engineer-careers-orange-county.md": {
 	id: "software-engineer-careers-orange-county.md";
   slug: "software-engineer-careers-orange-county";
@@ -425,6 +453,13 @@ declare module 'astro:content' {
 "software-engineering-positions-orange-county.md": {
 	id: "software-engineering-positions-orange-county.md";
   slug: "software-engineering-positions-orange-county";
+  body: string;
+  collection: "posts";
+  data: any
+} & { render(): Render[".md"] };
+"when-to-follow-up-with-a-recruiter.md": {
+	id: "when-to-follow-up-with-a-recruiter.md";
+  slug: "when-to-follow-up-with-a-recruiter";
   body: string;
   collection: "posts";
   data: any

@@ -92,7 +92,7 @@ const jsonLd = {
             alt={frontmatter.avatar.alt}
           />
           <div class="mt-4 flex items-center justify-center gap-2 text-sm">
-            <span class="font-medium text-purple-900">{frontmatter.author}</span>
+            <a href="https://www.linkedin.com/in/will-gordon1/" target="_blank" class="font-medium text-purple-900 hover:underline">{frontmatter.author}</a>
             <span class="text-slate-400">·</span>
             <time class="text-slate-500" datetime={frontmatter.pubDate}>
               {frontmatter.pubDate.toString().slice(0, 10)}
