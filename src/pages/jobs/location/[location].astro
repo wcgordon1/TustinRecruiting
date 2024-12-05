@@ -47,8 +47,8 @@ function formatSalary(baseSalary) {
 }
 
 // Create dynamic title and description
-const pageTitle = `Electrician Jobs in ${locationName}`;
-const pageDescription = `Find local electrician jobs in ${locationName}. Browse the latest electrical positions from top employers in ${locationName}. Competitive pay and immediate openings.`;
+const pageTitle = `${locationName} Jobs`;
+const pageDescription = `Looking for a job in ${locationName}? We connect job seekers with top local employers in ${locationName}.`;
 
 // Format location name for display (keep original casing)
 const displayLocation = locationName;
@@ -62,13 +62,13 @@ const breadcrumbList = {
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://www.bestelectricianjobs.com/"
+      "item": "https://www.tustinrecruiting.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Jobs",
-      "item": "https://www.bestelectricianjobs.com/open-positions"
+      "item": "https://www.tustinrecruiting.com/open-positions"
     },
     {
       "@type": "ListItem",
@@ -113,10 +113,10 @@ const breadcrumbList = {
           </nav>
           <h1
             class="text-white font-semibold tracking-tight lg:text-5xl mt-8 text-3xl lg:text-balance">
-            Electrician Jobs in {displayLocation}
+            Jobs in {displayLocation}
           </h1>
           <p class="text-slate-300 mt-5 lg:text-pretty">
-            Find the best electrician jobs in {displayLocation}. We connect skilled electricians with top local employers.
+            Lookking for a job in {displayLocation}? We connect job seekers with top local employers. Check them out below.
           </p>
         </div>
       </div>
@@ -152,7 +152,7 @@ const breadcrumbList = {
           <div class="bg-slate-50 rounded-3xl p-4 lg:p-6">
             <div>
               <h3 class="text-lg font-medium text-purple-900">Jobs in {displayLocation}</h3>
-              <p class="text-slate-500 text-sm mt-2">Where Electricians Find Jobs.</p>
+              <p class="text-slate-500 text-sm mt-2">Where Job Seekers find rewarding careers.</p>
               <p class="text-slate-500 text-sm mt-2">Indeed & ZipRecruiter not working? Give us a try.</p>
             </div>
             <div class="mt-6 flex flex-col gap-3">

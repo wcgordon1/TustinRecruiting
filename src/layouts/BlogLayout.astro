@@ -1,6 +1,7 @@
 ---
+import CtaTwo from "@/components/cta/CtaTwo.astro";
 import BaseLayout from "./BaseLayout.astro";
-import CtaOne from "@/components/cta/CtaOne.astro";
+import CtaWack from "@/components/cta/CtaWack.astro";
 
 const { frontmatter } = Astro.props;
 
@@ -124,7 +125,8 @@ const jsonLd = {
             ))
           }
         </div>
-        <!-- Featured Image -->
+
+        <!-- Featured Image
         {frontmatter.image && (
           <img
             src={frontmatter.image.url}
@@ -133,17 +135,20 @@ const jsonLd = {
           />
         )}
       </div>
+      Featured Image-->
+
     </div>
   </section>
   <!-- Content -->
   <section>
-    <div class="mx-auto max-w-4xl lg:px-16 md:px-12 px-8 xl:px-24 py-12">
+    <div class="mx-auto max-w-4xl lg:px-16 md:px-12 px-8 xl:px-24 mb-12">
       <div class="prose prose-lg prose-slate max-w-none">
         <slot />
       </div>
     </div>
   </section>
-  <CtaOne />
+  <CtaTwo />
+  <CtaWack />
 </BaseLayout>
 
 <script>

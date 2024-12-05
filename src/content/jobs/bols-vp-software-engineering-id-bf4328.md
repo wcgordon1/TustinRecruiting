@@ -1,5 +1,5 @@
 ---
-position: "Senior Software Engineer"
+position: "VP Software Engineering"
 
 #description
 description: "Bola AI is seeking a visionary and experienced **Vice President of Software Engineering** to lead our innovative engineering team in **Huntington Beach, CA**. As a key member of our leadership team, you will drive the strategic direction of our software development efforts, overseeing the creation of cutting-edge Voice-AI solutions that are transforming dental practices across the United States. This hybrid role offers the flexibility to work remotely part-time while collaborating on-site with a dynamic and talented team"
@@ -8,7 +8,7 @@ description: "Bola AI is seeking a visionary and experienced **Vice President of
 
 location: "Huntington Beach, CA"
 team: "Artificial Intelligence"
-datePosted: "2024-12-04T06:21:00Z"
+datePosted: "2024-12-04T02:21:00Z"
 validThrough: "2025-03-04T00:00:00Z"
 employmentType: "FULL_TIME"
 hiringOrganization: 

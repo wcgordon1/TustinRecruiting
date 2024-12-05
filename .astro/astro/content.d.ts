@@ -294,6 +294,13 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "jobs": {
+"bol-saas-bdr-id-bf0938.md": {
+	id: "bol-saas-bdr-id-bf0938.md";
+  slug: "bol-saas-bdr-id-bf0938";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "bola-jr-software-engineer-id-bf8921.md": {
 	id: "bola-jr-software-engineer-id-bf8921.md";
   slug: "bola-jr-software-engineer-id-bf8921";
@@ -304,6 +311,13 @@ declare module 'astro:content' {
 "bola-lead-software-engineer-id-bf9821.md": {
 	id: "bola-lead-software-engineer-id-bf9821.md";
   slug: "bola-lead-software-engineer-id-bf9821";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"bola-saas-ae-id-bf-3293.md": {
+	id: "bola-saas-ae-id-bf-3293.md";
+  slug: "bola-saas-ae-id-bf-3293";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -324,58 +338,37 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "posts": {
-"Journeyman-Electrician-Job-Description.md": {
-	id: "Journeyman-Electrician-Job-Description.md";
-  slug: "journeyman-electrician-job-description";
+"software-engineer-careers-orange-county.md": {
+	id: "software-engineer-careers-orange-county.md";
+  slug: "software-engineer-careers-orange-county";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"apprentice-electrician-jobs.md": {
-	id: "apprentice-electrician-jobs.md";
-  slug: "apprentice-electrician-jobs";
+"software-engineer-internships-orange-county.md": {
+	id: "software-engineer-internships-orange-county.md";
+  slug: "software-engineer-internships-orange-county";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"best-paying-electrician-jobs.md": {
-	id: "best-paying-electrician-jobs.md";
-  slug: "best-paying-electrician-jobs";
+"software-engineer-jobs-orange-county.md": {
+	id: "software-engineer-jobs-orange-county.md";
+  slug: "software-engineer-jobs-orange-county";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"electrician-job-outlook.md": {
-	id: "electrician-job-outlook.md";
-  slug: "electrician-job-outlook";
+"software-engineer-salary-orange-county.md": {
+	id: "software-engineer-salary-orange-county.md";
+  slug: "software-engineer-salary-orange-county";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"how-to-find-electrician-jobs.md": {
-	id: "how-to-find-electrician-jobs.md";
-  slug: "how-to-find-electrician-jobs";
-  body: string;
-  collection: "posts";
-  data: InferEntrySchema<"posts">
-} & { render(): Render[".md"] };
-"journeyman-electrician-jobs.md": {
-	id: "journeyman-electrician-jobs.md";
-  slug: "journeyman-electrician-jobs";
-  body: string;
-  collection: "posts";
-  data: InferEntrySchema<"posts">
-} & { render(): Render[".md"] };
-"master-electrician-employment.md": {
-	id: "master-electrician-employment.md";
-  slug: "master-electrician-employment";
-  body: string;
-  collection: "posts";
-  data: InferEntrySchema<"posts">
-} & { render(): Render[".md"] };
-"residential-electrician-careers.md": {
-	id: "residential-electrician-careers.md";
-  slug: "residential-electrician-careers";
+"software-engineering-positions-orange-county.md": {
+	id: "software-engineering-positions-orange-county.md";
+  slug: "software-engineering-positions-orange-county";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">

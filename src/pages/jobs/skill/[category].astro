@@ -13,8 +13,7 @@ export async function getStaticPaths() {
   
   return uniqueCategories.map(category => ({
     params: { 
-      // Replace spaces with hyphens and make lowercase
-      category: `${category.toLowerCase().replace(/\s+/g, '-')}-jobs` 
+      category: `${category.toLowerCase().replace(/\s+/g, '-')}-jobs`
     },
     props: { categoryName: category }
   }));
@@ -27,10 +26,13 @@ const { category } = Astro.params;
 // Get all jobs
 const allJobs = await getCollection("jobs");
 
-// Filter jobs for this category
-const categoryJobs = allJobs.filter(job => 
-  job.data.occupationalCategory.toLowerCase() === category.replace(/-jobs$/, '')
-);
+// Simplified filtering logic
+const categoryJobs = allJobs.filter(job => {
+  const jobCategory = job.data.occupationalCategory.toLowerCase();
+  const urlCategory = category.replace(/-jobs$/, '');
+  
+  return jobCategory.replace(/\s+/g, '-') === urlCategory;
+});
 
 // Sort jobs by featured status first, then by date
 const sortedJobs = categoryJobs.sort((a, b) => {
@@ -46,8 +48,8 @@ function formatSalary(baseSalary) {
 }
 
 // Create dynamic title and description
-const pageTitle = `${categoryName} Electrician Jobs`;
-const pageDescription = `Looking for ${categoryName} electrician positions? Browse our latest ${categoryName.toLowerCase()} electrical jobs with leading companies. Competitive pay and benefits.`;
+const pageTitle = `${categoryName} Jobs`;
+const pageDescription = `Looking for ${categoryName} positions? Browse our latest ${categoryName.toLowerCase()} jobs with leading companies. Competitive pay and benefits.`;
 
 // Capitalize category name for display
 const displayCategory = categoryName.charAt(0).toUpperCase() + categoryName.slice(1);
@@ -61,13 +63,13 @@ const breadcrumbList = {
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://www.bestelectricianjobs.com/"
+      "item": "https://www.tustinrecruiting.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Jobs",
-      "item": "https://www.bestelectricianjobs.com/open-positions"
+      "item": "https://www.tustinrecruiting.com/open-positions"
     },
     {
       "@type": "ListItem",
@@ -112,10 +114,10 @@ const breadcrumbList = {
           </nav>
           <h1
             class="text-white font-semibold tracking-tight lg:text-5xl mt-8 text-3xl lg:text-balance">
-            {displayCategory} Electrician Jobs
+            {displayCategory} Jobs
           </h1>
           <p class="text-slate-300 mt-5 lg:text-pretty">
-            Find the best {displayCategory.toLowerCase()} electrician jobs. We connect skilled electricians with top employers seeking {displayCategory.toLowerCase()} level experience.
+            Find the best {displayCategory.toLowerCase()} jobs. We connect job seekers with top employers seeking {displayCategory.toLowerCase()} candidates.
           </p>
         </div>
       </div>
@@ -151,8 +153,8 @@ const breadcrumbList = {
                 <div class="lg:sticky lg:top-8">
                   <div class="bg-slate-50 rounded-3xl p-4 lg:p-6">
                     <div>
-                      <h3 class="text-lg font-medium text-purple-900">{displayCategory} Electrician Jobs</h3>
-                      <p class="text-slate-500 text-sm mt-2">Where Electricians Find Jobs.</p>
+                      <h3 class="text-lg font-medium text-purple-900">Tustin Recruiting: {displayCategory}</h3>
+                      <p class="text-slate-500 text-sm mt-2">Where Job Seekers Find Careers.</p>
                       <p class="text-slate-500 text-sm mt-2">Indeed & ZipRecruiter not working? Give us a try.</p>
                     </div>
                     <div class="mt-6 flex flex-col gap-3">

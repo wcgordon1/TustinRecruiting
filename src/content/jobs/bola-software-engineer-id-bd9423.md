@@ -27,7 +27,7 @@ Competitive salary, benefits, and a collaborative team environment."
 
 location: "Irvine, CA"
 team: "Artificial Intelligence"
-datePosted: "2024-12-04T06:21:00Z"
+datePosted: "2024-12-04T06:27:00Z"
 validThrough: "2025-03-04T00:00:00Z"
 employmentType: "FULL_TIME"
 hiringOrganization: 
