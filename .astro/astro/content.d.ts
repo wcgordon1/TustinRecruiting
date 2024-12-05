@@ -156,7 +156,7 @@ declare module 'astro:content' {
   slug: "bola-ai";
   body: string;
   collection: "company";
-  data: any
+  data: InferEntrySchema<"company">
 } & { render(): Render[".md"] };
 };
 "customers": {
@@ -165,21 +165,21 @@ declare module 'astro:content' {
   slug: "1";
   body: string;
   collection: "customers";
-  data: any
+  data: InferEntrySchema<"customers">
 } & { render(): Render[".md"] };
 "2.md": {
 	id: "2.md";
   slug: "2";
   body: string;
   collection: "customers";
-  data: any
+  data: InferEntrySchema<"customers">
 } & { render(): Render[".md"] };
 "3.md": {
 	id: "3.md";
   slug: "3";
   body: string;
   collection: "customers";
-  data: any
+  data: InferEntrySchema<"customers">
 } & { render(): Render[".md"] };
 };
 "helpcenter": {
@@ -188,35 +188,35 @@ declare module 'astro:content' {
   slug: "1";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 "2.md": {
 	id: "2.md";
   slug: "2";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 "3.md": {
 	id: "3.md";
   slug: "3";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 "4.md": {
 	id: "4.md";
   slug: "4";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 "5.md": {
 	id: "5.md";
   slug: "5";
   body: string;
   collection: "helpcenter";
-  data: any
+  data: InferEntrySchema<"helpcenter">
 } & { render(): Render[".md"] };
 };
 "infopages": {
@@ -225,28 +225,28 @@ declare module 'astro:content' {
   slug: "bug-bounty";
   body: string;
   collection: "infopages";
-  data: any
+  data: InferEntrySchema<"infopages">
 } & { render(): Render[".md"] };
 "dpa.md": {
 	id: "dpa.md";
   slug: "dpa";
   body: string;
   collection: "infopages";
-  data: any
+  data: InferEntrySchema<"infopages">
 } & { render(): Render[".md"] };
 "privacy.md": {
 	id: "privacy.md";
   slug: "privacy";
   body: string;
   collection: "infopages";
-  data: any
+  data: InferEntrySchema<"infopages">
 } & { render(): Render[".md"] };
 "terms.md": {
 	id: "terms.md";
   slug: "terms";
   body: string;
   collection: "infopages";
-  data: any
+  data: InferEntrySchema<"infopages">
 } & { render(): Render[".md"] };
 };
 "integrations": {
@@ -255,42 +255,42 @@ declare module 'astro:content' {
   slug: "1";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "2.md": {
 	id: "2.md";
   slug: "2";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "3.md": {
 	id: "3.md";
   slug: "3";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "4.md": {
 	id: "4.md";
   slug: "4";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "5.md": {
 	id: "5.md";
   slug: "5";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 "6.md": {
 	id: "6.md";
   slug: "6";
   body: string;
   collection: "integrations";
-  data: any
+  data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 };
 "jobs": {
@@ -299,105 +299,105 @@ declare module 'astro:content' {
   slug: "bol-saas-bdr-id-bf0938";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "bola-jr-software-engineer-id-bf8921.md": {
 	id: "bola-jr-software-engineer-id-bf8921.md";
   slug: "bola-jr-software-engineer-id-bf8921";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "bola-lead-software-engineer-id-bf9821.md": {
 	id: "bola-lead-software-engineer-id-bf9821.md";
   slug: "bola-lead-software-engineer-id-bf9821";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "bola-saas-ae-id-bf-3293.md": {
 	id: "bola-saas-ae-id-bf-3293.md";
   slug: "bola-saas-ae-id-bf-3293";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "bola-software-engineer-id-bd9423.md": {
 	id: "bola-software-engineer-id-bd9423.md";
   slug: "bola-software-engineer-id-bd9423";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "bols-vp-software-engineering-id-bf4328.md": {
 	id: "bols-vp-software-engineering-id-bf4328.md";
   slug: "bols-vp-software-engineering-id-bf4328";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-ae-finance-idbd8942.md": {
 	id: "tr-ae-finance-idbd8942.md";
   slug: "tr-ae-finance-idbd8942";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-contract-admin-id-mf8590.md": {
 	id: "tr-contract-admin-id-mf8590.md";
   slug: "tr-contract-admin-id-mf8590";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-cypress-account-executive-idbf8931.md": {
 	id: "tr-cypress-account-executive-idbf8931.md";
   slug: "tr-cypress-account-executive-idbf8931";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-doc-specialist-id-bf8402.md": {
 	id: "tr-doc-specialist-id-bf8402.md";
   slug: "tr-doc-specialist-id-bf8402";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-efae-idhr8933.md": {
 	id: "tr-efae-idhr8933.md";
   slug: "tr-efae-idhr8933";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-fort-worth-aeef-idbf74881.md": {
 	id: "tr-fort-worth-aeef-idbf74881.md";
   slug: "tr-fort-worth-aeef-idbf74881";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-houston-aeef-idyt7477.md": {
 	id: "tr-houston-aeef-idyt7477.md";
   slug: "tr-houston-aeef-idyt7477";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-ibanking-idtu4892.md": {
 	id: "tr-ibanking-idtu4892.md";
   slug: "tr-ibanking-idtu4892";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 "tr-vp-ibank-idny8492.md": {
 	id: "tr-vp-ibank-idny8492.md";
   slug: "tr-vp-ibank-idny8492";
   body: string;
   collection: "jobs";
-  data: any
+  data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
 };
 "posts": {
@@ -406,63 +406,63 @@ declare module 'astro:content' {
   slug: "10-high-paying-sales-jobs-you-can-get-without-a-degree";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "common-employee-benefits-in-orange-county-ca-private-sector.md": {
 	id: "common-employee-benefits-in-orange-county-ca-private-sector.md";
   slug: "common-employee-benefits-in-orange-county-ca-private-sector";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "how-to-implement-structured-json-ld-for-google-jobs.md": {
 	id: "how-to-implement-structured-json-ld-for-google-jobs.md";
   slug: "how-to-implement-structured-json-ld-for-google-jobs";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "software-engineer-careers-orange-county.md": {
 	id: "software-engineer-careers-orange-county.md";
   slug: "software-engineer-careers-orange-county";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "software-engineer-internships-orange-county.md": {
 	id: "software-engineer-internships-orange-county.md";
   slug: "software-engineer-internships-orange-county";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "software-engineer-jobs-orange-county.md": {
 	id: "software-engineer-jobs-orange-county.md";
   slug: "software-engineer-jobs-orange-county";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "software-engineer-salary-orange-county.md": {
 	id: "software-engineer-salary-orange-county.md";
   slug: "software-engineer-salary-orange-county";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "software-engineering-positions-orange-county.md": {
 	id: "software-engineering-positions-orange-county.md";
   slug: "software-engineering-positions-orange-county";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 "when-to-follow-up-with-a-recruiter.md": {
 	id: "when-to-follow-up-with-a-recruiter.md";
   slug: "when-to-follow-up-with-a-recruiter";
   body: string;
   collection: "posts";
-  data: any
+  data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
 };
 
@@ -474,5 +474,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../../src/content/config.js");
 }

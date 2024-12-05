@@ -153,3 +153,43 @@ npm run index-jobs
 - Monitor Search Console for job indexing status
 
 Would you like me to explain any part in more detail?
+
+
+
+
+
+Vercel error: https://vercel.com/guides/serverless-function-contains-invalid-runtime-error
+
+Yes, the plan remains the same even though the error message is older. Here's why:
+You're running Node 20.17.0 locally, but your previous successful deployment was likely built with Node 18 by default on Vercel
+The safest plan is still:
+
+# Create .nvmrc to lock the version
+echo "18.19.0" > .nvmrc
+
+# Switch to Node 18
+nvm install 18
+nvm use 18
+
+Why this makes sense:
+Your project was working on Vercel hours ago (likely with Node 18)
+Node 18 is still fully supported until 2025
+This matches Vercel's recommended runtime
+No code changes needed
+Easily reversible
+After switching:
+Clear your node_modules and package-lock.json
+
+rm -rf node_modules package-lock.json
+npm install
+
+install
+2. Then redeploy on Vercel
+This should get you back to a working state without any risk, since we know it was working hours ago with (presumably) Node 18.
+
+getting this error: 
+
+nvm install 18
+nvm use 18
+zsh: command not found: nvm
+zsh: command not found: nvm
