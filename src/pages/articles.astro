@@ -5,7 +5,8 @@ import { getCollection } from "astro:content";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 
 import EntriesOne from "@/components/blog/EntriesOne.astro";
-import CtaOne from "@/components/cta/CtaOne.astro";
+import CtaTwo from "@/components/cta/CtaTwo.astro";
+import CtaWack from "@/components/cta/CtaWack.astro";
 
 
 
@@ -17,8 +18,8 @@ const sortedPosts = allPosts.sort((a, b) =>
 
 );
 
-const pageTitle = "Guides and Articles on Electrician Work";
-const pageDescription = "Commercial, Residential, and Industrial Electricians. Fire Alarm, Controls, Security, Solar, Voice/Data, and Audio/Visual Job & Articles.";
+const pageTitle = "Articles on Recruiting in Orange County";
+const pageDescription = "Read our articles on recruiting in Orange County to learn more about our services and recruiting strategies.";
 ---
 
 <BaseLayout title={pageTitle} description={pageDescription}>
@@ -29,14 +30,14 @@ const pageDescription = "Commercial, Residential, and Industrial Electricians. F
 
     <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-24">
       <span class="text-sm uppercase font-medium tracking-wide text-blue-600 "
-          >Best Electrician Jobs</span
+          >Tustin Recruiting</span
         >
         <h1
           class="text-purple-900 font-semibold mt-6 text-4xl lg:text-5xl tracking-tight">
-          The Best Electrician Jobs Articles
+          Tustin Recruiting Articles
         </h1>
         <p class="text-slate-500 mt-5 lg:text-pretty">
-          Commercial, Residential, and Industrial Electricians. Fire Alarm, Controls, Security, Solar, Voice/Data, and Audio/Visual Jobs.
+          We share our knowledge and insights on recruiting in Orange County. Learn more about what works and the best recruiting strategies.
         </p>
         <div class="mt-10 flex gap-4 mb-24">
           <a
@@ -88,7 +89,8 @@ const pageDescription = "Commercial, Residential, and Industrial Electricians. F
     </div>
 
   </section>
-  <CtaOne />
+  <CtaTwo />
+  <CtaWack />
 </BaseLayout>
 
 
