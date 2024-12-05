@@ -327,7 +327,7 @@ class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-24">
 
         <div class="pt-4 flex">
           <button
-            id="openModal"
+            id="openModal2"
             class="text-white items-center font-medium gap-3 inline-flex focus-visible:outline-2 focus-visible:outline-offset-2 focus:outline-none justify-center px-6 lg:px-8 ring-2 ring-transparent focus:ring-offset-2 focus:ring-blue-500 duration-200 py-3.5 rounded-full active:bg-blue-800 active:text-white bg-blue-500 hover:bg-blue-600 w-full"
           >
             Apply now
@@ -363,17 +363,18 @@ class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-24">
   // Add modal triggers
   const openButton = document.getElementById('openModal');
   const openBottomButton = document.getElementById('openModalBottom');
+  const openButton2 = document.getElementById('openModal2');
   const modal = document.getElementById('applicationModal') as HTMLDialogElement;
 
-  // Handle top button click
-  openButton?.addEventListener('click', () => {
-    modal.showModal();
-  });
+  // Function to handle modal open
+  const openModal = () => {
+    modal?.showModal();
+  };
 
-  // Handle bottom button click
-  openBottomButton?.addEventListener('click', () => {
-    modal.showModal();
-  });
+  // Handle all button clicks
+  openButton?.addEventListener('click', openModal);
+  openBottomButton?.addEventListener('click', openModal);
+  openButton2?.addEventListener('click', openModal);
 
   // Copy link functionality
   const copyButton = document.getElementById('copyLink');
