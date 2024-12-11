@@ -413,6 +413,34 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-react-native-engineer-los angeles-reac-c6qpok.md": {
+	id: "tr-react-native-engineer-los angeles-reac-c6qpok.md";
+  slug: "tr-react-native-engineer-los-angeles-reac-c6qpok";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-react-native-engineer-san diego-reac-6vitbw.md": {
+	id: "tr-react-native-engineer-san diego-reac-6vitbw.md";
+  slug: "tr-react-native-engineer-san-diego-reac-6vitbw";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-react-native-engineer-san francisco-reac-oxwwul.md": {
+	id: "tr-react-native-engineer-san francisco-reac-oxwwul.md";
+  slug: "tr-react-native-engineer-san-francisco-reac-oxwwul";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-react-native-engineer-san jose-reac-qj7jll.md": {
+	id: "tr-react-native-engineer-san jose-reac-qj7jll.md";
+  slug: "tr-react-native-engineer-san-jose-reac-qj7jll";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-vp-ibank-idny8492.md": {
 	id: "tr-vp-ibank-idny8492.md";
   slug: "tr-vp-ibank-idny8492";
