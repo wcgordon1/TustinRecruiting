@@ -1,57 +1,59 @@
 ---
-position: "Junior Software Engineer"
+position: Junior Software Engineer
+description: >-
+  Bola AI is hiring a **Junior Software Engineer** to join our dynamic team in
+  **Tustin, CA**. As part of our on-site engineering team, you will contribute
+  to the development of cutting-edge Voice-AI solutions that are transforming
+  dental practices nationwide. This is a fantastic opportunity to grow your
+  career, work with innovative technology, and be part of a collaborative and
+  passionate team.
 
-#description
-description: "Bola AI is hiring a **Junior Software Engineer** to join our dynamic team in **Tustin, CA**. As part of our on-site engineering team, you will contribute to the development of cutting-edge Voice-AI solutions that are transforming dental practices nationwide. This is a fantastic opportunity to grow your career, work with innovative technology, and be part of a collaborative and passionate team.
+  Responsibilities - Assist in the development, testing, and maintenance of
+  software applications. - Collaborate with senior engineers to implement new
+  features and resolve technical issues. - Write clean, efficient, and
+  well-documented code. - Participate in code reviews to ensure quality and
+  adherence to best practices. - Support the integration of new technologies and
+  tools to improve development processes. - Debug and troubleshoot software
+  issues in a timely manner. - Work closely with product managers and designers
+  to meet project goals.
 
- Responsibilities
-- Assist in the development, testing, and maintenance of software applications.
-- Collaborate with senior engineers to implement new features and resolve technical issues.
-- Write clean, efficient, and well-documented code.
-- Participate in code reviews to ensure quality and adherence to best practices.
-- Support the integration of new technologies and tools to improve development processes.
-- Debug and troubleshoot software issues in a timely manner.
-- Work closely with product managers and designers to meet project goals.
-
- Qualifications
-- Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
-- Proficiency in JavaScript and experience with the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- Familiarity with version control systems (e.g., Git) and Agile development methodologies.
-- Basic understanding of RESTful APIs and database design principles.
-- Strong problem-solving skills and a willingness to learn new technologies.
-- Excellent communication and teamwork abilities."
-
-#start of info
-
-location: "Irvine, CA"
-team: "Artificial Intelligence"
-datePosted: "2024-12-04T04:19:00Z"
-validThrough: "2025-03-04T03:59:00Z"
-employmentType: "FULL_TIME"
-hiringOrganization: 
-  name: "Bola AI"
-  sameAs: "https://bola.ai/"
-  logo: "/images/bola.png"
+  Qualifications - Bachelor’s degree in Computer Science, Software Engineering,
+  or a related field (or equivalent experience). - Proficiency in JavaScript and
+  experience with the MERN stack (MongoDB, Express.js, React.js, Node.js). -
+  Familiarity with version control systems (e.g., Git) and Agile development
+  methodologies. - Basic understanding of RESTful APIs and database design
+  principles. - Strong problem-solving skills and a willingness to learn new
+  technologies. - Excellent communication and teamwork abilities.
+location: 'Irvine, CA'
+team: Artificial Intelligence
+datePosted: '2024-12-09T05:16:56Z'
+validThrough: '2025-02-07T05:16:56Z'
+employmentType: FULL_TIME
+hiringOrganization:
+  name: Bola AI
+  sameAs: 'https://bola.ai/'
+  logo: /images/bola.png
 jobLocation:
-  streetAddress: "18000 Von Karman Ave"
-  # City
-  addressLocality: "Irvine"
-  # State
-  addressRegion: "CA"
-  postalCode: "92618"
-  addressCountry: "USA"
+  streetAddress: 18000 Von Karman Ave
+  addressLocality: Irvine
+  addressRegion: CA
+  postalCode: '92618'
+  addressCountry: USA
 baseSalary:
-  currency: "USD"
+  currency: USD
   value: 90000
   minValue: 90000
   maxValue: 100000
-  unitText: "YEAR"
-experienceRequirements: "seniorLevel"
-occupationalCategory: "Software Engineering"
+  unitText: YEAR
+experienceRequirements: seniorLevel
+occupationalCategory: Software Engineering
 identifier:
-  name: "Bola AI"
-  value: "bf8921"   
-email: ['hello@tustinrecruiting.com', 'john@tustinrecruiting.com', 'manatal.119+candidate@mail.manatal.com']
+  name: Bola AI
+  value: bf8921
+email:
+  - hello@tustinrecruiting.com
+  - john@tustinrecruiting.com
+  - manatal.119+candidate@mail.manatal.com
 featured: true
 ---
 

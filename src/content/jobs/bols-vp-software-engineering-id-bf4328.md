@@ -1,40 +1,43 @@
 ---
-position: "VP Software Engineering"
-
-#description
-description: "Bola AI is seeking a visionary and experienced **Vice President of Software Engineering** to lead our innovative engineering team in **Huntington Beach, CA**. As a key member of our leadership team, you will drive the strategic direction of our software development efforts, overseeing the creation of cutting-edge Voice-AI solutions that are transforming dental practices across the United States. This hybrid role offers the flexibility to work remotely part-time while collaborating on-site with a dynamic and talented team"
-
-#start of info
-
-location: "Huntington Beach, CA"
-team: "Artificial Intelligence"
-datePosted: "2024-12-04T02:21:00Z"
-validThrough: "2025-03-04T00:00:00Z"
-employmentType: "FULL_TIME"
-hiringOrganization: 
-  name: "Bola AI"
-  sameAs: "https://bola.ai/"
-  logo: "/images/bola.png"
+position: VP Software Engineering
+description: >-
+  Bola AI is seeking a visionary and experienced **Vice President of Software
+  Engineering** to lead our innovative engineering team in **Huntington Beach,
+  CA**. As a key member of our leadership team, you will drive the strategic
+  direction of our software development efforts, overseeing the creation of
+  cutting-edge Voice-AI solutions that are transforming dental practices across
+  the United States. This hybrid role offers the flexibility to work remotely
+  part-time while collaborating on-site with a dynamic and talented team
+location: 'Huntington Beach, CA'
+team: Artificial Intelligence
+datePosted: '2024-12-08T05:16:56Z'
+validThrough: '2025-02-06T05:16:56Z'
+employmentType: FULL_TIME
+hiringOrganization:
+  name: Bola AI
+  sameAs: 'https://bola.ai/'
+  logo: /images/bola.png
 jobLocation:
-  streetAddress: "20000 Beach Blvd"
-  # City
-  addressLocality: "Huntington Beach"
-  # State
-  addressRegion: "CA"
-  postalCode: "92647"
-  addressCountry: "USA"
+  streetAddress: 20000 Beach Blvd
+  addressLocality: Huntington Beach
+  addressRegion: CA
+  postalCode: '92647'
+  addressCountry: USA
 baseSalary:
-  currency: "USD"
+  currency: USD
   value: 160000
   minValue: 165000
   maxValue: 180000
-  unitText: "YEAR"
-experienceRequirements: "seniorLevel"
-occupationalCategory: "Software Engineering"
+  unitText: YEAR
+experienceRequirements: seniorLevel
+occupationalCategory: Software Engineering
 identifier:
-  name: "Bola AI"
-  value: "bf4328"   
-email: ['hello@tustinrecruiting.com', 'john@tustinrecruiting.com', 'manatal.119+candidate@mail.manatal.com']
+  name: Bola AI
+  value: bf4328
+email:
+  - hello@tustinrecruiting.com
+  - john@tustinrecruiting.com
+  - manatal.119+candidate@mail.manatal.com
 featured: false
 ---
 

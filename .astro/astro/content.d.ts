@@ -364,6 +364,13 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-ef-funding-manager-idbg0882.md": {
+	id: "tr-ef-funding-manager-idbg0882.md";
+  slug: "tr-ef-funding-manager-idbg0882";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-efae-idhr8933.md": {
 	id: "tr-efae-idhr8933.md";
   slug: "tr-efae-idhr8933";
@@ -378,6 +385,13 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-funding-paralegal-irvine-idbg0932.md": {
+	id: "tr-funding-paralegal-irvine-idbg0932.md";
+  slug: "tr-funding-paralegal-irvine-idbg0932";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-houston-aeef-idyt7477.md": {
 	id: "tr-houston-aeef-idyt7477.md";
   slug: "tr-houston-aeef-idyt7477";
@@ -388,6 +402,13 @@ declare module 'astro:content' {
 "tr-ibanking-idtu4892.md": {
 	id: "tr-ibanking-idtu4892.md";
   slug: "tr-ibanking-idtu4892";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-legal-documentation-idbd9023.md": {
+	id: "tr-legal-documentation-idbd9023.md";
+  slug: "tr-legal-documentation-idbd9023";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
