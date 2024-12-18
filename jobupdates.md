@@ -46,6 +46,17 @@ npm run create-jobs "Fire Alarm Technician"
 npm run create-varied-jobs
 
 
+# Update jobs from last 7 days
+npm run update-dates -- --days=7
+
+# Or specify a date range
+npm run update-dates -- --from="2024-01-01" --to="2024-01-15"
+
+
+git reset --hard
+git clean -fd
+
+
 
 git reset --hard
 git clean -fd
