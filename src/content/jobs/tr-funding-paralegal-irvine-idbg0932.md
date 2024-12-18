@@ -10,8 +10,8 @@ description: >-
   loan transactions.
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2024-12-09T01:16:02Z'
-validThrough: '2025-02-09T01:16:02Z'
+datePosted: '2024-12-16T13:32:39Z'
+validThrough: '2025-02-14T13:32:39Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

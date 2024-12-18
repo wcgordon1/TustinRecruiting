@@ -1,11 +1,17 @@
 ---
 position: Equipment Finance Funding Manager
 description: >-
-  We are seeking a driven and detail-oriented **Equipment Finance Funding Manager** to join a dynamic finance company specializing in middle-market equipment financing. Based in Lake Forest, CA, this on-site position offers a competitive salary range of $100,000 to $115,000 and the opportunity to play a pivotal role in managing funding processes for commercial equipment transactions. If you have a strong background in finance and a passion for optimizing transaction workflows, this role is perfect for you.
+  We are seeking a driven and detail-oriented **Equipment Finance Funding
+  Manager** to join a dynamic finance company specializing in middle-market
+  equipment financing. Based in Lake Forest, CA, this on-site position offers a
+  competitive salary range of $100,000 to $115,000 and the opportunity to play a
+  pivotal role in managing funding processes for commercial equipment
+  transactions. If you have a strong background in finance and a passion for
+  optimizing transaction workflows, this role is perfect for you.
 location: 'Lake Forest, CA'
 team: Equipment Finance
-datePosted: '2024-12-10T04:12:51Z'
-validThrough: '2025-02-08T04:12:51Z'
+datePosted: '2024-12-16T13:32:39Z'
+validThrough: '2025-02-14T13:32:39Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -28,8 +28,8 @@ description: >2-
   growing firm.
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2024-12-09T05:16:56Z'
-validThrough: '2025-02-07T05:16:56Z'
+datePosted: '2024-12-17T13:32:39Z'
+validThrough: '2025-02-15T13:32:39Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

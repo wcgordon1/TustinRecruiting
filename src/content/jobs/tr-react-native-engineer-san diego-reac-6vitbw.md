@@ -10,8 +10,8 @@ description: >-
   a robust Ecommerce iOS application using Re...
 location: 'San Diego, CA'
 team: Mobile
-datePosted: '2024-12-11T06:25:21.299Z'
-validThrough: '2025-02-09T06:25:21.299Z'
+datePosted: '2024-12-17T13:32:39Z'
+validThrough: '2025-02-15T13:32:39Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: RTRO

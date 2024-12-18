@@ -15,6 +15,7 @@ const jobSchema = {
   "@context": "https://schema.org/",
   "@type": "JobPosting",
   "title": frontmatter.position,
+  "directApply": true,
   "description": frontmatter.description,
   "identifier": {
     "@type": "PropertyValue",
@@ -44,6 +45,18 @@ const jobSchema = {
       //"value": frontmatter.baseSalary.value,
       "unitText": frontmatter.baseSalary.unitText
     }
+  },
+  "industry": ["Construction", "Electrical", frontmatter.occupationalCategory],
+  "physicalRequirements": [
+    "Sit for extended periods",
+    "Use keyboard and mouse for long periods",
+    `Perform general duties of ${frontmatter.occupationalCategory} work in the ${frontmatter.team} industry`
+  ],
+  "securityClearanceRequirement": `Background Check Required for ${frontmatter.occupationalCategory} work`,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "+1-949-436-7486",
+    "email": "hello@tustinrecruiting.com"
   }
 };
 ---

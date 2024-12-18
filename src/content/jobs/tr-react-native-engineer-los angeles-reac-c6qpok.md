@@ -10,8 +10,8 @@ description: >-
   influence a pioneering product in a dynamic startup se...
 location: 'Los Angeles, CA'
 team: Mobile
-datePosted: '2024-12-11T06:24:44.490Z'
-validThrough: '2025-02-09T06:24:44.490Z'
+datePosted: '2024-12-15T13:32:39Z'
+validThrough: '2025-02-13T13:32:39Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: RTRO

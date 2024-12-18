@@ -10,8 +10,8 @@ description: >-
   product in a fast-paced startup enviro...
 location: 'San Jose, CA'
 team: Mobile
-datePosted: '2024-12-11T06:25:42.425Z'
-validThrough: '2025-02-09T06:25:42.425Z'
+datePosted: '2024-12-15T13:32:39Z'
+validThrough: '2025-02-13T13:32:39Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: RTRO

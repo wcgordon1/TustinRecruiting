@@ -28,8 +28,8 @@ description: >-
   problem-solving and multitasking abilities. 
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2024-12-10T05:16:56Z'
-validThrough: '2025-02-08T05:16:56Z'
+datePosted: '2024-12-17T13:32:39Z'
+validThrough: '2025-02-15T13:32:39Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting
