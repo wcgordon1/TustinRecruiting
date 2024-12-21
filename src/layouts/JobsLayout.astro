@@ -46,12 +46,7 @@ const jobSchema = {
       "unitText": frontmatter.baseSalary.unitText
     }
   },
-  "industry": ["Construction", "Electrical", frontmatter.occupationalCategory],
-  "physicalRequirements": [
-    "Sit for extended periods",
-    "Use keyboard and mouse for long periods",
-    `Perform general duties of ${frontmatter.occupationalCategory} work in the ${frontmatter.team} industry`
-  ],
+  "industry": [frontmatter.team, frontmatter.occupationalCategory],
   "securityClearanceRequirement": `Background Check Required for ${frontmatter.occupationalCategory} work`,
   "applicationContact": {
     "@type": "ContactPoint",
