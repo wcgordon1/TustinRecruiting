@@ -48,7 +48,7 @@ identifier:
   value: SAAS-v3p38c
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: MarTech

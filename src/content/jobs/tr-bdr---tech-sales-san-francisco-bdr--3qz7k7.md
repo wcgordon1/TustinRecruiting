@@ -49,7 +49,7 @@ identifier:
   value: BDR -3qz7k7
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Healthcare Tech

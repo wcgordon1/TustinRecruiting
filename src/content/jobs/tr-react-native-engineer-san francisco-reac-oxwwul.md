@@ -36,7 +36,7 @@ identifier:
   value: REAC-oxwwul
 featured: true
 email:
-  - hello@tustinrecruiting.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 ---
 

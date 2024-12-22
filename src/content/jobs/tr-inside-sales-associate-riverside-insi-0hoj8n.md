@@ -58,7 +58,7 @@ identifier:
   value: INSI-0hoj8n
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Healthcare Tech

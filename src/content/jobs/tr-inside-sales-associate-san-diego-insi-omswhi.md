@@ -45,7 +45,7 @@ identifier:
   value: INSI-omswhi
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: SaaS

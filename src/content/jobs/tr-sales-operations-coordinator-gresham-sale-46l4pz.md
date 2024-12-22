@@ -60,7 +60,7 @@ identifier:
   value: SALE-46l4pz
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Healthcare Tech

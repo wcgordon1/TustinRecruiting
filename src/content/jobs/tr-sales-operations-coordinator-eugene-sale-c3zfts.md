@@ -48,7 +48,7 @@ identifier:
   value: SALE-c3zfts
 featured: true
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: MarTech

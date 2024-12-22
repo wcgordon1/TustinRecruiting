@@ -49,7 +49,7 @@ identifier:
   value: SALE-z644k5
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: MarTech

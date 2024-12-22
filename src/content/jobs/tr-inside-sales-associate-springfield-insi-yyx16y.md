@@ -46,7 +46,7 @@ identifier:
   value: INSI-yyx16y
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: MarTech

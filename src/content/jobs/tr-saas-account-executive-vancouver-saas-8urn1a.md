@@ -61,7 +61,7 @@ identifier:
   value: SAAS-8urn1a
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: SaaS

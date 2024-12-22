@@ -61,7 +61,7 @@ identifier:
   value: BDR -ucdv90
 featured: true
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Fintech

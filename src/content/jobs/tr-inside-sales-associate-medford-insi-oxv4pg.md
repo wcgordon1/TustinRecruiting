@@ -57,7 +57,7 @@ identifier:
   value: INSI-oxv4pg
 featured: true
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Security Software

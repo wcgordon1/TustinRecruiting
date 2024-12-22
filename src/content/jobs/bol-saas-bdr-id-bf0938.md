@@ -49,9 +49,8 @@ identifier:
   name: Bola AI
   value: bf0938
 email:
-  - hello@tustinrecruiting.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
-  - manatal.119+candidate@mail.manatal.com
 featured: true
 ---
 

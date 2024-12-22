@@ -75,7 +75,7 @@ identifier:
   value: INSI-j4i7m1
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: SaaS

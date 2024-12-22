@@ -46,7 +46,7 @@ identifier:
   value: INSI-v1jaud
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Fintech

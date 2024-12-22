@@ -36,7 +36,7 @@ identifier:
   value: REAC-6vitbw
 featured: false
 email:
-  - hello@tustinrecruiting.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 ---
 

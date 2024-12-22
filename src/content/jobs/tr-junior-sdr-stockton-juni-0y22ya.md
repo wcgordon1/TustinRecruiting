@@ -62,7 +62,7 @@ identifier:
   value: JUNI-0y22ya
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Healthcare Tech

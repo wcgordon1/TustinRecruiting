@@ -46,7 +46,7 @@ identifier:
   value: SALE-fd1sl3
 featured: true
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Security Software

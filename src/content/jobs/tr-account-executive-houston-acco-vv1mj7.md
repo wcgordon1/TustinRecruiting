@@ -48,7 +48,7 @@ identifier:
   value: ACCO-vv1mj7
 featured: true
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: SaaS

@@ -51,7 +51,7 @@ identifier:
   value: SAAS-3v0bmr
 featured: true
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: Security Software

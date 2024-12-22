@@ -77,7 +77,7 @@ identifier:
   value: SALE-962ovh
 featured: false
 email:
-  - will@bestelectricianjobs.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
 workEnvironment:
   type: MarTech

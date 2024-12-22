@@ -53,9 +53,8 @@ identifier:
   name: Tustin Recruiting
   value: bf8402
 email:
-  - hello@tustinrecruiting.com
+  - will@tustinrecruiting.com
   - john@tustinrecruiting.com
-  - manatal.119+candidate@mail.manatal.com
 featured: false
 ---
 
