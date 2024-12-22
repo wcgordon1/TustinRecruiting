@@ -1,11 +1,6 @@
 ---
 position: BDR - Tech Sales
 description: >-
-  # BDR - Tech Sales Position
-
-
-  ## Position Overview
-
   Join our dynamic team as a Business Development Representative (BDR) in the
   heart of Silicon Valley, San Jose, CA. Dive into the vibrant tech sales world
   within the MarTech ecosystem, working with cutting-edge marketing platforms,
@@ -81,10 +76,6 @@ trainingProgram:
 ---
 
 
-
-# BDR - Tech Sales Position
-
-## Position Overview
 Join our dynamic team as a Business Development Representative (BDR) in the heart of Silicon Valley, San Jose, CA. Dive into the vibrant tech sales world within the MarTech ecosystem, working with cutting-edge marketing platforms, analytics companies, and automation tools. As a vital member of our regional team of 10+ professionals, you'll leverage your skills and the latest technologies to drive business growth and foster meaningful client relationships. This is an exciting opportunity to kickstart your career with comprehensive training that hones your technical expertise.
 
 ## Key Responsibilities

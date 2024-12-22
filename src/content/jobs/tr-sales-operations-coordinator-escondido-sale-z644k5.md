@@ -1,9 +1,6 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  ## About the Role
-
-
   In the vibrant city of Escondido, where innovation meets classic Southern
   California charm, an emerging opportunity awaits a dedicated individual to
   join our team as a Sales Operations Coordinator. This role is tailored for
@@ -70,10 +67,6 @@ trainingProgram:
     - Business Communication
     - Time Management
 ---
-
-
-
-## About the Role
 
 In the vibrant city of Escondido, where innovation meets classic Southern California charm, an emerging opportunity awaits a dedicated individual to join our team as a Sales Operations Coordinator. This role is tailored for those who have a passion for integrating technology with sales strategies, particularly within the dynamic MarTech industry. Whether you're fresh out of college or bringing up to two years of experience to the table, your journey with us will be one of growth and discovery. Nestled within an organization that thrives on cutting-edge marketing platforms, analytics, and automation tools, you will orchestrate the symphony of sales operations that supports our mission to revolutionize marketing technology across the region.
 

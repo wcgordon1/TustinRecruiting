@@ -1,12 +1,6 @@
 ---
 position: Junior Account Executive
 description: >-
-  # Junior Account Executive Position
-
-
-  ## Position Overview
-
-
   Join our dynamic team in Murrieta, CA as a Junior Account Executive in the
   rapidly evolving field of healthcare technology. We are looking for a
   motivated individual to help us expand our presence in digital health
@@ -82,11 +76,6 @@ trainingProgram:
     - Social Selling Techniques
 ---
 
-
-
-# Junior Account Executive Position
-
-## Position Overview
 
 Join our dynamic team in Murrieta, CA as a Junior Account Executive in the rapidly evolving field of healthcare technology. We are looking for a motivated individual to help us expand our presence in digital health platforms, medical software, and healthcare analytics. You will be part of a collaborative 10+ person regional team, working with innovative technologies and contributing to the transformation of the healthcare industry. This position offers flexible hours and requires regular travel to nearby major cities, providing you with an engaging and varied work schedule.
 

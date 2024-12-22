@@ -1,12 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  # Inside Sales Associate
-
-
-  ## Position Overview
-
-
   Join our dynamic team as an Inside Sales Associate in Bakersfield, CA, where
   you'll play a pivotal role in driving the growth of our cybersecurity software
   solutions. You will be part of an innovative environment focused on identity
@@ -73,11 +67,6 @@ trainingProgram:
     - Competitive Intelligence
 ---
 
-
-
-# Inside Sales Associate
-
-## Position Overview
 
 Join our dynamic team as an Inside Sales Associate in Bakersfield, CA, where you'll play a pivotal role in driving the growth of our cybersecurity software solutions. You will be part of an innovative environment focused on identity management and cloud security, contributing directly to the success of our customers. This role offers the chance to work across multiple project teams during the second shift from 2:00 PM to 10:30 PM, providing an excellent work-life balance for driven professionals.
 

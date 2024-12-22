@@ -1,9 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  ## Position Overview
-
-
   Situated in the bustling tech hub of Bellevue, WA, our company is seeking a
   dynamic Inside Sales Associate to join our innovative fintech environment. As
   an Inside Sales Associate, you will play a pivotal role in driving the growth
@@ -68,9 +65,6 @@ trainingProgram:
     - Time Management
 ---
 
-
-
-## Position Overview
 
 Situated in the bustling tech hub of Bellevue, WA, our company is seeking a dynamic Inside Sales Associate to join our innovative fintech environment. As an Inside Sales Associate, you will play a pivotal role in driving the growth of our digital banking and payment processing solutions. Reporting to the sales director, you will work alongside multiple project teams, collaborating to craft tailored sales strategies and optimize client engagement. Your schedule will follow a first shift, from 6:00 AM to 2:30 PM, allowing you to engage with clients across various time zones effectively. Regular travel to nearby major cities offers the opportunity to expand your professional network and deepen customer relationships.
 

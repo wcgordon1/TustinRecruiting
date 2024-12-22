@@ -1,11 +1,6 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  # Sales Operations Coordinator
-
-
-  ## Position Overview
-
   Join our dynamic team in Gresham, OR, as a Sales Operations Coordinator, where
   you're positioned at the crossroads of innovation in the healthcare tech
   industry. This role is crafted for those eager to propel digital health
@@ -84,9 +79,6 @@ trainingProgram:
     - Competitive Intelligence
 ---
 
-
-
-# Sales Operations Coordinator
 
 ## Position Overview
 Join our dynamic team in Gresham, OR, as a Sales Operations Coordinator, where you're positioned at the crossroads of innovation in the healthcare tech industry. This role is crafted for those eager to propel digital health platforms, medical software, and healthcare analytics to new heights. As a Sales Operations Coordinator, you'll navigate a hybrid work environment, engaging with multiple project teams to optimize sales processes and support strategic initiatives on the second shift (2:00 PM - 10:30 PM).

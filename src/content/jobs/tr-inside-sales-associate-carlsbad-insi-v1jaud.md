@@ -1,11 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  # Inside Sales Associate - Carlsbad, CA
-
-
-  ## Position Overview
-
   Join our dynamic team as an Inside Sales Associate in the vibrant fintech hub
   of Carlsbad, CA. If you're looking to thrive in the fast-paced world of
   financial services and digital banking, and are passionate about leveraging
@@ -71,10 +66,6 @@ trainingProgram:
 ---
 
 
-
-# Inside Sales Associate - Carlsbad, CA
-
-## Position Overview
 Join our dynamic team as an Inside Sales Associate in the vibrant fintech hub of Carlsbad, CA. If you're looking to thrive in the fast-paced world of financial services and digital banking, and are passionate about leveraging cutting-edge technology to drive sales, we want you on our team. As an Inside Sales Associate, you'll work across multiple project teams to connect with prospective clients and provide tailored solutions that meet their needs.
 
 ## Key Responsibilities

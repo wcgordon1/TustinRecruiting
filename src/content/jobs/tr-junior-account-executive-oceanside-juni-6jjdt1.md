@@ -1,10 +1,6 @@
 ---
 position: Junior Account Executive
 description: >-
-  # Junior Account Executive
-
-
-  ## Position Overview
 
   Join our dynamic team as a Junior Account Executive in Oceanside, CA, where
   healthcare technology meets innovative solutions. Our company specializes in
@@ -84,9 +80,6 @@ trainingProgram:
 
 
 
-# Junior Account Executive
-
-## Position Overview
 Join our dynamic team as a Junior Account Executive in Oceanside, CA, where healthcare technology meets innovative solutions. Our company specializes in digital health platforms, medical software, and healthcare analytics. As a crucial player in our team, you will be responsible for leading a team of 4-6 technicians, ensuring smooth operations and delivering exceptional results in a fast-paced second shift (2:00 PM - 10:30 PM). This role requires travel within a 30-mile radius of our home base to meet client needs and enhance strategic relationships.
 
 ## Key Responsibilities

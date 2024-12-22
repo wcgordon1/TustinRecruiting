@@ -1,12 +1,6 @@
 ---
 position: Junior SDR
 description: >-
-  ```markdown
-
-  # Junior Sales Development Representative (SDR) - Corvallis, OR
-
-
-  ## Position Overview
 
   Join our dynamic team in Corvallis, OR, as a Junior Sales Development
   Representative within the fast-paced world of cybersecurity. As a Junior SDR,
@@ -82,11 +76,6 @@ trainingProgram:
     - Competitive Intelligence
 ---
 
-
-
-```markdown
-# Junior Sales Development Representative (SDR) - Corvallis, OR
-
 ## Position Overview
 Join our dynamic team in Corvallis, OR, as a Junior Sales Development Representative within the fast-paced world of cybersecurity. As a Junior SDR, you'll be an integral part of a specialized team, working to bridge the gap between potential clients and our robust security solutions. Whether you're just starting your career or looking to build on foundational experience, this role offers a unique opportunity to develop your skills in the technology sector. You'll operate within the first shift from 6:00 AM to 2:30 PM, providing substantial work-life balance while engaging in impactful industry activities.
 
@@ -121,4 +110,3 @@ Join our dynamic team in Corvallis, OR, as a Junior Sales Development Representa
 - Network with industry professionals and expand your expertise in the thriving tech community of Corvallis, OR.
 
 Join us in this exciting role where you can grow your career while contributing to the cutting-edge field of cybersecurity. Corvallis is a hub for technological advancement, and we are committed to empowering our teams to excel in this dynamic environment.
-```

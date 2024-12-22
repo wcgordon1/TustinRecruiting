@@ -1,11 +1,6 @@
 ---
 position: Junior Account Executive
 description: >-
-  # Junior Account Executive
-
-
-  ## Position Overview
-
   Join our dynamic team in the heart of Anaheim, CA, as a Junior Account
   Executive. Our organization operates at the forefront of MarTech, offering
   innovative solutions across marketing platforms, analytics, and automation
@@ -71,10 +66,6 @@ trainingProgram:
 ---
 
 
-
-# Junior Account Executive
-
-## Position Overview
 Join our dynamic team in the heart of Anaheim, CA, as a Junior Account Executive. Our organization operates at the forefront of MarTech, offering innovative solutions across marketing platforms, analytics, and automation tools. We seek a driven individual to lead a team of 4-6 technicians, empowering them to deliver exceptional results. In this role, you'll thrive in a fast-paced environment, leveraging cutting-edge technology to drive growth and success. With a commitment to continuous learning and development, we offer you the perfect platform to advance your career in the tech industry.
 
 ## Key Responsibilities

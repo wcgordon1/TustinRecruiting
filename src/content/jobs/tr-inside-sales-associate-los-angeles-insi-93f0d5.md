@@ -1,9 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  # Inside Sales Associate - Fintech Industry
-
-
   **Location:** Los Angeles, CA  
 
   **Schedule:** First Shift (6:00 AM - 2:30 PM)  
@@ -80,9 +77,6 @@ trainingProgram:
     - Competitive Intelligence
 ---
 
-
-
-# Inside Sales Associate - Fintech Industry
 
 **Location:** Los Angeles, CA  
 **Schedule:** First Shift (6:00 AM - 2:30 PM)  

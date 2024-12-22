@@ -1,9 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  # Inside Sales Associate
-
-
   Located in the vibrant city of Riverside, CA, our company is seeking an
   enthusiastic and dedicated Inside Sales Associate to join our dynamic
   healthcare tech team. As a key player in a specialized group, you'll work with
@@ -80,9 +77,6 @@ trainingProgram:
     - Social Selling Techniques
 ---
 
-
-
-# Inside Sales Associate
 
 Located in the vibrant city of Riverside, CA, our company is seeking an enthusiastic and dedicated Inside Sales Associate to join our dynamic healthcare tech team. As a key player in a specialized group, you'll work with cutting-edge digital health platforms, medical software, and healthcare analytics solutions. This role offers the opportunity to thrive in a forward-thinking environment while contributing significantly to the success of our innovative products.
 

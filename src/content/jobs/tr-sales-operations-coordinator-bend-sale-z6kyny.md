@@ -1,20 +1,6 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  # Sales Operations Coordinator
-
-
-  **Location:** Bend, OR  
-
-  **Schedule:** First Shift (6:00 AM - 2:30 PM)  
-
-  **Travel:** Up to 100-mile radius  
-
-  **Work Environment:** MarTech  
-
-
-  ## Position Overview
-
 
   Join our dynamic team in Bend, OR as a Sales Operations Coordinator, where you
   will play a pivotal role in optimizing our sales processes across multiple
@@ -89,10 +75,6 @@ trainingProgram:
     - Market Analysis
     - Competitive Intelligence
 ---
-
-
-
-# Sales Operations Coordinator
 
 **Location:** Bend, OR  
 **Schedule:** First Shift (6:00 AM - 2:30 PM)  

@@ -1,12 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  # Inside Sales Associate - Springfield, OR
-
-
-  ## Position Overview
-
-
   Join a dynamic and innovative team as an Inside Sales Associate in
   Springfield, OR. We are a leading company in the MarTech industry,
   specializing in marketing platforms, analytics, and automation tools. As a key
@@ -71,11 +65,6 @@ trainingProgram:
     - Business Intelligence Tools
 ---
 
-
-
-# Inside Sales Associate - Springfield, OR
-
-## Position Overview
 
 Join a dynamic and innovative team as an Inside Sales Associate in Springfield, OR. We are a leading company in the MarTech industry, specializing in marketing platforms, analytics, and automation tools. As a key player on our 10+ person regional team, you will drive sales and contribute to our company's success. Work within a technology-focused environment where your passion for sales and expertise in cutting-edge tools will propel your career to new heights. This role operates during the second shift (2:00 PM - 10:30 PM) and demands a highly motivated and tech-savvy individual.
 

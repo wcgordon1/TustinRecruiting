@@ -1,12 +1,6 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  # Sales Operations Coordinator
-
-
-  ## Position Overview
-
-
   Join our dynamic team as a Sales Operations Coordinator in beautiful Temecula,
   CA. In this role, you will support and optimize our sales efforts within a
   rapidly evolving SaaS environment, focusing on enterprise software, cloud
@@ -84,11 +78,6 @@ trainingProgram:
     - Competitive Intelligence
 ---
 
-
-
-# Sales Operations Coordinator
-
-## Position Overview
 
 Join our dynamic team as a Sales Operations Coordinator in beautiful Temecula, CA. In this role, you will support and optimize our sales efforts within a rapidly evolving SaaS environment, focusing on enterprise software, cloud platforms, and B2B tech solutions. You will lead a team of 4-6 skilled technicians, leveraging cutting-edge tools and technologies to drive sales strategies, streamline operations, and enhance our customer engagement. Your role will involve occasional travel within a 100-mile radius to foster relationships and ensure operational excellence.
 

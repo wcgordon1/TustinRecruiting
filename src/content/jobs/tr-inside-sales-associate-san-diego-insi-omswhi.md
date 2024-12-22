@@ -1,13 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  ```markdown
-
-  # Inside Sales Associate - San Diego, CA
-
-
-  ## Position Overview
-
   Join our dynamic team in the vibrant tech hub of San Diego as an Inside Sales
   Associate. We are seeking a driven individual with a passion for SaaS and
   enterprise software solutions. As part of our specialized team, you'll pl...
@@ -72,11 +65,6 @@ trainingProgram:
 ---
 
 
-
-```markdown
-# Inside Sales Associate - San Diego, CA
-
-## Position Overview
 Join our dynamic team in the vibrant tech hub of San Diego as an Inside Sales Associate. We are seeking a driven individual with a passion for SaaS and enterprise software solutions. As part of our specialized team, you'll play a key role in connecting with clients and expanding our footprint in the B2B technology sector. This is a unique opportunity to grow your career with a company that values innovation, collaboration, and customer success. 
 
 ## Key Responsibilities
@@ -115,4 +103,3 @@ Join our dynamic team in the vibrant tech hub of San Diego as an Inside Sales As
 - Participate in regular workshops and conferences in the San Diego area to stay ahead of industry trends and network with key players.
 
 Join our forward-thinking sales team and contribute to our success story while accelerating your professional growth in one of California's most innovative cities.
-```

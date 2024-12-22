@@ -1,11 +1,6 @@
 ---
 position: Junior Account Executive
 description: >-
-  # Junior Account Executive
-
-
-  ## Position Overview
-
   Join a dynamic cybersecurity team in Santa Rosa, CA, where innovation meets
   security. As a Junior Account Executive, you will play a pivotal role in
   driving growth and supporting our mission to secure digital identities and
@@ -83,10 +78,6 @@ trainingProgram:
 ---
 
 
-
-# Junior Account Executive
-
-## Position Overview
 Join a dynamic cybersecurity team in Santa Rosa, CA, where innovation meets security. As a Junior Account Executive, you will play a pivotal role in driving growth and supporting our mission to secure digital identities and cloud infrastructure. With flexible hours and a collaborative work environment, this position offers the perfect balance between career advancement and personal life. Embrace the opportunity to work across multiple project teams and make a significant impact in the tech-heavy region of Santa Rosa, known for its thriving innovation hub.
 
 ## Key Responsibilities

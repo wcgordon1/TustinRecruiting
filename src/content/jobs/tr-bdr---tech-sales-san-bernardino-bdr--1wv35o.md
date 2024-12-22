@@ -1,11 +1,6 @@
 ---
 position: BDR - Tech Sales
 description: >-
-  # BDR - Tech Sales Position
-
-
-  ## Position Overview
-
   Join our dynamic tech sales team in San Bernardino, CA, as a Business
   Development Representative (BDR). Dive into the fast-paced world of
   cybersecurity, identity management, and cloud security as a crucial member of
@@ -71,10 +66,6 @@ trainingProgram:
 ---
 
 
-
-# BDR - Tech Sales Position
-
-## Position Overview
 Join our dynamic tech sales team in San Bernardino, CA, as a Business Development Representative (BDR). Dive into the fast-paced world of cybersecurity, identity management, and cloud security as a crucial member of our specialized 3-5 person team. This is an exceptional entry-level opportunity that requires 0-1 years of experience, perfect for those ready to make an impact from the ground up. With a schedule from 6:00 AM to 2:30 PM, you'll have the chance to work during the first shift, allowing you to engage with clients effectively and efficiently within a 100-mile radius.
 
 ## Key Responsibilities

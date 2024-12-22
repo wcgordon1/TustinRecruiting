@@ -1,11 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  # Inside Sales Associate
-
-
-  ## Position Overview
-
   Join our dynamic team as an Inside Sales Associate, where you will play a
   pivotal role in driving revenue growth within the fintech landscape. Based in
   Lancaster, CA, this position offers an exciting opportunity to work across
@@ -73,10 +68,6 @@ trainingProgram:
 ---
 
 
-
-# Inside Sales Associate
-
-## Position Overview
 Join our dynamic team as an Inside Sales Associate, where you will play a pivotal role in driving revenue growth within the fintech landscape. Based in Lancaster, CA, this position offers an exciting opportunity to work across multiple project teams in the fast-paced financial services sector, focusing on payment processors and digital banking solutions. As a crucial link between our products and clients, you will leverage cutting-edge technology to identify and engage prospective customers. Enjoy the blend of autonomy and collaboration while working standard business hours. Explore the chances for professional growth in an industry that is transforming financial services.
 
 ## Key Responsibilities

@@ -1,12 +1,6 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  # Sales Operations Coordinator
-
-
-  ## Position Overview
-
-
   Join a dynamic and rapidly-growing security software firm based in Irvine, CA,
   as a Sales Operations Coordinator. Our team is focused on revolutionizing the
   cybersecurity landscape through innovative identity management and cloud
@@ -71,11 +65,6 @@ trainingProgram:
     - Social Selling Techniques
 ---
 
-
-
-# Sales Operations Coordinator
-
-## Position Overview
 
 Join a dynamic and rapidly-growing security software firm based in Irvine, CA, as a Sales Operations Coordinator. Our team is focused on revolutionizing the cybersecurity landscape through innovative identity management and cloud security solutions. As part of a specialized 3-5 person team, you will collaborate and support sales efforts during the second shift (2:00 PM - 10:30 PM), helping us connect with customers and drive sales success. Your role will involve optimizing sales processes through cutting-edge technology, enhancing team efficiency, and ensuring seamless operations.
 

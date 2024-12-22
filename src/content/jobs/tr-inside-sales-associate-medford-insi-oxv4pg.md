@@ -1,9 +1,6 @@
 ---
 position: Inside Sales Associate
 description: >-
-  # Inside Sales Associate Position
-
-
   **Location:** Medford, OR  
 
   **Schedule:** Second Shift (2:00 PM - 10:30 PM)  
@@ -79,9 +76,6 @@ trainingProgram:
     - Social Selling Techniques
 ---
 
-
-
-# Inside Sales Associate Position
 
 **Location:** Medford, OR  
 **Schedule:** Second Shift (2:00 PM - 10:30 PM)  

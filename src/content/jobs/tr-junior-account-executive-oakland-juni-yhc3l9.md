@@ -1,12 +1,6 @@
 ---
 position: Junior Account Executive
 description: >-
-  # Junior Account Executive
-
-
-  ## Position Overview
-
-
   Join the forefront of the tech industry in Oakland, CA as a Junior Account
   Executive, where you'll have the chance to work with leading SaaS and
   enterprise software companies. This role offers a dynamic and flexible work
@@ -72,10 +66,6 @@ trainingProgram:
 ---
 
 
-
-# Junior Account Executive
-
-## Position Overview
 
 Join the forefront of the tech industry in Oakland, CA as a Junior Account Executive, where you'll have the chance to work with leading SaaS and enterprise software companies. This role offers a dynamic and flexible work schedule, tailored to suit the fast-paced environment of cloud platforms and B2B tech companies. As a key member of our 10+ person regional team, you will engage in regular travel to nearby major cities, expanding your professional network and industry knowledge. This is a fantastic position for someone eager to grow in the tech sector, leveraging their skills in a vibrant and thriving market.
 
