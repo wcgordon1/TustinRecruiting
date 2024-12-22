@@ -45,6 +45,8 @@ npm run create-jobs "Fire Alarm Technician"
 # Create varied jobs based on amount in const. 
 npm run create-varied-jobs
 
+npm run create-mobile-jobs
+
 
 # Update jobs from last 7 days
 npm run update-dates -- --days=7

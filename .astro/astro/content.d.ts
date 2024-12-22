@@ -350,6 +350,34 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-ai-product-manager-long-beach-ai-p-2ta7dg.md": {
+	id: "tr-ai-product-manager-long-beach-ai-p-2ta7dg.md";
+  slug: "tr-ai-product-manager-long-beach-ai-p-2ta7dg";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-ai-product-manager-oceanside-ai-p-h4drdh.md": {
+	id: "tr-ai-product-manager-oceanside-ai-p-h4drdh.md";
+  slug: "tr-ai-product-manager-oceanside-ai-p-h4drdh";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-ai-product-manager-san-diego-ai-p-qo41be.md": {
+	id: "tr-ai-product-manager-san-diego-ai-p-qo41be.md";
+  slug: "tr-ai-product-manager-san-diego-ai-p-qo41be";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-ai-product-manager-santa-ana-ai-p-auwn12.md": {
+	id: "tr-ai-product-manager-santa-ana-ai-p-auwn12.md";
+  slug: "tr-ai-product-manager-santa-ana-ai-p-auwn12";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-bdr---tech-sales-auburn-bdr--ucdv90.md": {
 	id: "tr-bdr---tech-sales-auburn-bdr--ucdv90.md";
   slug: "tr-bdr---tech-sales-auburn-bdr--ucdv90";
@@ -441,6 +469,83 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-channel-partner-manager-buena-park-chan-rw864f.md": {
+	id: "tr-channel-partner-manager-buena-park-chan-rw864f.md";
+  slug: "tr-channel-partner-manager-buena-park-chan-rw864f";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-channel-partner-manager-costa-mesa-chan-wusr37.md": {
+	id: "tr-channel-partner-manager-costa-mesa-chan-wusr37.md";
+  slug: "tr-channel-partner-manager-costa-mesa-chan-wusr37";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-channel-partner-manager-el-monte-chan-xgiryx.md": {
+	id: "tr-channel-partner-manager-el-monte-chan-xgiryx.md";
+  slug: "tr-channel-partner-manager-el-monte-chan-xgiryx";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-channel-partner-manager-huntington-beach-chan-saykhf.md": {
+	id: "tr-channel-partner-manager-huntington-beach-chan-saykhf.md";
+  slug: "tr-channel-partner-manager-huntington-beach-chan-saykhf";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-channel-partner-manager-santa-clarita-chan-5sltwg.md": {
+	id: "tr-channel-partner-manager-santa-clarita-chan-5sltwg.md";
+  slug: "tr-channel-partner-manager-santa-clarita-chan-5sltwg";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-channel-partner-manager-santa-monica-chan-uepxe7.md": {
+	id: "tr-channel-partner-manager-santa-monica-chan-uepxe7.md";
+  slug: "tr-channel-partner-manager-santa-monica-chan-uepxe7";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-computer-vision-engineer-garden-grove-comp-svehku.md": {
+	id: "tr-computer-vision-engineer-garden-grove-comp-svehku.md";
+  slug: "tr-computer-vision-engineer-garden-grove-comp-svehku";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-computer-vision-engineer-hawthorne-comp-isevxa.md": {
+	id: "tr-computer-vision-engineer-hawthorne-comp-isevxa.md";
+  slug: "tr-computer-vision-engineer-hawthorne-comp-isevxa";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-computer-vision-engineer-inglewood-comp-jiessn.md": {
+	id: "tr-computer-vision-engineer-inglewood-comp-jiessn.md";
+  slug: "tr-computer-vision-engineer-inglewood-comp-jiessn";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-computer-vision-engineer-pasadena-comp-5olgvu.md": {
+	id: "tr-computer-vision-engineer-pasadena-comp-5olgvu.md";
+  slug: "tr-computer-vision-engineer-pasadena-comp-5olgvu";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-computer-vision-engineer-pomona-comp-f0qucf.md": {
+	id: "tr-computer-vision-engineer-pomona-comp-f0qucf.md";
+  slug: "tr-computer-vision-engineer-pomona-comp-f0qucf";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-contract-admin-id-mf8590.md": {
 	id: "tr-contract-admin-id-mf8590.md";
   slug: "tr-contract-admin-id-mf8590";
@@ -451,6 +556,48 @@ declare module 'astro:content' {
 "tr-cypress-account-executive-idbf8931.md": {
 	id: "tr-cypress-account-executive-idbf8931.md";
   slug: "tr-cypress-account-executive-idbf8931";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-devops-engineer-carson-devo-wajb04.md": {
+	id: "tr-devops-engineer-carson-devo-wajb04.md";
+  slug: "tr-devops-engineer-carson-devo-wajb04";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-devops-engineer-fullerton-devo-lu3b6k.md": {
+	id: "tr-devops-engineer-fullerton-devo-lu3b6k.md";
+  slug: "tr-devops-engineer-fullerton-devo-lu3b6k";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-devops-engineer-mission-viejo-devo-wgtogl.md": {
+	id: "tr-devops-engineer-mission-viejo-devo-wgtogl.md";
+  slug: "tr-devops-engineer-mission-viejo-devo-wgtogl";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-devops-engineer-newport-beach-devo-8uiykn.md": {
+	id: "tr-devops-engineer-newport-beach-devo-8uiykn.md";
+  slug: "tr-devops-engineer-newport-beach-devo-8uiykn";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-devops-engineer-norwalk-devo-4j6z37.md": {
+	id: "tr-devops-engineer-norwalk-devo-4j6z37.md";
+  slug: "tr-devops-engineer-norwalk-devo-4j6z37";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-devops-engineer-orange-devo-8515rx.md": {
+	id: "tr-devops-engineer-orange-devo-8515rx.md";
+  slug: "tr-devops-engineer-orange-devo-8515rx";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -476,9 +623,51 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-enterprise-account-executive-anaheim-ente-ebvt68.md": {
+	id: "tr-enterprise-account-executive-anaheim-ente-ebvt68.md";
+  slug: "tr-enterprise-account-executive-anaheim-ente-ebvt68";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-fort-worth-aeef-idbf74881.md": {
 	id: "tr-fort-worth-aeef-idbf74881.md";
   slug: "tr-fort-worth-aeef-idbf74881";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-full-stack-developer-bellflower-full-o0v5sv.md": {
+	id: "tr-full-stack-developer-bellflower-full-o0v5sv.md";
+  slug: "tr-full-stack-developer-bellflower-full-o0v5sv";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-full-stack-developer-burbank-full-dth9fa.md": {
+	id: "tr-full-stack-developer-burbank-full-dth9fa.md";
+  slug: "tr-full-stack-developer-burbank-full-dth9fa";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-full-stack-developer-chula-vista-full-eec20g.md": {
+	id: "tr-full-stack-developer-chula-vista-full-eec20g.md";
+  slug: "tr-full-stack-developer-chula-vista-full-eec20g";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-full-stack-developer-downey-full-6ln2gd.md": {
+	id: "tr-full-stack-developer-downey-full-6ln2gd.md";
+  slug: "tr-full-stack-developer-downey-full-6ln2gd";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-full-stack-developer-tustin-full-o0c3u5.md": {
+	id: "tr-full-stack-developer-tustin-full-o0c3u5.md";
+  slug: "tr-full-stack-developer-tustin-full-o0c3u5";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -616,6 +805,20 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-it-operations-specialist-compton-it-o-hegzwo.md": {
+	id: "tr-it-operations-specialist-compton-it-o-hegzwo.md";
+  slug: "tr-it-operations-specialist-compton-it-o-hegzwo";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-it-operations-specialist-west-covina-it-o-4zlkhr.md": {
+	id: "tr-it-operations-specialist-west-covina-it-o-4zlkhr.md";
+  slug: "tr-it-operations-specialist-west-covina-it-o-4zlkhr";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-junior-account-executive-anaheim-juni-bb6k02.md": {
 	id: "tr-junior-account-executive-anaheim-juni-bb6k02.md";
   slug: "tr-junior-account-executive-anaheim-juni-bb6k02";
@@ -728,6 +931,20 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-lead-ios-developer-houston-lead-uyr5c1.md": {
+	id: "tr-lead-ios-developer-houston-lead-uyr5c1.md";
+  slug: "tr-lead-ios-developer-houston-lead-uyr5c1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-lead-ios-developer-san-diego-lead-ahsmn1.md": {
+	id: "tr-lead-ios-developer-san-diego-lead-ahsmn1.md";
+  slug: "tr-lead-ios-developer-san-diego-lead-ahsmn1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-legal-documentation-idbd9023.md": {
 	id: "tr-legal-documentation-idbd9023.md";
   slug: "tr-legal-documentation-idbd9023";
@@ -735,9 +952,93 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-machine-learning-engineer-lake-forest-mach-2hunlf.md": {
+	id: "tr-machine-learning-engineer-lake-forest-mach-2hunlf.md";
+  slug: "tr-machine-learning-engineer-lake-forest-mach-2hunlf";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-machine-learning-engineer-palmdale-mach-l96e0w.md": {
+	id: "tr-machine-learning-engineer-palmdale-mach-l96e0w.md";
+  slug: "tr-machine-learning-engineer-palmdale-mach-l96e0w";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-mobile-app-developer-glendale-mobi-ukf2nt.md": {
+	id: "tr-mobile-app-developer-glendale-mobi-ukf2nt.md";
+  slug: "tr-mobile-app-developer-glendale-mobi-ukf2nt";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-mobile-app-developer-lakewood-mobi-dkwzwq.md": {
+	id: "tr-mobile-app-developer-lakewood-mobi-dkwzwq.md";
+  slug: "tr-mobile-app-developer-lakewood-mobi-dkwzwq";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-mobile-app-developer-whittier-mobi-v6458w.md": {
+	id: "tr-mobile-app-developer-whittier-mobi-v6458w.md";
+  slug: "tr-mobile-app-developer-whittier-mobi-v6458w";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-mobile-architecture-lead-philadelphia-mobi-6281nk.md": {
+	id: "tr-mobile-architecture-lead-philadelphia-mobi-6281nk.md";
+  slug: "tr-mobile-architecture-lead-philadelphia-mobi-6281nk";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-mobile-devops-engineer-dallas-mobi-2w0yz1.md": {
+	id: "tr-mobile-devops-engineer-dallas-mobi-2w0yz1.md";
+  slug: "tr-mobile-devops-engineer-dallas-mobi-2w0yz1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-mobile-devops-engineer-jacksonville-mobi-1o5rjt.md": {
+	id: "tr-mobile-devops-engineer-jacksonville-mobi-1o5rjt.md";
+  slug: "tr-mobile-devops-engineer-jacksonville-mobi-1o5rjt";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-react-native-engineer-columbus-reac-uni01s.md": {
+	id: "tr-react-native-engineer-columbus-reac-uni01s.md";
+  slug: "tr-react-native-engineer-columbus-reac-uni01s";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-react-native-engineer-los angeles-reac-c6qpok.md": {
 	id: "tr-react-native-engineer-los angeles-reac-c6qpok.md";
   slug: "tr-react-native-engineer-los-angeles-reac-c6qpok";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-react-native-engineer-los-angeles-reac-7cbgxv.md": {
+	id: "tr-react-native-engineer-los-angeles-reac-7cbgxv.md";
+  slug: "tr-react-native-engineer-los-angeles-reac-7cbgxv";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-react-native-engineer-new-york-city-reac-3lgxgx.md": {
+	id: "tr-react-native-engineer-new-york-city-reac-3lgxgx.md";
+  slug: "tr-react-native-engineer-new-york-city-reac-3lgxgx";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-react-native-engineer-new-york-city-reac-qlz098.md": {
+	id: "tr-react-native-engineer-new-york-city-reac-qlz098.md";
+  slug: "tr-react-native-engineer-new-york-city-reac-qlz098";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -759,6 +1060,13 @@ declare module 'astro:content' {
 "tr-react-native-engineer-san jose-reac-qj7jll.md": {
 	id: "tr-react-native-engineer-san jose-reac-qj7jll.md";
   slug: "tr-react-native-engineer-san-jose-reac-qj7jll";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-react-native-engineer-san-antonio-reac-plx4sn.md": {
+	id: "tr-react-native-engineer-san-antonio-reac-plx4sn.md";
+  slug: "tr-react-native-engineer-san-antonio-reac-plx4sn";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -920,6 +1228,97 @@ declare module 'astro:content' {
 "tr-sales-operations-coordinator-yakima-sale-962ovh.md": {
 	id: "tr-sales-operations-coordinator-yakima-sale-962ovh.md";
   slug: "tr-sales-operations-coordinator-yakima-sale-962ovh";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-sales-operations-manager-irvine-sale-we4sai.md": {
+	id: "tr-sales-operations-manager-irvine-sale-we4sai.md";
+  slug: "tr-sales-operations-manager-irvine-sale-we4sai";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-sales-operations-manager-los-angeles-sale-bob5ij.md": {
+	id: "tr-sales-operations-manager-los-angeles-sale-bob5ij.md";
+  slug: "tr-sales-operations-manager-los-angeles-sale-bob5ij";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-sales-operations-manager-torrance-sale-mj601p.md": {
+	id: "tr-sales-operations-manager-torrance-sale-mj601p.md";
+  slug: "tr-sales-operations-manager-torrance-sale-mj601p";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-sales-operations-manager-westminster-sale-pkfh7k.md": {
+	id: "tr-sales-operations-manager-westminster-sale-pkfh7k.md";
+  slug: "tr-sales-operations-manager-westminster-sale-pkfh7k";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-senior-ios-engineer-austin-seni-lr7g9g.md": {
+	id: "tr-senior-ios-engineer-austin-seni-lr7g9g.md";
+  slug: "tr-senior-ios-engineer-austin-seni-lr7g9g";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-senior-ios-engineer-chicago-seni-nwivx8.md": {
+	id: "tr-senior-ios-engineer-chicago-seni-nwivx8.md";
+  slug: "tr-senior-ios-engineer-chicago-seni-nwivx8";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-senior-ios-engineer-fort-worth-seni-elvsci.md": {
+	id: "tr-senior-ios-engineer-fort-worth-seni-elvsci.md";
+  slug: "tr-senior-ios-engineer-fort-worth-seni-elvsci";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-senior-ios-engineer-new-york-city-seni-yishvx.md": {
+	id: "tr-senior-ios-engineer-new-york-city-seni-yishvx.md";
+  slug: "tr-senior-ios-engineer-new-york-city-seni-yishvx";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-senior-ios-engineer-phoenix-seni-j1mvei.md": {
+	id: "tr-senior-ios-engineer-phoenix-seni-j1mvei.md";
+  slug: "tr-senior-ios-engineer-phoenix-seni-j1mvei";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-senior-mobile-application-developer-san-jose-seni-qxkv96.md": {
+	id: "tr-senior-mobile-application-developer-san-jose-seni-qxkv96.md";
+  slug: "tr-senior-mobile-application-developer-san-jose-seni-qxkv96";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-systems-administrator-lancaster-syst-x91j6u.md": {
+	id: "tr-systems-administrator-lancaster-syst-x91j6u.md";
+  slug: "tr-systems-administrator-lancaster-syst-x91j6u";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-systems-administrator-los-angeles-syst-n6jyp0.md": {
+	id: "tr-systems-administrator-los-angeles-syst-n6jyp0.md";
+  slug: "tr-systems-administrator-los-angeles-syst-n6jyp0";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-technical-support-engineer-alhambra-tech-zjslb7.md": {
+	id: "tr-technical-support-engineer-alhambra-tech-zjslb7.md";
+  slug: "tr-technical-support-engineer-alhambra-tech-zjslb7";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">

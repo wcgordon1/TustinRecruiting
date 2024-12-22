@@ -14,7 +14,8 @@
     "create-jobs": "node scripts/create-jobs.js",
     "create-varied-jobs": "node scripts/create-varied-jobs.js",
     "create-similar-jobs": "node scripts/create-similar-jobs.js",
-    "update-emails": "node scripts/update-emails.js"
+    "update-emails": "node scripts/update-emails.js",
+    "create-mobile-jobs": "node scripts/create-mobile-jobs.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",
