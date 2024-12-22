@@ -10,8 +10,8 @@ description: >-
   Ecommerce iOS application with React Native. - Work h...
 location: 'San Francisco, CA'
 team: Mobile
-datePosted: '2024-12-16T13:32:39Z'
-validThrough: '2025-02-14T13:32:39Z'
+datePosted: '2024-12-21T00:49:53.668Z'
+validThrough: '2025-01-27T00:49:53.668Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: RTRO

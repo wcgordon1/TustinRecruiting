@@ -10,8 +10,8 @@ description: >-
   optimizing transaction workflows, this role is perfect for you.
 location: 'Lake Forest, CA'
 team: Equipment Finance
-datePosted: '2024-12-16T13:32:39Z'
-validThrough: '2025-02-14T13:32:39Z'
+datePosted: '2024-12-20T23:42:22.785Z'
+validThrough: '2025-02-02T23:42:22.785Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -23,8 +23,8 @@ description: >-
   environment.
 location: 'Irvine, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-16T13:32:39Z'
-validThrough: '2025-02-14T13:32:39Z'
+datePosted: '2024-12-20T19:20:39.416Z'
+validThrough: '2025-01-24T19:20:39.416Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

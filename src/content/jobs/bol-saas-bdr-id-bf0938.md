@@ -24,8 +24,8 @@ description: >-
   Salesforce or HubSpot is advantageous.
 location: 'Irvine, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-17T13:32:39Z'
-validThrough: '2025-02-15T13:32:39Z'
+datePosted: '2024-12-20T17:38:32.390Z'
+validThrough: '2025-01-23T17:38:32.390Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

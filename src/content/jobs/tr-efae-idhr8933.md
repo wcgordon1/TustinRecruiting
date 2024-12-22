@@ -43,8 +43,8 @@ description: >-
   insurance and pension plan.
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2024-12-15T13:32:39Z'
-validThrough: '2025-02-13T13:32:39Z'
+datePosted: '2024-12-21T20:04:06.339Z'
+validThrough: '2025-02-02T20:04:06.339Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

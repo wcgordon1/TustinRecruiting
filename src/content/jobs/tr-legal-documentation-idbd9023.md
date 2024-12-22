@@ -9,8 +9,8 @@ description: >-
   opportunity to make an impact in a dynamic and growing organization.
 location: 'Anaheim Hills, CA'
 team: Equipment Finance
-datePosted: '2024-12-16T13:32:39Z'
-validThrough: '2025-02-14T13:32:39Z'
+datePosted: '2024-12-22T01:40:35.357Z'
+validThrough: '2025-01-22T01:40:35.357Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

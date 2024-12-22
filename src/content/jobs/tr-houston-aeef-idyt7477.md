@@ -42,8 +42,8 @@ description: >-
   professional development.
 location: 'Houston, TX'
 team: Equipment Finance
-datePosted: '2024-12-15T13:32:39Z'
-validThrough: '2025-02-13T13:32:39Z'
+datePosted: '2024-12-20T15:17:50.491Z'
+validThrough: '2025-01-22T15:17:50.491Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

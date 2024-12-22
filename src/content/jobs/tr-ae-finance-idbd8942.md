@@ -39,8 +39,8 @@ description: >-
   Pension plan and additional performance incentives.
 location: 'Anaheim, CA'
 team: Equipment Finance
-datePosted: '2024-12-17T13:32:39Z'
-validThrough: '2025-02-15T13:32:39Z'
+datePosted: '2024-12-20T22:54:50.529Z'
+validThrough: '2025-01-30T22:54:50.529Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting
