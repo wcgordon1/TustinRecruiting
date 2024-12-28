@@ -20,8 +20,8 @@ benefits:
   - 401k Match
   - Performance Bonuses
   - Tool Allowance
-datePosted: '2024-12-21T18:52:10.073Z'
-validThrough: '2025-02-01T18:52:10.073Z'
+datePosted: '2024-12-28T15:20:17.983Z'
+validThrough: '2025-02-07T15:20:17.983Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

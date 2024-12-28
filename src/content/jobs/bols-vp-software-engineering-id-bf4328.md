@@ -10,8 +10,8 @@ description: >-
   part-time while collaborating on-site with a dynamic and talented team
 location: 'Huntington Beach, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-21T04:04:51.123Z'
-validThrough: '2025-02-02T04:04:51.123Z'
+datePosted: '2024-12-28T14:49:45.626Z'
+validThrough: '2025-02-10T14:49:45.626Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

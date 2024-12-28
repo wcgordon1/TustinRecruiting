@@ -26,8 +26,8 @@ description: >-
   self-starter with excellent organizational skills and attention to detail.   
 location: 'Newport Beach, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-21T16:39:31.170Z'
-validThrough: '2025-01-31T16:39:31.170Z'
+datePosted: '2024-12-28T17:01:24.917Z'
+validThrough: '2025-01-28T17:01:24.917Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

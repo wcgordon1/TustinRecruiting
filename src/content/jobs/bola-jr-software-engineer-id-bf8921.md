@@ -26,8 +26,8 @@ description: >-
   technologies. - Excellent communication and teamwork abilities.
 location: 'Irvine, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-21T17:54:30.203Z'
-validThrough: '2025-01-23T17:54:30.203Z'
+datePosted: '2024-12-28T14:58:05.874Z'
+validThrough: '2025-01-27T14:58:05.874Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

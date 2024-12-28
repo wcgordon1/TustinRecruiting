@@ -26,8 +26,8 @@ benefits:
   - 401k Match
   - Quarterly Bonuses
   - Vehicle Allowance
-datePosted: '2024-12-21T01:04:57.490Z'
-validThrough: '2025-01-24T01:04:57.490Z'
+datePosted: '2024-12-28T16:19:37.548Z'
+validThrough: '2025-02-09T16:19:37.548Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

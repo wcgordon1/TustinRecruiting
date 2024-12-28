@@ -31,8 +31,8 @@ description: >-
   Clear pathways for career advancement in a growing company.
 location: 'Fort Worth, TX'
 team: Equipment Finance
-datePosted: '2024-12-21T19:33:26.077Z'
-validThrough: '2025-02-01T19:33:26.077Z'
+datePosted: '2024-12-28T16:42:43.202Z'
+validThrough: '2025-02-06T16:42:43.202Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

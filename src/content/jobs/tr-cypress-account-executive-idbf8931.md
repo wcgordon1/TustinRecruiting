@@ -42,8 +42,8 @@ description: >-
   professional development.
 location: 'Cypress, TX'
 team: Equipment Finance
-datePosted: '2024-12-20T23:28:46.983Z'
-validThrough: '2025-01-29T23:28:46.983Z'
+datePosted: '2024-12-28T14:01:58.585Z'
+validThrough: '2025-02-01T14:01:58.585Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

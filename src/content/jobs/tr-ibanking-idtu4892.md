@@ -35,8 +35,8 @@ description: >-
   Career growth opportunities within a leading financial advisory team.
 location: 'Tustin, CA'
 team: Equipment Finance
-datePosted: '2024-12-21T16:44:54.127Z'
-validThrough: '2025-01-21T16:44:54.127Z'
+datePosted: '2024-12-28T12:58:07.828Z'
+validThrough: '2025-02-02T12:58:07.828Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

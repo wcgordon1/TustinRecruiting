@@ -28,8 +28,8 @@ description: >-
   Excellent communication and collaboration skills.
 location: 'Santa Ana, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-21T15:38:49.377Z'
-validThrough: '2025-01-26T15:38:49.377Z'
+datePosted: '2024-12-28T11:15:49.110Z'
+validThrough: '2025-01-31T11:15:49.110Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI
