@@ -45,7 +45,7 @@ baseSalary:
   value: 148634
   minValue: 143840
   maxValue: 153429
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: seniorLevel
 occupationalCategory: AI
 identifier:

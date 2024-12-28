@@ -40,7 +40,7 @@ baseSalary:
   value: 70829
   minValue: 62330
   maxValue: 79329
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: juniorLevel
 occupationalCategory: Sales
 identifier:

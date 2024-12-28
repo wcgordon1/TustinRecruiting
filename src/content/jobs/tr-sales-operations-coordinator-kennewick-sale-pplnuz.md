@@ -50,7 +50,7 @@ baseSalary:
   value: 50577
   minValue: 46831
   maxValue: 54324
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: entryLevel
 occupationalCategory: Sales
 identifier:

@@ -62,3 +62,22 @@ git clean -fd
 
 git reset --hard
 git clean -fd
+
+
+npm run notify-content-updates -- --from="2024-12-18" --to="2024-12-22"
+
+## npm run update-oldest
+
+Update the jobs
+Create scripts/recently-updated-jobs.json
+Show you which files were updated
+After pushing to production and waiting for the site to rebuild, run:
+
+## npm run notify-updated
+
+npm run create-varied-jobs
+
+
+npm run index-recent-jobs -- -limit=100
+
+npm run list-jobs

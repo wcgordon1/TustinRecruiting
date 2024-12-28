@@ -46,7 +46,7 @@ baseSalary:
   value: 92487
   minValue: 80630
   maxValue: 104344
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: seniorLevel
 occupationalCategory: Sales
 identifier:

@@ -43,7 +43,7 @@ baseSalary:
   value: 91741
   minValue: 81548
   maxValue: 101935
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: midLevel
 occupationalCategory: Sales
 identifier:

@@ -43,7 +43,7 @@ baseSalary:
   value: 88793
   minValue: 78927
   maxValue: 98659
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: midLevel
 occupationalCategory: Sales
 identifier:
@@ -118,7 +118,7 @@ While not required, the following qualifications are highly desirable:
 
 Our company offers a competitive compensation package designed to support your well-being and work-life balance:
 
-- **Benefits Tier**: Standard Plus, which includes comprehensive health, dental, and vision insurance.
+- **Benefits Tier**: Comprehensive health, dental, and vision insurance.
 - Generous paid time off and holidays.
 - 401(k) with company match.
 - Opportunities for continuous learning and development.

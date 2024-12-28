@@ -56,7 +56,7 @@ baseSalary:
   value: 74542
   minValue: 64603
   maxValue: 84481
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: midLevel
 occupationalCategory: IT
 identifier:

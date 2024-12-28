@@ -55,7 +55,7 @@ baseSalary:
   value: 115067
   minValue: 101259
   maxValue: 128875
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: seniorLevel
 occupationalCategory: Engineering
 identifier:

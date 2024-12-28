@@ -15,7 +15,13 @@
     "create-varied-jobs": "node scripts/create-varied-jobs.js",
     "create-similar-jobs": "node scripts/create-similar-jobs.js",
     "update-emails": "node scripts/update-emails.js",
-    "create-mobile-jobs": "node scripts/create-mobile-jobs.js"
+    "create-mobile-jobs": "node scripts/create-mobile-jobs.js",
+    "notify-content-updates": "node scripts/notify-content-updates.js",
+    "update-salary-unit": "node scripts/update-salary-unit.js",
+    "update-oldest": "node scripts/update-oldest-jobs.js",
+    "notify-updated": "node scripts/notify-updated-jobs.js",
+    "list-jobs": "node scripts/list-jobs.js",
+    "fix-team-name": "node scripts/fix-team-name.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",

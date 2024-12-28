@@ -43,7 +43,7 @@ baseSalary:
   value: 110386
   minValue: 93215
   maxValue: 127558
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: midLevel
 occupationalCategory: Engineering
 identifier:

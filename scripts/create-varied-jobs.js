@@ -1,502 +1,364 @@
-const OpenAI = require('openai');
+#!/usr/bin/env node
 const path = require('node:path');
 const fs = require('node:fs');
 const matter = require('gray-matter');
+const OpenAI = require('openai');
 
 require('dotenv').config({ 
-  path: path.resolve(__dirname, 'config/.env.local')
+  path: path.join(__dirname, 'config', '.env.local')
 });
+
+if (!process.env.OPENAI_API_KEY) {
+  console.error('Error: OPENAI_API_KEY not found in scripts/config/.env.local file');
+  process.exit(1);
+}
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY
 });
 
-const LOCATIONS = [
-  { city: 'Downey', state: 'CA', zipCode: '90241', county: 'Los Angeles' },
-  { city: 'Inglewood', state: 'CA', zipCode: '90301', county: 'Los Angeles' },
-  { city: 'West Covina', state: 'CA', zipCode: '91790', county: 'Los Angeles' },
-  { city: 'Norwalk', state: 'CA', zipCode: '90650', county: 'Los Angeles' },
-  { city: 'Burbank', state: 'CA', zipCode: '91502', county: 'Los Angeles' },
-  { city: 'Compton', state: 'CA', zipCode: '90220', county: 'Los Angeles' },
-  { city: 'Carson', state: 'CA', zipCode: '90745', county: 'Los Angeles' },
-  { city: 'Santa Monica', state: 'CA', zipCode: '90401', county: 'Los Angeles' },
-  { city: 'Whittier', state: 'CA', zipCode: '90602', county: 'Los Angeles' },
-  { city: 'Hawthorne', state: 'CA', zipCode: '90250', county: 'Los Angeles' },
-  { city: 'Alhambra', state: 'CA', zipCode: '91801', county: 'Los Angeles' },
-  { city: 'Lakewood', state: 'CA', zipCode: '90712', county: 'Los Angeles' },
-  { city: 'Bellflower', state: 'CA', zipCode: '90706', county: 'Los Angeles' },
-
-  // Orange County
-  { city: 'Anaheim', state: 'CA', zipCode: '92805', county: 'Orange' },
-  { city: 'Santa Ana', state: 'CA', zipCode: '92701', county: 'Orange' },
-  { city: 'Irvine', state: 'CA', zipCode: '92612', county: 'Orange' },
-  { city: 'Huntington Beach', state: 'CA', zipCode: '92648', county: 'Orange' },
-  { city: 'Garden Grove', state: 'CA', zipCode: '92840', county: 'Orange' },
-  { city: 'Orange', state: 'CA', zipCode: '92868', county: 'Orange' },
-  { city: 'Fullerton', state: 'CA', zipCode: '92832', county: 'Orange' },
-  { city: 'Costa Mesa', state: 'CA', zipCode: '92626', county: 'Orange' },
-  { city: 'Mission Viejo', state: 'CA', zipCode: '92691', county: 'Orange' },
-  { city: 'Westminster', state: 'CA', zipCode: '92683', county: 'Orange' },
-  { city: 'Newport Beach', state: 'CA', zipCode: '92660', county: 'Orange' },
-  { city: 'Buena Park', state: 'CA', zipCode: '90620', county: 'Orange' },
-  { city: 'Lake Forest', state: 'CA', zipCode: '92630', county: 'Orange' },
-  { city: 'Tustin', state: 'CA', zipCode: '92780', county: 'Orange' },
-
-
-  // San Diego County
-  { city: 'San Diego', state: 'CA', zipCode: '92101', county: 'San Diego' },
-  { city: 'Chula Vista', state: 'CA', zipCode: '91910', county: 'San Diego' },
-  { city: 'Oceanside', state: 'CA', zipCode: '92054', county: 'San Diego' },
-  { city: 'Escondido', state: 'CA', zipCode: '92025', county: 'San Diego' },
-  { city: 'Carlsbad', state: 'CA', zipCode: '92008', county: 'San Diego' },
-  { city: 'El Cajon', state: 'CA', zipCode: '92020', county: 'San Diego' },
-  { city: 'Vista', state: 'CA', zipCode: '92084', county: 'San Diego' },
-  { city: 'San Marcos', state: 'CA', zipCode: '92069', county: 'San Diego' },
-  { city: 'Encinitas', state: 'CA', zipCode: '92024', county: 'San Diego' },
-  { city: 'National City', state: 'CA', zipCode: '91950', county: 'San Diego' },
-  { city: 'La Mesa', state: 'CA', zipCode: '91942', county: 'San Diego' },
-  { city: 'Santee', state: 'CA', zipCode: '92071', county: 'San Diego' },
-  { city: 'Poway', state: 'CA', zipCode: '92064', county: 'San Diego' }
-];
-
-const TEAMS = ['Commercial'];
-
 const JOB_TYPES = {
-  // B2B Sales Roles
-  'Enterprise Account Executive': {
-    minValue: 75000,
-    maxValue: 95000,
-    experienceLevel: 'midLevel',
-    category: 'Sales',
-    yearsExperience: '3-5',
-    prompt: 'Create a job description for an Enterprise Account Executive role focusing on B2B software sales, managing large enterprise accounts, and complex sales cycles.'
-  },
-  'Sales Operations Manager': {
-    minValue: 85000,
-    maxValue: 110000,
-    experienceLevel: 'seniorLevel',
-    category: 'Sales',
-    yearsExperience: '5-7',
-    prompt: 'Create a job description for a Sales Operations Manager overseeing sales processes, CRM management, and sales analytics for a B2B tech company.'
-  },
-  'Channel Partner Manager': {
-    minValue: 80000,
-    maxValue: 100000,
-    experienceLevel: 'midLevel',
-    category: 'Sales',
-    yearsExperience: '4-6',
-    prompt: 'Create a job description for a Channel Partner Manager focused on developing and managing B2B partnerships and reseller relationships.'
-  },
-
-  // Software Roles
-  'Full Stack Developer': {
-    minValue: 95000,
-    maxValue: 130000,
-    experienceLevel: 'midLevel',
-    category: 'Engineering',
-    yearsExperience: '3-5',
-    prompt: 'Create a job description for a Remote Full Stack Developer working with React, Node.js, and cloud technologies in a modern development environment.'
-  },
-  'DevOps Engineer': {
-    minValue: 110000,
-    maxValue: 140000,
-    experienceLevel: 'seniorLevel',
-    category: 'Engineering',
-    yearsExperience: '4-7',
-    prompt: 'Create a job description for a Remote DevOps Engineer focusing on CI/CD, infrastructure as code, and cloud platform management.'
-  },
-  'Mobile App Developer': {
-    minValue: 90000,
-    maxValue: 125000,
-    experienceLevel: 'midLevel',
-    category: 'Engineering',
-    yearsExperience: '3-6',
-    prompt: 'Create a job description for a Remote Mobile App Developer specializing in React Native and cross-platform development.'
-  },
-
-  // AI Roles
-  'Machine Learning Engineer': {
-    minValue: 150000,
-    maxValue: 160000,
-    experienceLevel: 'seniorLevel',
-    category: 'AI',
-    yearsExperience: '4-7',
-    prompt: 'Create a job description for a Remote Machine Learning Engineer focusing on model development, deployment, and MLOps practices.'
-  },
-  'AI Product Manager': {
-    minValue: 140000,
-    maxValue: 150000,
-    experienceLevel: 'seniorLevel',
-    category: 'AI',
-    yearsExperience: '5-8',
-    prompt: 'Create a job description for a Remote AI Product Manager overseeing AI/ML product development and go-to-market strategy.'
-  },
-  'Computer Vision Engineer': {
-    minValue: 145000,
-    maxValue: 155000,
-    experienceLevel: 'seniorLevel',
-    category: 'AI',
-    yearsExperience: '3-6',
-    prompt: 'Create a job description for a Remote Computer Vision Engineer working on deep learning models and image processing applications.'
-  },
-
-  // Technical Support Roles
-  'Systems Administrator': {
-    minValue: 75000,
-    maxValue: 95000,
-    experienceLevel: 'midLevel',
-    category: 'IT',
-    yearsExperience: '3-5',
-    prompt: 'Create a job description for a Systems Administrator managing cloud infrastructure, network systems, and security protocols.'
-  },
-  'Technical Support Engineer': {
-    minValue: 65000,
-    maxValue: 85000,
-    experienceLevel: 'midLevel',
-    category: 'IT',
-    yearsExperience: '2-4',
-    prompt: 'Create a job description for a Technical Support Engineer providing advanced troubleshooting and customer support for enterprise software.'
-  },
-  'IT Operations Specialist': {
+  'Account Executive': {
     minValue: 60000,
     maxValue: 80000,
-    experienceLevel: 'midLevel',
-    category: 'IT',
-    yearsExperience: '2-5',
-    prompt: 'Create a job description for an IT Operations Specialist managing help desk, system monitoring, and IT infrastructure support.'
+    experienceLevel: 'entryLevel',
+    category: 'Sales',
+    team: 'Finance',
+    yearsExperience: '1-3',
+    prompt: 'Create a job description for an Account Executive position for an Equipment Finance company. This is a B2B sales role that focuses on selling to the Finance Department and CFOs of large companies. Heavy prospecting, cold calling, and networking. Candidates should be familiar with Salesforce and have expereince cold calling and prospecting.'
+  },
+  'Senior Software Engineer': {
+   minValue: 130000,
+   maxValue: 150000,
+   experienceLevel: 'senior', 
+   category: 'Engineering',
+   team: 'Healthcare',
+   yearsExperience: '5-8',
+   prompt: 'Create a job description for a Senior Software Engineer position at a healthcare technology company. Focus on building scalable backend systems for electronic health records and patient data management. Must have experience with Java, Python, AWS, microservices architecture, and HIPAA compliance. Strong knowledge of healthcare data standards (HL7, FHIR) required. Experience with containerization, CI/CD pipelines, and agile development methodologies essential.'
+ },
+ 'Sales Development Representative': {
+   minValue: 50000,
+   maxValue: 65000,
+   experienceLevel: 'entryLevel',
+   category: 'Sales',
+   team: 'Software',
+   yearsExperience: '0-2',
+   prompt: 'Create a job description for a Sales Development Representative position at a B2B SaaS company. Role focuses on outbound prospecting to generate qualified leads for Account Executives. Must be proficient with Salesforce, Outreach.io, and LinkedIn Sales Navigator. Strong communication skills and ability to understand technical concepts required. Experience with cold calling, email campaigns, and social selling preferred.'
+ },
+ 'Full Stack Developer': {
+   minValue: 110000,
+   maxValue: 130000,
+   experienceLevel: 'midLevel',
+   category: 'Engineering', 
+   team: 'Finance',
+   yearsExperience: '3-5',
+   prompt: 'Create a job description for a Full Stack Developer position at a fintech startup. Focus on building secure, scalable web applications for payment processing and financial transactions. Must have strong experience with React, Node.js, TypeScript, and PostgreSQL. Knowledge of payment gateway APIs, PCI compliance, and financial regulations required. Experience with Redux, GraphQL, and AWS essential.'
+ },
+ 'Enterprise Account Executive': {
+   minValue: 120000,
+   maxValue: 150000,
+   experienceLevel: 'senior',
+   category: 'Sales',
+   team: 'Software',
+   yearsExperience: '5-8',
+   prompt: 'Create a job description for an Enterprise Account Executive position at a cybersecurity company. Role focuses on selling enterprise security solutions to Fortune 500 companies. Must understand complex security frameworks (NIST, ISO) and compliance requirements. Experience selling to CISOs and IT leaders required. Proven track record of closing deals over $500K. Proficient with Salesforce, security concepts, and enterprise sales cycles.'
+ },
+ 'DevOps Engineer': {
+   minValue: 110000,
+   maxValue: 130000,
+   experienceLevel: 'midLevel',
+   category: 'Engineering',
+   team: 'Software',
+   yearsExperience: '3-6',
+   prompt: 'Create a job description for a DevOps Engineer position at a large e-commerce platform. Focus on maintaining and scaling infrastructure during high-traffic periods. Must have strong experience with Kubernetes, Docker, Terraform, and major cloud platforms (AWS/GCP). Knowledge of monitoring tools (Datadog, New Relic), CI/CD pipelines, and automation required. Experience with microservices architecture and performance optimization essential.'
+ },
+ 'Solutions Engineer': {
+   minValue: 100000,
+   maxValue: 150000,
+   experienceLevel: 'midLevel',
+   category: 'Engineering',
+   team: 'Software',
+   yearsExperience: '3-5',
+   prompt: 'Create a job description for a Solutions Engineer position at an advertising technology company. Role bridges technical and sales teams to implement complex ad serving solutions. Must have strong programming skills (Python, JavaScript) and understanding of digital advertising concepts (RTB, programmatic). Experience with API integration, SQL, and customer-facing technical presentations required. Knowledge of major ad platforms and analytics tools essential.'
+ },
+ 'Regional Sales Manager': {
+   minValue: 140000,
+   maxValue: 180000,
+   experienceLevel: 'senior',
+   category: 'Sales',
+   team: 'Logistics',
+   yearsExperience: '7-10',
+   prompt: 'Create a job description for a Regional Sales Manager position at an industrial manufacturing company. Role oversees team of sales representatives selling industrial equipment and automation solutions. Must have experience managing complex B2B sales cycles and distributor relationships. Knowledge of manufacturing processes, supply chain, and industry regulations required. Proven track record of territory growth and team development essential.'
+ },
+ 'Account Executive': {
+   minValue: 65000,
+   maxValue: 85000,
+   experienceLevel: 'midLevel',
+   category: 'Sales',
+   team: 'Logistics',
+   yearsExperience: '2-4',
+   prompt: 'Create a job description for an Account Executive position at a Third Party Logistics company. Role focuses on selling transportation, warehousing, and supply chain solutions to mid-market and enterprise companies. Must understand freight modes (FTL, LTL, intermodal), warehousing operations, and supply chain optimization. Experience with TMS systems, rate negotiations, and logistics sales cycles required. Knowledge of customs, international shipping, and carrier networks essential. Must be proficient with Salesforce, Excel, and have experience managing complex stakeholder relationships. Base salary plus uncapped commision.'
+ },
+ 'Business Development Manager': {
+   minValue: 90000,
+   maxValue: 105000,
+   experienceLevel: 'senior',
+   category: 'Sales',
+   team: 'Logistics',
+   yearsExperience: '5-8',
+   prompt: 'Create a job description for a Business Development Manager position at a Third Party Logistics company. Role focuses on developing strategic partnerships with enterprise clients and identifying new market opportunities. Must have deep understanding of supply chain operations, contract negotiations, and RFP processes. Experience managing large logistics accounts ($5M+) and developing customized supply chain solutions required. Strong knowledge of industry trends, competitive landscape, and emerging technologies in logistics. Must be proficient with CRM systems, financial modeling, and executive presentations.'
+ },
+ 'SaaS Account Executive': {
+   minValue: 82000,
+   maxValue: 92000,
+   experienceLevel: 'midLevel',
+   category: 'Sales',
+   team: 'Software',
+   yearsExperience: '3-5',
+   prompt: 'Create a job description for an Account Executive position at a B2B SaaS company. Role focuses on full-cycle enterprise software sales with deal sizes ranging from $100K-$500K annually. Must have experience selling complex technical solutions to IT and business leaders. Strong understanding of software implementation processes, ROI analysis, and contract negotiations required. Proficient with Salesforce, sales engagement platforms, and virtual demonstration tools. Experience with consultative selling methodology and solution-based selling approach essential.'
+ },
+ 'Channel Sales Manager': {
+   minValue: 95000,
+   maxValue: 115000,
+   experienceLevel: 'midLevel',
+   category: 'Sales',
+   team: 'Software',
+   yearsExperience: '4-6',
+   prompt: 'Create a job description for a Channel Sales Manager position focusing on building and managing reseller partnerships. Role involves recruiting, enabling, and growing a network of value-added resellers and system integrators. Must have experience developing channel programs, partner enablement materials, and managing complex partner ecosystems. Strong understanding of channel economics, deal registration programs, and partner incentive structures required. Proficient with partner relationship management (PRM) systems and channel marketing strategies.'
+ },
+ 'Medical Device Sales Representative': {
+   minValue: 80000,
+   maxValue: 115000,
+   experienceLevel: 'midLevel',
+   category: 'Sales',
+   team: 'Medical Device',
+   yearsExperience: '3-5',
+   prompt: 'Create a job description for a Medical Device Sales Representative position. Role focuses on selling medical devices and equipment to hospitals, clinics, and healthcare providers. Must have experience navigating complex healthcare sales cycles and understanding of hospital procurement processes. Knowledge of medical terminology, surgical procedures, and healthcare regulations required. Experience with value analysis committees, clinical evaluations, and OR protocol essential. Must be comfortable with clinical training and supporting live procedures. Strong relationships with healthcare providers and procurement teams preferred.'
+ }
+};
+
+const PROMPT_STYLES = {
+  'conversational': 'Make this job description friendly and conversational, using casual language while maintaining professionalism. Use "you" and "we" to speak directly to the candidate. Randomly select which requirement and certs are necessary for the role.',
+  'formal': 'Write this job description in a formal, traditional corporate style with clear sections and bullet points. Randomly select which requirement and certs are necessary for the role.',
+  'detailed': 'Create a comprehensive and detailed job description with specific examples and clear expectations for each responsibility. Randomly select which requirement and certs are necessary for the role.',
+  'concise': 'Write a clear and concise job description focusing on key requirements and essential responsibilities. Randomly select which requirement and certs are necessary for the role.',
+  'engaging': 'Create an engaging and energetic job description that excites potential candidates while highlighting growth opportunities. Randomly select which requirement and certs are necessary for the role.'
+};
+
+const DESCRIPTION_LENGTHS = {
+  'short': 400,
+  'medium': 600,
+  'long': 900
+};
+
+const COMPANIES = {
+  'Tustin Recruiting': {
+    name: 'Tustin Recruiting',
+    sameAs: 'https://www.tustinrecruiting.com/',
+    logo: '/images/LOGO1.png'
   }
 };
 
-const BENEFITS = [
-  {
-    tier: 'Advanced',
-    items: ['Premium Health Insurance', '4 Weeks PTO', '401k Match', 'Quarterly Bonuses', 'Vehicle Allowance'],
-    description: 'Comprehensive benefits package'
-  },
-  {
-    tier: 'Standard Plus',
-    items: ['Full Health Insurance', '3 Weeks PTO', '401k Match', 'Performance Bonuses', 'Tool Allowance'],
-    description: 'Competitive benefits package'
-  }
+const LOCATIONS = [
+  { city: 'San Francisco', state: 'CA', zipCode: '94105' },
+  { city: 'San Jose', state: 'CA', zipCode: '95110' },
+  { city: 'Mountain View', state: 'CA', zipCode: '94043' },
+  { city: 'Palo Alto', state: 'CA', zipCode: '94301' },
+  { city: 'Sunnyvale', state: 'CA', zipCode: '94086' },
+  { city: 'Santa Clara', state: 'CA', zipCode: '95050' },
+  { city: 'Menlo Park', state: 'CA', zipCode: '94025' },
+  { city: 'Cupertino', state: 'CA', zipCode: '95014' },
+  { city: 'Redwood City', state: 'CA', zipCode: '94063' },
+  { city: 'Oakland', state: 'CA', zipCode: '94612' },
+  { city: 'Berkeley', state: 'CA', zipCode: '94704' },
+  { city: 'Emeryville', state: 'CA', zipCode: '94608' },
+  { city: 'South San Francisco', state: 'CA', zipCode: '94080' },
+  { city: 'San Mateo', state: 'CA', zipCode: '94401' },
+  { city: 'Foster City', state: 'CA', zipCode: '94404' },
+  { city: 'Los Angeles', state: 'CA', zipCode: '90012' },
+  { city: 'Santa Monica', state: 'CA', zipCode: '90401' },
+  { city: 'Playa Vista', state: 'CA', zipCode: '90094' },
+  { city: 'Venice', state: 'CA', zipCode: '90291' },
+  { city: 'Culver City', state: 'CA', zipCode: '90232' },
+  { city: 'El Segundo', state: 'CA', zipCode: '90245' },
+  { city: 'Pasadena', state: 'CA', zipCode: '91101' },
+  { city: 'Irvine', state: 'CA', zipCode: '92618' },
+  { city: 'San Diego', state: 'CA', zipCode: '92101' },
+  { city: 'Sacramento', state: 'CA', zipCode: '95814' },
+  { city: 'Portland', state: 'OR', zipCode: '97204' },
+  { city: 'Hillsboro', state: 'OR', zipCode: '97124' },
+  { city: 'Beaverton', state: 'OR', zipCode: '97005' },
+  { city: 'Seattle', state: 'WA', zipCode: '98104' },
+  { city: 'Bellevue', state: 'WA', zipCode: '98004' },
+  { city: 'Redmond', state: 'WA', zipCode: '98052' },
+  { city: 'Kirkland', state: 'WA', zipCode: '98033' },
+  { city: 'Fremont', state: 'CA', zipCode: '94538' },
+  { city: 'Santa Barbara', state: 'CA', zipCode: '93101' },
+  { city: 'Milpitas', state: 'CA', zipCode: '95035' },
+  { city: 'Campbell', state: 'CA', zipCode: '95008' },
+  { city: 'San Ramon', state: 'CA', zipCode: '94583' },
+  { city: 'Pleasanton', state: 'CA', zipCode: '94566' },
+  { city: 'Walnut Creek', state: 'CA', zipCode: '94596' },
+  { city: 'Alameda', state: 'CA', zipCode: '94501' },
+  { city: 'Brisbane', state: 'CA', zipCode: '94005' },
+  { city: 'Burlingame', state: 'CA', zipCode: '94010' },
+  { city: 'San Bruno', state: 'CA', zipCode: '94066' },
+  { city: 'Marina del Rey', state: 'CA', zipCode: '90292' },
+  { city: 'Glendale', state: 'CA', zipCode: '91203' },
+  { city: 'Burbank', state: 'CA', zipCode: '91502' },
+  { city: 'Costa Mesa', state: 'CA', zipCode: '92626' },
+  { city: 'Newport Beach', state: 'CA', zipCode: '92660' },
+  { city: 'Carlsbad', state: 'CA', zipCode: '92008' },
+  { city: 'La Jolla', state: 'CA', zipCode: '92037' },
+  { city: 'Vancouver', state: 'WA', zipCode: '98660' },
+  { city: 'Renton', state: 'WA', zipCode: '98057' },
+  { city: 'Bothell', state: 'WA', zipCode: '98011' },
+  { city: 'Eugene', state: 'OR', zipCode: '97401' },
+  { city: 'Tigard', state: 'OR', zipCode: '97223' },
+  { city: 'Corvallis', state: 'OR', zipCode: '97330' },
+  { city: 'Lake Oswego', state: 'OR', zipCode: '97034' },
+  { city: 'Tualatin', state: 'OR', zipCode: '97062' },
+  { city: 'Los Gatos', state: 'CA', zipCode: '95030' },
+  { city: 'Morgan Hill', state: 'CA', zipCode: '95037' },
+  { city: 'Dublin', state: 'CA', zipCode: '94568' },
+  { city: 'Union City', state: 'CA', zipCode: '94587' },
+  { city: 'Newark', state: 'CA', zipCode: '94560' },
+  { city: 'Hayward', state: 'CA', zipCode: '94541' },
+  { city: 'San Carlos', state: 'CA', zipCode: '94070' },
+  { city: 'Belmont', state: 'CA', zipCode: '94002' },
+  { city: 'Novato', state: 'CA', zipCode: '94945' },
+  { city: 'San Rafael', state: 'CA', zipCode: '94901' },
+  { city: 'West Hollywood', state: 'CA', zipCode: '90069' },
+  { city: 'Beverly Hills', state: 'CA', zipCode: '90210' },
+  { city: 'Manhattan Beach', state: 'CA', zipCode: '90266' },
+  { city: 'Redondo Beach', state: 'CA', zipCode: '90277' },
+  { city: 'Huntington Beach', state: 'CA', zipCode: '92648' },
+  { city: 'Mission Viejo', state: 'CA', zipCode: '92691' },
+  { city: 'Sorrento Valley', state: 'CA', zipCode: '92121' },
+  { city: 'Del Mar', state: 'CA', zipCode: '92014' },
+  { city: 'Issaquah', state: 'WA', zipCode: '98027' },
+  { city: 'Sammamish', state: 'WA', zipCode: '98074' },
+  { city: 'Mercer Island', state: 'WA', zipCode: '98040' },
+  { city: 'Bend', state: 'OR', zipCode: '97701' },
+  { city: 'Salem', state: 'OR', zipCode: '97301' },
+  { city: 'Medford', state: 'OR', zipCode: '97501' },
+  { city: 'Gresham', state: 'OR', zipCode: '97030' },
+  { city: 'Los Angeles', state: 'CA', zipCode: '90012' },
+  { city: 'Long Beach', state: 'CA', zipCode: '90802' },
+  { city: 'Anaheim', state: 'CA', zipCode: '92805' },
+  { city: 'Santa Ana', state: 'CA', zipCode: '92701' },
+  { city: 'Irvine', state: 'CA', zipCode: '92618' },
+  { city: 'Glendale', state: 'CA', zipCode: '91203' },
+  { city: 'Huntington Beach', state: 'CA', zipCode: '92648' },
+  { city: 'Santa Clarita', state: 'CA', zipCode: '91355' },
+  { city: 'Garden Grove', state: 'CA', zipCode: '92840' },
+  { city: 'Fullerton', state: 'CA', zipCode: '92832' },
+  { city: 'Pasadena', state: 'CA', zipCode: '91101' },
+  { city: 'Orange', state: 'CA', zipCode: '92868' },
+  { city: 'Torrance', state: 'CA', zipCode: '90501' },
+  { city: 'Costa Mesa', state: 'CA', zipCode: '92626' },
+  { city: 'Burbank', state: 'CA', zipCode: '91502' },
+  { city: 'Mission Viejo', state: 'CA', zipCode: '92691' },
+  { city: 'Newport Beach', state: 'CA', zipCode: '92660' },
+  { city: 'El Monte', state: 'CA', zipCode: '91731' },
+  { city: 'Downey', state: 'CA', zipCode: '90241' },
+  { city: 'Tustin', state: 'CA', zipCode: '92780' }
 ];
 
-const CERTIFICATIONS = {
-  'Sales': [
-    'Salesforce Certified Administrator',
-    'HubSpot Sales Software Certification',
-    'AWS Cloud Practitioner',
-    'Google Analytics Certification'
-  ],
-  'Engineering': [
-    'AWS Solutions Architect',
-    'Azure Developer Associate',
-    'Google Cloud Professional',
-    'Kubernetes Administrator',
-    'Docker Certified Associate'
-  ],
-  'AI': [
-    'TensorFlow Developer Certificate',
-    'AWS Machine Learning Specialty',
-    'Deep Learning Specialization',
-    'Azure AI Engineer',
-    'Google Cloud ML Engineer'
-  ],
-  'IT': [
-    'CompTIA A+',
-    'AWS SysOps Administrator',
-    'Microsoft 365 Certified',
-    'ITIL Foundation',
-    'Cisco CCNA'
-  ]
-};
-
-const TECH = {
-  'Sales': [
-    'Salesforce',
-    'HubSpot',
-    'Outreach.io',
-    'LinkedIn Sales Navigator',
-    'ZoomInfo'
-  ],
-  'Engineering': [
-    'React',
-    'Node.js',
-    'AWS/Azure/GCP',
-    'Docker',
-    'Kubernetes',
-    'TypeScript',
-    'GraphQL'
-  ],
-  'AI': [
-    'TensorFlow',
-    'PyTorch',
-    'Python',
-    'Scikit-learn',
-    'MLflow',
-    'Kubernetes',
-    'Docker'
-  ],
-  'IT': [
-    'Azure Active Directory',
-    'VMware',
-    'ServiceNow',
-    'Splunk',
-    'AWS CloudWatch',
-    'Terraform'
-  ]
-};
-
-const WORK_ENVIRONMENTS = [
-  { 
-    type: 'SaaS', 
-    clients: ['Enterprise Software Companies', 'Cloud Platforms', 'B2B Tech Companies'] 
-  },
-  { 
-    type: 'Fintech', 
-    clients: ['Financial Services', 'Payment Processors', 'Digital Banking'] 
-  },
-  { 
-    type: 'Healthcare Tech', 
-    clients: ['Digital Health Platforms', 'Medical Software', 'Healthcare Analytics'] 
-  },
-  { 
-    type: 'MarTech', 
-    clients: ['Marketing Platforms', 'Analytics Companies', 'Automation Tools'] 
-  },
-  { 
-    type: 'Security Software', 
-    clients: ['Cybersecurity Firms', 'Identity Management', 'Cloud Security'] 
-  }
+const STREET_TYPES = [
+  'Main St.', 'Technology Dr.', 'Innovation Way', 'Corporate Blvd.', 
+  'Commerce Dr.', 'Industrial Pkwy.', 'Enterprise Ave.', 'Business Center Dr.',
+  'Professional Pkwy.', 'Executive Dr.', 'Tech Park Way', 'Trade Center Blvd.'
 ];
 
-const TEAM_STRUCTURES = [
-  { size: 'Small', structure: 'Part of a 3-5 person specialized team' },
-  { size: 'Medium', structure: 'Leading a team of 4-6 technicians' },
-  { size: 'Large', structure: 'Member of a 10+ person regional team' },
-  { size: 'Matrix', structure: 'Working across multiple project teams' }
-];
+function generateStreetAddress() {
+  const number = Math.floor(Math.random() * (12000 - 1000) + 1000);
+  const streetType = STREET_TYPES[Math.floor(Math.random() * STREET_TYPES.length)];
+  return `${number} ${streetType}`;
+}
 
-const TRAVEL_REQUIREMENTS = [
-  { range: 'Local', description: 'Within 30 miles of home base' },
-  { range: 'Multi-City', description: 'Regular travel to nearby major cities' }
-];
-
-const TRAINING_PROGRAMS = [
-  { 
-    type: 'Sales Development', 
-    programs: [
-      'Sales Methodology Training',
-      'Product Knowledge Certification',
-      'Cold Calling Mastery',
-      'Social Selling Techniques'
-    ] 
-  },
-  { 
-    type: 'Technical', 
-    programs: [
-      'CRM Platform Certification',
-      'Sales Analytics Tools',
-      'Sales Automation Systems',
-      'Business Intelligence Tools'
-    ] 
-  },
-  { 
-    type: 'Professional Growth', 
-    programs: [
-      'Leadership Development',
-      'Negotiation Skills',
-      'Business Communication',
-      'Time Management'
-    ] 
-  },
-  { 
-    type: 'Industry', 
-    programs: [
-      'Tech Industry Fundamentals',
-      'SaaS Business Models',
-      'Market Analysis',
-      'Competitive Intelligence'
-    ] 
-  }
-];
-
-const DESCRIPTION_STYLES = {
-  concise: {
-    length: 450,
-    format: 'bullet-focused',
-    sections: ['Overview', 'Key Responsibilities', 'Requirements', 'Benefits'],
-    style: 'Direct and brief'
-  },
-  standard: {
-    length: 600,
-    format: 'mixed',
-    sections: ['Position Overview', 'Key Responsibilities', 'Required Qualifications', 'Preferred Qualifications', 'Benefits & Perks', 'Growth & Development'],
-    style: 'Balanced mix of paragraphs and bullets'
-  },
-  detailed: {
-    length: 800,
-    format: 'narrative',
-    sections: ['About the Role', 'What You\'ll Do', 'What You\'ll Need', 'Nice to Have', 'Why Join Us', 'Our Tech Stack', 'Benefits & Growth'],
-    style: 'Story-telling with detailed context'
-  }
-};
-
-const STREET_NAMES = [
-  'Tech Park St',
-  'Main St',
-  'First St',
-  'Second St',
-  'Third St',
-  'Fourth St',
-  'Fifth St',
-  'Innovation Dr',
-  'Digital Wy',
-  'Enterprise Blvd',
-  'Startup Ln',
-  'Silicon St',
-  'Cloud Ave',
-  'Data Dr',
-  'Circuit Rd',
-  'Venture Wy'
-];
-
-async function generateJobDescription(jobType, location, jobInfo) {
-  const workEnv = WORK_ENVIRONMENTS[Math.floor(Math.random() * WORK_ENVIRONMENTS.length)];
-  const teamStructure = TEAM_STRUCTURES[Math.floor(Math.random() * TEAM_STRUCTURES.length)];
-  const travel = TRAVEL_REQUIREMENTS[Math.floor(Math.random() * TRAVEL_REQUIREMENTS.length)];
-  const training = TRAINING_PROGRAMS[Math.floor(Math.random() * TRAINING_PROGRAMS.length)];
+function generateSalaryWithCents(baseMin, baseMax) {
+  const adjustment = Math.floor(Math.random() * 7000) - 2000;
   
-  const benefits = BENEFITS[Math.floor(Math.random() * BENEFITS.length)];
-  const requiredCerts = CERTIFICATIONS[jobInfo.category]
-    .sort(() => 0.5 - Math.random())
-    .slice(0, 2);
-  const preferredCerts = CERTIFICATIONS[jobInfo.category]
-    .sort(() => 0.5 - Math.random())
-    .slice(0, 2);
-  const tools = TECH[jobInfo.category]
-    .sort(() => 0.5 - Math.random());
-
-  const schedule = 'Standard Business Hours';
-
-  // Randomly select a description style
-  const styleKey = Object.keys(DESCRIPTION_STYLES)[Math.floor(Math.random() * Object.keys(DESCRIPTION_STYLES).length)];
-  const styleGuide = DESCRIPTION_STYLES[styleKey];
-
-  // Check if the prompt includes "Remote"
-  const isRemote = jobInfo.prompt.toLowerCase().includes('remote');
-  const workStyle = isRemote ? 'Remote position with ' : 'On-site position with ';
-
-  const prompt = `
-Create a ${styleGuide.style} job description for a ${isRemote ? '100% Remote ' : ''}${jobType} position in ${location.city}, ${location.state}. 
-Use a ${styleGuide.format} format with approximately ${styleGuide.length} words. Please display this text in markdown, do not use ticks to display the markdown. Just show the markdown and do not repeat any instructions.
-
-Start with a concise paragraph emphasizing this is a ${workStyle}${workEnv.type} focused company.
-
-After go into the following with headings, h2, h3, and h4 tags. Never use h1 tags. 
-Key Details:
-- Experience Required: ${jobInfo.yearsExperience} years
-- Work Location: ${isRemote ? '100% Remote (US-Based)' : location.city + ', ' + location.state}
-- Schedule: ${schedule}
-- Work Environment: ${workEnv.type} (${workEnv.clients.join(', ')})
-- Team Structure: ${teamStructure.structure}
-- Travel: ${isRemote ? 'No travel required' : travel.description}
-- Training: ${training.type} focused
-
-${isRemote ? '## Remote Work Requirements\n- Strong communication skills for remote collaboration\n- Experience with remote work tools and practices\n- Self-motivated and able to work independently\n- Home office setup with reliable internet\n' : ''}
-
-Required Skills & Certifications:
-- Required Certifications: ${requiredCerts.join(', ')}
-- Preferred Certifications: ${preferredCerts.join(', ')}
-- Technology Stack: ${tools.join(', ')}
-- Benefits: ${benefits.tier} - don't name the tier, just list the benefits as they relate to the job.
-
-Structure the response using these sections:
-${styleGuide.sections.map(section => `## ${section}`).join('\n')}
-
-Style Guidelines:
-- Format: ${styleGuide.format}
-- Length: Approximately ${styleGuide.length} words
-- Tone: ${styleGuide.style}
-
-${isRemote ? 'Emphasize remote work culture, virtual collaboration, and distributed team dynamics. ' : ''}Make the description engaging and market-specific. Focus on growth opportunities and tech industry dynamics in ${location.city}.`;
-
-  const completion = await openai.chat.completions.create({
-    model: "gpt-4o",
-    messages: [{ role: "user", content: prompt }],
-    temperature: 0.8,
-  });
-
   return {
-    fullDescription: completion.choices[0].message.content,
-    benefits,
-    schedule,
-    requiredCerts,
-    preferredCerts,
-    workEnvironment: workEnv,
-    teamStructure: teamStructure.structure,
-    travelRequirement: travel.description,
-    trainingProgram: {
-      focus: training.type,
-      programs: training.programs
-    }
+    minValue: Math.round(baseMin + adjustment),
+    maxValue: Math.round(baseMax + adjustment)
   };
 }
 
-function generateStreetAddress() {
-  const number = Math.floor(Math.random() * (9999 - 100) + 100);
-  const streetName = STREET_NAMES[Math.floor(Math.random() * STREET_NAMES.length)];
-  return `${number} ${streetName}`;
+function generateRecentDate() {
+  const now = new Date();
+  const twoDaysAgo = new Date(now - (2 * 24 * 60 * 60 * 1000));
+  const randomTime = twoDaysAgo.getTime() + Math.random() * (now.getTime() - twoDaysAgo.getTime());
+  return new Date(randomTime).toISOString();
 }
 
-async function createJob(location, jobType) {
-  const today = new Date();
-  const validThrough = new Date(today);
-  validThrough.setDate(validThrough.getDate() + Math.floor(Math.random() * (45 - 30 + 1) + 30));
+function generateValidThrough(datePosted) {
+  const postedDate = new Date(datePosted);
+  const daysToAdd = Math.floor(Math.random() * (45 - 31 + 1) + 31);
+  const validThrough = new Date(postedDate.getTime() + (daysToAdd * 24 * 60 * 60 * 1000));
+  return validThrough.toISOString();
+}
 
+function generateJobId(company, type) {
+  return `${company.name.substring(0, 4).toUpperCase().replace(/\s+/g, '')}${Math.random().toString(36).substring(2, 8)}`;
+}
+
+function generateFilename(company, title, location, jobId) {
+  return `${company.name.toLowerCase().replace(/\s+/g, '-')}-${title.toLowerCase().replace(/\s+/g, '-')}-${location.city.toLowerCase().replace(/\s+/g, '-')}-${jobId.toLowerCase()}.md`;
+}
+
+async function createJob(location, jobType, company) {
+  const datePosted = generateRecentDate();
+  const validThrough = generateValidThrough(datePosted);
   const jobInfo = JOB_TYPES[jobType];
-  const jobId = `${jobType.substring(0, 4).toUpperCase()}-${Math.random().toString(36).substring(2, 8)}`;
-
-  // Generate unique description with variations
-  const { 
-    fullDescription, 
-    benefits, 
-    schedule, 
-    requiredCerts, 
-    preferredCerts,
-    workEnvironment,
-    teamStructure,
-    travelRequirement,
-    trainingProgram
-  } = await generateJobDescription(jobType, location, jobInfo);
+  const jobId = generateJobId(company, jobType);
   
-  // Add salary variation based on location and experience
-  const locationMultiplier = Math.random() * (1.15 - 0.85) + 0.85;
-  const experienceMultiplier = 1 + (parseInt(jobInfo.yearsExperience.split('-')[0]) * 0.02);
-  
-  const adjustedMinValue = Math.round(jobInfo.minValue * locationMultiplier * experienceMultiplier);
-  const adjustedMaxValue = Math.round(jobInfo.maxValue * locationMultiplier * experienceMultiplier);
+  const { minValue, maxValue } = generateSalaryWithCents(jobInfo.minValue, jobInfo.maxValue);
 
-  // Create frontmatter data with variations - ensure all properties are defined
+  const promptStyles = Object.entries(PROMPT_STYLES);
+  const selectedStyle = promptStyles[Math.floor(Math.random() * promptStyles.length)];
+  
+  const descLengths = Object.entries(DESCRIPTION_LENGTHS);
+  const selectedLength = descLengths[Math.floor(Math.random() * descLengths.length)];
+
+  const prompt = `${selectedStyle[1]} Create a ${selectedLength[0]} word job description in markdown format, do not include ticks to show the markdown:
+
+${jobInfo.prompt}
+
+This job description is for Tustin Recruiting's client, so please write it in from a third party recruiter perspective but minimize the use of the word "Tustin Recruiting" and instead use Our Client when referring to the company.
+
+Start with a paragraph about the role in ${location.city}, ${location.state}. Name surrounding neighboring cities to ${location.city}. Never use h1 tags or headings before this paragraph. After the paragraph intro, go into h2 tags for Qualifications, Responsibilities, and Pay/Benefits, Use the following information to format the job:
+
+- Responsibilities: ${jobInfo.responsibilities}
+- Qualifications: ${jobInfo.qualifications}
+- Salary Range: $${minValue}-$${maxValue} per year and benefits
+
+Format in markdown without h1 tags. Do not include ticks or markdown formatting instructions. just show me the markdown.`;
+
+  const completion = await openai.chat.completions.create({
+    model: "gpt-4o",
+    messages: [{ 
+      role: "user", 
+      content: prompt
+    }],
+    temperature: 0.7,
+  });
+
+  const fullDescription = completion.choices[0].message.content;
+
   const jobData = {
-    position: jobType || 'Untitled Position',
-    description: fullDescription ? 
-      `${fullDescription.substring(0, DESCRIPTION_STYLES[
-        Object.keys(DESCRIPTION_STYLES)[Math.floor(Math.random() * Object.keys(DESCRIPTION_STYLES).length)]
-      ].length)}...` : 
-      'No description available',
+    position: jobType,
+    description: fullDescription.substring(0, 500) + '...',
     location: `${location.city}, ${location.state}`,
-    team: 'Software',
-    schedule: schedule || 'Full Time',
-    requiredCertifications: requiredCerts || [],
-    preferredCertifications: preferredCerts || [],
-    benefits: benefits?.items || [],
-    datePosted: today.toISOString(),
-    validThrough: validThrough.toISOString(),
+    team: jobInfo.team,
+    datePosted: datePosted,
+    validThrough: validThrough,
     employmentType: 'FULL_TIME',
     hiringOrganization: {
-      name: 'Tustin Recruiting',
-      sameAs: 'https://www.tustinrecruiting.com/',
-      logo: '/images/LOGO1.png'
+      name: company.name,
+      sameAs: company.sameAs,
+      logo: company.logo
     },
     jobLocation: {
       streetAddress: generateStreetAddress(),
@@ -507,68 +369,45 @@ async function createJob(location, jobType) {
     },
     baseSalary: {
       currency: 'USD',
-      value: Math.floor((adjustedMinValue + adjustedMaxValue) / 2),
-      minValue: adjustedMinValue,
-      maxValue: adjustedMaxValue,
-      unitText: 'HOUR'
+      value: Number(((minValue + maxValue) / 2).toFixed(2)),
+      minValue: minValue,
+      maxValue: maxValue,
+      unitText: 'YEAR'
     },
-    experienceRequirements: jobInfo.experienceLevel || 'midLevel',
-    occupationalCategory: jobInfo.category || 'General',
+    experienceRequirements: jobInfo.experienceLevel,
+    occupationalCategory: jobInfo.category,
     identifier: {
-      name: 'Tustin Recruiting',
+      name: company.name,
       value: jobId
     },
     featured: Math.random() < 0.2,
     email: [
       'will@tustinrecruiting.com',
       'john@tustinrecruiting.com'
-    ],
-    workEnvironment: workEnvironment ? {
-      type: workEnvironment.type || 'Commercial',
-      clients: workEnvironment.clients || []
-    } : {
-      type: 'Software',
-      clients: []
-    },
-    teamStructure: teamStructure || 'Standard Team',
-    travelRequirements: travelRequirement || 'Local Area',
-    trainingProgram: trainingProgram ? {
-      focus: trainingProgram.focus || 'General',
-      programs: trainingProgram.programs || []
-    } : {
-      focus: 'General',
-      programs: []
-    }
+    ]
   };
 
-  // Create the markdown content
   const frontmatter = matter.stringify('', jobData);
-  const finalContent = `${frontmatter}\n\n${fullDescription || 'No description available'}`;
+  const finalContent = `${frontmatter}\n\n${fullDescription}`;
 
-  const filename = `tr-${jobType.toLowerCase().replace(/\s+/g, '-')}-${location.city.toLowerCase().replace(/\s+/g, '-')}-${jobId.toLowerCase().replace(/\s+/g, '-')}.md`;
+  const filename = generateFilename(company, jobType, location, jobId);
   const filePath = path.join(__dirname, '..', 'src', 'content', 'jobs', filename);
+  
   fs.writeFileSync(filePath, finalContent);
-
-  console.log(`Created ${jobType} in ${location.city}: ${filename}`);
+  console.log(`Created ${jobType} for ${company.name} in ${location.city}: ${filename}`);
 }
 
 async function createAllJobs() {
-  // Create a pool of job types
+  const companies = Object.values(COMPANIES);
   const jobTypes = Object.keys(JOB_TYPES);
   
-  // Process each location with a random job type
   for (const location of LOCATIONS) {
-    // Select a random job type for this location
-    const randomJobType = jobTypes[Math.floor(Math.random() * jobTypes.length)];
+    const company = companies[Math.floor(Math.random() * companies.length)];
+    const jobType = jobTypes[Math.floor(Math.random() * jobTypes.length)];
     
-    console.log(`Creating ${randomJobType} in ${location.city}...`);
-    await createJob(location, randomJobType);
-    
-    // Add delay between API calls
+    await createJob(location, jobType, company);
     await new Promise(resolve => setTimeout(resolve, 2000));
   }
-  
-  console.log('Done! Run npm run index-recent-jobs -- -days=0 to index new jobs');
 }
 
-createAllJobs().catch(console.error); 
+createAllJobs().catch(console.error);

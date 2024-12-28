@@ -1330,6 +1330,727 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tustin-recruiting-account-executive-belmont-tustyoit6t.md": {
+	id: "tustin-recruiting-account-executive-belmont-tustyoit6t.md";
+  slug: "tustin-recruiting-account-executive-belmont-tustyoit6t";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-account-executive-corvallis-tustk4f3h7.md": {
+	id: "tustin-recruiting-account-executive-corvallis-tustk4f3h7.md";
+  slug: "tustin-recruiting-account-executive-corvallis-tustk4f3h7";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-account-executive-gresham-tustvfotow.md": {
+	id: "tustin-recruiting-account-executive-gresham-tustvfotow.md";
+  slug: "tustin-recruiting-account-executive-gresham-tustvfotow";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-account-executive-huntington-beach-tustm54zc9.md": {
+	id: "tustin-recruiting-account-executive-huntington-beach-tustm54zc9.md";
+  slug: "tustin-recruiting-account-executive-huntington-beach-tustm54zc9";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-account-executive-los-angeles-tust9bmwid.md": {
+	id: "tustin-recruiting-account-executive-los-angeles-tust9bmwid.md";
+  slug: "tustin-recruiting-account-executive-los-angeles-tust9bmwid";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-account-executive-oakland-tustvkwfqo.md": {
+	id: "tustin-recruiting-account-executive-oakland-tustvkwfqo.md";
+  slug: "tustin-recruiting-account-executive-oakland-tustvkwfqo";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-account-executive-san-carlos-tustsrsflz.md": {
+	id: "tustin-recruiting-account-executive-san-carlos-tustsrsflz.md";
+  slug: "tustin-recruiting-account-executive-san-carlos-tustsrsflz";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-account-executive-santa-clarita-tust4pg74v.md": {
+	id: "tustin-recruiting-account-executive-santa-clarita-tust4pg74v.md";
+  slug: "tustin-recruiting-account-executive-santa-clarita-tust4pg74v";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-burbank-tustbvzbev.md": {
+	id: "tustin-recruiting-business-development-manager-burbank-tustbvzbev.md";
+  slug: "tustin-recruiting-business-development-manager-burbank-tustbvzbev";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-burbank-tustcf2p27.md": {
+	id: "tustin-recruiting-business-development-manager-burbank-tustcf2p27.md";
+  slug: "tustin-recruiting-business-development-manager-burbank-tustcf2p27";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-costa-mesa-tustj609jv.md": {
+	id: "tustin-recruiting-business-development-manager-costa-mesa-tustj609jv.md";
+  slug: "tustin-recruiting-business-development-manager-costa-mesa-tustj609jv";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-dublin-tustttd7w6.md": {
+	id: "tustin-recruiting-business-development-manager-dublin-tustttd7w6.md";
+  slug: "tustin-recruiting-business-development-manager-dublin-tustttd7w6";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-manhattan-beach-tustwvbsku.md": {
+	id: "tustin-recruiting-business-development-manager-manhattan-beach-tustwvbsku.md";
+  slug: "tustin-recruiting-business-development-manager-manhattan-beach-tustwvbsku";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-newport-beach-tusttqk9m1.md": {
+	id: "tustin-recruiting-business-development-manager-newport-beach-tusttqk9m1.md";
+  slug: "tustin-recruiting-business-development-manager-newport-beach-tusttqk9m1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-pasadena-tustotcy2z.md": {
+	id: "tustin-recruiting-business-development-manager-pasadena-tustotcy2z.md";
+  slug: "tustin-recruiting-business-development-manager-pasadena-tustotcy2z";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-pleasanton-tust2i71ne.md": {
+	id: "tustin-recruiting-business-development-manager-pleasanton-tust2i71ne.md";
+  slug: "tustin-recruiting-business-development-manager-pleasanton-tust2i71ne";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-portland-tusthnxwra.md": {
+	id: "tustin-recruiting-business-development-manager-portland-tusthnxwra.md";
+  slug: "tustin-recruiting-business-development-manager-portland-tusthnxwra";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-renton-tust1av8vb.md": {
+	id: "tustin-recruiting-business-development-manager-renton-tust1av8vb.md";
+  slug: "tustin-recruiting-business-development-manager-renton-tust1av8vb";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-sacramento-tustvmhery.md": {
+	id: "tustin-recruiting-business-development-manager-sacramento-tustvmhery.md";
+  slug: "tustin-recruiting-business-development-manager-sacramento-tustvmhery";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-business-development-manager-san-francisco-tustiy32uu.md": {
+	id: "tustin-recruiting-business-development-manager-san-francisco-tustiy32uu.md";
+  slug: "tustin-recruiting-business-development-manager-san-francisco-tustiy32uu";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-bend-tusttsm74c.md": {
+	id: "tustin-recruiting-channel-sales-manager-bend-tusttsm74c.md";
+  slug: "tustin-recruiting-channel-sales-manager-bend-tusttsm74c";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-brisbane-tustdffmzx.md": {
+	id: "tustin-recruiting-channel-sales-manager-brisbane-tustdffmzx.md";
+  slug: "tustin-recruiting-channel-sales-manager-brisbane-tustdffmzx";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-glendale-tustnes1kf.md": {
+	id: "tustin-recruiting-channel-sales-manager-glendale-tustnes1kf.md";
+  slug: "tustin-recruiting-channel-sales-manager-glendale-tustnes1kf";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-huntington-beach-tustqmxo0i.md": {
+	id: "tustin-recruiting-channel-sales-manager-huntington-beach-tustqmxo0i.md";
+  slug: "tustin-recruiting-channel-sales-manager-huntington-beach-tustqmxo0i";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-issaquah-tuste5n6ec.md": {
+	id: "tustin-recruiting-channel-sales-manager-issaquah-tuste5n6ec.md";
+  slug: "tustin-recruiting-channel-sales-manager-issaquah-tuste5n6ec";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-kirkland-tustcesmxl.md": {
+	id: "tustin-recruiting-channel-sales-manager-kirkland-tustcesmxl.md";
+  slug: "tustin-recruiting-channel-sales-manager-kirkland-tustcesmxl";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-la-jolla-tustr0szo1.md": {
+	id: "tustin-recruiting-channel-sales-manager-la-jolla-tustr0szo1.md";
+  slug: "tustin-recruiting-channel-sales-manager-la-jolla-tustr0szo1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-medford-tustjfpvcd.md": {
+	id: "tustin-recruiting-channel-sales-manager-medford-tustjfpvcd.md";
+  slug: "tustin-recruiting-channel-sales-manager-medford-tustjfpvcd";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-san-bruno-tustmy0w5z.md": {
+	id: "tustin-recruiting-channel-sales-manager-san-bruno-tustmy0w5z.md";
+  slug: "tustin-recruiting-channel-sales-manager-san-bruno-tustmy0w5z";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-san-rafael-tust2uivvi.md": {
+	id: "tustin-recruiting-channel-sales-manager-san-rafael-tust2uivvi.md";
+  slug: "tustin-recruiting-channel-sales-manager-san-rafael-tust2uivvi";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-santa-barbara-tustszx55t.md": {
+	id: "tustin-recruiting-channel-sales-manager-santa-barbara-tustszx55t.md";
+  slug: "tustin-recruiting-channel-sales-manager-santa-barbara-tustszx55t";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-seattle-tustyxo5i4.md": {
+	id: "tustin-recruiting-channel-sales-manager-seattle-tustyxo5i4.md";
+  slug: "tustin-recruiting-channel-sales-manager-seattle-tustyxo5i4";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-sunnyvale-tustflbip6.md": {
+	id: "tustin-recruiting-channel-sales-manager-sunnyvale-tustflbip6.md";
+  slug: "tustin-recruiting-channel-sales-manager-sunnyvale-tustflbip6";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-channel-sales-manager-venice-tustaapbkd.md": {
+	id: "tustin-recruiting-channel-sales-manager-venice-tustaapbkd.md";
+  slug: "tustin-recruiting-channel-sales-manager-venice-tustaapbkd";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-bellevue-tusty08goe.md": {
+	id: "tustin-recruiting-devops-engineer-bellevue-tusty08goe.md";
+  slug: "tustin-recruiting-devops-engineer-bellevue-tusty08goe";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-berkeley-tustydm4zt.md": {
+	id: "tustin-recruiting-devops-engineer-berkeley-tustydm4zt.md";
+  slug: "tustin-recruiting-devops-engineer-berkeley-tustydm4zt";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-irvine-tustvror6m.md": {
+	id: "tustin-recruiting-devops-engineer-irvine-tustvror6m.md";
+  slug: "tustin-recruiting-devops-engineer-irvine-tustvror6m";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-mountain-view-tustf3r09m.md": {
+	id: "tustin-recruiting-devops-engineer-mountain-view-tustf3r09m.md";
+  slug: "tustin-recruiting-devops-engineer-mountain-view-tustf3r09m";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-palo-alto-tustcxhf9m.md": {
+	id: "tustin-recruiting-devops-engineer-palo-alto-tustcxhf9m.md";
+  slug: "tustin-recruiting-devops-engineer-palo-alto-tustcxhf9m";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-sammamish-tust5jc3jl.md": {
+	id: "tustin-recruiting-devops-engineer-sammamish-tust5jc3jl.md";
+  slug: "tustin-recruiting-devops-engineer-sammamish-tust5jc3jl";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-san-ramon-tustmo4kn0.md": {
+	id: "tustin-recruiting-devops-engineer-san-ramon-tustmo4kn0.md";
+  slug: "tustin-recruiting-devops-engineer-san-ramon-tustmo4kn0";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-santa-monica-tustnf9cwz.md": {
+	id: "tustin-recruiting-devops-engineer-santa-monica-tustnf9cwz.md";
+  slug: "tustin-recruiting-devops-engineer-santa-monica-tustnf9cwz";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-union-city-tust04fp9k.md": {
+	id: "tustin-recruiting-devops-engineer-union-city-tust04fp9k.md";
+  slug: "tustin-recruiting-devops-engineer-union-city-tust04fp9k";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-beverly-hills-tustbjt5wu.md": {
+	id: "tustin-recruiting-enterprise-account-executive-beverly-hills-tustbjt5wu.md";
+  slug: "tustin-recruiting-enterprise-account-executive-beverly-hills-tustbjt5wu";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-cupertino-tust5fsnmn.md": {
+	id: "tustin-recruiting-enterprise-account-executive-cupertino-tust5fsnmn.md";
+  slug: "tustin-recruiting-enterprise-account-executive-cupertino-tust5fsnmn";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-el-monte-tustl1wkhw.md": {
+	id: "tustin-recruiting-enterprise-account-executive-el-monte-tustl1wkhw.md";
+  slug: "tustin-recruiting-enterprise-account-executive-el-monte-tustl1wkhw";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-glendale-tustl68c6k.md": {
+	id: "tustin-recruiting-enterprise-account-executive-glendale-tustl68c6k.md";
+  slug: "tustin-recruiting-enterprise-account-executive-glendale-tustl68c6k";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-hillsboro-tustjujyjq.md": {
+	id: "tustin-recruiting-enterprise-account-executive-hillsboro-tustjujyjq.md";
+  slug: "tustin-recruiting-enterprise-account-executive-hillsboro-tustjujyjq";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-marina-del-rey-tustel95fm.md": {
+	id: "tustin-recruiting-enterprise-account-executive-marina-del-rey-tustel95fm.md";
+  slug: "tustin-recruiting-enterprise-account-executive-marina-del-rey-tustel95fm";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-morgan-hill-tustih6oea.md": {
+	id: "tustin-recruiting-enterprise-account-executive-morgan-hill-tustih6oea.md";
+  slug: "tustin-recruiting-enterprise-account-executive-morgan-hill-tustih6oea";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-novato-tustxpqezz.md": {
+	id: "tustin-recruiting-enterprise-account-executive-novato-tustxpqezz.md";
+  slug: "tustin-recruiting-enterprise-account-executive-novato-tustxpqezz";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-redwood-city-tust1v5uni.md": {
+	id: "tustin-recruiting-enterprise-account-executive-redwood-city-tust1v5uni.md";
+  slug: "tustin-recruiting-enterprise-account-executive-redwood-city-tust1v5uni";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-san-mateo-tustvpmbj7.md": {
+	id: "tustin-recruiting-enterprise-account-executive-san-mateo-tustvpmbj7.md";
+  slug: "tustin-recruiting-enterprise-account-executive-san-mateo-tustvpmbj7";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-account-executive-west-hollywood-tustgvib15.md": {
+	id: "tustin-recruiting-enterprise-account-executive-west-hollywood-tustgvib15.md";
+  slug: "tustin-recruiting-enterprise-account-executive-west-hollywood-tustgvib15";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-full-stack-developer-alameda-tusteyxzht.md": {
+	id: "tustin-recruiting-full-stack-developer-alameda-tusteyxzht.md";
+  slug: "tustin-recruiting-full-stack-developer-alameda-tusteyxzht";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-full-stack-developer-eugene-tusta7m4a4.md": {
+	id: "tustin-recruiting-full-stack-developer-eugene-tusta7m4a4.md";
+  slug: "tustin-recruiting-full-stack-developer-eugene-tusta7m4a4";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-full-stack-developer-los-gatos-tustshnu7v.md": {
+	id: "tustin-recruiting-full-stack-developer-los-gatos-tustshnu7v.md";
+  slug: "tustin-recruiting-full-stack-developer-los-gatos-tustshnu7v";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-full-stack-developer-milpitas-tustcxce8w.md": {
+	id: "tustin-recruiting-full-stack-developer-milpitas-tustcxce8w.md";
+  slug: "tustin-recruiting-full-stack-developer-milpitas-tustcxce8w";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-full-stack-developer-newport-beach-tusttx96zn.md": {
+	id: "tustin-recruiting-full-stack-developer-newport-beach-tusttx96zn.md";
+  slug: "tustin-recruiting-full-stack-developer-newport-beach-tusttx96zn";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-full-stack-developer-santa-clara-tustnfls1l.md": {
+	id: "tustin-recruiting-full-stack-developer-santa-clara-tustnfls1l.md";
+  slug: "tustin-recruiting-full-stack-developer-santa-clara-tustnfls1l";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-full-stack-developer-tualatin-tust862r82.md": {
+	id: "tustin-recruiting-full-stack-developer-tualatin-tust862r82.md";
+  slug: "tustin-recruiting-full-stack-developer-tualatin-tust862r82";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-representative-bothell-tustuuorza.md": {
+	id: "tustin-recruiting-medical-device-sales-representative-bothell-tustuuorza.md";
+  slug: "tustin-recruiting-medical-device-sales-representative-bothell-tustuuorza";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-representative-carlsbad-tustt67tmn.md": {
+	id: "tustin-recruiting-medical-device-sales-representative-carlsbad-tustt67tmn.md";
+  slug: "tustin-recruiting-medical-device-sales-representative-carlsbad-tustt67tmn";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-representative-costa-mesa-tustnwimfk.md": {
+	id: "tustin-recruiting-medical-device-sales-representative-costa-mesa-tustnwimfk.md";
+  slug: "tustin-recruiting-medical-device-sales-representative-costa-mesa-tustnwimfk";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-representative-fremont-tust6tcfbr.md": {
+	id: "tustin-recruiting-medical-device-sales-representative-fremont-tust6tcfbr.md";
+  slug: "tustin-recruiting-medical-device-sales-representative-fremont-tust6tcfbr";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-representative-los-angeles-tustalmzhs.md": {
+	id: "tustin-recruiting-medical-device-sales-representative-los-angeles-tustalmzhs.md";
+  slug: "tustin-recruiting-medical-device-sales-representative-los-angeles-tustalmzhs";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-representative-playa-vista-tusti3bxqy.md": {
+	id: "tustin-recruiting-medical-device-sales-representative-playa-vista-tusti3bxqy.md";
+  slug: "tustin-recruiting-medical-device-sales-representative-playa-vista-tusti3bxqy";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-representative-santa-ana-tustz48azn.md": {
+	id: "tustin-recruiting-medical-device-sales-representative-santa-ana-tustz48azn.md";
+  slug: "tustin-recruiting-medical-device-sales-representative-santa-ana-tustz48azn";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-representative-vancouver-tustmlzx2c.md": {
+	id: "tustin-recruiting-medical-device-sales-representative-vancouver-tustmlzx2c.md";
+  slug: "tustin-recruiting-medical-device-sales-representative-vancouver-tustmlzx2c";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-regional-sales-manager-del-mar-tustblwne1.md": {
+	id: "tustin-recruiting-regional-sales-manager-del-mar-tustblwne1.md";
+  slug: "tustin-recruiting-regional-sales-manager-del-mar-tustblwne1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-regional-sales-manager-el-segundo-tustz3qww1.md": {
+	id: "tustin-recruiting-regional-sales-manager-el-segundo-tustz3qww1.md";
+  slug: "tustin-recruiting-regional-sales-manager-el-segundo-tustz3qww1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-regional-sales-manager-garden-grove-tusthm41ef.md": {
+	id: "tustin-recruiting-regional-sales-manager-garden-grove-tusthm41ef.md";
+  slug: "tustin-recruiting-regional-sales-manager-garden-grove-tusthm41ef";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-regional-sales-manager-hayward-tustmozlob.md": {
+	id: "tustin-recruiting-regional-sales-manager-hayward-tustmozlob.md";
+  slug: "tustin-recruiting-regional-sales-manager-hayward-tustmozlob";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-regional-sales-manager-menlo-park-tusttirv9y.md": {
+	id: "tustin-recruiting-regional-sales-manager-menlo-park-tusttirv9y.md";
+  slug: "tustin-recruiting-regional-sales-manager-menlo-park-tusttirv9y";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-regional-sales-manager-pasadena-tust21pkme.md": {
+	id: "tustin-recruiting-regional-sales-manager-pasadena-tust21pkme.md";
+  slug: "tustin-recruiting-regional-sales-manager-pasadena-tust21pkme";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-regional-sales-manager-redondo-beach-tustobgu8h.md": {
+	id: "tustin-recruiting-regional-sales-manager-redondo-beach-tustobgu8h.md";
+  slug: "tustin-recruiting-regional-sales-manager-redondo-beach-tustobgu8h";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-beaverton-tust4zzyda.md": {
+	id: "tustin-recruiting-saas-account-executive-beaverton-tust4zzyda.md";
+  slug: "tustin-recruiting-saas-account-executive-beaverton-tust4zzyda";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-campbell-tust0tt8o0.md": {
+	id: "tustin-recruiting-saas-account-executive-campbell-tust0tt8o0.md";
+  slug: "tustin-recruiting-saas-account-executive-campbell-tust0tt8o0";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-downey-tust9huftz.md": {
+	id: "tustin-recruiting-saas-account-executive-downey-tust9huftz.md";
+  slug: "tustin-recruiting-saas-account-executive-downey-tust9huftz";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-foster-city-tustx3ak2y.md": {
+	id: "tustin-recruiting-saas-account-executive-foster-city-tustx3ak2y.md";
+  slug: "tustin-recruiting-saas-account-executive-foster-city-tustx3ak2y";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-irvine-tust9cberi.md": {
+	id: "tustin-recruiting-saas-account-executive-irvine-tust9cberi.md";
+  slug: "tustin-recruiting-saas-account-executive-irvine-tust9cberi";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-long-beach-tustnewy7g.md": {
+	id: "tustin-recruiting-saas-account-executive-long-beach-tustnewy7g.md";
+  slug: "tustin-recruiting-saas-account-executive-long-beach-tustnewy7g";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-mercer-island-tusthb5wz6.md": {
+	id: "tustin-recruiting-saas-account-executive-mercer-island-tusthb5wz6.md";
+  slug: "tustin-recruiting-saas-account-executive-mercer-island-tusthb5wz6";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-mission-viejo-tustxmpkhf.md": {
+	id: "tustin-recruiting-saas-account-executive-mission-viejo-tustxmpkhf.md";
+  slug: "tustin-recruiting-saas-account-executive-mission-viejo-tustxmpkhf";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-san-diego-tustsum615.md": {
+	id: "tustin-recruiting-saas-account-executive-san-diego-tustsum615.md";
+  slug: "tustin-recruiting-saas-account-executive-san-diego-tustsum615";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-san-jose-tustj22np0.md": {
+	id: "tustin-recruiting-saas-account-executive-san-jose-tustj22np0.md";
+  slug: "tustin-recruiting-saas-account-executive-san-jose-tustj22np0";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-saas-account-executive-tigard-tustff4fjv.md": {
+	id: "tustin-recruiting-saas-account-executive-tigard-tustff4fjv.md";
+  slug: "tustin-recruiting-saas-account-executive-tigard-tustff4fjv";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-sales-development-representative-anaheim-tustoj6gch.md": {
+	id: "tustin-recruiting-sales-development-representative-anaheim-tustoj6gch.md";
+  slug: "tustin-recruiting-sales-development-representative-anaheim-tustoj6gch";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-sales-development-representative-culver-city-tust9d3c6u.md": {
+	id: "tustin-recruiting-sales-development-representative-culver-city-tust9d3c6u.md";
+  slug: "tustin-recruiting-sales-development-representative-culver-city-tust9d3c6u";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-sales-development-representative-redmond-tustqy9x36.md": {
+	id: "tustin-recruiting-sales-development-representative-redmond-tustqy9x36.md";
+  slug: "tustin-recruiting-sales-development-representative-redmond-tustqy9x36";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-sales-development-representative-salem-tust0tol64.md": {
+	id: "tustin-recruiting-sales-development-representative-salem-tust0tol64.md";
+  slug: "tustin-recruiting-sales-development-representative-salem-tust0tol64";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-sales-development-representative-sorrento-valley-tustaao1tw.md": {
+	id: "tustin-recruiting-sales-development-representative-sorrento-valley-tustaao1tw.md";
+  slug: "tustin-recruiting-sales-development-representative-sorrento-valley-tustaao1tw";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-sales-development-representative-torrance-tustdibvjz.md": {
+	id: "tustin-recruiting-sales-development-representative-torrance-tustdibvjz.md";
+  slug: "tustin-recruiting-sales-development-representative-torrance-tustdibvjz";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-sales-development-representative-walnut-creek-tust0pmea2.md": {
+	id: "tustin-recruiting-sales-development-representative-walnut-creek-tust0pmea2.md";
+  slug: "tustin-recruiting-sales-development-representative-walnut-creek-tust0pmea2";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-senior-software-engineer-emeryville-tust8ntrn6.md": {
+	id: "tustin-recruiting-senior-software-engineer-emeryville-tust8ntrn6.md";
+  slug: "tustin-recruiting-senior-software-engineer-emeryville-tust8ntrn6";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-senior-software-engineer-fullerton-tust8r8u4r.md": {
+	id: "tustin-recruiting-senior-software-engineer-fullerton-tust8r8u4r.md";
+  slug: "tustin-recruiting-senior-software-engineer-fullerton-tust8r8u4r";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-senior-software-engineer-mission-viejo-tustz9jt3c.md": {
+	id: "tustin-recruiting-senior-software-engineer-mission-viejo-tustz9jt3c.md";
+  slug: "tustin-recruiting-senior-software-engineer-mission-viejo-tustz9jt3c";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-solutions-engineer-burlingame-tustfmkk67.md": {
+	id: "tustin-recruiting-solutions-engineer-burlingame-tustfmkk67.md";
+  slug: "tustin-recruiting-solutions-engineer-burlingame-tustfmkk67";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-solutions-engineer-lake-oswego-tusthxoplo.md": {
+	id: "tustin-recruiting-solutions-engineer-lake-oswego-tusthxoplo.md";
+  slug: "tustin-recruiting-solutions-engineer-lake-oswego-tusthxoplo";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-solutions-engineer-newark-tustu6wd43.md": {
+	id: "tustin-recruiting-solutions-engineer-newark-tustu6wd43.md";
+  slug: "tustin-recruiting-solutions-engineer-newark-tustu6wd43";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-solutions-engineer-orange-tustlua3y2.md": {
+	id: "tustin-recruiting-solutions-engineer-orange-tustlua3y2.md";
+  slug: "tustin-recruiting-solutions-engineer-orange-tustlua3y2";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-solutions-engineer-south-san-francisco-tustn8pwsf.md": {
+	id: "tustin-recruiting-solutions-engineer-south-san-francisco-tustn8pwsf.md";
+  slug: "tustin-recruiting-solutions-engineer-south-san-francisco-tustn8pwsf";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-solutions-engineer-tustin-tustl5kl52.md": {
+	id: "tustin-recruiting-solutions-engineer-tustin-tustl5kl52.md";
+  slug: "tustin-recruiting-solutions-engineer-tustin-tustl5kl52";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 };
 "posts": {
 "10-high-paying-sales-jobs-you-can-get-without-a-degree.md": {

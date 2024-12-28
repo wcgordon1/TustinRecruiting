@@ -16,7 +16,8 @@ description: >-
   ## Key Responsibilities
 
 
-  As a Systems Administrator, you will be expected to manage and support our IT...
+  As a Systems Administrator, you will be expected to manage and support our
+  IT...
 location: 'Los Angeles, CA'
 team: Software
 schedule: Standard Business Hours
@@ -50,7 +51,7 @@ baseSalary:
   value: 86585
   minValue: 76399
   maxValue: 96772
-  unitText: HOUR
+  unitText: YEAR
 experienceRequirements: midLevel
 occupationalCategory: IT
 identifier:
