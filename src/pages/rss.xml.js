@@ -7,22 +7,14 @@ export async function GET(context) {
   const jobs = await getCollection('jobs');
   
   return rss({
-    title: 'Best Electrician Jobs',
-    description: 'Find the best electrician jobs - Commercial, Residential, and Industrial positions',
+    title: 'Tustin Recruiting Jobs',
+    description: 'Find the best jobs in Orange County, CA!',
     site: context.site,
     items: jobs.map((job) => ({
       title: job.data.position,
       pubDate: new Date(job.data.datePosted),
       description: `
         <div>
-          <img src="${job.data.hiringOrganization.logo}" alt="${job.data.hiringOrganization.name} logo" style="max-width: 200px; margin-bottom: 20px;" />
-          <h2>${job.data.position}</h2>
-          <p><strong>Company:</strong> ${job.data.hiringOrganization.name}</p>
-          <p><strong>Location:</strong> ${job.data.location}</p>
-          <p><strong>Salary Range:</strong> $${job.data.baseSalary.minValue} - $${job.data.baseSalary.maxValue} ${job.data.baseSalary.unitText}</p>
-          <p><strong>Job Type:</strong> ${job.data.employmentType}</p>
-          <p><strong>Remote:</strong> No</p>
-          <br/>
           <p>${job.data.description}</p>
         </div>
       `,
@@ -31,6 +23,7 @@ export async function GET(context) {
         <company>${job.data.hiringOrganization.name}</company>
         <companyLogo>${job.data.hiringOrganization.logo}</companyLogo>
         <datePosted>${job.data.datePosted}</datePosted>
+        <validThrough>${job.data.validThrough}</validThrough>
         <location>${job.data.location}</location>
         <salary>
           <currency>${job.data.baseSalary.currency}</currency>

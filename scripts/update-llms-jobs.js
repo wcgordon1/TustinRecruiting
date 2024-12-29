@@ -28,7 +28,7 @@ function getJobListings() {
 // Generate markdown links for jobs
 function generateJobLinks(jobs) {
   return jobs.map(job => 
-    `- [${job.title} in ${job.location}](https://www.bestelectricianjobs.com/jobs/${job.filename})`
+    `- [${job.title} in ${job.location}](https://www.tustinrecruiting.com/jobs/${job.filename})`
   ).join('\n');
 }
 
