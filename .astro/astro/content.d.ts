@@ -1568,6 +1568,69 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tustin-recruiting-data-scientist-escondido-tustk1zud8.md": {
+	id: "tustin-recruiting-data-scientist-escondido-tustk1zud8.md";
+  slug: "tustin-recruiting-data-scientist-escondido-tustk1zud8";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-data-scientist-fullerton-tust97t0yc.md": {
+	id: "tustin-recruiting-data-scientist-fullerton-tust97t0yc.md";
+  slug: "tustin-recruiting-data-scientist-fullerton-tust97t0yc";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-data-scientist-garden-grove-tust7gpt26.md": {
+	id: "tustin-recruiting-data-scientist-garden-grove-tust7gpt26.md";
+  slug: "tustin-recruiting-data-scientist-garden-grove-tust7gpt26";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-data-scientist-huntington-beach-tust2kejne.md": {
+	id: "tustin-recruiting-data-scientist-huntington-beach-tust2kejne.md";
+  slug: "tustin-recruiting-data-scientist-huntington-beach-tust2kejne";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-data-scientist-los-angeles-tustd5teo1.md": {
+	id: "tustin-recruiting-data-scientist-los-angeles-tustd5teo1.md";
+  slug: "tustin-recruiting-data-scientist-los-angeles-tustd5teo1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-data-scientist-pasadena-tustm197k9.md": {
+	id: "tustin-recruiting-data-scientist-pasadena-tustm197k9.md";
+  slug: "tustin-recruiting-data-scientist-pasadena-tustm197k9";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-data-scientist-san-diego-tust3hax6q.md": {
+	id: "tustin-recruiting-data-scientist-san-diego-tust3hax6q.md";
+  slug: "tustin-recruiting-data-scientist-san-diego-tust3hax6q";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-data-scientist-west-covina-tustckztcz.md": {
+	id: "tustin-recruiting-data-scientist-west-covina-tustckztcz.md";
+  slug: "tustin-recruiting-data-scientist-west-covina-tustckztcz";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-anaheim-tust708p28.md": {
+	id: "tustin-recruiting-devops-engineer-anaheim-tust708p28.md";
+  slug: "tustin-recruiting-devops-engineer-anaheim-tust708p28";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tustin-recruiting-devops-engineer-bellevue-tusty08goe.md": {
 	id: "tustin-recruiting-devops-engineer-bellevue-tusty08goe.md";
   slug: "tustin-recruiting-devops-engineer-bellevue-tusty08goe";
@@ -1582,6 +1645,20 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-encinitas-tust73di3w.md": {
+	id: "tustin-recruiting-devops-engineer-encinitas-tust73di3w.md";
+  slug: "tustin-recruiting-devops-engineer-encinitas-tust73di3w";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-huntington-beach-tustd7n985.md": {
+	id: "tustin-recruiting-devops-engineer-huntington-beach-tustd7n985.md";
+  slug: "tustin-recruiting-devops-engineer-huntington-beach-tustd7n985";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tustin-recruiting-devops-engineer-irvine-tustvror6m.md": {
 	id: "tustin-recruiting-devops-engineer-irvine-tustvror6m.md";
   slug: "tustin-recruiting-devops-engineer-irvine-tustvror6m";
@@ -1589,9 +1666,30 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-mission-viejo-tust8qlscl.md": {
+	id: "tustin-recruiting-devops-engineer-mission-viejo-tust8qlscl.md";
+  slug: "tustin-recruiting-devops-engineer-mission-viejo-tust8qlscl";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-mission-viejo-tustm7qekw.md": {
+	id: "tustin-recruiting-devops-engineer-mission-viejo-tustm7qekw.md";
+  slug: "tustin-recruiting-devops-engineer-mission-viejo-tustm7qekw";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tustin-recruiting-devops-engineer-mountain-view-tustf3r09m.md": {
 	id: "tustin-recruiting-devops-engineer-mountain-view-tustf3r09m.md";
   slug: "tustin-recruiting-devops-engineer-mountain-view-tustf3r09m";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-oceanside-tusth6shdb.md": {
+	id: "tustin-recruiting-devops-engineer-oceanside-tusth6shdb.md";
+  slug: "tustin-recruiting-devops-engineer-oceanside-tusth6shdb";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -1610,6 +1708,13 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-san-marcos-tusts451v4.md": {
+	id: "tustin-recruiting-devops-engineer-san-marcos-tusts451v4.md";
+  slug: "tustin-recruiting-devops-engineer-san-marcos-tusts451v4";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tustin-recruiting-devops-engineer-san-ramon-tustmo4kn0.md": {
 	id: "tustin-recruiting-devops-engineer-san-ramon-tustmo4kn0.md";
   slug: "tustin-recruiting-devops-engineer-san-ramon-tustmo4kn0";
@@ -1624,9 +1729,23 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-torrance-tustu6bdiv.md": {
+	id: "tustin-recruiting-devops-engineer-torrance-tustu6bdiv.md";
+  slug: "tustin-recruiting-devops-engineer-torrance-tustu6bdiv";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tustin-recruiting-devops-engineer-union-city-tust04fp9k.md": {
 	id: "tustin-recruiting-devops-engineer-union-city-tust04fp9k.md";
   slug: "tustin-recruiting-devops-engineer-union-city-tust04fp9k";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-devops-engineer-vista-tust3si2hq.md": {
+	id: "tustin-recruiting-devops-engineer-vista-tust3si2hq.md";
+  slug: "tustin-recruiting-devops-engineer-vista-tust3si2hq";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -1708,6 +1827,34 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-software-sales-carlsbad-tust1tj509.md": {
+	id: "tustin-recruiting-enterprise-software-sales-carlsbad-tust1tj509.md";
+  slug: "tustin-recruiting-enterprise-software-sales-carlsbad-tust1tj509";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-software-sales-glendale-tuste1w7bo.md": {
+	id: "tustin-recruiting-enterprise-software-sales-glendale-tuste1w7bo.md";
+  slug: "tustin-recruiting-enterprise-software-sales-glendale-tuste1w7bo";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-software-sales-irvine-tustqo6mij.md": {
+	id: "tustin-recruiting-enterprise-software-sales-irvine-tustqo6mij.md";
+  slug: "tustin-recruiting-enterprise-software-sales-irvine-tustqo6mij";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-enterprise-software-sales-orange-tust5b6hrw.md": {
+	id: "tustin-recruiting-enterprise-software-sales-orange-tust5b6hrw.md";
+  slug: "tustin-recruiting-enterprise-software-sales-orange-tust5b6hrw";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tustin-recruiting-full-stack-developer-alameda-tusteyxzht.md": {
 	id: "tustin-recruiting-full-stack-developer-alameda-tusteyxzht.md";
   slug: "tustin-recruiting-full-stack-developer-alameda-tusteyxzht";
@@ -1753,6 +1900,41 @@ declare module 'astro:content' {
 "tustin-recruiting-full-stack-developer-tualatin-tust862r82.md": {
 	id: "tustin-recruiting-full-stack-developer-tualatin-tust862r82.md";
   slug: "tustin-recruiting-full-stack-developer-tualatin-tust862r82";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-burbank-tustco3ma1.md": {
+	id: "tustin-recruiting-medical-device-sales-burbank-tustco3ma1.md";
+  slug: "tustin-recruiting-medical-device-sales-burbank-tustco3ma1";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-costa-mesa-tustpp8hxo.md": {
+	id: "tustin-recruiting-medical-device-sales-costa-mesa-tustpp8hxo.md";
+  slug: "tustin-recruiting-medical-device-sales-costa-mesa-tustpp8hxo";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-garden-grove-tust9bn300.md": {
+	id: "tustin-recruiting-medical-device-sales-garden-grove-tust9bn300.md";
+  slug: "tustin-recruiting-medical-device-sales-garden-grove-tust9bn300";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-irvine-tust7sfbvb.md": {
+	id: "tustin-recruiting-medical-device-sales-irvine-tust7sfbvb.md";
+  slug: "tustin-recruiting-medical-device-sales-irvine-tust7sfbvb";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-norwalk-tustl9wn9i.md": {
+	id: "tustin-recruiting-medical-device-sales-norwalk-tustl9wn9i.md";
+  slug: "tustin-recruiting-medical-device-sales-norwalk-tustl9wn9i";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -1809,6 +1991,55 @@ declare module 'astro:content' {
 "tustin-recruiting-medical-device-sales-representative-vancouver-tustmlzx2c.md": {
 	id: "tustin-recruiting-medical-device-sales-representative-vancouver-tustmlzx2c.md";
   slug: "tustin-recruiting-medical-device-sales-representative-vancouver-tustmlzx2c";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-santa-ana-tustjb4ujx.md": {
+	id: "tustin-recruiting-medical-device-sales-santa-ana-tustjb4ujx.md";
+  slug: "tustin-recruiting-medical-device-sales-santa-ana-tustjb4ujx";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-medical-device-sales-tustin-tustahsc39.md": {
+	id: "tustin-recruiting-medical-device-sales-tustin-tustahsc39.md";
+  slug: "tustin-recruiting-medical-device-sales-tustin-tustahsc39";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-product-manager-carson-tustswo72x.md": {
+	id: "tustin-recruiting-product-manager-carson-tustswo72x.md";
+  slug: "tustin-recruiting-product-manager-carson-tustswo72x";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-product-manager-chula-vista-tust1p5788.md": {
+	id: "tustin-recruiting-product-manager-chula-vista-tust1p5788.md";
+  slug: "tustin-recruiting-product-manager-chula-vista-tust1p5788";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-product-manager-costa-mesa-tustn4v9g9.md": {
+	id: "tustin-recruiting-product-manager-costa-mesa-tustn4v9g9.md";
+  slug: "tustin-recruiting-product-manager-costa-mesa-tustn4v9g9";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-product-manager-newport-beach-tustmhhurs.md": {
+	id: "tustin-recruiting-product-manager-newport-beach-tustmhhurs.md";
+  slug: "tustin-recruiting-product-manager-newport-beach-tustmhhurs";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-product-manager-westminster-tustx2mqbl.md": {
+	id: "tustin-recruiting-product-manager-westminster-tustx2mqbl.md";
+  slug: "tustin-recruiting-product-manager-westminster-tustx2mqbl";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
@@ -2009,6 +2240,13 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tustin-recruiting-software-engineer-orange-tust12fsb6.md": {
+	id: "tustin-recruiting-software-engineer-orange-tust12fsb6.md";
+  slug: "tustin-recruiting-software-engineer-orange-tust12fsb6";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tustin-recruiting-solutions-engineer-burlingame-tustfmkk67.md": {
 	id: "tustin-recruiting-solutions-engineer-burlingame-tustfmkk67.md";
   slug: "tustin-recruiting-solutions-engineer-burlingame-tustfmkk67";
@@ -2047,6 +2285,76 @@ declare module 'astro:content' {
 "tustin-recruiting-solutions-engineer-tustin-tustl5kl52.md": {
 	id: "tustin-recruiting-solutions-engineer-tustin-tustl5kl52.md";
   slug: "tustin-recruiting-solutions-engineer-tustin-tustl5kl52";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-technical-sales-engineer-buena-park-tustheniwm.md": {
+	id: "tustin-recruiting-technical-sales-engineer-buena-park-tustheniwm.md";
+  slug: "tustin-recruiting-technical-sales-engineer-buena-park-tustheniwm";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-technical-sales-engineer-fullerton-tustrok62y.md": {
+	id: "tustin-recruiting-technical-sales-engineer-fullerton-tustrok62y.md";
+  slug: "tustin-recruiting-technical-sales-engineer-fullerton-tustrok62y";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-technical-sales-engineer-poway-tustkdildo.md": {
+	id: "tustin-recruiting-technical-sales-engineer-poway-tustkdildo.md";
+  slug: "tustin-recruiting-technical-sales-engineer-poway-tustkdildo";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-technical-sales-engineer-santa-ana-tust5ksvbf.md": {
+	id: "tustin-recruiting-technical-sales-engineer-santa-ana-tust5ksvbf.md";
+  slug: "tustin-recruiting-technical-sales-engineer-santa-ana-tust5ksvbf";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-technical-sales-engineer-santa-clarita-tust9cxlpr.md": {
+	id: "tustin-recruiting-technical-sales-engineer-santa-clarita-tust9cxlpr.md";
+  slug: "tustin-recruiting-technical-sales-engineer-santa-clarita-tust9cxlpr";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-technical-sales-engineer-yorba-linda-tustk1044k.md": {
+	id: "tustin-recruiting-technical-sales-engineer-yorba-linda-tustk1044k.md";
+  slug: "tustin-recruiting-technical-sales-engineer-yorba-linda-tustk1044k";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-ux-designer-anaheim-tustplpqiy.md": {
+	id: "tustin-recruiting-ux-designer-anaheim-tustplpqiy.md";
+  slug: "tustin-recruiting-ux-designer-anaheim-tustplpqiy";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-ux-designer-imperial-beach-tusthuvfob.md": {
+	id: "tustin-recruiting-ux-designer-imperial-beach-tusthuvfob.md";
+  slug: "tustin-recruiting-ux-designer-imperial-beach-tusthuvfob";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-ux-designer-lake-forest-tust7xzmmx.md": {
+	id: "tustin-recruiting-ux-designer-lake-forest-tust7xzmmx.md";
+  slug: "tustin-recruiting-ux-designer-lake-forest-tust7xzmmx";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tustin-recruiting-ux-designer-long-beach-tust0v8vbm.md": {
+	id: "tustin-recruiting-ux-designer-long-beach-tust0v8vbm.md";
+  slug: "tustin-recruiting-ux-designer-long-beach-tust0v8vbm";
   body: string;
   collection: "jobs";
   data: InferEntrySchema<"jobs">
