@@ -11,7 +11,39 @@ description: >-
   a virtual work environment, collaborating seamlessly with diverse teams across
   multiple projects. Key Responsibilities As a Computer Vision Engineer, you
   will:  Develop and enhance computer vision algorithms tailored for
-  cybersecurity app...
+  cybersecurity applications.  Collaborate with data scientists and software
+  engineers to integrate computer vision solutions into our security platforms. 
+  Participate in code reviews and provide constructive feedback to team
+  members.  Optimize and deploy models using cloudbased platforms like AWS. 
+  Ensure that solutions are scalable and maintainable for longterm use. Required
+  Qualifications To excel in this role, you should have:  36 years of experience
+  in computer vision engineering or related fields.  Proficiency in programming
+  languages such as Python and frameworks like TensorFlow and PyTorch. 
+  Experience with machine learning operations using Docker, MLflow, and
+  Kubernetes.  Strong problemsolving skills and the ability to work
+  independently. Preferred Qualifications While not mandatory, the following
+  will enhance your application:  TensorFlow Developer Certificate and AWS
+  Machine Learning Specialty certification.  Experience in cybersecurity or
+  related security software industries.  Familiarity with remote work tools and
+  practices to foster effective virtual collaboration. Remote Work Requirements 
+  Strong communication skills for seamless remote collaboration.  Experience
+  with remote work tools and practices.  Selfmotivated, able to work
+  independently, and manage time effectively.  A reliable home office setup with
+  highspeed internet connectivity. Benefits & Perks We offer a comprehensive
+  benefits package designed to support your professional and personal growth,
+  including:  Competitive salary and performancebased bonuses.  Comprehensive
+  health, dental, and vision insurance.  Generous paid time off and flexible
+  work hours.  Retirement savings plan with company matching.  Opportunities to
+  attend industry conferences and training sessions. Growth & Development We
+  believe in fostering a culture of continuous learning and growth. As a member
+  of our team, you'll have access to:  Industryfocused training programs to
+  enhance your skills.  Opportunities to work on diverse projects across
+  cybersecurity, identity management, and cloud security domains.  Regular
+  feedback and mentorship from experienced professionals in the field. Our
+  company is committed to creating an inclusive and collaborative remote work
+  culture. We value diverse perspectives and are dedicated to building a team
+  where everyone feels empowered and supported. Join us in shaping the future of
+  security software with innovative computer vision solutions.
 location: 'Hawthorne, CA'
 team: Software
 schedule: Standard Business Hours

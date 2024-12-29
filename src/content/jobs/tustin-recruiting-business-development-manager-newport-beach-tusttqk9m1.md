@@ -7,7 +7,22 @@ description: >-
   identifying new potential markets. This position is ideally situated for those
   living in neighboring cities such as Costa Mesa, Santa Ana, and Irvine. The
   successful candidate will have a deep understanding of supply chain
-  operations, contract negotiations, and RFP ...
+  operations, contract negotiations, and RFP processes. Qualifications To be
+  considered for this role, candidates must have:  Experience managing large
+  logistics accounts ($5M+)  Proven track record of developing customized supply
+  chain solutions  Strong knowledge of industry trends, competitive landscape,
+  and emerging technologies in logistics  Proficiency with CRM systems,
+  financial modeling, and executive presentations Responsibilities As a Business
+  Development Manager, you will be expected to:  Develop strategic partnerships
+  with enterprise clients  Identify and capitalize on new market opportunities 
+  Manage large logistics accounts, ensuring optimal service and profitability 
+  Lead contract negotiations and manage RFP processes  Stay abreast of industry
+  trends and emerging technologies and leverage this knowledge to improve
+  operations and service offerings Pay and Benefits The salary range for this
+  position is $93,933$108,933 per year. Our client also offers a comprehensive
+  benefits package, which includes health insurance, retirement plans, and paid
+  time off. Our client is an equal opportunity employer. We celebrate diversity
+  and are committed to creating an inclusive environment for all employees.
 location: 'Newport Beach, CA'
 team: Logistics
 datePosted: '2024-12-28T07:43:41.666Z'

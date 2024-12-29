@@ -7,7 +7,27 @@ description: >-
   oversee a team of sales representatives driving complex B2B sales cycles
   within the industrial manufacturing sector. This position offers an excellent
   opportunity to utilize your knowledge of manufacturing processes, supply
-  chain, and industry regulations to drive territory gr...
+  chain, and industry regulations to drive territory growth and team
+  development. El Segundo is a vibrant city located in Southern California,
+  neighboring Manhattan Beach, Hawthorne, and Inglewood. Qualifications To be
+  successful in this role, candidates must possess:  A minimum of 5 years of
+  experience in sales within the industrial manufacturing sector.  Proven
+  experience managing complex B2B sales cycles and distributor relationships. 
+  Indepth knowledge of manufacturing processes, supply chain, and industry
+  regulations.  Proven track record of territory growth and team development. 
+  Excellent communication, negotiation, and team leadership skills.  Bachelor’s
+  degree in Business, Marketing or a related field. Responsibilities As a
+  Regional Sales Manager, your key responsibilities will include:  Driving sales
+  growth in your region by effectively managing a team of sales
+  representatives.  Developing and maintaining strong relationships with key
+  distributors and partners in your region.  Understanding and staying uptodate
+  with industry regulations and standards.  Providing leadership and guidance to
+  your team, promoting professional development and growth.  Collaborating with
+  other departments to develop and implement effective sales strategies.
+  Pay/Benefits Our Client offers a competitive salary range of $142,432$182,432
+  per year, commensurate with experience and qualifications. A comprehensive
+  benefits package is also provided, which includes health insurance, retirement
+  plans, paid time off, and more.
 location: 'El Segundo, CA'
 team: Logistics
 datePosted: '2024-12-28T13:28:07.231Z'

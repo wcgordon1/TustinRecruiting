@@ -6,7 +6,50 @@ description: >-
   environment. Based in the heart of Inglewood, CA, but operating across the US,
   we are at the forefront of financial technology, reshaping how financial
   services and digital banking operate. This position provides an incredible
-  opportunity to work across multiple project teams, fostering a coll...
+  opportunity to work across multiple project teams, fostering a collaborative
+  and fastpaced virtual work culture. Embrace the challenge of pioneering
+  cuttingedge solutions with a team that is passionate about technology and
+  innovation in the fintech sector. Key Responsibilities As a Computer Vision
+  Engineer, you will be responsible for:  Developing and deploying computer
+  vision models and algorithms using TensorFlow and PyTorch.  Collaborating with
+  crossfunctional teams to integrate computer vision solutions into financial
+  products.  Utilizing Docker and Kubernetes for efficient model deployment. 
+  Continuously improving model accuracy and performance with Python and
+  Scikitlearn.  Managing and tracking experiments using MLflow.  Participating
+  in regular virtual meetings to discuss project progress and provide insights.
+  Required Qualifications To qualify for this exciting opportunity, you should
+  have:  Experience: 36 years in computer vision or a related field. 
+  Certifications: Google Cloud ML Engineer and Azure AI Engineer.  Skills: 
+  Proficiency in TensorFlow, PyTorch, and Python.  Experience with Docker and
+  Kubernetes for deployment.  Strong understanding of machine learning
+  frameworks like Scikitlearn and MLflow.  Remote Work Requirements:  Strong
+  communication skills for effective remote collaboration.  Familiarity with
+  remote work tools and practices.  Selfmotivation and ability to work
+  independently.  A home office setup with reliable internet connectivity.
+  Preferred Qualifications While not mandatory, the following will be
+  advantageous:  Advanced certifications in Google Cloud ML Engineer and Azure
+  AI Engineer.  Prior experience in a fintech environment or with financial
+  services.  Demonstrated ability to work across multiple project teams
+  effectively.  Evidence of selfdriven learning and development in new
+  technologies or methodologies. Benefits & Perks We offer a comprehensive
+  benefits package tailored to support your remote work lifestyle:  Competitive
+  salary and performancebased bonuses.  Health, dental, and vision insurance
+  plans.  Generous paid time off and flexibility in scheduling.  Access to
+  cuttingedge technology and tools for remote work.  Opportunities for
+  professional development and certifications.  A supportive, inclusive work
+  culture that values diversity and innovation. Growth & Development Your
+  professional growth is a priority for us. Here’s how we support it:  Engage in
+  continuous learning through Sales Development focused training.  Collaborate
+  with industry experts and thought leaders in fintech.  Explore opportunities
+  for career advancement within a growing organization.  Work on diverse
+  projects that push the boundaries of fintech innovation.  Participate in
+  virtual workshops and seminars to enhance your skills. In conclusion, our
+  Computer Vision Engineer position offers a unique blend of flexibility,
+  innovation, and growth in a thriving fintech company. Embrace the opportunity
+  to work remotely, collaborate with a forwardthinking team, and make a tangible
+  impact in the world of digital banking. If you're driven by technology and
+  eager to shape the future of finance, this role is for you. Join us and be
+  part of a transformative journey in the fintech landscape.
 location: 'Inglewood, CA'
 team: Software
 schedule: Standard Business Hours

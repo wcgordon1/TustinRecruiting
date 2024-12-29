@@ -6,7 +6,35 @@ description: >-
   a 100% remote position based in Pomona, CA, offering the opportunity to be
   part of a forwardthinking team while working from the comfort of your home. We
   are focused on delivering innovative solutions that enhance patient care and
-  healthcare services. Embrace a remote work culture that prom...
+  healthcare services. Embrace a remote work culture that promotes virtual
+  collaboration and thrives on the efficiency of distributed team dynamics. Key
+  Responsibilities  Develop and implement cuttingedge computer vision algorithms
+  and models.  Collaborate with crossfunctional teams to integrate computer
+  vision solutions into healthcare products.  Analyze and process large datasets
+  to derive actionable insights for healthcare applications.  Optimize and
+  deploy models in a cloud environment, ensuring scalability and efficiency. 
+  Stay updated with the latest trends and advancements in computer vision and
+  healthcare technology.  Contribute to the architectural design and
+  implementation phases of projects.  Participate in code reviews and ensure
+  adherence to best practices and quality standards. Requirements Experience  36
+  years of professional experience in computer vision engineering or related
+  fields. Remote Work Requirements  Strong communication skills for effective
+  remote collaboration.  Proficiency with remote work tools and practices. 
+  Selfmotivated and capable of working independently.  Suitable home office
+  setup with reliable internet connectivity. Skills & Certifications  Required
+  Certifications: AWS Machine Learning Specialty, TensorFlow Developer
+  Certificate.  Preferred Certifications: Google Cloud ML Engineer, TensorFlow
+  Developer Certificate.  Technology Stack:  Proficiency with Scikitlearn,
+  TensorFlow, Docker, Python, MLflow, Kubernetes, and PyTorch.  Ability to work
+  seamlessly within a regional team of 10+ members. Benefits  Competitive salary
+  and benefits package in the Standard Plus tier.  Robust professional growth
+  opportunities and access to ongoing training.  No travel required, ensuring a
+  stable worklife balance.  Engage with a vibrant tech community focused on
+  healthcare innovation.  Be part of a company that's at the forefront of
+  transforming healthcare through technology. This role is ideal for someone
+  passionate about leveraging computer vision to drive meaningful change in
+  healthcare. If you're ready to make an impact from anywhere in the U.S., we
+  invite you to apply and grow with us.
 location: 'Pomona, CA'
 team: Software
 schedule: Standard Business Hours

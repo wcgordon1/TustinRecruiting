@@ -11,7 +11,38 @@ description: >-
   Provide highquality support to resolve technical issues related to marketing
   technologies and platforms.  Troubleshooting: Diagnose and troubleshoot
   software and hardware problems effectively.  System Monitoring: Utilize tools
-  s...
+  such as ServiceNow, Splunk, and AWS CloudWatch to monitor systems and ensure
+  their optimal performance.  Collaboration: Work closely with the development
+  and product teams to ensure seamless integration and functionality.  Customer
+  Interaction: Engage with clients to understand their technical needs and
+  provide timely solutions.  Documentation: Maintain detailed records of issues,
+  solutions, and customer interactions to improve future service delivery.
+  Required Qualifications  Experience: 24 years in technical support or a
+  related field.  Certifications:  CompTIA A+  Cisco CCNA  Technical
+  Proficiency: Familiarity with Azure Active Directory, Terraform, VMware, and
+  other relevant technologies. Preferred Qualifications  Certifications: 
+  Microsoft 365 Certified  AWS SysOps Administrator  Technology Stack
+  Experience: Experience with cloudbased services and infrastructure
+  management.  Problemsolving Skills: Strong analytical abilities to identify
+  and resolve complex technical issues. Benefits & Perks  Medical: Comprehensive
+  health benefits to keep you at your best.  Dental & Vision: Full coverage to
+  support your overall wellbeing.  Retirement Plan: Generous 401(k) matching to
+  help you prepare for your future.  Paid Time Off: Ample vacation and sick
+  leave to ensure a healthy worklife balance.  Professional Growth:
+  Opportunities for continued learning, certifications, and exposure to
+  cuttingedge technologies.  Travel Opportunities: Regular travel to nearby
+  major cities for professional development and networking. Growth & Development
+  At our MarTech company, we are committed to your professional growth and
+  development. You will have access to resources and training aimed at enhancing
+  your skills and advancing your career. We offer mentorship programs and
+  regular workshops to keep you updated on industry trends and best practices.
+  As Alhambra continues to be a hub for tech innovation, joining our team means
+  being part of an exciting and evolving landscape, where your contributions
+  have a direct impact on our success and the success of our clients. Embark on
+  a rewarding career with us, where technology and marketing converge, and your
+  expertise is valued and nurtured. If you are passionate about technology and
+  eager to leverage your skills in a dynamic environment, we invite you to apply
+  and become a part of our forwardthinking team.
 location: 'Alhambra, CA'
 team: Software
 schedule: Standard Business Hours

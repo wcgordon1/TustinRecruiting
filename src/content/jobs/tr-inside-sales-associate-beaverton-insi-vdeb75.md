@@ -6,7 +6,33 @@ description: >-
   services, payment processing solutions, and digital banking products. You'll
   be part of a specialized team of 35 professionals, working in a flexible
   environment that values collaboration and professional development. This
-  position includes regular travel to nearby major cities, offering you t...
+  position includes regular travel to nearby major cities, offering you the
+  chance to expand your network and enhance your industry insights. Key
+  Responsibilities  Develop and maintain strong relationships with clients
+  through effective communication and personalized service.  Utilize technology
+  platforms like Outreach.io, LinkedIn Sales Navigator, ZoomInfo, HubSpot, and
+  Salesforce to manage leads and sales processes.  Collaborate with your
+  specialized team to strategize and implement sales initiatives tailored to the
+  fintech landscape.  Conduct market research to identify and pursue new sales
+  opportunities.  Prepare and deliver compelling presentations to prospective
+  clients.  Monitor client feedback and support continuous improvement of
+  offerings. Required Qualifications  12 years of experience in inside sales,
+  preferably within the fintech sector.  Salesforce Certified Administrator and
+  HubSpot Sales Software Certification.  Proficiency in using Outreach.io,
+  LinkedIn Sales Navigator, ZoomInfo, HubSpot, and Salesforce.  Strong
+  communication and interpersonal skills.  Selfmotivated with a resultsdriven
+  approach. Preferred Qualifications  Additional experience in financial
+  services or payment processors.  Proven track record of achieving sales
+  targets.  Bachelor's degree in Business, Finance, or a related field. Benefits
+  & Perks  Full Health Insurance  3 Weeks PTO  401k Match  Performance Bonuses 
+  Tool Allowance Growth & Development  Benefit from professional growthfocused
+  training programs designed to enhance your skills and knowledge.  Take
+  advantage of career progression opportunities within our innovative fintech
+  company, paving the way for future leadership roles.  Engage with a
+  collaborative team that supports your professional ambitions while providing
+  insights into the evolving tech industry dynamics in Beaverton. Join us and
+  immerse yourself in the vibrant fintech landscape of Beaverton, where your
+  impact will drive industry innovation and success.
 location: 'Beaverton, OR'
 team: Software
 schedule: Flexible Hours

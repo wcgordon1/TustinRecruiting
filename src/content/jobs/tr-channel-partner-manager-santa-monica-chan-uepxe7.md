@@ -8,7 +8,38 @@ description: >-
   collaborative team, working in a fastpaced environment that thrives on growth
   and cuttingedge technology. Key Responsibilities  Develop and Manage Channel
   Partnerships:  Build and maintain strong relationships with existing
-  partners.  Identify and onboard new channel partners t...
+  partners.  Identify and onboard new channel partners to expand market reach. 
+  Drive Sales and Growth:  Collaborate with partners to drive sales targets
+  through joint marketing and sales plans.  Implement strategies to increase
+  revenue and market penetration.  Collaborate with Internal Teams:  Work
+  closely with sales, marketing, and product teams to align partnership goals
+  with company objectives.  Provide feedback and insights from partners to
+  influence product development.  Conduct Training and Development:  Deliver
+  sales training to partners to ensure product knowledge and sales
+  effectiveness.  Develop training materials and programs to enhance partner
+  capabilities.  Travel and Networking:  Regular travel to nearby major cities
+  to meet with partners and attend industry events.  Represent the company at
+  industry conferences and networking events. Requirements  Experience:  46
+  years of experience in channel partner management, preferably in fintech or
+  related industries.  Location & Schedule:  Based in Santa Monica, CA. 
+  Standard business hours with flexibility for travel.  Work Environment: 
+  Familiarity with fintech ecosystems, including payment processors and digital
+  banking.  Experience working in a teamoriented environment with over 10
+  regional team members.  Skills & Certifications:  Required: AWS Cloud
+  Practitioner, HubSpot Sales Software Certification.  Preferred: Additional
+  certifications in Salesforce or HubSpot.  Proficient in using Salesforce,
+  HubSpot, Outreach.io, LinkedIn Sales Navigator, and ZoomInfo.  Soft Skills: 
+  Strong communication, negotiation, and relationshipbuilding skills.  Proven
+  ability to work independently and as part of a team. Benefits  Competitive
+  salary with performancebased incentives.  Health, dental, and vision insurance
+  plans.  Professional development opportunities, including sales development
+  training.  Retirement savings plan with company match.  Paid time off and
+  holiday benefits.  Opportunity to work in a thriving fintech ecosystem in
+  Santa Monica with ample networking opportunities.  Engagement in a
+  collaborative work culture focused on innovation and growth. Join us to
+  leverage your experience and drive success in a dynamic and rapidly expanding
+  fintech landscape. Santa Monica offers a unique blend of tech innovation and
+  lifestyle, making it an ideal place for career growth.
 location: 'Santa Monica, CA'
 team: Software
 schedule: Standard Business Hours

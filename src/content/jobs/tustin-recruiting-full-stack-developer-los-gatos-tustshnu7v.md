@@ -7,7 +7,27 @@ description: >-
   processing and financial transactions. Ideally located for candidates in the
   surrounding areas of Saratoga, Campbell, Monte Sereno, and Cupertino, this
   role offers the opportunity to work with cuttingedge technology in a dynamic
-  and innovative environment. Qualifications ...
+  and innovative environment. Qualifications The successful candidate must have
+  strong experience with React, Node.js, TypeScript, and PostgreSQL. They should
+  also have good knowledge of payment gateway APIs, PCI compliance, and
+  financial regulations. Experience with Redux, GraphQL, and AWS is essential. 
+  Minimum of 5 years of experience as a Full Stack Developer or similar role 
+  Proficiency with fundamental frontend languages such as HTML, CSS, and
+  JavaScript  Familiarity with JavaScript frameworks such as React, and Node.js 
+  Strong experience with database technology such as PostgreSQL  Excellent
+  verbal communication skills  Good problemsolving skills  Attention to detail
+  Responsibilities The Full Stack Developer will be expected to:  Develop
+  frontend website architecture  Design user interactions on web pages  Develop
+  backend website applications  Create servers and databases for functionality 
+  Ensure crossplatform optimization for mobile phones  Ensure responsiveness of
+  applications  Work alongside graphic designers for web design features  See
+  projects through from conception to finished product  Meet both technical and
+  consumer needs  Stay abreast of developments in web applications and
+  programming languages Pay/Benefits The salary range for this position is
+  $109,244  $129,244 per year and includes a competitive benefits package.
+  Compensation will be commensurate with experience and skill level. Our Client
+  is an equal opportunity employer. We look forward to receiving your
+  application and discussing this opportunity further.
 location: 'Los Gatos, CA'
 team: Finance
 datePosted: '2024-12-27T09:50:17.667Z'

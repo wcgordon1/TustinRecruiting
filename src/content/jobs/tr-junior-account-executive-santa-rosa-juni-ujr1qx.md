@@ -11,7 +11,34 @@ description: >-
   Rosa, known for its thriving innovation hub. Key Responsibilities  Assist
   senior sales executives in developing and implementing sales strategies to
   meet company goals.  Engage with potential clients through direct
-  communication...
+  communication methods, using platforms like LinkedIn Sales Navigator. 
+  Maintain and update customer records in Salesforce, ensuring data accuracy and
+  client satisfaction.  Collaborate with project teams to align sales strategies
+  with operational execution.  Conduct market research to identify new business
+  opportunities within a 100mile radius.  Support the preparation of sales
+  presentations and proposals using ZoomInfo and Outreach.io.  Participate in
+  regular training sessions to enhance product knowledge and sales skills.
+  Required Qualifications  13 years of experience in sales or account
+  management, preferably in the security software or technology sector. 
+  Salesforce Certified Administrator and AWS Cloud Practitioner certifications. 
+  Proficiency in technologies such as ZoomInfo, Outreach.io, Salesforce,
+  HubSpot, and LinkedIn Sales Navigator.  Strong communication and interpersonal
+  skills.  Ability to travel within a 100mile radius as needed. Preferred
+  Qualifications  Google Analytics Certification.  Previous experience in
+  cybersecurity, identity management, or cloud security industries. 
+  Demonstrated success in a fastpaced, resultsoriented environment. Benefits &
+  Perks  Premium Health Insurance to support your wellbeing.  4 Weeks PTO to
+  recharge and rejuvenate.  401k Match to secure your financial future. 
+  Quarterly Bonuses rewarding your contributions to success.  Vehicle Allowance
+  for travel needs within the designated radius. Growth & Development  Engage in
+  professional growthfocused training opportunities designed to enhance your
+  skill set and career outlook.  Work in a supportive environment that values
+  continuous learning and provides mentorship from industry experts.  Clear
+  career progression pathways within the company, allowing you to expand your
+  responsibilities and reach new professional heights. Join us in Santa Rosa and
+  be a part of a futureforward company that values innovation, security, and
+  growth. Apply today and take the first step towards an exciting career in
+  cybersecurity sales.
 location: 'Santa Rosa, CA'
 team: Software
 schedule: Flexible Hours

@@ -7,7 +7,44 @@ description: >-
   engaging with prospective clients and driving the growth of cuttingedge
   financial technologies. As an SDR, you will be part of a closeknit team of 35
   professionals, working together to identify and create qualified sales
-  opportunities. With a focus on digital ...
+  opportunities. With a focus on digital banking and payment processing, you'll
+  have the chance to shape the financial landscape while advancing your career
+  in the thriving tech industry of the Pacific Northwest. Key Responsibilities 
+  Conduct highvolume outbound prospecting to generate qualified sales leads. 
+  Collaborate closely with the sales team to identify target markets and
+  potential customers.  Utilize tools such as ZoomInfo, Outreach.io, Salesforce,
+  and LinkedIn Sales Navigator to research and connect with prospects.  Engage
+  in meaningful conversations with potential clients about our fintech
+  solutions.  Schedule meetings and product demos for Account Executives to
+  further advance the sales process.  Maintain accurate records of all
+  interactions in Salesforce, ensuring a smooth handoff to the sales team.  Stay
+  updated on industry trends and competitive products to effectively position
+  our offerings. Required Qualifications  02 years of sales or customer service
+  experience.  Google Analytics Certification.  Salesforce Certified
+  Administrator.  Strong communication and interpersonal skills.  Ability to
+  work early morning shifts from 6:00 AM to 2:30 PM.  Willingness to travel
+  within a 30mile radius of Everett, WA. Preferred Qualifications  AWS Cloud
+  Practitioner certification.  Familiarity with HubSpot CRM.  Additional
+  experience with fintech or SaaS platforms.  Proactive and selfmotivated
+  approach to learning and problemsolving. Benefits & Perks We offer a
+  competitive benefits package designed to enhance your wellbeing and
+  professional growth:  Health & Wellness: Comprehensive medical, dental, and
+  vision coverage.  Financial Security: 401(k) plan with company matching. 
+  WorkLife Balance: Generous paid time off and flexible scheduling. 
+  Professional Development: Access to training resources and certification
+  reimbursements.  Employee Programs: Participation in teambuilding activities
+  and community events. Growth & Development At our company, we are committed to
+  fostering a culture of continuous improvement and personal growth. As an SDR,
+  you'll receive robust technical training and mentorship from industry experts,
+  ensuring you have the tools needed to excel. The tech industry in Everett is
+  rapidly expanding, offering numerous opportunities for career advancement
+  within our organization. You'll gain valuable experience in fintech sales,
+  setting the stage for future roles, such as Account Executive or Sales
+  Manager. Embrace the chance to be part of a forwardthinking company that
+  values innovation, diversity, and the pursuit of excellence. Embark on a
+  rewarding career journey with us in the heart of Everett's tech scene, where
+  your contributions will make a meaningful impact on the future of financial
+  services. Join our team and let's shape the future of fintech together!
 location: 'Everett, WA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

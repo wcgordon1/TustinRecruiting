@@ -7,7 +7,27 @@ description: >-
   we've got a golden ticket that might just be your dream job. Our client, a
   cuttingedge healthcare technology company, is looking for a Senior Software
   Engineer to join their team. Their main focus? Building scalable backend
-  systems for electronic health records and ...
+  systems for electronic health records and patient data management. Sounds like
+  your cup of tea? Read on! Qualifications We're looking for a real pro with
+  proven experience in Java, Python, AWS, and microservices architecture. HIPAA
+  compliance is a musthave, so if you've got that box ticked, you're already
+  halfway there! We also need you to have a strong understanding of healthcare
+  data standards like HL7 and FHIR. And if you're familiar with
+  containerization, CI/CD pipelines, and agile development methodologies, then
+  you're the one we've been searching for! Responsibilities We'll be honest,
+  we've got big expectations. As a Senior Software Engineer, you'll play a
+  crucial role in designing and implementing backend systems for our client's
+  electronic health records and patient data management. You'll work closely
+  with the rest of the team to ensure our systems are efficient, userfriendly,
+  and always improving. You'll also be expected to adhere to HIPAA compliance
+  and other relevant regulations, because we're all about providing safe and
+  secure healthcare solutions. Pay/Benefits Now, let's talk numbers. For your
+  hard work and dedication, we're ready to offer a salary range of $130,505 to
+  $150,505 per year, plus benefits. We believe in rewarding our team for their
+  talent and commitment, and we think this package reflects that. So that's the
+  scoop! If you're ready to bring your Agame to a dynamic team and make a real
+  impact on the healthcare industry, we'd love to hear from you. Let's change
+  lives together!
 location: 'Emeryville, CA'
 team: Software
 datePosted: '2024-12-28T07:51:06.906Z'

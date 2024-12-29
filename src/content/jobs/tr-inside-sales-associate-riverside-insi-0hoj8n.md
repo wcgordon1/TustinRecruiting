@@ -11,7 +11,31 @@ description: >-
   Associate, where you will engage with healthcare professionals across
   Riverside, making impactful connections and driving sales initiatives. With a
   work schedule that perfectly balances productivity and personal time, you'll
-  be part of a collaborative...
+  be part of a collaborative 35 person team, focused on extending the reach of
+  our digital health solutions. Key Responsibilities  Develop and maintain
+  relationships with prospective clients within a 30mile radius of Riverside. 
+  Identify and capitalize on sales opportunities through strategic engagement
+  and comprehensive understanding of healthcare tech solutions.  Utilize
+  Salesforce, Outreach.io, and HubSpot to manage sales processes and track
+  interactions.  Collaborate with team members to achieve sales targets and
+  improve market outreach.  Engage in continuous learning and application of
+  industry best practices to enhance sales techniques. Required Qualifications 
+  12 years of experience in a salesrelated role, ideally within the tech or
+  healthcare sector.  HubSpot Sales Software Certification.  Salesforce
+  Certified Administrator.  Proficiency in leveraging LinkedIn Sales Navigator
+  and ZoomInfo for lead generation.  Strong communication and organizational
+  skills. Preferred Qualifications  Google Analytics Certification.  Additional
+  experience with healthcare analytics and related technologies.  Proven track
+  record in achieving sales goals. Benefits & Perks  Premium Health Insurance  4
+  Weeks PTO  401k Match  Quarterly Bonuses  Vehicle Allowance Growth &
+  Development  Training Opportunities: Engage in sales development programs
+  designed to enhance your skills and knowledge in healthcare tech solutions. 
+  Career Progression: Take advantage of career advancement paths that support
+  professional growth within the rapidlyevolving digital health landscape. Join
+  us in making a meaningful impact in the healthcare industry while growing your
+  career in a supportive and innovative environment. We are excited to welcome a
+  new team member to our Riverside office, where technology meets healthcare for
+  a healthier tomorrow.
 location: 'Riverside, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

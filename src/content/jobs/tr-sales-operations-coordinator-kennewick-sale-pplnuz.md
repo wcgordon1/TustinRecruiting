@@ -7,7 +7,26 @@ description: >-
   platforms and analytics tools. Key Responsibilities  Manage and optimize CRM
   systems, ensuring data accuracy and efficiency.  Collaborate with sales and
   marketing teams to streamline operations and improve performance.  Utilize
-  technology stack eff...
+  technology stack effectively, including ZoomInfo, Outreach.io, Salesforce,
+  HubSpot, and LinkedIn Sales Navigator.  Analyze sales data and generate
+  actionable insights to support strategic planning.  Facilitate training
+  sessions on system updates and best practices for team members.  Travel as
+  required, within a 30mile radius, to support regional team activities.
+  Requirements  Education: Bachelor’s degree in Business, Marketing, or related
+  field (preferred, not required).  Experience: 02 years in a sales operations
+  or related role.  Certifications: Salesforce Certified Administrator and AWS
+  Cloud Practitioner (required).  Preferred: HubSpot Sales Software
+  Certification, Google Analytics Certification.  Skills: Strong analytical
+  skills, excellent communication, and proficiency in the given technology
+  stack. Benefits  Flexible working hours to accommodate personal and
+  professional needs.  Industryfocused training for career growth and
+  development.  Standard Plus benefits package, including health, dental, and
+  vision insurance.  Opportunities to work with a diverse, innovative team in
+  the thriving tech industry of Kennewick.  Support for professional
+  certification renewals and skill enhancement initiatives. Embrace the
+  opportunity to enhance your sales operations expertise in the evolving MarTech
+  landscape. Apply today and be part of an organization that values innovation
+  and growth.
 location: 'Kennewick, WA'
 team: Software
 schedule: Flexible Hours

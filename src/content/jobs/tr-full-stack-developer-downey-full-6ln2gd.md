@@ -10,7 +10,29 @@ description: >-
   (USBased)  Industry: Fintech (Financial Services, Payment Processors, Digital
   Banking)  Schedule: Standard Business Hours  Team Structure: Lead a team of 46
   technicians  Travel: No travel required  Training: Sales Development focused
-  Key Responsibilities  Design and develop scalabl...
+  Key Responsibilities  Design and develop scalable applications in a fully
+  remote setting  Collaborate with crossfunctional teams to deliver innovative
+  Fintech solutions  Lead and mentor a team of developers, fostering a
+  collaborative remote work culture  Implement and maintain a robust technology
+  stack with tools like Kubernetes and Docker  Ensure highquality code delivery
+  via automated testing and continuous integration  Engage in technical
+  discussions to improve product architecture and user experiences Requirements
+  Remote Work Requirements  Strong communication skills for effective remote
+  collaboration  Experience with remote work tools and practices  Selfmotivated
+  and capable of working independently  Wellequipped home office setup with
+  reliable internet Experience & Skills  Experience Required: 35 years in a
+  similar role  Technology Stack: Proficiency in Kubernetes, Docker,
+  AWS/Azure/GCP, Node.js, GraphQL, React, TypeScript  Required Certifications:
+  Kubernetes Administrator, AWS Solutions Architect  Preferred Certifications:
+  Azure Developer Associate Benefits  Comprehensive health, dental, and vision
+  insurance  Competitive salary with performancebased bonuses  Retirement plans
+  with company matching  Generous paid time off and flexible work hours 
+  Continuous learning and development opportunities  Access to cuttingedge
+  technology and tools  Engaging in a supportive, innovative remote culture with
+  a focus on growth and collaboration Embrace the opportunity to influence the
+  future of Fintech in a fully virtual environment, while enjoying the benefits
+  of working remotely. Our company is committed to innovation, excellence, and
+  fostering a dynamic team culture that supports career growth and development.
 location: 'Downey, CA'
 team: Software
 schedule: Standard Business Hours

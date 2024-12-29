@@ -6,7 +6,33 @@ description: >-
   nearby major cities required Position Overview Join a dynamic and innovative
   fintech company that's reshaping the future of financial services, payment
   processing, and digital banking. As an Inside Sales Associate, you'll be at
-  the forefront of industry advancements in the diverse...
+  the forefront of industry advancements in the diverse and vibrant market of
+  Los Angeles, CA. With a focus on leveraging cuttingedge technology and
+  creative sales strategies, you'll play a pivotal role in driving our growth
+  and success. This position offers a unique opportunity to work within a
+  tightknit team, ensuring personal achievement and team accomplishments. Key
+  Responsibilities  Engage and educate potential clients about our fintech
+  solutions using an informed sales strategy.  Utilize and manage leading
+  technology platforms, including HubSpot, Salesforce, and Outreach.io, to
+  streamline sales processes.  Collaborate closely with team members to enhance
+  sales strategies and achieve targeted results.  Conduct regular travel to
+  nearby major cities for client meetings and industry events.  Develop strong
+  rapport with clients through excellent communication and customer service
+  skills. Required Qualifications  12 years of inside sales or related
+  experience.  AWS Cloud Practitioner Certification.  HubSpot Sales Software
+  Certification.  Proficiency in using technology tools such as LinkedIn Sales
+  Navigator and ZoomInfo.  Strong interpersonal and communication skills.
+  Preferred Qualifications  Google Analytics Certification.  Advanced knowledge
+  of HubSpot Sales Software.  Familiarity with Los Angeles fintech landscape and
+  trends. Benefits & Perks  Full Health Insurance  3 Weeks Paid Time Off (PTO) 
+  401k Match  Performance Bonuses  Tool Allowance Growth & Development We are
+  committed to your growth and offer industryfocused training to ensure you stay
+  ahead in a rapidlyevolving fintech environment. You'll have access to
+  mentorship and career progression opportunities, empowering you to advance
+  within our organization and develop into a key industry leader. Embark on a
+  rewarding career path with us in the heart of Los Angeles, where innovation
+  meets opportunity. Apply now to become a vital member of our expanding fintech
+  family!
 location: 'Los Angeles, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

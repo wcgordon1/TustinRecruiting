@@ -7,7 +7,33 @@ description: >-
   Remote Senior Mobile Application Developer, you will be a key player in our
   mission to redefine FinTech and will have the opportunity to collaborate with
   crossfunctional product teams. This position offers a unique opportunity for
-  professional growth in an exciting startup...
+  professional growth in an exciting startup environment. Position Overview As a
+  Senior Mobile Application Developer, you will be responsible for the design,
+  development, and maintenance of our mobile applications. You will work
+  collaboratively with Product, Design, and QA teams to deliver highquality,
+  scalable, ontime releases of our product. This role is handson and requires
+  substantial mobile development experience, particularly on iOS platforms. Key
+  Responsibilities  Design, develop, and maintain highquality native mobile
+  applications  Collaborate with crossfunctional teams to define, design, and
+  ship new features  Unittest code for robustness, including edge cases,
+  usability, and general reliability  Work on bug fixing and improving
+  application performance  Continuously discover, evaluate, and implement new
+  technologies to maximize development efficiency Required Qualifications 
+  Minimum of 58 years of experience in mobile application development  React
+  Native Certification  Apple Developer Certification  Proficiency in
+  Swift/SwiftUI and React Native  Experience with GraphQL, AWS Amplify, and
+  CircleCI/Jenkins  Strong communication skills with experience working in a
+  remote environment  Selfmotivated and capable of working independently
+  Preferred Qualifications  AWS Mobile Developer Certification  Experience
+  working in a FinTech environment  Extensive experience with App Store Connect
+  Benefits & Perks  Competitive Salary  Work from home with a flexible schedule 
+  Health, Dental, and Vision Insurance  Unlimited Paid Time Off  Stock Options
+  Growth & Development We place a strong emphasis on the growth and development
+  of our team members. As a wellfunded startup, we provide numerous
+  opportunities for career advancement. Our leadershipfocused training provides
+  you with the tools you need to advance in your career. Additionally, our
+  remote work culture and virtual collaboration tools ensure you stay connected
+  with your team, fostering a strong sense of community and shared goals.
 location: 'San Jose, CA'
 team: Mobile
 schedule: Full Time

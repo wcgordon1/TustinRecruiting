@@ -4,7 +4,30 @@ description: >-
   Overview Join a dynamic and growing security software company in Murrieta, CA,
   as a SaaS Account Executive. Leverage your sales expertise and certifications
   to drive business success in the fastevolving cybersecurity landscape. Be part
-  of an innovative team working on cuttingedge solutions in i...
+  of an innovative team working on cuttingedge solutions in identity management
+  and cloud security. Key Responsibilities  Drive sales growth by identifying
+  and closing new business opportunities within a 30mile radius.  Develop and
+  maintain strong relationships with clients, understanding their security
+  needs.  Collaborate with a specialized team of 35 members to strategize and
+  execute sales plans.  Utilize tools like HubSpot, ZoomInfo, LinkedIn Sales
+  Navigator, Salesforce, and Outreach.io to manage sales processes.  Deliver
+  compelling presentations and product demonstrations to potential clients. 
+  Meet and exceed sales targets by leveraging industry knowledge and customer
+  insights.  Provide feedback and insights from the field to improve product
+  offerings and sales strategies. Requirements  13 years of sales experience,
+  preferably in the cybersecurity or tech industry.  Salesforce Certified
+  Administrator and AWS Cloud Practitioner certifications required.  Proficient
+  in the use of sales technology stack: HubSpot, ZoomInfo, LinkedIn Sales
+  Navigator, Salesforce, Outreach.io.  Strong communication and negotiation
+  skills.  Ability to work second shift: 2:00 PM  10:30 PM.  Willingness to
+  travel within a 30mile radius for client meetings and sales calls. Benefits 
+  Competitive salary with performancebased incentives.  Standard Plus benefits
+  package, including health, dental, and vision insurance.  Opportunities for
+  career growth and advancement within the company.  Access to ongoing sales
+  development training programs.  Collaborative and innovative work environment
+  with a focus on cuttingedge technology. Join us in shaping the future of
+  cybersecurity. Apply today to become a key player in a thriving tech community
+  in Murrieta!
 location: 'Murrieta, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

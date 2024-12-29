@@ -7,7 +7,23 @@ description: >-
   throw away from the vibrant cities of Walnut Creek, Pleasanton, and Livermore.
   This role is all about maintaining and scaling up their infrastructure,
   particularly during those peak traffic periods. Think you've got what it
-  takes? Keep reading! Qualifications Alri...
+  takes? Keep reading! Qualifications Alright, let's talk skills! We're looking
+  for someone who's got strong experience with Kubernetes, Docker, Terraform,
+  and major cloud platforms like AWS and GCP. You should also have a good
+  knowledge of monitoring tools like Datadog and New Relic. Are you familiar
+  with CI/CD pipelines and automation? That's a big plus! And if you've got
+  experience with microservices architecture and know how to optimize
+  performance, we definitely want to hear from you. Responsibilities As a DevOps
+  Engineer, your main duty will be to maintain and scale up the infrastructure,
+  making sure it can handle hightraffic periods. You'll be working with
+  Kubernetes, Docker, and Terraform, and you'll be managing resources on AWS and
+  GCP. Additionally, you'll need to monitor the system using tools like Datadog
+  and New Relic, manage CI/CD pipelines, automate tasks where possible, and
+  optimize the performance of the system. Pay/Benefits Now, for the part you've
+  been waiting for  the compensation! Our client is offering a salary range of
+  $114,070$134,070 per year, along with competitive benefits. So, interested in
+  taking the next step in your career with a company that values your skills and
+  offers a competitive compensation package? Swing us your resume today!
 location: 'San Ramon, CA'
 team: Software
 datePosted: '2024-12-27T20:57:30.472Z'

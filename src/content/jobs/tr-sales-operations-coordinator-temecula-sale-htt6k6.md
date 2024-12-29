@@ -10,7 +10,37 @@ description: >-
   role will involve occasional travel within a 100mile radius to foster
   relationships and ensure operational excellence. Key Responsibilities  Lead
   and coordinate a team of 46 sales technicians to achieve and exceed sales
-  targets.  Utilize Salesforce, HubSpot, and other CRM tools to mana...
+  targets.  Utilize Salesforce, HubSpot, and other CRM tools to manage sales
+  data and streamline processes.  Generate and analyze sales reports to provide
+  insights and recommendations to the sales leadership team.  Collaborate with
+  crossfunctional teams to enhance customer acquisition and retention
+  strategies.  Maintain proficiency in the latest B2B sales technologies,
+  ensuring effective use of ZoomInfo, LinkedIn Sales Navigator, and
+  Outreach.io.  Implement industryspecific training programs to enhance team
+  knowledge and performance.  Facilitate communication and collaboration within
+  the team and across departments to optimize sales operations. Required
+  Qualifications  02 years of experience in sales operations or a related
+  field.  Salesforce Certified Administrator.  Google Analytics Certification. 
+  Proficiency in using Salesforce, ZoomInfo, and HubSpot.  Strong analytical
+  skills and attention to detail.  Excellent communication and leadership
+  abilities.  Ability to travel within a 100mile radius as needed. Preferred
+  Qualifications  HubSpot Sales Software Certification.  Experience with
+  LinkedIn Sales Navigator and Outreach.io.  Demonstrated success in a SaaS or
+  technologydriven environment.  Familiarity with technology sales processes and
+  strategies. Benefits & Perks  Full Health Insurance coverage.  3 Weeks of Paid
+  Time Off (PTO).  Competitive 401k match program.  Attractive performance
+  bonuses.  Tool allowance to ensure you have the best resources at your
+  disposal. Growth & Development  Participate in industryfocused training
+  sessions and workshops to stay at the forefront of sales technology trends. 
+  Access to career progression opportunities within our innovative tech company,
+  where you can advance to roles with greater responsibility and leadership.  Be
+  part of a vibrant tech community in Temecula, benefiting from local networking
+  and industry events that foster professional growth. This is an exciting
+  opportunity to grow your career in the tech industry while leading a talented
+  team and making a significant impact. If you are passionate about sales
+  operations and thrive in a fastpaced, innovative environment, we encourage you
+  to apply and join us on this exciting journey in the heart of Temecula's
+  growing tech community.
 location: 'Temecula, CA'
 team: Software
 schedule: Standard Business Hours

@@ -7,7 +7,26 @@ description: >-
   the ecommerce industry, is looking for someone to help maintain and scale
   their infrastructure, particularly during hightraffic periods. If you're the
   kind of person who loves working with Kubernetes, Docker, and Terraform, and
-  you're no stranger to major cloud platfor...
+  you're no stranger to major cloud platforms like AWS and GCP, we'd love to
+  chat! Qualifications To make a real impact in this role, you should have
+  strong experience with Kubernetes, Docker, Terraform and major cloud platforms
+  (AWS/GCP). We're also looking for someone with knowledge of monitoring tools
+  (like Datadog and New Relic), CI/CD pipelines, and automation. If you're
+  familiar with microservices architecture and have some tricks up your sleeve
+  for performance optimization, that's even better! Responsibilities As a DevOps
+  Engineer, you'll play a crucial role in maintaining and scaling our client's
+  infrastructure, especially during those crazy hightraffic periods. You'll be
+  working with Kubernetes, Docker, and Terraform on a daily basis, and you'll
+  need to be comfortable with major cloud platforms like AWS and GCP. Monitoring
+  tools will be your best friends, and you'll be expected to build and maintain
+  CI/CD pipelines and automate tasks where possible. Lastly, you'll be involved
+  in working with microservices architecture and will be responsible for
+  performance optimization. Pay/Benefits We believe in rewarding our team well
+  for the work they do. For this role, you can expect a salary range between
+  $114,388$134,388 per year, along with some fantastic benefits. We're excited
+  to hear from you! If this role sounds like a good fit, please reach out. We
+  can't wait to see the amazing things you'll accomplish as our new DevOps
+  Engineer!
 location: 'Bellevue, WA'
 team: Software
 datePosted: '2024-12-28T04:21:53.296Z'

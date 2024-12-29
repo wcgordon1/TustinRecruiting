@@ -8,7 +8,36 @@ description: >-
   engage with clients in nearby major cities to foster strategic partnerships
   and enhance sales operations. This position is tailored for individuals with a
   strategic mindset and a passion for technologydriven sales environments. Key
-  Responsibilities  Lead and optimize sales operations to e...
+  Responsibilities  Lead and optimize sales operations to enhance team
+  productivity and effectiveness.  Collaborate with crossfunctional teams to
+  implement technology solutions that streamline sales processes.  Analyze sales
+  data to identify trends, forecast performance, and drive strategic decisions. 
+  Manage CRM platforms and ensure data integrity across systems such as
+  Salesforce and HubSpot.  Develop and deliver training programs focused on
+  technical skills and tool proficiency for the sales team.  Coordinate regular
+  travel to major cities nearby for client meetings and industry events. 
+  Support the sales team in the adoption of new technologies, ensuring a smooth
+  transition and integration.  Regularly review and report on sales operations
+  metrics and KPIs to senior management. Requirements  57 years of experience in
+  sales operations or a related field.  Proven expertise in using and managing
+  CRM platforms and sales technologies.  Required Certifications: HubSpot Sales
+  Software Certification, AWS Cloud Practitioner.  Preferred Certifications:
+  Google Analytics Certification, Salesforce Certified Administrator. 
+  Proficiency with technology stack: Outreach.io, ZoomInfo, Salesforce, LinkedIn
+  Sales Navigator, HubSpot.  Strong analytical skills and ability to translate
+  data into actionable insights.  Excellent organizational and project
+  management skills.  Ability to work onsite in Westminster, CA, during standard
+  business hours.  Willingness to travel regularly to nearby major cities for
+  business engagements. Benefits  Comprehensive healthcare, dental, and vision
+  plans.  Flexible spending accounts for healthcare and dependent care. 
+  Generous paid time off policy, including holidays and personal days. 
+  Retirement savings plan with company match.  Opportunities for professional
+  development and certification reimbursement.  Access to cuttingedge technology
+  and tools in the MarTech space.  Collaborative and innovative work environment
+  focused on growth and learning. This role offers a unique opportunity to be at
+  the forefront of sales technology in the dynamic tech industry of Westminster,
+  CA. Embrace the chance to grow professionally while contributing to the
+  success of a forwardthinking MarTech company.
 location: 'Westminster, CA'
 team: Software
 schedule: Standard Business Hours

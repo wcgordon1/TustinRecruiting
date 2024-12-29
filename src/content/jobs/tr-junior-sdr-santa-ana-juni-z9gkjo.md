@@ -1,12 +1,41 @@
 ---
 position: Junior SDR
 description: >-
-  Join our dynamic and innovative team in the heart of Santa Ana, CA, as a
-  Junior Sales Development Representative (SDR). In this role, you'll spearhead
-  the early stages of the sales cycle by connecting with potential clients,
-  guiding them through the features of our cuttingedge marketing technologies,
-  and paving the way for successful business partnerships. You'll be a pivotal
-  part of a fastpaced MarTech environm...
+  Position Overview Join our dynamic and innovative team in the heart of Santa
+  Ana, CA, as a Junior Sales Development Representative (SDR). In this role,
+  you'll spearhead the early stages of the sales cycle by connecting with
+  potential clients, guiding them through the features of our cuttingedge
+  marketing technologies, and paving the way for successful business
+  partnerships. You'll be a pivotal part of a fastpaced MarTech environment,
+  collaborating with a team of 46 technicians, discovering and solving the
+  challenges of marketers worldwide. This is a fantastic opportunity to
+  jumpstart your career in the tech industry with a focus on growth and
+  development in one of California’s vibrant business hubs. Key
+  Responsibilities  Develop and manage sales pipelines through a proactive,
+  outbound sales strategy.  Engage potential clients through targeted outreach
+  via Salesforce, Outreach.io, and LinkedIn Sales Navigator.  Conduct detailed
+  market research to identify potential prospects.  Collaborate with the
+  technical team to tailor pitches that meet clients' specific needs.  Lead the
+  introductory stages of client relationship, setting the groundwork for
+  longterm partnerships.  Regular travel to major nearby cities for client
+  meetings and industry events. Required Qualifications  02 years of experience
+  in a sales or marketing role.  AWS Cloud Practitioner Certification.  Google
+  Analytics Certification.  Proficiency with Salesforce, Outreach.io, HubSpot,
+  and ZoomInfo.  Strong communication and interpersonal skills. Preferred
+  Qualifications  HubSpot Sales Software Certification.  Salesforce Certified
+  Administrator.  Experience in the MarTech industry or related field. Benefits
+  & Perks  Premium Health Insurance: Comprehensive medical, dental, and vision
+  plans.  4 Weeks PTO: Generous paid time off to refresh and recharge.  401k
+  Match: Company matches your contributions to secure your future.  Quarterly
+  Bonuses: Performancebased incentives to reward your hard work.  Vehicle
+  Allowance: Support for travelrelated expenses. Growth & Development  Training
+  Opportunities: Access to a wealth of industryfocused training programs to
+  enhance your skills and career prospects.  Career Progression: Clear pathways
+  to advance into more senior roles within the company as you meet your goals.
+  You'll be mentored by industry leaders eager to guide your professional
+  journey. Embark on an exciting career path with us where innovation meets
+  opportunity, and your growth is our mission. Be part of shaping the future of
+  marketing technology in Santa Ana and beyond.
 location: 'Santa Ana, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

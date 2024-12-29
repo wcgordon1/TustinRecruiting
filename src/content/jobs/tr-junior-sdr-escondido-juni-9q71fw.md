@@ -7,7 +7,31 @@ description: >-
   customer base in the enterprise software, cloud platforms, and B2B tech
   sectors. This role is perfect for those looking to kickstart their career in
   tech sales, offering handson experience in a supportive and innovative
-  environment. You will work the second shift from 2:00 PM to 1...
+  environment. You will work the second shift from 2:00 PM to 10:30 PM,
+  providing you with the unique opportunity to make impactful connections with
+  clients. Key Responsibilities  Engage with potential clients and nurture leads
+  through various communication channels.  Work closely with the sales team to
+  develop and implement effective strategies.  Manage and update CRM tools such
+  as Salesforce and HubSpot to ensure accurate data tracking.  Conduct research
+  to identify new markets and customer needs within a 30mile radius. 
+  Participate in team meetings and contribute innovative ideas for lead
+  generation. Required Qualifications  02 years of relevant experience in sales
+  or customer service.  Salesforce Certified Administrator.  HubSpot Sales
+  Software Certification.  Proficiency in HubSpot, Outreach.io, LinkedIn Sales
+  Navigator, Salesforce, and ZoomInfo.  Excellent communication and
+  interpersonal skills. Preferred Qualifications  AWS Cloud Practitioner
+  Certification.  Google Analytics Certification.  Experience in SaaS or the
+  technology sector.  Strong analytical and problemsolving abilities. Benefits &
+  Perks  Premium Health Insurance.  4 Weeks PTO to recharge and relax.  401k
+  Match to support your future.  Quarterly Bonuses based on performance. 
+  Vehicle Allowance to assist with travel within the region. Growth &
+  Development Our company is committed to your personal and professional growth.
+  You will receive comprehensive technical training tailored to the fastpaced
+  tech industry. We provide clear career progression pathways, with
+  opportunities to advance into senior sales roles or specialize in market
+  analysis and strategy development. Escondido is a hub for tech innovation, and
+  you’ll be right at the center of this dynamic environment. Join us and take
+  the first step towards a rewarding and progressive career in tech sales!
 location: 'Escondido, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

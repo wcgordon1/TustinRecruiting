@@ -4,7 +4,39 @@ description: >-
   Join our dynamic team as an Inside Sales Associate in the vibrant fintech hub
   of Carlsbad, CA. If you're looking to thrive in the fastpaced world of
   financial services and digital banking, and are passionate about leveraging
-  cuttingedge...
+  cuttingedge technology to drive sales, we want you on our team. As an Inside
+  Sales Associate, you'll work across multiple project teams to connect with
+  prospective clients and provide tailored solutions that meet their needs. Key
+  Responsibilities  Develop and maintain a thorough understanding of our fintech
+  products and services.  Engage with potential clients through various
+  communication channels, including phone, email, and social media.  Utilize
+  tools like Outreach.io, ZoomInfo, Salesforce, and HubSpot to manage sales
+  pipelines and track client interactions.  Collaborate with crossfunctional
+  project teams to ensure client needs are met effectively.  Contribute to
+  ongoing sales strategy discussions and share insights from client
+  interactions.  Attend and participate in team meetings, both inoffice and with
+  stakeholders within 30 miles of Carlsbad.  Provide feedback on product
+  enhancements based on client insights. Required Qualifications  12 years of
+  experience in a sales or customer service role, preferably within the fintech
+  industry.  HubSpot Sales Software Certification.  AWS Cloud Practitioner
+  Certification.  Proficiency in using technology sales stack: Outreach.io,
+  ZoomInfo, Salesforce, HubSpot, and LinkedIn Sales Navigator.  Ability to work
+  effectively during the first shift (6:00 AM  2:30 PM). Preferred
+  Qualifications  Strong understanding of fintech concepts and industry trends. 
+  Proven ability to work collaboratively across diverse project teams. 
+  Excellent communication and interpersonal skills.  Selfmotivated with a
+  passion for technology and sales. Benefits & Perks  Comprehensive Health
+  Insurance.  Generous 3 Weeks Paid Time Off.  401k Retirement Plan with Company
+  Match.  Opportunity to earn Performance Bonuses.  Tool Allowance to support
+  your sales efforts. Growth & Development  Take advantage of our robust
+  training programs focused on technical and industryspecific knowledge,
+  designed to enhance your skills.  Clear career progression pathways with
+  opportunities for advancement in fintech sales, account management, and
+  leadership roles.  Network with industry professionals and gain exposure to
+  the latest in digital banking and payment processing technologies. Join us and
+  be part of an innovative team driving change in the fintech industry. Apply
+  today to embark on a rewarding career with ample growth opportunities in
+  Carlsbad, CA!
 location: 'Carlsbad, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

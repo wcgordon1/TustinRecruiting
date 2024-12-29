@@ -7,7 +7,25 @@ description: >-
   on building and managing reseller partnerships, and is perfect for someone who
   thrives in an innovative, fastpaced environment. Qualifications To be
   successful in this role, you will need to have substantial experience in
-  recruiting, enabling, and growing a network ...
+  recruiting, enabling, and growing a network of valueadded resellers and system
+  integrators. Experience in developing channel programs, creating partner
+  enablement materials, and managing complex partner ecosystems is also crucial.
+  A strong understanding of channel economics, deal registration programs, and
+  partner incentive structures is required. Proficiency with partner
+  relationship management (PRM) systems and channel marketing strategies is also
+  necessary. Responsibilities As a Channel Sales Manager, your responsibilities
+  will include, but are not limited to:  Building and managing reseller
+  partnerships  Recruiting, enabling, and growing a network of valueadded
+  resellers and system integrators  Developing channel programs and partner
+  enablement materials  Managing complex partner ecosystems  Understanding and
+  applying channel economics, deal registration programs, and partner incentive
+  structures  Effectively using partner relationship management (PRM) systems
+  and channel marketing strategies Pay/Benefits In return for your hard work and
+  dedication, you will be rewarded with a competitive salary ranging from
+  $99,163 to $119,163 per year, plus benefits. Our Client is committed to
+  offering an inclusive, supportive work environment where you can grow and
+  thrive. If you have the necessary skills and experience, and are ready to take
+  on a new and exciting challenge, please apply today.
 location: 'Huntington Beach, CA'
 team: Software
 datePosted: '2024-12-27T15:24:37.600Z'

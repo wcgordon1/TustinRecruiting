@@ -7,7 +7,25 @@ description: >-
   Collaborate across multiple project teams  Travel: Within 30 miles from home
   base  Training: Focused on technical skills Key Responsibilities  Identify and
   qualify potential leads within the cybersecurity sector  Use technology stack
-  (ZoomInfo, Outreach....
+  (ZoomInfo, Outreach.io, Salesforce, LinkedIn Sales Navigator, HubSpot) to
+  drive prospecting efforts  Engage with leads to understand their security
+  software needs  Coordinate with sales and marketing teams to refine
+  leadgeneration strategies  Conduct research and analysis on market trends to
+  identify new business opportunities  Document activities and manage leads
+  within Salesforce  Regularly update team on progress and market insights
+  Requirements  Certifications: HubSpot Sales Software Certification, AWS Cloud
+  Practitioner required  Preferred Certifications: Additional AWS Cloud
+  certifications advantageous  Technical proficiency with ZoomInfo, Outreach.io,
+  Salesforce, LinkedIn Sales Navigator, and HubSpot  Strong communication and
+  interpersonal skills  Detailoriented with a proactive approach to
+  problemsolving  Ability to learn quickly and adapt to a fastpaced environment
+  Benefits  Competitive compensation package  Advanced benefits tier, including
+  health, dental, and vision insurance  Flexible work hours promoting worklife
+  balance  Opportunities for professional growth and advancement within the tech
+  industry  Access to ongoing technical training programs  Exposure to
+  innovative cybersecurity solutions and industry trends Join our team in Kent,
+  WA, and contribute to the dynamic and growing tech industry by driving the
+  success of our security software solutions.
 location: 'Kent, WA'
 team: Software
 schedule: Flexible Hours

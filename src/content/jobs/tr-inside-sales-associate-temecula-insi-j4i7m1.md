@@ -11,7 +11,22 @@ description: >-
   LinkedIn Sales Navigator to identify leads.  Maintain detailed records of
   client interactions and sales activities.  Collaborate with team members to
   develop and implement sales strategies.  Participate in ongoing training to
-  enhance product knowledge and sal...
+  enhance product knowledge and sales techniques.  Actively contribute to the
+  team’s sales targets and performance metrics. Requirements  Experience: 12
+  years in an inside sales or similar role.  Certifications: AWS Cloud
+  Practitioner and Google Analytics Certification required.  Preferred
+  Knowledge: Familiarity with HubSpot is advantageous.  Skills: Proficiency in
+  Salesforce and Outreach.io; strong communication and negotiation skills. 
+  Selfmotivated with a strong drive to meet and exceed sales goals.  Ability to
+  travel within a 100 mile radius. Benefits  Comprehensive health, dental, and
+  vision insurance plans.  Competitive salary plus performancebased incentives. 
+  Professional development programs focused on career growth.  Access to
+  industryleading sales tools and platforms.  Collaborative work environment
+  fostering innovation and teamwork.  Opportunities for advancement within a
+  dynamic tech industry setting.  Standard Plus benefits package including
+  401(k) and PTO. Join our forwardthinking team in Temecula and gain the
+  opportunity to grow your career in the exciting and everevolving world of SaaS
+  and Enterprise Software.
 location: 'Temecula, CA'
 team: Software
 schedule: Standard Business Hours

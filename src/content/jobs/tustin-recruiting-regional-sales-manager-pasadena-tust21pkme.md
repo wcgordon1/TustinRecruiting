@@ -7,7 +7,19 @@ description: >-
   Altadena, South Pasadena, and Sierra Madre. The Regional Sales Manager will
   oversee a team of sales representatives tasked with selling industrial
   equipment and automation solutions. The successful candidate will have proven
-  experience managing complex B2B sales cycles, di...
+  experience managing complex B2B sales cycles, distributor relationships, and a
+  strong knowledge of manufacturing processes, supply chain, and industry
+  regulations. Qualifications  Proven track record of managing complex B2B sales
+  cycles  Experience in managing distributor relationships  Knowledge of
+  manufacturing processes and supply chain  Familiarity with industry
+  regulations  Proven track record of territory growth and team development
+  Responsibilities  Oversee a team of sales representatives selling industrial
+  equipment and automation solutions  Manage complex B2B sales cycles  Develop
+  and maintain strong distributor relationships  Ensure compliance with
+  manufacturing processes, supply chain, and industry regulations  Promote
+  territory growth and team development Pay/Benefits Our client offers a
+  competitive salary ranging from $140,732 to $180,732 per year, along with a
+  comprehensive benefits package.
 location: 'Pasadena, CA'
 team: Logistics
 datePosted: '2024-12-27T22:32:31.931Z'

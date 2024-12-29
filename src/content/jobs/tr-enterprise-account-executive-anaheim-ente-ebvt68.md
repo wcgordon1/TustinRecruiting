@@ -8,7 +8,32 @@ description: >-
   team of 46 technicians, working standard business hours with regular travel to
   nearby major cities. This position is pivotal for expanding our reach and
   enhancing our technological offerings in the MarTech industry. Key
-  Responsibilities  Client Engagement: Develop and maintain...
+  Responsibilities  Client Engagement: Develop and maintain strong relationships
+  with enterprise clients to promote our suite of marketing technology
+  solutions.  Sales Strategy: Implement and refine sales strategies to meet and
+  exceed revenue targets.  Team Leadership: Lead, mentor, and motivate a team of
+  46 technicians, fostering a collaborative and innovative work environment. 
+  Market Analysis: Conduct thorough market research to identify new business
+  opportunities and stay ahead of industry trends.  Technical Training: Engage
+  in ongoing technical training to ensure proficiency in the latest marketing
+  technology tools and platforms.  Travel: Regularly travel to nearby major
+  cities for client meetings and industry events. Requirements  Experience: 35
+  years in enterprise sales, preferably in the MarTech industry. 
+  Certifications:  Required: Google Analytics Certification, HubSpot Sales
+  Software Certification  Preferred: Google Analytics Certification, HubSpot
+  Sales Software Certification  Technology Stack Proficiency:  HubSpot  LinkedIn
+  Sales Navigator  ZoomInfo  Salesforce  Outreach.io  Location: Must be willing
+  to work onsite in Anaheim, CA.  Schedule: Adherence to standard business hours
+  with flexibility for travel as needed. Benefits  Comprehensive Health
+  Coverage: Medical, dental, and vision plans to ensure overall wellbeing. 
+  Retirement Savings: 401(k) plan with company match to support your financial
+  future.  Professional Development: Opportunities for growth through continuous
+  learning and certification programs.  WorkLife Balance: Generous paid time off
+  and a supportive work environment.  Travel Allowances: Reimbursement for
+  travel expenses related to client meetings and industry events. This is an
+  exciting opportunity to join a forwardthinking company in Anaheim's thriving
+  tech industry, where you can leverage your skills and expertise to drive
+  significant impact and growth.
 location: 'Anaheim, CA'
 team: Software
 schedule: Standard Business Hours

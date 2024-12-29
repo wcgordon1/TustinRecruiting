@@ -7,7 +7,32 @@ description: >-
   to transition into a finance company specializing in heavy document work. Your
   expertise in managing contracts and ensuring compliance will play a critical
   role in supporting the efficiency of commercial equipment lease and loan
-  transactions.
+  transactions. Key Responsibilities  Manage the entire contract process, from
+  origination to funding, ensuring smooth and timely completion.  Draft, review,
+  and finalize lease and loan documentation with precision to ensure compliance
+  with company policies.  Handle UCC filings, resolve conflicts, and secure
+  necessary agreements to facilitate transactions.  Verify, track, and reconcile
+  vendor invoices and proof of payments to ensure accurate records.  Collaborate
+  with internal teams, including sales, accounting, and operations, to
+  streamline transaction workflows.  Communicate effectively with clients,
+  vendors, and thirdparty service providers to manage equipment titling and
+  documentation requirements.  Maintain detailed transaction records and
+  regularly update the CRM system to reflect progress.  Monitor insurance
+  certificates to ensure all transaction requirements are met. Qualifications 
+  Bachelor’s degree or equivalent experience in paralegal or contract
+  administration roles, with a focus on finance or commercial transactions. 
+  Exceptional attention to detail and strong organizational skills.  Familiarity
+  with UCC filings and lien searches is highly preferred.  Outstanding
+  communication and client service abilities.  Proficiency in CRM platforms and
+  Microsoft Office Suite. Benefits  Competitive salary to match your expertise
+  and contributions.  Comprehensive health, dental, and vision insurance. 
+  401(k) retirement plan with a generous company match.  Paid time off and
+  recognition of company holidays.  Employee Stock Ownership Plan (ESOP) for
+  longterm equity growth.  Ongoing training and professional development
+  opportunities to support your career advancement. This role offers a unique
+  opportunity for a finance paralegal to leverage their skills in a dynamic
+  financial environment. Join a team where your attention to detail and legal
+  expertise will drive transaction success and client satisfaction.
 location: 'Irvine, CA'
 team: Equipment Finance
 datePosted: '2024-12-28T08:26:17.154Z'

@@ -11,7 +11,32 @@ description: >-
   comprehensive training that hones your technical expertise. Key
   Responsibilities  Leverage technology stacks like LinkedIn Sales Navigator,
   Outreach.io, HubSpot, Salesforce, and ZoomInfo to identify and engage
-  potential cli...
+  potential clients.  Develop strong client relationships by understanding their
+  business needs and providing tailored solutions.  Collaborate with
+  crossfunctional teams to ensure smooth client onboarding and continuous
+  engagement.  Analyze market trends and competitor activities to provide
+  actionable insights to the sales team.  Participate in regional travel within
+  a 30mile radius to engage with clients and prospects, building longterm
+  partnerships.  Work on the second shift from 2:00 PM to 10:30 PM to maximize
+  client interaction and meet sales targets. Required Qualifications  01 years
+  of experience in a sales or related customerfacing role.  Google Analytics
+  Certification.  HubSpot Sales Software Certification.  Strong communication
+  and interpersonal skills.  Ability to work effectively in a teamoriented
+  environment. Preferred Qualifications  Additional certifications in Google
+  Analytics and HubSpot Sales Software are a plus.  Familiarity with the San
+  Jose tech landscape.  Demonstrated ability to learn and adapt to new
+  technologies and market dynamics quickly. Benefits & Perks  Premium Health
+  Insurance  4 Weeks PTO (Paid Time Off)  401k Match  Quarterly Bonuses  Vehicle
+  Allowance Growth & Development  Benefit from technicalfocused training
+  designed to enhance your understanding and application of key technologies. 
+  Access to career progression opportunities within the company, including
+  potential leadership roles in tech sales.  Engage in continuous learning
+  through workshops, seminars, and industry events in San Jose, a tech hub that
+  offers unparalleled networking opportunities. This role is perfect for
+  ambitious individuals eager to immerse themselves in a thriving industry,
+  develop their technical acumen, and grow their careers within the tech sales
+  field. If you're ready to make a significant impact and advance your career in
+  San Jose's dynamic tech scene, we want to hear from you!
 location: 'San Jose, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

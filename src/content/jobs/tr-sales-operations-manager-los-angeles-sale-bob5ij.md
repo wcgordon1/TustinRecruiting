@@ -6,7 +6,35 @@ description: >-
   passionate about driving sales performance in the enterprise software, cloud
   platforms, and B2B tech sectors. Work within a vibrant ecosystem that thrives
   on innovation and collaboration, offering growth opportunities in one of the
-  most dynamic tech markets in the world. Key Responsibili...
+  most dynamic tech markets in the world. Key Responsibilities  Sales Process
+  Optimization: Streamline sales processes and improve operational efficiency
+  through datadriven insights and strategic planning.  Performance Analysis:
+  Analyze sales metrics to identify trends, forecast revenue, and provide
+  actionable recommendations to sales leadership.  CrossFunctional
+  Collaboration: Work closely with marketing, finance, and product teams to
+  align sales strategies with business objectives.  CRM Management: Oversee CRM
+  systems (Salesforce and HubSpot) ensuring data integrity and efficient
+  workflow processes.  Training & Development: Design and implement sales
+  development programs to enhance team skills and performance.  Market
+  Expansion: Support sales teams in expanding market reach, particularly in
+  nearby major cities, through strategic travel and partnership development. 
+  Team Leadership: Contribute to a 10+ person regional team by fostering a
+  culture of excellence and continuous improvement. Requirements  Experience: 57
+  years of experience in sales operations within the SaaS industry. 
+  Certifications:  Required: Salesforce Certified Administrator, HubSpot Sales
+  Software Certification  Preferred: Google Analytics Certification, AWS Cloud
+  Practitioner  Technical Proficiency: Familiarity with ZoomInfo, Salesforce,
+  HubSpot, Outreach.io, and LinkedIn Sales Navigator.  Location & Travel: Based
+  in Los Angeles with regular travel to nearby major cities.  Schedule: Operate
+  during standard business hours with flexibility for additional hours as
+  needed. Benefits  Comprehensive Health Coverage: Includes medical, dental, and
+  vision plans.  Retirement Savings: 401(k) plan with company match. 
+  Professional Development: Access to industryleading training programs and
+  certifications.  WorkLife Balance: Generous PTO and flexible scheduling
+  options.  Advanced Benefits Tier: Premium access to industry events,
+  networking opportunities, and tech conferences.  Career Growth: Be part of a
+  growing team with opportunities for advancement in the thriving Los Angeles
+  tech scene.
 location: 'Los Angeles, CA'
 team: Software
 schedule: Standard Business Hours

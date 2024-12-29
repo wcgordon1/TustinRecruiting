@@ -7,7 +7,25 @@ description: >-
   requires a seasoned professional with a proven track record in selling complex
   software solutions to enterprise organizations. The successful candidate will
   be instrumental in managing strategic accounts, developing new business
-  pipelines, and maintaining strong relationships...
+  pipelines, and maintaining strong relationships with Clevel executives. This
+  role promises significant earning potential and a clear career path toward
+  senior leadership roles such as Regional Vice President or Global Account
+  Executive. Key Responsibilities  Develop and execute strategic sales plans for
+  enterprise accounts  Build and maintain relationships with Clevel executives 
+  Manage complex sales cycles and conduct contract negotiations  Collaborate
+  with solution architects on technical requirements  Maintain accurate
+  forecasts and detailed opportunity documentation  Coordinate software
+  demonstrations and proof of concepts  Analyze competitive positioning and
+  market trends  Mentor junior sales staff and provide guidance Required
+  Qualifications  Bachelor’s degree in Business or related field  Proven track
+  record of exceeding sales quotas in enterprise software  Strong understanding
+  of enterprise software and cloud solutions  Excellent presentation and
+  communication skills  58 years of experience in software sales  Familiarity
+  with Glendale's business landscape and client base  Proficiency with CRM
+  systems and sales tools Compensation & Benefits  Competitive salary range:
+  $93,900$113,900 depending on experience  Comprehensive medical, dental, and
+  vision coverage  Paid time off and holidays  Career advancement opportunities 
+  Ongoing training and certifications
 location: 'Glendale, CA'
 team: Software
 datePosted: '2024-12-29T03:24:50.663Z'

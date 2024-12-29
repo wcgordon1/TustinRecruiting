@@ -6,7 +6,52 @@ description: >-
   firm specializes in cybersecurity, identity management, and cloud security,
   offering innovative solutions that protect businesses across the globe.
   Embrace the chance to work from the comfort of your home while contributing to
-  a dynamic and forwardthinking team. Position Overview As our...
+  a dynamic and forwardthinking team. Position Overview As our AI Product
+  Manager, you will be part of a motivated team of over 10 professionals, all
+  driven by the common goal of advancing our suite of AIdriven security
+  solutions. You'll play a crucial role in developing and managing product
+  strategies that align with the company's mission and enhance our competitive
+  edge in the cybersecurity space. Our ideal candidate brings 58 years of
+  experience and thrives in a remote work environment, leveraging technology to
+  ensure effective communication and collaboration. Key Responsibilities 
+  Develop and manage product roadmaps to align with market trends and company
+  goals.  Collaborate with crossfunctional teams, including engineering,
+  marketing, and sales, to deliver innovative solutions.  Monitor and analyze
+  market trends, customer needs, and the competitive landscape to inform
+  strategic decisions.  Define product requirements and specifications, ensuring
+  alignment with technical and business objectives.  Lead the product
+  development lifecycle from conception to launch and beyond.  Drive continuous
+  product improvement and updates based on user feedback and emerging
+  technologies. Required Qualifications  58 years of product management
+  experience in the technology or security software industry.  Certifications
+  such as TensorFlow Developer Certificate and Google Cloud ML Engineer.  Proven
+  expertise in working with Kubernetes, PyTorch, MLflow, Python, TensorFlow,
+  Scikitlearn, and Docker.  Demonstrated ability to lead remote teams and manage
+  multiple projects simultaneously.  Strong analytical and problemsolving
+  skills. Preferred Qualifications  Additional certifications like Azure AI
+  Engineer and AWS Machine Learning Specialty.  Familiarity with the
+  cybersecurity landscape and cloud security solutions.  Experience in a
+  distributed team environment with a focus on virtual collaboration. Remote
+  Work Requirements  Excellent communication skills tailored for remote
+  collaboration.  Proficiency with remote work tools and practices, ensuring
+  seamless team integration.  Selfmotivated, with the ability to effectively
+  manage your time and tasks.  A reliable home office setup with highspeed
+  internet connectivity. Benefits & Perks Joining our team means enjoying a
+  comprehensive benefits package, categorized under our "Standard Plus" tier.
+  This includes health, dental, and vision insurance, a 401(k) matching plan,
+  and generous paid time off. We also offer a stipend for home office setup and
+  ongoing professional development opportunities. Growth & Development We are
+  committed to your professional growth. Our training programs are designed to
+  enhance your skills and career prospects, ensuring you stay at the forefront
+  of the industry. Engage in workshops, seminars, and conferences that bolster
+  your expertise and expand your network. Our company culture fosters
+  innovation, encouraging you to bring fresh ideas to the table while growing
+  within a supportive and inclusive team environment. Experience the techsavvy,
+  dynamic work culture of Long Beach from wherever you are based in the US. With
+  no travel requirements, you'll enjoy a career that fits seamlessly into your
+  lifestyle, supported by a team that values expertise, creativity, and
+  innovation. Embrace the future of work with us, and contribute to securing a
+  safer digital landscape.
 location: 'Long Beach, CA'
 team: Software
 schedule: Standard Business Hours

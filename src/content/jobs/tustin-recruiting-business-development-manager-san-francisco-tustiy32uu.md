@@ -7,7 +7,30 @@ description: >-
   wellversed in supply chain operations, contract negotiations, and RFP
   processes. The ideal candidate will have a proven track record of managing
   large logistics accounts and developing customized supply chain solutions.
-  Located in the vibrant city of San Francisco, this role offer...
+  Located in the vibrant city of San Francisco, this role offers the chance to
+  work in a dynamic urban environment, nestled amongst the neighboring cities of
+  Oakland, Berkeley, and San Jose. Qualifications Deep understanding of supply
+  chain operations, contract negotiations, and RFP processes. Proven track
+  record managing large logistics accounts ($5M+). Experience developing
+  customized supply chain solutions. Strong knowledge of industry trends,
+  competitive landscape, and emerging technologies in logistics. Proficiency
+  with CRM systems, financial modeling, and executive presentations. Ability to
+  develop strategic partnerships with enterprise clients and identify new market
+  opportunities. Responsibilities Develop and maintain strategic partnerships
+  with enterprise clients. Identify and capitalize on new market opportunities.
+  Manage large logistics accounts, ensuring a high level of customer service and
+  satisfaction. Create customized supply chain solutions to meet the unique
+  needs of each client. Stay uptodate on industry trends, competitive landscape,
+  and emerging technologies in logistics. Utilize CRM systems, financial
+  modeling, and executive presentations to effectively manage accounts and drive
+  business growth. Pay/Benefits Salary Range: $88521$103521 per year,
+  commensurate with experience. Comprehensive benefits package available,
+  including health, dental, and vision insurance, retirement plan, and paid time
+  off. Our Client is an equal opportunity employer and values diversity. All
+  employment is decided on the basis of qualifications, merit, and business
+  need. We encourage applications from all individuals, regardless of race,
+  religion, color, sex, age, national origin, disability status, or any other
+  characteristic protected by law.
 location: 'San Francisco, CA'
 team: Logistics
 datePosted: '2024-12-27T17:58:28.683Z'

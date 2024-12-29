@@ -8,7 +8,37 @@ description: >-
   regional team of over 10 talented professionals, you will contribute to our
   mission while enjoying a collaborative and techforward work environment. This
   role demands a balance of technical prowess and team coordination, with
-  occasional travel within a 30mile radius from your home bas...
+  occasional travel within a 30mile radius from your home base. Key
+  Responsibilities  Monitor and manage IT operations, ensuring the performance
+  and reliability of SaaS platforms.  Collaborate with crossfunctional teams to
+  troubleshoot and resolve issues.  Implement and maintain IT service management
+  processes in line with ITIL standards.  Utilize AWS CloudWatch, VMware, and
+  other tools to optimize system performance.  Participate in the deployment and
+  configuration of cloudbased applications.  Provide technical support and
+  guidance to internal teams, optimizing user experience.  Attend trainings to
+  stay uptodate with the latest technology trends and tools. Required
+  Qualifications  Experience: 25 years in IT operations or a related field. 
+  Certifications:  Microsoft 365 Certified  ITIL Foundation  Technical Skills:
+  Proficiency in AWS CloudWatch, VMware, Terraform, Azure Active Directory,
+  Splunk, and ServiceNow.  Location: Must be able to work onsite in Compton, CA,
+  during standard business hours.  Travel: Willingness to travel within 30 miles
+  of Compton. Preferred Qualifications  Additional certifications in Cisco CCNA
+  or advanced Microsoft 365 certifications.  Experience working in SaaS,
+  enterprise software companies, or cloud platforms.  Familiarity with
+  enterpriselevel security and compliance requirements. Benefits & Perks Our
+  benefits package is designed to support your overall wellbeing and
+  professional growth. It includes:  Comprehensive health, dental, and vision
+  insurance.  Generous paid time off to ensure worklife balance.  Access to
+  professional development programs and training.  Retirement savings plans with
+  company match.  Opportunities for career advancement within a growing
+  company.  Employee wellness programs, including gym memberships and wellness
+  workshops. Growth & Development Compton's tech industry is thriving, providing
+  ample opportunities for career advancement. As an IT Operations Specialist,
+  you'll have the chance to expand your skill set and advance your career in a
+  supportive and innovative environment. We prioritize your growth through
+  continuous learning opportunities and handson experience with cuttingedge
+  technologies. Join us to become part of a community that values your expertise
+  and fosters your professional journey.
 location: 'Compton, CA'
 team: Software
 schedule: Standard Business Hours

@@ -6,7 +6,35 @@ description: >-
   who thrive in the fastpaced world of enterprise software, cloud platforms, and
   B2B tech companies. As part of a specialized 35 person team, you'll work
   standard business hours and engage in travel within a 30mile radius, focusing
-  on building and nurturing relationships with strategic ch...
+  on building and nurturing relationships with strategic channel partners. With
+  an emphasis on professional growth, this role offers a unique opportunity to
+  contribute to a leading tech company in the vibrant Costa Mesa market. Key
+  Responsibilities  Develop and implement strategies to enhance channel partner
+  relationships and drive sales growth.  Collaborate with partners to understand
+  their business needs and provide tailored solutions.  Conduct regular meetings
+  with partners to review performance, set targets, and develop action plans. 
+  Coordinate with internal teams to ensure seamless integration and support for
+  channel partners.  Monitor market trends and competitor activities to identify
+  new business opportunities.  Deliver training and support to partners,
+  enhancing their ability to promote the company's SaaS products effectively. 
+  Analyze channel performance metrics and create reports to inform
+  decisionmaking processes. Requirements  Experience: 46 years in channel
+  partner management within the SaaS industry.  Work Location: Costa Mesa, CA 
+  Schedule: Standard Business Hours  Travel: Required within 30 miles of the
+  home base.  Certifications:  Required: Google Analytics Certification,
+  Salesforce Certified Administrator  Preferred: Google Analytics Certification,
+  Salesforce Certified Administrator  Technology Stack: Proficiency in HubSpot,
+  ZoomInfo, Salesforce, Outreach.io, LinkedIn Sales Navigator.  Team Structure:
+  Work as part of a specialized 35 person team focused on strategic growth.
+  Benefits  Competitive salary and performancebased incentives.  Comprehensive
+  health, dental, and vision insurance plans.  401(k) plan with company
+  matching.  Opportunities for professional development and certifications. 
+  Access to cuttingedge technology and tools.  Collaborative and innovative work
+  environment.  Paid time off and company holidays.  Employee wellness programs
+  and resources. Join us in Costa Mesa and be part of a forwardthinking team
+  that values innovation, collaboration, and growth. This role provides the
+  chance to impact the tech industry while advancing your career in a thriving
+  and supportive environment.
 location: 'Costa Mesa, CA'
 team: Software
 schedule: Standard Business Hours

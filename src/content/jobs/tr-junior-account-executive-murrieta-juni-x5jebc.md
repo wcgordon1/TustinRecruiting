@@ -10,7 +10,37 @@ description: >-
   position offers flexible hours and requires regular travel to nearby major
   cities, providing you with an engaging and varied work schedule. Key
   Responsibilities  Develop and maintain strong relationships with healthcare
-  clients, understanding their needs and aligning our solutions to meet thos...
+  clients, understanding their needs and aligning our solutions to meet those
+  needs.  Collaborate with team members on strategy development to drive sales
+  within the region.  Use the latest in sales and customer relationship
+  technologies, such as Salesforce and HubSpot, to manage and track sales
+  activities.  Generate and qualify leads through various channels, including
+  Outreach.io, ZoomInfo, and LinkedIn Sales Navigator.  Regularly travel to
+  major cities nearby to meet with clients and attend industry conferences. 
+  Deliver highquality presentations and demonstrations of our healthcare tech
+  solutions to potential clients.  Support the sales team in developing
+  proposals and negotiating contracts. Required Qualifications  13 years of
+  experience in sales or account management, preferably within the healthcare or
+  technology sectors.  HubSpot Sales Software Certification.  AWS Cloud
+  Practitioner Certification.  Proficiency in using Salesforce, Outreach.io,
+  ZoomInfo, and LinkedIn Sales Navigator.  Excellent communication and
+  interpersonal skills. Preferred Qualifications  Google Analytics
+  Certification.  Salesforce Certified Administrator Certification.  Experience
+  with healthcare analytics or digital health platforms.  Strong analytical and
+  problemsolving skills. Benefits & Perks  Premium Health Insurance:
+  Comprehensive coverage for you and your family.  4 Weeks PTO: Generous paid
+  time off to promote worklife balance.  401k Match: Secure your future with our
+  competitive retirement plan.  Quarterly Bonuses: Rewarding performance and
+  contribution to team success.  Vehicle Allowance: Support for travelrelated
+  expenses. Growth & Development  Intensive sales development training, focusing
+  on enhancing skills in a techdriven market.  Opportunities for career
+  progression within a fastgrowing company that values talent and initiative. 
+  Access to the latest in healthcare technology innovations, positioning you at
+  the forefront of industry advancements.  Regular workshops and teambuilding
+  events to foster professional growth and networking. Join us in making a
+  significant impact in healthcare technology in Murrieta and beyond. Apply
+  today to be part of a forwardthinking team where your skills will help shape
+  the future of the industry.
 location: 'Murrieta, CA'
 team: Software
 schedule: Flexible Hours

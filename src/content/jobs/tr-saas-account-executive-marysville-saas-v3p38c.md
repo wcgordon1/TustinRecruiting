@@ -4,7 +4,27 @@ description: >-
   Overview Join our dynamic MarTech company in Marysville, WA, as a SaaS Account
   Executive. Play a crucial role in driving our sales and revenue within the
   local market by leveraging cuttingedge marketing platforms and analytics
-  tools. Work with a talented team of 10+ professionals, contributing t...
+  tools. Work with a talented team of 10+ professionals, contributing to our
+  growth in the tech industry. Key Responsibilities  Develop and maintain strong
+  relationships with clients within a 30mile radius.  Identify new business
+  opportunities and drive sales to achieve targets.  Provide clients with
+  insights and solutions using our technology stack.  Collaborate with the
+  regional team to execute sales strategies and meet regional goals.  Deliver
+  technicalfocused training and product demonstrations to clients.  Utilize CRM
+  platforms like Salesforce to manage customer interactions and data.
+  Requirements  13 years of experience in a SaaS sales or related role.  HubSpot
+  Sales Software Certification and AWS Cloud Practitioner required.  Preferred:
+  Google Analytics Certification, Salesforce Certified Administrator. 
+  Proficiency in Salesforce, Outreach.io, ZoomInfo, HubSpot, and LinkedIn Sales
+  Navigator.  Ability to work first shift hours (6:00 AM  2:30 PM) and travel
+  locally as needed.  Strong communication and negotiation skills. Benefits 
+  Standard Plus benefits package including health, dental, and vision
+  insurance.  Opportunities for career advancement in a rapidly growing tech
+  sector.  Exposure to innovative marketing technologies and analytics tools. 
+  Supportive team environment with ongoing technical training and development. 
+  Competitive salary and performancebased incentives. Embark on a rewarding
+  career path with us in the thriving tech scene of Marysville. Expand your
+  expertise in MarTech solutions while contributing to our business growth.
 location: 'Marysville, WA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

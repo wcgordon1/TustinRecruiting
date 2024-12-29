@@ -7,7 +7,26 @@ description: >-
   The position is strategically located in the vibrant city of Glendale, nestled
   amid a host of thriving neighboring cities including Burbank, Pasadena, Los
   Angeles, and Hollywood. The ideal candidate will have a comprehensive
-  understanding of complex security frameworks (NIST, ...
+  understanding of complex security frameworks (NIST, ISO), compliance
+  requirements, and proven experience selling to CISOs and IT leaders.
+  Qualifications  Proven track record of closing deals over $500K.  Proficiency
+  with Salesforce, security concepts, and enterprise sales cycles. 
+  Comprehensive understanding of complex security frameworks (NIST, ISO) and
+  compliance requirements.  Proven experience selling to CISOs and IT leaders. 
+  Excellent communication and negotiation skills.  Ability to understand
+  customer needs and provide solutions accordingly.  Bachelor's degree in
+  business, marketing, or related field preferred. Responsibilities  Develop and
+  maintain relationships with key decisionmakers in Fortune 500 companies. 
+  Understand the client's business goals, identify opportunities, and propose
+  suitable enterprise security solutions.  Navigate complex sales cycles,
+  negotiating and closing deals with a value exceeding $500K.  Maintain a
+  thorough understanding of complex security frameworks (NIST, ISO) and
+  compliance requirements.  Update and manage all sales activities,
+  opportunities, and account information in Salesforce. Pay/Benefits Our client
+  offers a competitive salary range between $123,231 and $153,231 per year,
+  dependent on experience and qualifications. They also provide a comprehensive
+  benefits package that includes health, dental, and vision insurance, 401K
+  matching, paid holidays, and generous vacation time.
 location: 'Glendale, CA'
 team: Software
 datePosted: '2024-12-27T23:03:38.293Z'

@@ -8,7 +8,28 @@ description: >-
   advancements in healthcare, all from the comfort of your home. Key
   Responsibilities  Develop and maintain highquality mobile applications. 
   Collaborate with crossfunctional teams to define, design, and ship new
-  features.  Ensure the performance, quality, and responsiveness of applicati...
+  features.  Ensure the performance, quality, and responsiveness of
+  applications.  Identify and correct bottlenecks and fix bugs.  Help maintain
+  code quality, organization, and automation.  Work closely with product teams
+  and other stakeholders.  Engage in code and design reviews to maintain our
+  high development standards.  Participate in sprint planning and daily standups
+  in a remote setting. Requirements Experience and Schedule  3–6 years of
+  experience in mobile app development.  Work Location: 100% Remote (USBased). 
+  Schedule: Standard Business Hours. Work Environment  Experience in Healthcare
+  Tech, focusing on digital health platforms and medical software.  Ability to
+  work across multiple project teams.  No travel required. Remote Work
+  Requirements  Strong communication skills for remote collaboration. 
+  Familiarity with remote work tools and practices.  Selfmotivated and able to
+  work independently.  Home office setup with reliable internet. Required Skills
+  & Certifications  Required Certifications: Google Cloud Professional, AWS
+  Solutions Architect.  Preferred Certifications: Docker Certified Associate. 
+  Technology Stack: GraphQL, AWS/Azure/GCP, TypeScript, React, Docker, Node.js,
+  Kubernetes. Benefits  Comprehensive healthcare coverage.  Generous paid time
+  off and flexible working hours.  Professional development opportunities
+  focused on Sales Development.  Access to the latest technology and resources
+  for remote work.  Collaborative and inclusive company culture.  Opportunities
+  for career advancement in the growing tech industry.  Engaging in a vibrant
+  remote work culture with virtual collaboration and distributed team dynamics.
 location: 'Whittier, CA'
 team: Software
 schedule: Standard Business Hours

@@ -7,7 +7,35 @@ description: >-
   retail partners, and digital marketplaces in innovative ways. This remote
   position is ideal for an experienced professional who is looking to leverage
   their skills and grow their career in a dynamic startup environment. Position
-  Overview As the Remote Mobile Archite...
+  Overview As the Remote Mobile Architecture Lead, you will be responsible for
+  the design, development, and management of our mobile applications. You will
+  work closely with crossfunctional product teams to align our mobile strategy
+  with business goals. This role requires a high level of technical expertise,
+  leadership ability, and a strong understanding of industry trends and emerging
+  technologies. Key Responsibilities  Designing and implementing mobile
+  application architecture  Collaborating with product teams to define app
+  requirements and features  Leading development efforts and ensuring high
+  performance and responsiveness of apps  Identifying and addressing
+  bottlenecks, bugs, and devising solutions to these problems  Ensuring mobile
+  applications are aligned with the company's business objectives Required
+  Qualifications  710 years of experience in mobile development and
+  architecture  Certification in AWS Mobile Developer and Mobile App Security 
+  Strong knowledge of App Store Connect, Flutter/Dart, Kotlin, Redux/MobX,
+  TestFlight, and React Native  Proficiency in remote work tools and practices 
+  Excellent communication skills and ability to work in crossfunctional teams
+  Preferred Qualifications  Google Mobile Web Specialist certification 
+  Experience in ecommerce sector  Proven track record of managing large scale
+  mobile applications Benefits & Perks  Competitive salary and benefits package 
+  Flexible work hours and work from home option  Regular teambuilding activities
+  and events  Opportunity to work with a diverse team of passionate and
+  innovative individuals Growth & Development In a fastpaced startup environment
+  like ours, there is a lot of room for career growth and professional
+  development. We invest in our employees by providing product development
+  focused training and opportunities for continuous learning. Being part of our
+  team means you'll have the chance to drive change in the online shopping space
+  and make a significant impact on our business. We believe in promoting from
+  within and always look for ways to help our employees advance in their
+  careers.
 location: 'Philadelphia, PA'
 team: Mobile
 schedule: Full Time

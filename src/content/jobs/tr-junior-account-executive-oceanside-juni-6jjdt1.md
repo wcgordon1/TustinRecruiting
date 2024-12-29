@@ -10,7 +10,30 @@ description: >-
   a 30mile radius of our home base to meet client needs and enhance strategic
   relationships. Key Responsibilities  Lead and manage a team of 46 technicians,
   fostering a collaborative and efficient work environment.  Drive engagement
-  with healthcare clients, understanding their ne...
+  with healthcare clients, understanding their needs, and providing tailored
+  technology solutions.  Utilize Salesforce, LinkedIn Sales Navigator, HubSpot,
+  Outreach.io, and ZoomInfo to manage sales processes and client interactions. 
+  Monitor and analyze healthcare market trends to identify growth
+  opportunities.  Develop and maintain strong client relationships through
+  effective communication and strategic planning.  Ensure consistent delivery of
+  highquality service and support to our clients. Required Qualifications  13
+  years of experience in a sales or account executive role, preferably in the
+  healthcare or tech industry.  Salesforce Certified Administrator.  AWS Cloud
+  Practitioner Certification.  Demonstrable experience using Salesforce and
+  LinkedIn Sales Navigator.  Strong communication and organizational skills.
+  Preferred Qualifications  HubSpot Sales Software Certification.  Google
+  Analytics Certification.  Familiarity with Outreach.io and ZoomInfo.  Proven
+  ability to work independently and manage multiple team members in a fastpaced
+  environment. Benefits & Perks  Premium Health Insurance  4 Weeks PTO  401k
+  Match  Quarterly Bonuses  Vehicle Allowance Growth & Development  Access to
+  advanced technical training and certifications to enhance your skill set. 
+  Clear career progression pathways with opportunities to advance into senior
+  roles within the company.  Participation in industry conferences and
+  networking events to stay at the forefront of healthcare technology
+  innovations. Join us in Oceanside, a thriving hub for tech and innovation,
+  where you can grow your career while making a significant impact on the
+  healthcare industry. Our commitment to innovation and your professional
+  development will ensure you thrive in this exciting role.
 location: 'Oceanside, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

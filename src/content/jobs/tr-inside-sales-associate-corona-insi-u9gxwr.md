@@ -6,7 +6,38 @@ description: >-
   MarTech (Marketing Platforms, Analytics Companies, Automation Tools) Position
   Overview Join our dynamic team as an Inside Sales Associate, where you will
   play a pivotal role in driving sales and fostering strong customer
-  relationships in the fastpaced MarTech industry. Located in Coro...
+  relationships in the fastpaced MarTech industry. Located in Corona, CA, you
+  will work on the front lines of technological innovation, leveraging
+  cuttingedge platforms and analytics tools to deliver exceptional value to our
+  clients. As a leader of a skilled team, you’ll have the opportunity to develop
+  your managerial skills while contributing to the growth of marketing
+  technology solutions. Key Responsibilities  Develop and maintain strong
+  customer relationships through effective communication and regular followups. 
+  Lead, mentor, and manage a team of 46 technicians to achieve sales targets and
+  company objectives.  Utilize industry tools such as ZoomInfo, Salesforce,
+  HubSpot, LinkedIn Sales Navigator, and Outreach.io to enhance sales
+  strategies.  Prepare and deliver compelling presentations and product
+  demonstrations to prospective clients.  Coordinate with internal teams to
+  ensure seamless implementation and deployment of marketing solutions.  Travel
+  within a 100mile radius to meet clients and oversee sales engagements. 
+  Actively participate in sales meetings and training sessions to improve
+  product knowledge and sales techniques. Required Qualifications  12 years of
+  experience in sales, preferably in MarTech or related fields.  AWS Cloud
+  Practitioner and HubSpot Sales Software Certification.  Strong proficiency in
+  Salesforce, HubSpot, and other sales technology stacks.  Excellent
+  communication, leadership, and interpersonal skills. Preferred Qualifications 
+  Additional experience or certifications in AWS and HubSpot tools.  Proven
+  track record of exceeding sales targets within a technical or SaaS
+  environment.  Familiarity with LinkedIn Sales Navigator and Outreach.io.
+  Benefits & Perks  Full Health Insurance  3 Weeks PTO  401k Match  Performance
+  Bonuses  Tool Allowance Growth & Development At our company, we prioritize
+  personal and professional growth. You'll have access to extensive training
+  opportunities focused on sales development, empowering you to reach your full
+  potential. Our career progression framework ensures that you can advance
+  within the organization, taking on more responsibilities and leadership roles
+  as you develop your skills and expertise. Embrace the opportunity to thrive in
+  the vibrant tech community of Corona, where innovation meets opportunity. We
+  look forward to welcoming you to our team!
 location: 'Corona, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

@@ -7,7 +7,24 @@ description: >-
   representatives, managing complex B2B sales cycles and distributor
   relationships in the industrial equipment and automation solutions sector. The
   role demands an understanding of manufacturing processes, supply chain, and
-  industry regulations. The location provides easy access to nei...
+  industry regulations. The location provides easy access to neighboring cities
+  such as Torrance, Hawthorne, and Palos Verdes Estates. Qualifications  Proven
+  experience as a Regional Sales Manager or similar senior sales role. 
+  Knowledge of manufacturing processes, supply chain, and industry regulations. 
+  Experience managing complex B2B sales cycles and distributor relationships. 
+  Proficiency in English; Excellent communication and negotiation skills. 
+  Ability to build rapport with employees and clients.  Strong organizational
+  and team management skills.  Proven track record of territory growth and team
+  development. Responsibilities  Develop and implement effective sales
+  strategies.  Lead a team of sales representatives and coach them in their
+  respective field.  Liaise with Marketing and Product Development departments
+  to ensure brand consistency and increase sales.  Monitor and analyze
+  performance metrics and suggest improvements.  Prepare monthly, quarterly, and
+  annual sales reports.  Stay uptodate with new product launches and ensure
+  sales team members are on board. Pay/Benefits  Salary range: $141741$181741
+  per year.  Comprehensive benefits package including medical, dental, and
+  vision insurance.  Generous PTO policy.  401k plan with company match. 
+  Opportunities for ongoing training and career development.
 location: 'Redondo Beach, CA'
 team: Logistics
 datePosted: '2024-12-27T00:44:36.617Z'

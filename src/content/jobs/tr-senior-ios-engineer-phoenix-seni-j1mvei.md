@@ -7,7 +7,35 @@ description: >-
   currently seeking a Senior iOS Engineer to lead a pod of 34 mobile developers.
   This role is entirely remote, offering work flexibility and the chance to join
   a dynamic, fastgrowing team. Position Overview As a Remote Senior iOS
-  Engineer, you will be responsible for ...
+  Engineer, you will be responsible for leading a small team of mobile
+  developers to design, build, and maintain our iOS applications. You will work
+  closely with our product and design teams to deliver a seamless, highquality
+  user experience. Key Responsibilities  Lead a pod of 34 mobile developers,
+  providing guidance and mentorship  Design and build advanced applications for
+  the iOS platform  Collaborate with crossfunctional teams to define, design,
+  and ship new features  Ensure the performance, quality, and responsiveness of
+  the application  Identify and correct bottlenecks and fix bugs in order to
+  maintain code quality  Help maintain code quality, organization, and
+  automatization Required Qualifications  58 years of experience with iOS
+  development  Proficient with Swift and ObjectiveC  Experience with iOS
+  frameworks such as Core Data, Core Animation, etc.  Experience with
+  TestFlight, Play Store Console, GraphQL, Kotlin, TypeScript, Flutter/Dart 
+  Familiarity with RESTful APIs to connect iOS applications to backend services 
+  AWS Mobile Developer Certification or Google Mobile Web Specialist
+  Certification Preferred Qualifications  Apple Developer Certification 
+  Experience working in a remote setting and comfortable using remote
+  collaboration tools  Strong communication and leadership skills 
+  Selfmotivated, able to work independently, and a proactive problem solver
+  Benefits & Perks  Competitive salary and equity options  Health, dental, and
+  vision insurance  Unlimited vacation policy  Remote work setup with the
+  flexibility to work from anywhere in the US  Regular teambuilding activities
+  Growth & Development We are committed to the growth and development of our
+  team members. As part of our team, you will receive:  Ongoing training focused
+  on Mobile Development  Opportunities for career advancement in a fastgrowing
+  startup environment  Exposure to cuttingedge technology and the chance to work
+  on exciting projects that impact millions of users. If you are a passionate,
+  skilled iOS Engineer who thrives in a fastpaced, remote work environment, we
+  would love to hear from you. Apply today!
 location: 'Phoenix, AZ'
 team: Mobile
 schedule: Full Time

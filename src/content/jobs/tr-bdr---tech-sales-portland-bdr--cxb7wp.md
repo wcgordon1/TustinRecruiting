@@ -7,7 +7,40 @@ description: >-
   industry. Our BDRs work within the dynamic world of SaaS, engaging with
   enterprise software companies, cloud platforms, and B2B tech organizations.
   Positioned at the forefront of our sales strategy, our BDRs are instrumental
-  in generating leads, nurturing client rela...
+  in generating leads, nurturing client relationships, and driving the overall
+  growth of our business. This role offers an excellent opportunity to immerse
+  yourself in Portland's vibrant tech scene while developing key sales skills.
+  Key Responsibilities  Identify and qualify potential customers through various
+  prospecting methods.  Engage with leads via phone, email, and social channels
+  to create interest and drive sales meetings.  Collaborate with crossfunctional
+  project teams to tailor solutions that meet client needs.  Maintain accurate
+  and uptodate records of all sales activities in Salesforce.  Utilize tools
+  like HubSpot, LinkedIn Sales Navigator, and ZoomInfo to optimize outreach
+  strategies.  Participate in local events and networking opportunities within a
+  30mile radius to expand brand presence. Required Qualifications  01 years of
+  experience in sales or customerfacing roles.  Google Analytics Certification. 
+  AWS Cloud Practitioner certification.  Familiarity with SaaS environments and
+  B2B tech sales dynamics.  Strong communication and interpersonal skills.
+  Preferred Qualifications  HubSpot Sales Software Certification.  Experience
+  using Salesforce, LinkedIn Sales Navigator, and Outreach.io.  Demonstrated
+  understanding of cloud platforms and enterprise software solutions. Benefits &
+  Perks  Premium Health Insurance plans ensuring comprehensive coverage for you
+  and your family.  Generous Paid Time Off with 4 weeks of vacation to ensure
+  worklife balance.  401k Match to secure your financial future.  Quarterly
+  Bonuses rewarding your performance and contributions to the team.  Vehicle
+  Allowance to support you in traveling for client meetings and events. Growth &
+  Development  Participate in a detailed Sales Development training program
+  designed to hone your skills in strategic selling and client engagement. 
+  Career progression opportunities with clear pathways for promotion within our
+  sales and account management teams.  Access to ongoing mentorship from
+  seasoned sales professionals, as well as resources for professional
+  development.  Engage with Portland's burgeoning tech community, gaining
+  exposure to industry trends and innovative sales strategies. Joining our team
+  means becoming part of a forwardthinking company where your contributions are
+  valued, and your growth is fostered. This BDR position is more than just a
+  job—it's a gateway to a fulfilling career in an industry that's constantly
+  evolving and expanding. If you're ready to begin your journey and help us
+  shape the future of tech sales, we encourage you to apply!
 location: 'Portland, OR'
 team: Software
 schedule: Standard Business Hours

@@ -7,7 +7,25 @@ description: >-
   selfdriven Account Executive to join their team. In this role, you'll be at
   the forefront of selling transportation, warehousing, and supply chain
   solutions to midmarket and enterprise companies. This exciting opportunity
-  puts you at the heart of understanding freight modes...
+  puts you at the heart of understanding freight modes, warehousing operations,
+  and supply chain optimization. You'll be involved in the full logistics sales
+  cycle, with a focus on rate negotiations and TMS systems. Qualifications  A
+  thorough understanding of FTL, LTL, intermodal freight modes  Familiarity with
+  warehousing operations and supply chain optimization  Proficiency in utilizing
+  TMS systems  Experience in rate negotiations and the logistics sales cycle 
+  Knowledge of customs, international shipping, and carrier networks 
+  Proficiency in Salesforce, Excel, and managing complex stakeholder
+  relationships Responsibilities  Sell transportation, warehousing, and supply
+  chain solutions to midmarket and enterprise companies  Understand and utilize
+  FTL, LTL, intermodal freight modes  Effectively use TMS systems for logistics 
+  Drive rate negotiations and manage logistics sales cycles  Maintain knowledge
+  of customs, international shipping, and carrier networks  Skillfully manage
+  complex stakeholder relationships Pay/Benefits  Salary Range: $64,211  $84,211
+  per year  Competitive benefits package  Opportunity to earn uncapped
+  commission  Growth opportunities within a rapidly expanding company This is an
+  exceptional opportunity for a goaloriented Account Executive to join a growing
+  company and make a substantial impact. If you thrive in a fastpaced
+  environment and have a passion for logistics, apply today!
 location: 'Oakland, CA'
 team: Logistics
 datePosted: '2024-12-27T22:23:28.543Z'

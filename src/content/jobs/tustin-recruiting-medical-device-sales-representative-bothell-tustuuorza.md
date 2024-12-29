@@ -7,7 +7,26 @@ description: >-
   surrounded by neighboring cities such as Kirkland, Woodinville, and Lynnwood.
   The successful candidate will have the primary responsibility of selling
   medical devices and equipment to hospitals, clinics, and healthcare providers,
-  and will use their extensive knowledge ...
+  and will use their extensive knowledge of medical terminology, surgical
+  procedures, and healthcare regulations to navigate complex healthcare sales
+  cycles. Qualifications Applicants must have experience in healthcare sales,
+  with a specific focus on medical devices. Understanding hospital procurement
+  processes is essential. A comprehensive understanding of medical terminology,
+  surgical procedures, and healthcare regulations is required. Familiarity with
+  value analysis committees, clinical evaluations, and OR protocol is vital. The
+  candidate must be comfortable with clinical training and supporting live
+  procedures. Strong relationships with healthcare providers and procurement
+  teams are preferred. Responsibilities The Medical Device Sales Representative
+  will be tasked with promoting and selling our client's advanced medical
+  devices to healthcare facilities. They will need to understand the features
+  and benefits of each product in order to effectively promote them to potential
+  customers. They will also need to understand the needs and concerns of
+  healthcare providers, and provide solutions that meet these needs. The
+  successful candidate will also need to navigate complex healthcare sales
+  cycles and understand hospital procurement processes. Pay/Benefits The salary
+  range for this role is $80044$115044 per year. Our client also offers a
+  comprehensive benefits package, which includes health, dental, and vision
+  insurance, a 401(k) retirement plan, paid time off, and more.
 location: 'Bothell, WA'
 team: Medical Device
 datePosted: '2024-12-27T02:09:00.720Z'

@@ -7,7 +7,38 @@ description: >-
   remote team based out of Austin, Texas. You will be working on critical
   components of our consumer techfocused apps, which are used by millions of
   social media users, digital content creators, and mobilefirst consumers
-  worldwide. Our engineering team is committed to exce...
+  worldwide. Our engineering team is committed to excellence and works
+  collaboratively with crossfunctional teams to deliver exceptional products.
+  Position Overview As a Senior iOS Engineer, you will be responsible for
+  developing and maintaining our iOS apps. You will work closely with our
+  product team to define and implement key features, ensuring the highest level
+  of user satisfaction. You will be critical in driving our mobilefirst approach
+  and will play a significant role in shaping the user experience of our
+  product. Key Responsibilities  Design, code, and debug iOS applications. 
+  Collaborate with crossfunctional teams to define and implement app features. 
+  Ensure performance, quality, and responsiveness of our iOS apps.  Continuously
+  discover, evaluate, and implement new technologies to maximize development
+  efficiency. Required Qualifications  A minimum of 5 years of experience as an
+  iOS developer.  Proficiency with Swift and ObjectiveC.  Familiarity with
+  RESTful APIs to connect iOS applications to backend services.  Apple Developer
+  Certification and Mobile App Security Certification.  Proven experience with
+  remote work tools and practices.  Strong communication skills for effective
+  remote collaboration. Preferred Qualifications  AWS Mobile Developer and React
+  Native Certifications.  Experience with App Store Connect, Jest/Detox,
+  Flutter/Dart, Fastlane, TypeScript, and GraphQL.  Experience with performance
+  and memory tuning tools.  Familiarity with cloud message APIs and push
+  notifications.  Proficiency with code versioning tools such as Git.  Knowledge
+  of other web technologies and UI/UX standards. Benefits & Perks  Competitive
+  salary and equity.  Health, dental, and vision insurance.  401k with company
+  match.  Unlimited vacation policy.  Work from anywhere with flexible
+  schedules.  Home office setup allowance. Growth & Development As a part of our
+  team, you will have the opportunity to grow in a dynamic startup environment.
+  We heavily invest in the professional development of our employees, offering
+  access to training resources and courses to foster your skills and career
+  growth. We believe in promoting from within and provide ample opportunities
+  for advancement. Your work will directly impact the success of our product and
+  the happiness of our users, providing ample opportunities for recognition and
+  advancement.
 location: 'Austin, TX'
 team: Mobile
 schedule: Full Time

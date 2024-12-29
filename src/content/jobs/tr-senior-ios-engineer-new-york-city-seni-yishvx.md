@@ -7,7 +7,36 @@ description: >-
   powerful solutions for digital content creators and mobilefirst consumers. We
   foster a remote work culture that emphasizes virtual collaboration and
   distributed team dynamics. If you're passionate about mobile app development
-  and thrive in a challenging, fastpaced startup e...
+  and thrive in a challenging, fastpaced startup environment, we'd love to meet
+  you. Position Overview As a Remote Senior iOS Engineer, you'll take the lead
+  in building and improving our iOS applications. You'll work closely with our
+  crossfunctional product teams to create userfriendly, innovative solutions
+  that meet our customers' needs. This is a fulltime, remote position and
+  requires a USbased applicant. Key Responsibilities  Design, build and maintain
+  advanced applications for the iOS platform.  Collaborate with crossfunctional
+  teams to define, design, and ship new features.  Debug and resolve application
+  issues and ensure the performance, quality, and responsiveness of
+  applications.  Lead and participate in code reviews to maintain code quality
+  and share knowledge.  Continuously discover, evaluate, and implement new
+  technologies to maximize development efficiency. Required Qualifications 
+  Minimum of 5 years of experience as an iOS Developer.  Expert knowledge of
+  Redux/MobX, Fastlane, TestFlight, REST APIs, TypeScript, CircleCI/Jenkins. 
+  Strong proficiency in Swift, with a good knowledge of its ecosystems. 
+  Experience with thirdparty libraries and APIs.  Solid understanding of the
+  full mobile development life cycle.  Mobile App Security Certification and
+  React Native Certification.  Excellent remote work capabilities including
+  strong communication skills, a reliable internet connection, and a productive
+  home office setup. Preferred Qualifications  Google Mobile Web Specialist
+  Certification.  Experience with iOS frameworks such as Core Data, Core
+  Animation, etc.  Familiarity with continuous integration. Benefits & Perks 
+  Competitive salary and benefits package.  Flexible work hours and vacation
+  policy.  Opportunity to work with an innovative, growing startup.  Virtual
+  collaboration with a diverse, passionate team. Growth & Development We believe
+  in fostering an environment where our team can grow and develop their skills.
+  As a part of our team, you'll have opportunities to lead projects, influence
+  product development, and make a significant impact on our company's growth. We
+  offer leadershipfocused training to help you advance in your career and lead
+  in a remote work environment.
 location: 'New York City, NY'
 team: Mobile
 schedule: Full Time

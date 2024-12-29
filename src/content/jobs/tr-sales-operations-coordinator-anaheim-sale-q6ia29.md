@@ -5,7 +5,26 @@ description: >-
   Coordinator specializing in healthcare tech. This role is integral to
   enhancing sales productivity within digital health platforms, medical
   software, and healthcare analytics. Lead a team of 46 technicians and travel
-  within a 1...
+  within a 100mile radius to support our growthdriven environment. Key
+  Responsibilities  Coordinate and optimize sales operations processes.  Train
+  and lead a team of 46 sales technicians.  Analyze sales data to provide
+  actionable insights using Salesforce and other tools.  Develop and implement
+  training programs focused on sales development.  Collaborate with
+  crossfunctional teams to support sales strategies.  Manage and maintain the
+  technology stack including Salesforce, HubSpot, and LinkedIn Sales Navigator. 
+  Monitor and report on sales performance metrics.  Facilitate communication
+  between sales teams and other departments. Requirements  02 years of
+  experience in sales operations or related field.  Google Analytics
+  Certification and AWS Cloud Practitioner required.  Preferred: HubSpot Sales
+  Software Certification.  Proficiency in Salesforce, Outreach.io, ZoomInfo,
+  HubSpot, and LinkedIn Sales Navigator.  Strong analytical and problemsolving
+  skills.  Excellent communication and leadership abilities.  Ability to travel
+  within a 100mile radius as needed. Benefits  Competitive salary with
+  opportunities for advancement.  Standard Plus benefits tier including health,
+  dental, vision, and retirement plans.  Professional development opportunities
+  in a fastpaced tech environment.  Networking opportunities in the vibrant
+  healthcare tech hub of Anaheim.  Work in an innovative, growthoriented company
+  with exposure to cuttingedge digital health technologies.
 location: 'Anaheim, CA'
 team: Software
 schedule: Standard Business Hours

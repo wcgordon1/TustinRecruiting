@@ -7,7 +7,32 @@ description: >-
   in digital health platforms, medical software, and healthcare analytics,
   offering innovative tools to transform the healthcare landscape. As a Junior
   SDR, you will leverage your passion for technology and customer engagement to
-  drive our business forward, collaborating ...
+  drive our business forward, collaborating with a regional team of over 10
+  dedicated professionals. Key Responsibilities  Engage potential clients
+  through varied communication channels to generate leads.  Conduct market
+  research to identify new sales opportunities within the healthcare tech
+  sector.  Qualify leads by understanding customer needs and aligning them with
+  our solutions.  Maintain comprehensive records of interactions and progress
+  within Salesforce.  Support senior sales team members in the execution of
+  sales strategies.  Collaborate with the marketing team to optimize outreach
+  campaigns.  Travel locally within 30 miles for meetings and events as
+  necessary. Required Qualifications  Bachelor's degree in Business, Marketing,
+  Healthcare, or a related field.  02 years of experience in sales or customer
+  service roles.  Google Analytics Certification.  Salesforce Certified
+  Administrator.  Proficiency in using LinkedIn Sales Navigator, Outreach.io,
+  Salesforce, HubSpot, and ZoomInfo. Preferred Qualifications  HubSpot Sales
+  Software Certification.  Familiarity with healthcare industry dynamics and
+  emerging trends.  Strong analytical skills and a datadriven mindset. Benefits
+  & Perks  Comprehensive health insurance coverage.  3 weeks of paid time off
+  (PTO).  401k retirement plan with company match.  Performancebased bonuses
+  that reward your success.  Tool allowance to support your technological needs.
+  Growth & Development  Participate in extensive sales development training
+  sessions to enhance your skills.  Opportunities for career progression to
+  senior sales roles, with a clear path to leadership positions.  Engage in
+  continuous learning and development with access to industry conferences and
+  events in Sacramento, a burgeoning hub for tech innovation within healthcare.
+  Immerse yourself in an environment that values growth and innovation, and
+  become a part of a team committed to excellence in healthcare technology.
 location: 'Sacramento, CA'
 team: Software
 schedule: Flexible Hours

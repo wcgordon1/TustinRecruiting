@@ -19,7 +19,12 @@ description: >-
   negotiation, and presentation skills.  Ability to build rapport with clients
   and understand their unique needs.  Familiarity with CRM tools such as
   Salesforce or HubSpot.  Experience in HealthTech or AI is a plus.  A
-  selfstarter with excellent organizational skills and attention to detail.
+  selfstarter with excellent organizational skills and attention to detail. Why
+  Join Bola AI?  Innovative Product: Represent cuttingedge technology
+  revolutionizing dental practices.  Career Growth: Opportunities for
+  advancement within a fastgrowing company.  Prime Location: Work in a vibrant,
+  collaborative environment in Newport Beach.  Competitive Compensation: Base
+  salary plus uncapped commission, health benefits, and more.
 location: 'Newport Beach, CA'
 team: Artificial Intelligence
 datePosted: '2024-12-28T17:01:24.917Z'

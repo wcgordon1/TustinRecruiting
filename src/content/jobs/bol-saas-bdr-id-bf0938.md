@@ -18,7 +18,12 @@ description: >-
   interpersonal skills and a resultsdriven attitude.  Ability to thrive in a
   fastpaced, teamoriented environment.  Previous experience in sales or
   customerfacing roles is a plus.  Familiarity with CRM tools like Salesforce or
-  HubSpot is advantageous.
+  HubSpot is advantageous. Why Join Bola AI?  Exciting Opportunity: Be a part of
+  a growing team shaping the future of VoiceAI technology.  Professional Growth:
+  Comprehensive training and development to advance your sales career. 
+  Collaborative Culture: Work onsite with a supportive and motivated team in
+  Irvine.  Competitive Benefits: Competitive base salary, performancebased
+  bonuses, and health benefits.
 location: 'Irvine, CA'
 team: Artificial Intelligence
 datePosted: '2024-12-28T11:35:02.756Z'

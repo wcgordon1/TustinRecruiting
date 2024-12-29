@@ -11,7 +11,21 @@ description: >-
   strategic sales operations.  Coordinate with team members to analyze sales
   data and generate actionable insights.  Assist in the development and
   execution of sales strategies tailored for Yakima market dynamics.  Support
-  the integration and optimization of ...
+  the integration and optimization of marketing automation tools.  Conduct
+  market research and identify growth opportunities within a 100mile radius.
+  Requirements  Experience: 02 years in a similar role.  Certifications: AWS
+  Cloud Practitioner and Google Analytics Certification required.  Preferred:
+  Salesforce Certified Administrator.  Familiarity with technology stack:
+  Outreach.io, HubSpot, LinkedIn Sales Navigator, ZoomInfo, Salesforce.  Strong
+  analytical and communication skills.  Willingness to travel within a 100mile
+  radius and adapt to flexible work hours. Benefits  Benefits Tier: Standard
+  Plus, offering comprehensive health, dental, and vision coverage. 
+  Professional growth: Regular training sessions focused on industry trends and
+  skill enhancement.  Networking opportunities within the vibrant tech community
+  of Yakima.  Access to cuttingedge marketing technologies and platforms.  Work
+  in a dynamic environment with a focus on innovation and development. Join our
+  team to leverage MarTech solutions and drive sales success in the Yakima
+  region!
 location: 'Yakima, WA'
 team: Software
 schedule: Flexible Hours

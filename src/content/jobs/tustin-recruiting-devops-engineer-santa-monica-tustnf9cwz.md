@@ -7,7 +7,23 @@ description: >-
   Del Rey, Santa Monica offers a perfect blend of work and play, making it an
   ideal location for tech professionals seeking a balanced lifestyle. The
   successful candidate will play a crucial role in maintaining and scaling the
-  company's infrastructure during hightraffic...
+  company's infrastructure during hightraffic periods, ensuring optimal
+  performance and user experience. Qualifications  Strong experience with
+  Kubernetes, Docker, Terraform, and major cloud platforms (AWS/GCP) is
+  mandatory  Proficiency with monitoring tools such as Datadog, New Relic is
+  required  Familiarity with CI/CD pipelines and automation  Experience with
+  microservices architecture and performance optimization is essential
+  Responsibilities Your key tasks will include, but not be limited to: 
+  Maintaining, scaling, and enhancing the company's existing infrastructure to
+  support hightraffic periods  Implementing and managing CI/CD pipelines and
+  automation strategies  Working closely with different teams to optimize the
+  performance of the platform  Leveraging your knowledge of monitoring tools to
+  ensure system health and stability Pay/Benefits Our client offers a
+  competitive salary range of $113,796$133,796 per year, along with an
+  attractive benefits package. This position presents an excellent opportunity
+  for growth and advancement within a progressive and innovative tech
+  environment. Seize this opportunity to contribute to a cuttingedge ecommerce
+  platform, apply today!
 location: 'Santa Monica, CA'
 team: Software
 datePosted: '2024-12-27T16:18:10.224Z'

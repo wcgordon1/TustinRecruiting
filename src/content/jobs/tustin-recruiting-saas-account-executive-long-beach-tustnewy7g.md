@@ -7,7 +7,24 @@ description: >-
   ideally situated for those residing in neighboring cities such as Carson,
   Lakewood, Los Alamitos, and Seal Beach. The ideal candidate will bring a
   wealth of experience selling complex technical solutions to both IT and
-  business leaders and possess a strong understandi...
+  business leaders and possess a strong understanding of software implementation
+  processes, ROI analysis, and contract negotiations. Qualifications  Proven
+  experience in selling complex technical solutions to IT and business leaders 
+  Proficiency with Salesforce, sales engagement platforms, and virtual
+  demonstration tools  Indepth understanding of software implementation
+  processes, ROI analysis, and contract negotiations  Experience with
+  consultative selling methodology and solutionbased selling approach
+  Responsibilities  Drive fullcycle enterprise software sales with annual deal
+  sizes ranging from $100K$500K  Engage with IT and business leaders to present
+  and sell complex technical solutions  Leverage Salesforce, sales engagement
+  platforms, and virtual demonstration tools to maximize sales results  Lead
+  software implementation processes, conduct ROI analysis, and negotiate
+  contracts  Apply consultative selling methodology and solutionbased selling
+  approach in daytoday operations Pay/Benefits  Salary range: $84,514$94,514 per
+  year  Comprehensive benefits package This is a unique opportunity to join a
+  forwardthinking company in a role that offers significant growth potential. If
+  you meet the qualifications and are ready to take on this exciting challenge,
+  we encourage you to apply.
 location: 'Long Beach, CA'
 team: Software
 datePosted: '2024-12-28T01:39:25.360Z'

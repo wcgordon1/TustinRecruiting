@@ -7,7 +7,21 @@ description: >-
   neighboring cities like Redwood City, Belmont, and Foster City. This role is
   all about selling transportation, warehousing, and supply chain solutions to
   midmarket and enterprise companies. You'll need to know your stuff when it
-  comes to freight modes (FTL, LTL, int...
+  comes to freight modes (FTL, LTL, intermodal), warehousing operations, and
+  supply chain optimization. Qualifications  You've got some solid experience
+  with TMS systems, rate negotiations, and logistics sales cycles.  You're
+  pretty savvy when it comes to customs, international shipping, and carrier
+  networks.  You're a pro at using Salesforce and Excel, and you're comfortable
+  managing complex stakeholder relationships. Responsibilities  Here's where you
+  shine! You'll be selling transportation, warehousing, and supply chain
+  solutions to midmarket and enterprise companies.  You'll bring your
+  understanding of freight modes (FTL, LTL, intermodal), warehousing operations,
+  and supply chain optimization to the table.  You'll be managing complex
+  stakeholder relationships, with a focus on customer satisfaction and longterm
+  engagement. Pay/Benefits  As for the money part, we're talking a base salary
+  range of $67,893$87,893 per year, plus an uncapped commission.  And because
+  your wellbeing matters to us, we've got a great benefits package too! So, are
+  you ready to jump into this exciting role? We can't wait to hear from you!
 location: 'San Carlos, CA'
 team: Logistics
 datePosted: '2024-12-27T21:53:57.571Z'

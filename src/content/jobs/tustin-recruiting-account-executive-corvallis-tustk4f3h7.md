@@ -7,7 +7,25 @@ description: >-
   other bustling cities such as Albany, Salem, and Eugene. The Account Executive
   role is pivotal to the company, focusing on the sales of transportation,
   warehousing, and supply chain solutions to midmarket and enterprise companies.
-  Qualifications Indepth understand...
+  Qualifications Indepth understanding of freight modes including FTL, LTL, and
+  intermodal. Knowledge of warehousing operations and supply chain optimization.
+  Experience with TMS systems, rate negotiations, and logistics sales cycles.
+  Proficiency in customs, international shipping, and carrier networks.
+  Proficiency with Salesforce and Excel. Experience managing complex stakeholder
+  relationships. Ability to travel as needed. Responsibilities Sell
+  transportation, warehousing, and supply chain solutions to midmarket and
+  enterprise companies. Understand customer's business and supply chain in depth
+  to provide tailored logistic solutions. Negotiate rates and contracts with
+  customers and carriers. Manage relationships with key stakeholders. Utilize
+  Salesforce and Excel to track leads, customer data, and sales. Work with
+  internal teams to ensure customer satisfaction. Pay/Benefits Salary Range:
+  $66,601$86,601 per year. Competitive benefits package. Opportunity for base
+  salary plus uncapped commission. Our Client is committed to fostering a
+  diverse and inclusive workplace. We are an equal opportunity employer and make
+  hiring decisions based on merit. All qualified applicants will receive
+  consideration for employment without regard to their race, color, religion,
+  sex, national origin, sexual orientation, gender identity, protected veteran
+  status, or disability status.
 location: 'Corvallis, OR'
 team: Logistics
 datePosted: '2024-12-28T15:35:37.164Z'

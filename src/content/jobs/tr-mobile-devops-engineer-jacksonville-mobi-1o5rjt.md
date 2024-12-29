@@ -7,7 +7,30 @@ description: >-
   a Remote Mobile DevOps Engineer to guide our mobile developers and drive our
   product development. Position Overview As a Remote Mobile DevOps Engineer, you
   will be leading a pod of 34 mobile developers dedicated to creating worldclass
-  applications for our pla...
+  applications for our platform. Your responsibilities will include automating
+  mobile software delivery processes, managing cloudbased infrastructure, and
+  improving our development and production environments. This role requires 47
+  years of experience and is 100% remote. Key Responsibilities  Lead a team of
+  mobile developers in creating, testing, and deploying mobile applications 
+  Automate mobile software delivery processes through continuous integration and
+  deployment  Manage cloudbased infrastructure and collaborate with the IT team
+  to ensure security and performance  Use monitoring tools to identify and fix
+  performance issues  Improve development and production environments for mobile
+  applications Required Qualifications  47 years of experience in DevOps or a
+  related field  Certified Kubernetes Application Developer and Google Mobile
+  Web Specialist  Strong experience with Fastlane, Swift/SwiftUI, TestFlight,
+  React Native, Play Store Console, and Flutter/Dart  Proven ability to lead and
+  manage a team  Excellent communication skills for remote collaboration 
+  Experienced with remote work tools and practices  Must have a home office
+  setup with reliable internet Preferred Qualifications  iOS Advanced
+  Development and Azure Mobile Developer certifications Benefits & Perks 
+  Competitive salary and equity  Comprehensive health, dental, and vision
+  insurance  Unlimited paid time off  Remote work with flexible hours  Monthly
+  home office and wellness stipends Growth & Development This is an incredible
+  opportunity to join a wellfunded startup at an early stage. You'll have the
+  chance to grow with the company, take on new challenges, and make a real
+  impact in the consumer tech industry. We also offer comprehensive training
+  focused on product development.
 location: 'Jacksonville, FL'
 team: Mobile
 schedule: Full Time

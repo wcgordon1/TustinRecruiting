@@ -7,7 +7,22 @@ description: >-
   Burbank, and Alhambra. The position focuses on fostering strategic
   partnerships with enterprise clients and pinpointing new market opportunities
   in the logistics arena. A deep understanding of supply chain operations,
-  contract negotiations, and RFP processes is a must. This ...
+  contract negotiations, and RFP processes is a must. This role also requires
+  proficiency in managing large logistics accounts ($5M+), developing customized
+  supply chain solutions, and staying abreast of industry trends and emerging
+  technologies in the logistics field. Qualifications  Deep understanding of
+  supply chain operations, contract negotiations, and RFP processes.  Proven
+  experience in managing large logistics accounts ($5M+) and developing
+  customized supply chain solutions.  Strong knowledge of industry trends,
+  competitive landscape, and emerging technologies in logistics.  Proficiency
+  with CRM systems, financial modeling, and executive presentations.
+  Responsibilities  Develop strategic partnerships with enterprise clients. 
+  Identify new market opportunities in the logistics sector.  Manage large
+  logistics accounts and develop customized supply chain solutions.  Keep
+  abreast of industry trends, competitive landscape, and emerging technologies
+  in logistics. Pay/Benefits  Salary Range: $88988$103988 per year. 
+  Comprehensive benefits package. Our Client is an equal opportunity employer
+  and encourages all qualified individuals to apply.
 location: 'Pasadena, CA'
 team: Logistics
 datePosted: '2024-12-28T05:15:57.457Z'

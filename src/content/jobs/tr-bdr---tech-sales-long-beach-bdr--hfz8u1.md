@@ -11,7 +11,20 @@ description: >-
   platforms  Qualify leads and set appointments for the sales team  Collaborate
   with team members to strategize and execute sales plans  Maintain and update
   CRM systems with lead information and sales activities  Monitor and report on
-  market and competitor...
+  market and competitor activities to enhance strategic positioning  Participate
+  in team meetings to discuss progress towards sales targets Requirements 
+  Experience: 01 years in sales or related field  Certifications:  Required: AWS
+  Cloud Practitioner, Google Analytics Certification  Preferred: HubSpot Sales
+  Software Certification  Technology Stack: Proficiency in Salesforce, ZoomInfo,
+  HubSpot, LinkedIn Sales Navigator, Outreach.io  Effective communication and
+  interpersonal skills  Driven and motivated to excel in a fastpaced, techdriven
+  environment Benefits  Advanced benefits package, including health, dental, and
+  vision coverage  Opportunities for professional growth and career advancement
+  within the fintech industry  Collaborative and innovative work culture in the
+  vibrant Long Beach tech scene  Comprehensive training and continuous learning
+  opportunities focused on sales development Join our team and become an
+  integral part of the thriving fintech industry in Long Beach, CA, where
+  innovation meets opportunity.
 location: 'Long Beach, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

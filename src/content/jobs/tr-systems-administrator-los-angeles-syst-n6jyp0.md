@@ -8,7 +8,46 @@ description: >-
   role offers the opportunity to be at the forefront of technology in a vibrant
   and fastpaced industry, contributing to impactful solutions in a city renowned
   for its tech innovation. Key Responsibilities As a Systems Administrator, you
-  will be expected to manage and support our IT...
+  will be expected to manage and support our IT infrastructure with precision
+  and expertise. Your key responsibilities will include:  System Maintenance and
+  Support: Oversee the installation, configuration, and troubleshooting of
+  hardware and software systems.  Network Administration: Manage network servers
+  and technology tools, ensuring optimal performance and security across
+  platforms.  User Support and Training: Provide technical support to team
+  members and conduct training sessions to enhance their IT literacy,
+  particularly focusing on sales development.  Security Management: Implement
+  and monitor security measures to protect data, software, and hardware. 
+  Collaboration and Documentation: Work closely with a 10+ person regional team
+  to document system configurations and workflows. Regular travel to nearby
+  major cities will be required, allowing you to broaden your professional
+  network and exposure. Required Qualifications To succeed in this role, you
+  should possess:  Experience: 35 years of experience in systems administration
+  or a related field.  Certifications: CompTIA A+ and Microsoft 365 Certified
+  are essential.  Technical Proficiency: Expertise with VMware, Azure Active
+  Directory, AWS CloudWatch, Splunk, ServiceNow, and Terraform.  ProblemSolving
+  Skills: Strong analytical and troubleshooting abilities.  Communication
+  Skills: Excellent verbal and written communication skills are necessary for
+  effective collaboration and user support. Preferred Qualifications While not
+  mandatory, the following qualifications will enhance your candidacy: 
+  Additional Certifications: CompTIA A+ and ITIL Foundation are highly
+  desirable.  Industry Knowledge: Familiarity with MarTech platforms and their
+  specific technological demands.  Proactive Attitude: A proactive approach to
+  learning new technologies and staying updated with industry trends. Benefits &
+  Perks We offer a comprehensive benefits package designed to support your
+  wellbeing and professional growth:  Advanced Benefits Tier: Comprehensive
+  health, dental, and vision insurance plans.  Retirement Plans: 401(k) with
+  company matching.  WorkLife Balance: Generous paid time off and flexible
+  scheduling options.  Career Development: Access to continuous learning
+  opportunities and certifications.  Travel Opportunities: Regular travel to
+  major cities and industry conferences. Growth & Development At our company,
+  growth is not just a possibility; it's a priority. Los Angeles serves as a
+  thriving hub for technology innovation, providing a fertile ground for
+  professional development. You will have the chance to work with cuttingedge
+  technologies, collaborate with industry leaders, and contribute to
+  groundbreaking projects. Our commitment to continuous training, particularly
+  in sales development, ensures you remain at the forefront of the tech
+  industry. Join us in shaping the future of MarTech and take your career to new
+  heights in one of the most exciting cities in the world.
 location: 'Los Angeles, CA'
 team: Software
 schedule: Standard Business Hours

@@ -6,7 +6,50 @@ description: >-
   marketing platforms and analytics tools—all from the comfort of your home.
   This 100% remote position offers you the flexibility to collaborate with
   talented professionals nationwide, leveraging innovative solutions to drive
-  marketing automation and analytics. Position Overview As a Full Stack De...
+  marketing automation and analytics. Position Overview As a Full Stack
+  Developer, you will be an integral part of our dynamic team that operates
+  within the MarTech industry. Your role will involve working across multiple
+  project teams, developing and integrating advanced marketing solutions. This
+  position is ideal for talented individuals who thrive in a virtual environment
+  and possess a strong understanding of both frontend and backend technologies. 
+  Experience Required: 35 years  Work Location: 100% Remote (USBased)  Schedule:
+  Standard Business Hours  Work Environment: MarTech (Marketing Platforms,
+  Analytics Companies, Automation Tools)  Travel: No travel required Key
+  Responsibilities In your role as a Full Stack Developer, you will: 
+  Collaborate with crossfunctional teams to design and implement scalable
+  software solutions.  Optimize applications for speed and scalability, ensuring
+  high performance and responsiveness.  Develop and maintain welldocumented code
+  that is reusable and testable.  Integrate userfacing elements using serverside
+  logic and APIs.  Participate actively in code reviews and provide mentorship
+  to junior developers.  Stay informed about emerging technologies and industry
+  trends to remain competitive. Remote Work Requirements Working remotely
+  requires a unique skill set and discipline. Here’s what you need to succeed in
+  this role:  Strong communication skills for remote collaboration  Experience
+  with remote work tools and practices  Selfmotivated and able to work
+  independently  Home office setup with reliable internet Required
+  Qualifications To be successful in this role, you will need:  Technology Stack
+  Expertise: Proficiency in AWS/Azure/GCP, Kubernetes, React, Node.js, Docker,
+  TypeScript, GraphQL  Certifications: Google Cloud Professional, AWS Solutions
+  Architect  Demonstrated experience in a remote work setting with a distributed
+  team Preferred Qualifications While not mandatory, the following
+  qualifications are preferred:  Experience in the MarTech domain, particularly
+  with marketing platforms and analytics.  Advanced knowledge of cloud
+  infrastructure and containerization technologies.  Passion for innovation in
+  marketing automation and analytics tools. Benefits & Perks We offer a
+  comprehensive benefits package that supports our employees and their families.
+  As part of our team, you will enjoy:  Competitive salary and performancebased
+  incentives  Health, dental, and vision insurance  401(k) matching program 
+  Paid time off and parental leave  Opportunities for professional growth and
+  development Growth & Development We are committed to your professional growth
+  and offer tailored opportunities for learning and development. From sales
+  development training to exposure to the latest technologies in the MarTech
+  industry, you will have the chance to expand your skills and advance your
+  career.  Access to online courses and certifications  Regular workshops and
+  training sessions  Mentorship programs to guide your career path At our
+  MarTech company in Tustin, we embrace the dynamics of the tech industry and
+  foster an environment that encourages innovation and growth. Join us as we
+  redefine the future of marketing technology, where your contributions will
+  make a significant impact.
 location: 'Tustin, CA'
 team: Software
 schedule: Standard Business Hours

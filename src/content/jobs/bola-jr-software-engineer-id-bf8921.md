@@ -20,7 +20,18 @@ description: >-
   (e.g., Git) and Agile development methodologies.  Basic understanding of
   RESTful APIs and database design principles.  Strong problemsolving skills and
   a willingness to learn new technologies.  Excellent communication and teamwork
-  abilities.
+  abilities.  Preferred: Exposure to cloud platforms like AWS or Azure and
+  containerization tools like Docker.  Preferred: Knowledge of ReactNative or
+  interest in learning it. Why Join Bola AI?  Innovative Technology: Be part of
+  a team developing cuttingedge VoiceAI solutions for the healthcare industry. 
+  Career Growth: Gain handson experience and mentorship from experienced
+  engineers.  Collaborative Environment: Work onsite in a dynamic, supportive,
+  and innovative workplace.  Competitive Benefits: Competitive salary, health,
+  dental, vision, and 401(k) benefits. Benefits  Onsite work environment with
+  opportunities to collaborate directly with team members.  Comprehensive
+  training and professional development opportunities.  Competitive compensation
+  and benefits package.  Be part of a fastgrowing company making a real impact
+  in the healthcare industry.
 location: 'Irvine, CA'
 team: Artificial Intelligence
 datePosted: '2024-12-28T14:58:05.874Z'

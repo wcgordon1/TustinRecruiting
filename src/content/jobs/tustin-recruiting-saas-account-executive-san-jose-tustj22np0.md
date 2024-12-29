@@ -7,7 +7,29 @@ description: >-
   Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Cupertino. This role is
   geared towards individuals who excel in fullcycle enterprise software sales,
   with deal sizes ranging from $100K$500K annually. The ideal candidate is
-  expected to have experience selling complex te...
+  expected to have experience selling complex technical solutions to IT and
+  business leaders and a strong understanding of software implementation
+  processes, ROI analysis, and contract negotiations. Familiarity with
+  Salesforce, sales engagement platforms, and virtual demonstration tools is
+  key. Candidates with experience in consultative selling methodology and
+  solutionbased selling approach are highly preferred. Qualifications Proven
+  experience in fullcycle enterprise software sales Experience selling complex
+  technical solutions to IT and business leaders Strong understanding of
+  software implementation processes, ROI analysis, and contract negotiations
+  Proficiency with Salesforce, sales engagement platforms, and virtual
+  demonstration tools Experience with consultative selling methodology and
+  solutionbased selling approach Excellent communication, negotiation, and
+  presentation skills Responsibilities Manage and grow a portfolio of enterprise
+  accounts Conduct highlevel conversations with senior executives about their
+  business, their technology needs, and their operations Develop and execute
+  strategic plan for your territory and create reliable forecasts Work towards
+  strategic business goals Collaborate with internal team members to ensure
+  customer success and satisfaction Drive brand awareness, campaigns, and lead
+  generation via networking, associations, etc. Pay/Benefits Salary range:
+  $85980$95980 per year Competitive benefits package including medical, dental,
+  and vision coverage Retirement savings plan Continued training and
+  professional development opportunities Generous vacation and paid time off
+  policy
 location: 'San Jose, CA'
 team: Software
 datePosted: '2024-12-28T09:25:48.072Z'

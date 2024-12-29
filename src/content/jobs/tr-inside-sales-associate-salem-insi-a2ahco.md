@@ -11,7 +11,34 @@ description: >-
   thriving tech landscape in Salem. Key Responsibilities  Lead and manage a team
   of 46 technicians to exceed sales targets and enhance customer relationships. 
   Develop and execute strategic sales plans to expand our customer base within a
-  30mile radius.  Utilize Salesfor...
+  30mile radius.  Utilize Salesforce, HubSpot, and Outreach.io to track and
+  manage sales activities efficiently.  Analyze market trends and customer needs
+  using Google Analytics to inform sales strategies.  Foster relationships with
+  new and existing clients through LinkedIn Sales Navigator and ZoomInfo. 
+  Demonstrate the value of our cybersecurity and cloud security solutions to
+  potential and current clients.  Participate in industryfocused training to
+  continually enhance product knowledge and sales techniques. Required
+  Qualifications  12 years of inside sales experience, preferably within the
+  security software industry.  Salesforce Certified Administrator and Google
+  Analytics Certification.  Proficiency in using sales technologies such as
+  Outreach.io, HubSpot, Salesforce, ZoomInfo, and LinkedIn Sales Navigator. 
+  Strong communication and leadership skills to effectively manage and motivate
+  a sales team.  Ability to travel locally within a 30mile radius to meet with
+  clients and support sales initiatives. Preferred Qualifications  Additional
+  certifications in Salesforce and Google Analytics are a plus.  Knowledge of
+  cybersecurity products and identity management solutions.  Experience in
+  leading small teams and driving sales growth in a technologydriven
+  environment. Benefits & Perks  Full Health Insurance  3 Weeks PTO  401k Match 
+  Performance Bonuses  Tool Allowance Growth & Development  Take advantage of
+  industryfocused training programs designed to improve your sales acumen and
+  technical knowledge.  Explore career progression opportunities within our
+  rapidly growing organization, with pathways to senior sales roles and
+  leadership positions.  Stay at the cutting edge of technology with access to
+  the latest tools and resources that drive innovation in the cybersecurity
+  sector. Position yourself at the forefront of technology sales in Salem, OR,
+  and become an integral part of our mission to secure and enhance business
+  operations. If you are ready to elevate your career with a company that values
+  growth and innovation, we want to hear from you!
 location: 'Salem, OR'
 team: Software
 schedule: Standard Business Hours

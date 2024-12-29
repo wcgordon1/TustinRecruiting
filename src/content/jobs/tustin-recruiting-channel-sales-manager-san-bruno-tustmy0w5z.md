@@ -7,7 +7,24 @@ description: >-
   Millbrae, and Pacifica. This crucial role focuses on building and managing
   reseller partnerships, including recruiting, enabling, and growing a network
   of valueadded resellers and system integrators. Qualifications The ideal
-  candidate will have extensive experience in developin...
+  candidate will have extensive experience in developing channel programs,
+  creating partner enablement materials, and managing complex partner
+  ecosystems. A strong understanding of channel economics, deal registration
+  programs, and partner incentive structures is required. Proficiency with
+  partner relationship management (PRM) systems and channel marketing strategies
+  is also necessary. Responsibilities In this role, you will be responsible for
+  the recruitment and enablement of new reseller partners, as well as the growth
+  and management of current partner relationships. This includes the development
+  and execution of channel programs and partner incentive structures. The
+  creation of partner enablement materials will also fall under your purview.
+  Your role will further involve managing deal registration programs and
+  utilizing PRM systems to effectively manage partner relationships and channel
+  marketing strategies. Pay/Benefits The salary range for this position is
+  $96,245  $116,245 per year. In addition to the competitive salary, our client
+  offers a comprehensive benefits package, ensuring a high quality of life for
+  their employees. If you are a proven Channel Sales Manager with a passion for
+  building and managing reseller partnerships, we would love to hear from you.
+  Apply now to join our client's team in San Bruno, CA.
 location: 'San Bruno, CA'
 team: Software
 datePosted: '2024-12-28T02:34:31.925Z'

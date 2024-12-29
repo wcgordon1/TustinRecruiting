@@ -6,7 +6,32 @@ description: >-
   a team of technicians within a thriving financial services environment.
   Leverage your expertise to enhance IT operations while enjoying the vibrant
   tech landscape of West Covina. Key Responsibilities  Lead and Manage: Direct a
-  team of 46 IT technicians, ensuring efficient opera...
+  team of 46 IT technicians, ensuring efficient operations and optimal
+  performance.  Systems Monitoring: Utilize AWS CloudWatch and VMware to oversee
+  system performance and reliability.  Infrastructure Management: Implement and
+  maintain infrastructure using Terraform and Azure Active Directory.  Incident
+  Response: Manage and resolve technical incidents using Splunk and ServiceNow. 
+  Collaboration: Work closely with crossfunctional teams to support digital
+  banking and payment processing solutions.  Technical Training: Develop and
+  implement training programs focused on enhancing team technical skills. 
+  Travel: Conduct site visits within a 30mile radius to support local operations
+  and projects. Requirements  Experience: 25 years in IT operations within
+  fintech or related industries.  Certifications:  Required: AWS SysOps
+  Administrator, Microsoft 365 Certified  Preferred: Cisco CCNA, AWS Solutions
+  Architect  Technical Skills: Proficiency in AWS CloudWatch, VMware, Terraform,
+  Azure Active Directory, Splunk, and ServiceNow.  Location: Based in West
+  Covina, CA, with travel as needed within the local area.  Schedule: Standard
+  business hours, with flexibility for urgent matters.  Team Leadership:
+  Demonstrated ability to lead and develop a technical team. Benefits 
+  Comprehensive Health Coverage: Medical, dental, and vision insurance. 
+  Retirement Plans: Access to 401(k) with company matching.  Professional
+  Development: Opportunities for continued education and certification support. 
+  WorkLife Balance: Flexible scheduling options to accommodate personal needs. 
+  Career Growth: Potential for advancement within a growing fintech company. 
+  Technology Allowance: Support for necessary tech tools and resources. Embark
+  on a rewarding career path as an IT Operations Specialist, contributing to
+  innovative financial solutions and advancing your professional journey in West
+  Covina’s expanding tech sector.
 location: 'West Covina, CA'
 team: Software
 schedule: Standard Business Hours

@@ -11,7 +11,39 @@ description: >-
   collaboration and have a knack for optimizing software development processes,
   this role is for you. Key Responsibilities  Design, implement, and manage
   scalable cloudbased solutions.  Collaborate with crossfunctional teams to
-  streamline deployment processes.  ...
+  streamline deployment processes.  Lead and mentor a team of DevOps technicians
+  to ensure high performance.  Enhance system monitoring, logging, and alerting
+  mechanisms.  Automate infrastructure provisioning and configuration using IaC
+  tools.  Continuously improve CI/CD pipelines for efficiency and reliability. 
+  Foster a culture of continuous improvement and agile methodologies. Required
+  Qualifications  Experience: 47 years in a DevOps role.  Certifications: 
+  Docker Certified Associate  Azure Developer Associate  Technology Stack: 
+  Kubernetes, Docker  AWS/Azure/GCP  Node.js, React, TypeScript  GraphQL  Remote
+  Work Skills:  Strong communication and collaboration in a virtual
+  environment.  Proficiency with remote work tools.  Selfmotivated and
+  independent working skills.  Reliable home office setup with stable internet
+  connectivity. Preferred Qualifications  Kubernetes Administrator
+  certification.  Additional proficiency in Azure Developer Associate tasks. 
+  Familiarity with enterpriselevel SaaS platforms and B2B technologies. 
+  Experience leading remote teams with a focus on innovation and efficiency.
+  Benefits & Perks  Health & Wellness: Comprehensive healthcare plans including
+  medical, dental, and vision coverage.  WorkLife Balance: Flexible scheduling
+  within standard business hours.  Remote Work: 100% remote work policy with no
+  travel requirements.  Professional Development: Opportunities for sales
+  development and upskilling in the latest DevOps technologies.  Team
+  Environment: Collaborative, supportive team culture with emphasis on virtual
+  engagement. Growth & Development At our company, we are committed to your
+  professional growth. As a Remote DevOps Engineer, you will have access to an
+  array of opportunities that promote personal development and career
+  advancement. Through handson projects and continuous learning experiences, you
+  will be at the forefront of technological innovation in the SaaS industry.
+  Lead transformative projects that impact enterprise software companies
+  globally, and contribute to a culture of excellence, diversity, and inclusion.
+  Immerse yourself in the thriving tech scene of Norwalk, where innovation meets
+  opportunity. Gain exposure to groundbreaking cloud platforms and B2B tech
+  companies, all while enjoying the benefits of a remote work lifestyle. Join us
+  to redefine the future of DevOps engineering in a highly dynamic and
+  fulfilling role.
 location: 'Norwalk, CA'
 team: Software
 schedule: Standard Business Hours

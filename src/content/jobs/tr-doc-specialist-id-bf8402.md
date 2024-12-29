@@ -21,7 +21,11 @@ description: >-
   equivalent experience in a related field.  Exceptional organizational and
   communication skills.  Familiarity with UCC filing and lien search processes
   is a plus.  Proficiency in CRM tools and Microsoft Office Suite.  Strong
-  problemsolving and multitasking abilities.
+  problemsolving and multitasking abilities. Benefits  Competitive salary. 
+  Health, dental, and vision insurance.  401(k) with company match.  Generous
+  PTO and paid holidays.  Employee Stock Ownership Plan (ESOP) for longterm
+  financial growth.  Opportunities for professional development and career
+  advancement.
 location: 'Irvine, CA'
 team: Equipment Finance
 datePosted: '2024-12-28T17:00:28.398Z'

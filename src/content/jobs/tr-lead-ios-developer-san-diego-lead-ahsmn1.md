@@ -7,7 +7,38 @@ description: >-
   team is looking for a Remote Lead iOS Developer, based anywhere within the US,
   to join our lean, dynamic mobile team of 46 engineers. The successful
   candidate will have a deep understanding of iOS development, experience
-  working remotely, and a passion for engineering ...
+  working remotely, and a passion for engineering excellence. This is an
+  exciting opportunity to join a highgrowth startup, where you will have
+  abundant opportunities for growth and development, and the flexibility of a
+  fully remote work environment. Position Overview As Lead iOS Developer, you
+  will head the iOS development for our mobile banking application. You will
+  work closely with our engineering and design teams, and have a significant
+  influence on our mobile strategy. You will also be responsible for maintaining
+  the quality and integrity of our app, ensuring its performance, stability, and
+  usability. Key Responsibilities  Lead development of our iOS app, writing
+  clean, maintainable code  Work with design and product teams to define feature
+  specifications  Maintain quality and performance of application  Coordinate
+  with backend developers to define and test necessary APIs  Help maintain code
+  quality, organization, and automatization  Regularly participate in code
+  reviews and team discussions Required Qualifications  69 years of professional
+  experience in iOS development  Strong understanding of Swift, Xcode, and Apple
+  Guidelines  Experience with REST APIs, GraphQL, and AWS Amplify  Certification
+  in iOS Advanced Development and AWS Mobile Developer  Experience working in a
+  fully remote environment  Strong communication skills and experience with
+  virtual collaboration tools  Home office setup with reliable internet
+  connection Preferred Qualifications  Certification in Google Mobile Web
+  Specialist  Experience with Play Store Console, Jest/Detox, and App Store
+  Connect  Experience in the FinTech industry  Experience working in a startup
+  or agile environment Benefits & Perks  Competitive salary and equity options 
+  Comprehensive health, dental, vision insurance options  Unlimited paid time
+  off  Remote work stipend for home office setup  Regular virtual teambuilding
+  events Growth & Development We are committed to the growth and development of
+  all our team members. In addition to handson experience, you will also have
+  access to a range of professional development opportunities, including: 
+  Regular oneonones with your manager to discuss career development  An annual
+  learning and development stipend  Opportunities to attend relevant conferences
+  and workshops  The chance to work with and learn from a team of experienced,
+  passionate professionals.
 location: 'San Diego, CA'
 team: Mobile
 schedule: Full Time

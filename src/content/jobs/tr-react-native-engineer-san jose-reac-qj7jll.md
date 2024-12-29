@@ -7,7 +7,32 @@ description: >-
   this role is fully remote, we are specifically seeking candidates from the
   vibrant tech hub of San Jose, CA. By joining our small but rapidly expanding
   team, you'll get the chance to make a significant impact on our innovative
-  product in a fastpaced startup enviro...
+  product in a fastpaced startup environment. Key Responsibilities:  Craft and
+  upkeep a highperformance Ecommerce iOS application using React Native.  Work
+  closely with product managers, designers, and other engineers to roll out new
+  features and improvements.  Generate clean, scalable, and welldocumented
+  code.  Detect and rectify application issues to enhance performance and user
+  experience.  Implement responsive designs and guarantee seamless user
+  experiences across various devices.  Optimize the app to achieve maximum
+  speed, reliability, and scalability.  Stay informed about the latest React
+  Native developments and bring innovative ideas to the team. Requirements:  4+
+  years of experience with React Native, particularly on iOS applications.  Firm
+  grasp of mobile development concepts, including APIs, authentication, and data
+  management.  Proven experience integrating thirdparty libraries and APIs. 
+  Strong command over JavaScript and TypeScript.  Familiarity with mobile app
+  performance optimization techniques.  Experience with CI/CD pipelines and app
+  deployment to the Apple App Store.  Excellent problemsolving skills and
+  meticulous attention to detail.  Ability to function independently in a remote
+  setting while effectively collaborating with a team. Added Advantages:  Prior
+  experience with Ecommerce platforms and payment integrations.  Familiarity
+  with design tools such as Figma or Sketch.  Knowledge of Android development
+  and crossplatform optimizations. Compensation & Benefits:  Annual salary,
+  commensurate with experience, plus equity.  Potential for growth within a
+  wellfunded, rapidly expanding startup.  Comprehensive benefits package,
+  including health insurance, paid time off, and more. At RTRO, you will be part
+  of a dedicated, highly technical team on a mission to redefine the Ecommerce
+  experience. If you are passionate about building topnotch products and thrive
+  in a startup setting, we would be thrilled to hear from you!
 location: 'San Jose, CA'
 team: Mobile
 datePosted: '2024-12-28T08:41:11.326Z'

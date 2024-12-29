@@ -7,7 +7,21 @@ description: >-
   cybersecurity, enjoy the thrill of closing highvalue deals, and strive to make
   a big impact in the tech industry. Situated in the heart of Southern
   California, Beverly Hills is surrounded by vibrant cities such as West
-  Hollywood, Santa Monica, and Los Angeles. Qualifications ...
+  Hollywood, Santa Monica, and Los Angeles. Qualifications  Proven track record
+  of closing deals over $500K.  Proficient with Salesforce, security concepts,
+  and enterprise sales cycles.  Must understand complex security frameworks
+  (NIST, ISO) and compliance requirements.  Experience selling to CISOs and IT
+  leaders required. Responsibilities  Selling enterprise security solutions to
+  Fortune 500 companies.  Developing and maintaining relationships with CISOs
+  and IT leaders.  Navigating complex security frameworks and compliance
+  requirements to provide the best solutions for clients.  Leveraging Salesforce
+  and other sales tools to manage sales cycles and customer information.
+  Pay/Benefits  The salary range for this position is $120,978$150,978 per
+  year.  Our Client offers a competitive benefits package, including health
+  insurance, 401(k) match, and generous PTO. If you are a motivated sales
+  professional with a passion for cybersecurity, Our Client would love to hear
+  from you. Apply today to take the next step in your career with an industry
+  leader.
 location: 'Beverly Hills, CA'
 team: Software
 datePosted: '2024-12-28T03:26:35.548Z'

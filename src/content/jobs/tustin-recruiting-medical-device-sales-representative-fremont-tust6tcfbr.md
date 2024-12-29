@@ -7,7 +7,24 @@ description: >-
   offers a chance to make a significant impact in the healthcare industry by
   selling topnotch medical devices and equipment to hospitals, clinics, and
   healthcare providers. If you have a knack for navigating complex healthcare
-  sales cycles and a deep understanding of hospital ...
+  sales cycles and a deep understanding of hospital procurement processes, then
+  this role is tailormade for you. Qualifications  Previous experience in
+  medical device sales or healthcare sales role.  Proficient understanding of
+  medical terminology, surgical procedures, and healthcare regulations.  Solid
+  experience with value analysis committees, clinical evaluations, and OR
+  protocol.  Comfortable with clinical training and supporting live procedures. 
+  Established relationships with healthcare providers and procurement teams
+  preferred.  Proven ability to navigate complex sales cycles in the healthcare
+  industry. Responsibilities  Sell medical devices and equipment to hospitals,
+  clinics, and healthcare providers.  Navigate complex healthcare sales cycles. 
+  Understand and navigate hospital procurement processes.  Utilize knowledge of
+  medical terminology, surgical procedures, and healthcare regulations in sales
+  strategy.  Engage with value analysis committees, perform clinical
+  evaluations, and adhere to OR protocol.  Provide clinical training and support
+  live procedures.  Build and maintain strong relationships with healthcare
+  providers and procurement teams. Pay/Benefits The salary range for this
+  position is $81258$116258 per year. Our client offers a comprehensive benefits
+  package, including health insurance, retirement plans, and paid time off.
 location: 'Fremont, CA'
 team: Medical Device
 datePosted: '2024-12-28T10:20:38.448Z'

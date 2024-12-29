@@ -4,7 +4,27 @@ description: >-
   Overview Join a dynamic team in the heart of healthcare tech as a SaaS Sales
   Development Representative (SDR) in Santa Clarita, CA. Drive growth in digital
   health platforms, medical software, and healthcare analytics. Key
-  Responsibilities  Lead and mentor a team of 46 technicians to achieve...
+  Responsibilities  Lead and mentor a team of 46 technicians to achieve sales
+  targets.  Identify and qualify sales opportunities using LinkedIn Sales
+  Navigator, ZoomInfo, and other tools.  Manage and update the CRM with
+  Salesforce and HubSpot to maintain accurate lead data.  Collaborate with the
+  sales and marketing teams to develop strategic outreach campaigns via
+  Outreach.io.  Conduct regular travel to major nearby cities to expand market
+  reach and client engagement.  Participate in technical training to enhance
+  understanding of healthcare tech solutions. Requirements  02 years of sales or
+  customerfacing experience in a techdriven environment.  Certifications: AWS
+  Cloud Practitioner and Salesforce Certified Administrator.  Preferred but not
+  required: Google Analytics Certification and HubSpot Sales Software
+  Certification.  Proficient with sales technologies such as LinkedIn Sales
+  Navigator, ZoomInfo, HubSpot, Outreach.io, and Salesforce.  Strong
+  communication skills and a passion for healthcare technology. Benefits 
+  Competitive salary with performancebased incentives.  Advanced tier benefits
+  including health, dental, and vision coverage.  Opportunities for professional
+  growth within the expanding SaaS and healthcare tech sectors.  Regular
+  training focused on technical and sales skills to support career development. 
+  Engaging work environment with a focus on innovation and team collaboration.
+  Join us in transforming healthcare through technology and start your journey
+  towards an impactful career in Santa Clarita’s vibrant tech industry.
 location: 'Santa Clarita, CA'
 team: Software
 schedule: Standard Business Hours

@@ -7,7 +7,23 @@ description: >-
   team. This is your chance to work in the dynamic tech hub of the East Bay,
   surrounded by neighboring cities like Oakland, Emeryville, and Albany. If you
   thrive in highpressure situations, enjoy dealing with the challenges that come
-  with hightraffic periods, and want to make a ta...
+  with hightraffic periods, and want to make a tangible impact on a largescale
+  platform, then this role is for you. Qualifications  Proven experience in
+  scaling and maintaining infrastructure during hightraffic periods  Expertise
+  in Kubernetes, Docker, Terraform, and major cloud platforms (AWS/GCP)  Solid
+  understanding of monitoring tools (Datadog, New Relic)  Competence in CI/CD
+  pipelines and automation  Experience with microservices architecture and
+  performance optimization Responsibilities  Maintain and scale infrastructure
+  to support a robust ecommerce platform  Ensure system performance and
+  stability even during hightraffic periods  Develop and implement CI/CD
+  pipelines  Leverage monitoring tools to ensure system health and performance 
+  Optimize system performance and ensure system security Pay and Benefits Our
+  client believes in rewarding its employees for their hard work and offers a
+  competitive salary in the range of $111,733  $131,733 per year. The
+  comprehensive benefits package includes health insurance, retirement planning
+  options, generous vacation time, and more. Opportunities for professional
+  growth and advancement are abundant in this dynamic, growing company. If
+  you're ready to take your career to the next level, apply today!
 location: 'Berkeley, CA'
 team: Software
 datePosted: '2024-12-26T16:53:45.206Z'

@@ -8,7 +8,27 @@ description: >-
   expertise to drive innovation and efficiency. Key Responsibilities  Implement
   and manage CI/CD pipelines to streamline development.  Automate infrastructure
   provisioning and configuration management.  Monitor system performance,
-  ensuring reliability and scalability.  Collaborate wit...
+  ensuring reliability and scalability.  Collaborate with crossfunctional teams
+  to enhance system operations.  Maintain security best practices within cloud
+  environments.  Troubleshoot and resolve system issues promptly.  Optimize
+  cloud cost management and usage efficiency.  Contribute to documentation and
+  knowledge sharing within the team. Requirements Experience  47 years in DevOps
+  or related roles.  Proficient with Docker, Kubernetes, and cloud platforms
+  (AWS, Azure, GCP). Remote Work Requirements  Strong communication skills for
+  remote collaboration.  Experienced with remote work tools and practices. 
+  Selfmotivated and capable of working independently.  Home office setup with
+  reliable internet. Certifications  Required: Google Cloud Professional, AWS
+  Solutions Architect.  Preferred: Kubernetes Administrator. Technology Stack 
+  Docker, React, GraphQL, Node.js, TypeScript, Kubernetes.  Familiarity with
+  AWS, Azure, and Google Cloud Platform. Benefits  Competitive salary with
+  performance bonuses.  Comprehensive health, dental, and vision insurance. 
+  Generous paid time off and flexible work schedule.  Opportunities for
+  professional growth and development.  Engaging remote work culture with
+  virtual team events.  Access to cuttingedge technologies and industry leaders.
+  Embrace the opportunity to work in a forwardthinking fintech environment from
+  the comfort of your home, leveraging the vibrant tech industry dynamics in
+  Mission Viejo. Join us as we continue to shape the future of financial
+  technology with a dedicated and innovative team.
 location: 'Mission Viejo, CA'
 team: Software
 schedule: Standard Business Hours

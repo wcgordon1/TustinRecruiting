@@ -7,7 +7,22 @@ description: >-
   techdriven, dynamic environment and California charm. As a DevOps Engineer,
   you will play a critical role in maintaining and scaling their infrastructure
   during hightraffic periods. Qualifications  Proven experience as a DevOps
-  Engineer, preferably in a large scale ...
+  Engineer, preferably in a large scale ecommerce environment.  Strong
+  experience with Kubernetes, Docker, Terraform, and major cloud platforms
+  (AWS/GCP).  Solid knowledge of monitoring tools such as Datadog, New Relic. 
+  Handson experience with CI/CD pipelines and automation.  A deep understanding
+  of microservices architecture and performance optimization.  Excellent
+  problemsolving skills with a drive towards continuous improvement.
+  Responsibilities  Maintain and scale the company's infrastructure,
+  particularly during hightraffic periods.  Utilize tools like Kubernetes,
+  Docker, Terraform, and major cloud platforms (AWS/GCP) to optimize the
+  platform's functionality.  Monitor platform performance using tools such as
+  Datadog, New Relic.  Design, manage, and optimize CI/CD pipelines and automate
+  processes to improve efficiency.  Work with the development team to optimize
+  the microservices architecture and ensure optimal performance. Pay/Benefits
+  The salary range for this position is $109,387 to $129,387 per year. Our
+  client also offers a comprehensive benefits package, including health
+  insurance, retirement plans, and paid time off.
 location: 'Mountain View, CA'
 team: Software
 datePosted: '2024-12-28T02:10:33.220Z'

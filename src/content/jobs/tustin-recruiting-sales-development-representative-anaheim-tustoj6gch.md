@@ -7,7 +7,25 @@ description: >-
   situated in close proximity to the neighboring cities of Fullerton, Placentia,
   Garden Grove, Orange, and Buena Park. The primary focus of the role is on
   outbound prospecting to generate qualified leads for Account Executives, using
-  platforms such as Salesforce, Outreach.io,...
+  platforms such as Salesforce, Outreach.io, and LinkedIn Sales Navigator.
+  Qualifications To be considered for this position, candidates must have the
+  following qualifications:  Proficiency in Salesforce, Outreach.io, and
+  LinkedIn Sales Navigator  Strong communication skills with the ability to
+  understand and articulate technical concepts  Experience with cold calling,
+  email campaigns, and social selling preferred  A driven, selfstarter attitude
+  with the ability to work in a fastpaced environment  Bachelor's degree or
+  equivalent experience in a related field Responsibilities As a Sales
+  Development Representative, your responsibilities will include:  Outbound
+  prospecting to generate qualified leads for Account Executives  Utilizing
+  Salesforce, Outreach.io, and LinkedIn Sales Navigator to identify potential
+  leads  Articulating technical concepts to potential clients in a clear and
+  concise manner  Participating in and contributing to sales strategy meetings 
+  Meeting and exceeding set sales targets and KPIs Pay/Benefits The salary range
+  for this position is $52,609 to $67,609 per year, depending on experience and
+  qualifications. In addition to the competitive salary, our client offers a
+  comprehensive benefits package, including health, dental and vision insurance,
+  a 401(k) plan with company match, paid time off, and a supportive,
+  teamoriented work environment.
 location: 'Anaheim, CA'
 team: Software
 datePosted: '2024-12-27T21:53:09.103Z'

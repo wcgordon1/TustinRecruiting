@@ -8,7 +8,31 @@ description: >-
   cuttingedge technology solutions. Key Responsibilities  Develop and maintain
   mobile applications using modern frameworks and technologies.  Collaborate
   with crossfunctional teams to design, develop, and deploy new features. 
-  Utilize agile methodologies to manage development cycles and meet pr...
+  Utilize agile methodologies to manage development cycles and meet project
+  deadlines.  Implement best practices for software development and
+  maintenance.  Debug and resolve technical issues across platforms and
+  devices.  Contribute to continuous improvement efforts for product and process
+  enhancements.  Engage in code reviews and provide constructive feedback to
+  peers. Requirements Experience Required  36 years of experience in mobile app
+  development.  Proven track record in working with distributed teams and
+  products in the MarTech industry. Remote Work Requirements  Strong
+  communication skills for effective remote collaboration.  Familiarity with
+  remote work tools and practices.  Selfmotivated, with a strong ability to work
+  independently.  Reliable home office setup with highspeed internet. Technical
+  Skills & Certifications  Required Certifications: Kubernetes Administrator,
+  Azure Developer Associate.  Preferred Certifications: Google Cloud
+  Professional, Docker Certified Associate.  Technology Stack: Proficiency in
+  GraphQL, TypeScript, Node.js, React, AWS/Azure/GCP, Docker, Kubernetes.
+  Benefits  Comprehensive Health Coverage: Including medical, dental, and vision
+  insurance.  Retirement Plans: 401(k) with company matching.  Flexible Work
+  Hours: Align your schedule with standard business hours.  Professional
+  Development: Access to training focused on Sales Development.  WorkLife
+  Balance: No travel required, allowing for a balanced remote work lifestyle. 
+  Growth Opportunities: Be part of a team that encourages innovation and career
+  advancement. Embrace the freedom of remote work while contributing to a
+  forwardthinking MarTech company. Join us in shaping the future of marketing
+  technology from Lakewood, CA, and enjoy the benefits of working within a
+  supportive, innovative team environment.
 location: 'Lakewood, CA'
 team: Software
 schedule: Standard Business Hours

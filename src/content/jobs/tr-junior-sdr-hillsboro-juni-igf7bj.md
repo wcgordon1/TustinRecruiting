@@ -7,7 +7,43 @@ description: >-
   rapidly evolving field of digital health platforms, medical software, and
   healthcare analytics. As part of a specialized 35 person team, you will play a
   crucial role in driving business growth, exploring new markets, and building
-  impactful relationships. With flexible hours an...
+  impactful relationships. With flexible hours and the opportunity for regular
+  travel to nearby major cities, your role as a Junior SDR is designed to foster
+  professional growth while keeping you at the forefront of technological
+  advancements in the healthcare sector. Key Responsibilities  Identify and
+  qualify potential business opportunities by leveraging cuttingedge tools like
+  ZoomInfo, LinkedIn Sales Navigator, and HubSpot.  Assist in the development
+  and execution of strategic outreach campaigns using Salesforce and
+  Outreach.io.  Build and maintain relationships with prospective clients in the
+  healthcare industry, presenting our solutions effectively.  Collaborate with
+  the sales and marketing teams to align on strategy and deliver results. 
+  Regularly travel to nearby major cities to meet potential clients and attend
+  industry events.  Provide feedback and insights to support continuous
+  improvement in our sales processes. Required Qualifications  02 years of
+  experience in sales, marketing, or customer service roles.  Google Analytics
+  Certification.  AWS Cloud Practitioner Certification.  Familiarity with
+  technology tools such as ZoomInfo, LinkedIn Sales Navigator, HubSpot,
+  Salesforce, and Outreach.io.  Excellent communication and interpersonal
+  skills.  Ability to work collaboratively in a team environment. Preferred
+  Qualifications  Strong interest in healthcare technology and digital health
+  platforms.  Proven track record of success in a sales development or similar
+  role.  Additional certifications or coursework in business or
+  technologyrelated fields.  Demonstrated ability to adapt quickly to new
+  technologies and processes. Benefits & Perks  Premium Health Insurance:
+  Comprehensive medical, dental, and vision coverage.  4 Weeks PTO: Generous
+  paid time off to ensure a healthy worklife balance.  401k Match: Competitive
+  retirement savings plan with company match.  Quarterly Bonuses:
+  Performancebased bonuses to reward your hard work and dedication.  Vehicle
+  Allowance: Support for travel expenses as you engage with clients across the
+  region. Growth & Development  Training Opportunities: Access to a wealth of
+  professional development resources, including workshops, courses, and
+  mentorship programs, focused on advancing your skills in the techdriven
+  healthcare sector.  Career Progression: A clear path for career advancement
+  within the company, with opportunities to move into more senior roles as you
+  grow in expertise and contribute to our success. Become part of a
+  forwardthinking company that values innovation and growth. In the vibrant tech
+  landscape of Hillsboro, this position offers you the chance to make a
+  significant impact in the world of healthcare technology.
 location: 'Hillsboro, OR'
 team: Software
 schedule: Flexible Hours

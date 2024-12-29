@@ -7,7 +7,24 @@ description: >-
   the vibrant business environment of Southern Oregon. Medford, located near the
   picturesque cities of Ashland, Grants Pass, and Central Point, is regarded as
   the heart of the Rogue Valley and offers a thriving community for business
-  professionals. Qualifications  ...
+  professionals. Qualifications  Proven experience in developing and managing
+  reseller partnerships  Proficiency in creating channel programs and partner
+  enablement materials  Ability to manage complex partner ecosystems  Strong
+  understanding of channel economics, deal registration programs, and partner
+  incentive structures  Proficiency with partner relationship management (PRM)
+  systems  Proven ability to design and implement channel marketing strategies
+  Responsibilities  Recruit, enable, and manage a network of valueadded
+  resellers and system integrators  Develop and implement effective channel
+  programs  Craft partner enablement materials to boost partner performance 
+  Manage and optimize the partner ecosystem to maximize revenue and growth 
+  Understand and leverage channel economics, deal registration programs, and
+  partner incentive structures  Utilize PRM systems to streamline partner
+  management  Develop and execute channel marketing strategies to drive partner
+  engagement and revenue growth Pay/Benefits Our Client offers an attractive
+  salary range of $99,829  $119,829 per year, commensurate with experience. In
+  addition to this competitive salary, they also provide a comprehensive
+  benefits package designed to support the health, wellness, and financial
+  security of our team members.
 location: 'Medford, OR'
 team: Software
 datePosted: '2024-12-26T22:54:11.106Z'

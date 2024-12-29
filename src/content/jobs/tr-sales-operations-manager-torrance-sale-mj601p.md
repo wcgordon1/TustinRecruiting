@@ -11,7 +11,39 @@ description: >-
   objectives.  Key Responsibilities  Lead and Develop: Manage and mentor a team
   of 46 technicians, fostering a collaborative and highperformance culture. 
   Optimize Processes: Design and implement sales processes that utilize MarTech
-  tools to increase efficiency ...
+  tools to increase efficiency and effectiveness across the sales team. 
+  DataDriven Decisions: Leverage analytics to provide actionable insights that
+  inform sales strategies and business decisions.  CrossFunctional
+  Collaboration: Work closely with marketing, IT, and finance departments to
+  ensure alignment and integration of sales operations with overall business
+  goals.  Reporting and Analysis: Generate and analyze reports to track sales
+  performance, identify trends, and propose innovative solutions to enhance
+  sales outcomes.  Technical Training: Facilitate technical training sessions to
+  ensure the team is proficient in using essential sales technology and tools. 
+  Required Qualifications  Experience: 57 years in a sales operations role,
+  ideally within a MarTech environment.  Certifications:  AWS Cloud
+  Practitioner  HubSpot Sales Software Certification  Technology Proficiency:
+  Handson experience with ZoomInfo, LinkedIn Sales Navigator, Outreach.io,
+  HubSpot, and Salesforce.  Location and Mobility: Ability to work onsite in
+  Torrance, CA, with travel within a 30mile radius as needed.  Schedule:
+  Availability to work standard business hours.  Preferred Qualifications 
+  Salesforce Certified Administrator  Google Analytics Certification  Experience
+  in leading technicalfocused training sessions.  Benefits & Perks  Compensation
+  Package: Competitive salary with performancebased bonuses.  Healthcare:
+  Comprehensive health, dental, and vision plans.  Retirement Savings: 401(k)
+  with company match.  WorkLife Balance: Paid time off and flexible scheduling
+  options.  Professional Development: Access to ongoing training and
+  certifications to support your career growth.  Growth & Development At our
+  company, we believe in nurturing talent and providing ample opportunities for
+  career advancement. As a Sales Operations Manager, you will gain exposure to
+  cuttingedge MarTech innovations, positioning you for success in the
+  everevolving tech industry in Torrance. We are committed to your personal and
+  professional development, offering mentorship programs and leadership
+  workshops to help you reach your fullest potential. Join our team and be a
+  part of a forwardthinking company that values innovation, collaboration, and
+  continuous improvement. If you are passionate about driving sales success
+  through technology, we invite you to apply and embark on a rewarding career
+  journey with us.
 location: 'Torrance, CA'
 team: Software
 schedule: Standard Business Hours

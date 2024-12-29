@@ -23,7 +23,8 @@
     "update-llms": "node scripts/update-llms-jobs.js",
     "list-jobs": "node scripts/list-jobs.js",
     "fix-team-name": "node scripts/fix-team-name.js",
-    "remove-description-markdown": "node scripts/remove-description-markdown.js"
+    "remove-description-markdown": "node scripts/remove-description-markdown.js",
+    "update-full-description": "node scripts/update-full-description.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",

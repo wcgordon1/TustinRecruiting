@@ -11,7 +11,22 @@ description: >-
   Key Responsibilities  Develop and maintain strong relationships with
   enterprise clients using SaaS solutions.  Identify new business opportunities
   and drive growth in designated markets.  Collaborate effectively with multiple
-  project teams to deliver client...
+  project teams to deliver clientfocused solutions.  Utilize Salesforce,
+  Outreach.io, and ZoomInfo to streamline client interactions.  Conduct regular
+  travel to nearby major cities for client meetings and industry events.  Meet
+  and exceed sales targets and performance metrics. Requirements  13 years of
+  experience in SaaS sales or similar roles.  Salesforce Certified Administrator
+  and AWS Cloud Practitioner certifications required.  HubSpot Sales Software
+  and Google Analytics certifications preferred.  Proficient in using
+  Outreach.io, ZoomInfo, LinkedIn Sales Navigator, HubSpot, and Salesforce. 
+  Strong communication and negotiation skills.  Ability to work independently
+  and as part of a team. Benefits  Standard Plus benefits tier including health,
+  dental, and vision plans.  Opportunities for professional growth and
+  development.  Dynamic and engaging work environment within the tech industry. 
+  Supportive team culture with regular teambuilding activities.  Access to
+  leadingedge technology and resources for career advancement. Seize the
+  opportunity to enhance your career in the vibrant tech scene of Vancouver, WA.
+  Join us and be part of a company committed to innovation and excellence.
 location: 'Vancouver, WA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

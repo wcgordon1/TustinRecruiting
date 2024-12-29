@@ -7,7 +7,42 @@ description: >-
   a visionary Senior Product Manager to drive product excellence. This
   opportunity is not just about managing products; it's about shaping the future
   of technology and making a tangible impact. If you're passionate about leading
-  game-changing products and thrive in dy...
+  gamechanging products and thrive in dynamic environments, this is your chance
+  to take the reins and lead the charge. Key Responsibilities  Define and
+  execute a strategic product roadmap that aligns with business goals while
+  responding to market changes.  Conduct comprehensive market research and
+  competitive analysis to identify new opportunities and trends.  Gather and
+  prioritize product requirements to ensure alignment with user needs and
+  business objectives.  Work closely with engineering teams on implementation to
+  bring product vision to life.  Manage successful product launches and
+  iterations, ensuring seamless execution and market adoption.  Analyze product
+  metrics and user feedback to drive continuous improvement and innovation. 
+  Present product vision and updates to stakeholders and executives with clarity
+  and confidence.  Collaborate with marketing teams to develop compelling
+  product positioning and messaging.  Conduct user interviews and testing to
+  refine product features and enhance user experience.  Champion crossfunctional
+  collaboration to foster a culture of innovation and excellence. Required
+  Qualifications  BA/BS in Business or Technical field; MBA preferred for
+  strategic depth.  Proven experience in product management, with a focus on
+  technology products.  Strong analytical and data interpretation skills to
+  drive informed decisionmaking.  Excellent communication and presentation
+  abilities to influence and engage stakeholders.  Experience with agile
+  methodologies to ensure adaptive product development.  Understanding of the
+  software development lifecycle to effectively lead technical teams. 
+  Demonstrated leadership skills to inspire and guide crossfunctional teams.  58
+  years of experience in Product Management within a software setting.  Local
+  proficiency in navigating Costa Mesa's tech landscape and networking
+  opportunities.  Ability to travel regularly to customer sites, particularly
+  within the Costa Mesa area, to foster client relationships. Compensation &
+  Benefits  Competitive salary range: $102,900$122,900, depending on experience
+  and expertise.  Comprehensive medical, dental, and vision coverage to support
+  your health and wellbeing.  Generous paid time off and holidays to ensure
+  worklife balance.  Career advancement opportunities, with a clear path to
+  Director of Product or VP of Product roles.  Access to ongoing training and
+  certifications to foster professional growth and development. Join us in Costa
+  Mesa, where innovation meets opportunity, and every day offers a chance to
+  make a meaningful impact in the world of technology. If you're ready to lead
+  the charge and be a part of something extraordinary, we want to hear from you!
 location: 'Costa Mesa, CA'
 team: Software
 datePosted: '2024-12-28T20:11:13.025Z'

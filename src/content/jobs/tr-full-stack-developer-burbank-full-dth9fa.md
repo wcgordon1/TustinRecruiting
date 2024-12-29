@@ -7,7 +7,33 @@ description: >-
   person regional team, you'll collaborate virtually to design and implement
   cuttingedge solutions. No travel is required, and you'll work standard
   business hours. Gain industryfocused training and leverage growth
-  opportuniti...
+  opportunities within the vibrant tech scene centered around Burbank, CA. Key
+  Responsibilities  Develop and maintain scalable web applications using
+  Kubernetes, Docker, GraphQL, TypeScript, Node.js, and React.  Collaborate with
+  a distributed team to ensure seamless integration of frontend and backend
+  components.  Design, implement, and test new features and system
+  improvements.  Optimize application performance and troubleshoot issues. 
+  Utilize cloud platforms (AWS/Azure/GCP) for deployment and infrastructure
+  management.  Participate in code reviews and provide constructive feedback. 
+  Stay current with emerging technologies and industry trends. Requirements
+  Experience & Location  35 years of fullstack development experience.  Must be
+  based in the U.S. and able to work remotely. Remote Work Requirements  Strong
+  communication skills for effective remote collaboration.  Proficient with
+  remote work tools and practices.  Selfmotivated and capable of working
+  independently.  Equipped with a home office setup and reliable internet
+  connection. Required Skills & Certifications  Required Certifications: Google
+  Cloud Professional, Azure Developer Associate.  Preferred Certifications:
+  Google Cloud Professional, AWS Solutions Architect.  Proficiency in
+  Kubernetes, Docker, GraphQL, TypeScript, Node.js, React.  Experience with AWS,
+  Azure, or GCP. Benefits  Comprehensive health, dental, and vision insurance. 
+  Competitive salary and performancebased bonuses.  Generous paid time off and
+  holiday schedule.  Opportunity for professional development and certification
+  reimbursement.  Access to the latest tools and technologies in the MarTech
+  industry.  Inclusive company culture emphasizing worklife balance and employee
+  wellbeing. Embrace the future of work with us, where remote culture, virtual
+  collaboration, and distributed team dynamics are the norm. Grow your career in
+  the tech industry while enjoying the flexibility and independence of remote
+  work.
 location: 'Burbank, CA'
 team: Software
 schedule: Standard Business Hours

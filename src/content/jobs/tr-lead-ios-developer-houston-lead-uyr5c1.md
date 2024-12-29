@@ -7,7 +7,34 @@ description: >-
   highlyexperienced and motivated Remote Lead iOS Developer to join our lean and
   dynamic mobile team. In this role, you will play a critical part in shaping
   the future of our mobile applications, while working from the comfort of your
-  home. We offer an environment that f...
+  home. We offer an environment that fosters growth, creativity, and leadership.
+  Position Overview As the Remote Lead iOS Developer, you will spearhead the
+  development, testing, and deployment of our iOS applications. You will
+  collaborate with a distributed team of developers, designers, and product
+  owners to deliver usercentric solutions for our mobile consumers. Key
+  Responsibilities  Lead the development of highquality, robust, and scalable
+  iOS applications  Collaborate with crossfunctional teams to define, design,
+  and ship new features  Conduct code reviews to maintain highquality code 
+  Debug and optimize existing and new code to ensure maximum speed and
+  scalability  Implement automated testing and unit tests to ensure system
+  robustness  Mentor junior developers, fostering an environment of continual
+  learning and improvement Required Qualifications  69 years of iOS development
+  experience  Proficient with Swift and SwiftUI  Experience with App Store
+  Connect and Play Store Console  Familiarity with Jest/Detox, React Native, and
+  Flutter/Dart  Certifications: Google Mobile Web Specialist, Android Advanced
+  Development  Strong communication skills for effective remote collaboration 
+  Proven experience with remote work tools and practices  Selfmotivated and able
+  to work independently  Reliable home office setup with stable internet
+  Preferred Qualifications  AWS Mobile Developer Certification  Experience in a
+  leadership role or in a startup environment  Familiarity with Agile
+  methodologies Benefits & Perks  Competitive salary and equity package  Health,
+  dental, and vision insurance  Unlimited PTO  Remote work setup allowance 
+  Regular virtual teambuilding events Growth & Development We believe in
+  fostering a culture of growth and development. As part of our mobile team, you
+  will have the opportunity to learn from some of the brightest minds in the
+  industry. With leadershipfocused training, you will hone your skills, broaden
+  your knowledge, and step up in leading the team and the projects. As we are a
+  wellfunded startup, there is much room for career advancement and growth.
 location: 'Houston, TX'
 team: Mobile
 schedule: Full Time

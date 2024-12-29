@@ -7,7 +7,19 @@ description: >-
   a strong understanding of channel economics, deal registration programs, and
   partner incentive structures. With neighboring cities such as Novato,
   Petaluma, and Vallejo, San Rafael offers a vibrant and diverse workplace
-  environment. Qualifications  Proven expe...
+  environment. Qualifications  Proven experience in recruiting, enabling, and
+  growing a network of valueadded resellers and system integrators.  Must have
+  experience in developing channel programs and partner enablement materials. 
+  Strong understanding of channel economics, deal registration programs, and
+  partner incentive structures.  Proficiency with partner relationship
+  management (PRM) systems and channel marketing strategies. Responsibilities 
+  Build, manage, and grow a network of valueadded resellers and system
+  integrators.  Develop channel programs and partner enablement materials. 
+  Manage complex partner ecosystems.  Understand and leverage channel economics,
+  deal registration programs, and partner incentive structures.  Utilize partner
+  relationship management (PRM) systems and implement channel marketing
+  strategies. Pay/Benefits The salary range for this position is $99,488 
+  $119,488 per year, with additional benefits offered.
 location: 'San Rafael, CA'
 team: Software
 datePosted: '2024-12-28T16:46:34.723Z'

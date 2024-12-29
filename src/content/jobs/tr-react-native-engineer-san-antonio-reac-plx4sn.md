@@ -7,7 +7,34 @@ description: >-
   for our mobile applications, thus directly influencing the expansion of our
   mobilefirst consumer base. This role provides the opportunity to work remotely
   with our USbased team, offering a healthy worklife balance and a chance to
-  contribute significantly to our grow...
+  contribute significantly to our growth journey. Position Overview The React
+  Native Engineer will be a part of our crossfunctional product team, working
+  collaboratively to develop and manage our mobile application. This is a
+  fulltime remote position, requiring strong technical skills in React Native
+  and associated technologies. Key Responsibilities  Work with crossfunctional
+  teams to define, design, and ship new features.  Collaborate with UI/UX team
+  to design mobile experiences.  Ensure the performance, quality, and
+  responsiveness of applications.  Collaborate with the team to define, design,
+  and ship new features.  Identify and correct bottlenecks and fix bugs.  Help
+  maintain code quality, organization, and automatization. Required
+  Qualifications  A minimum of 3 years' experience in mobile application
+  development.  Proficient with React Native.  Experience with Redux/MobX,
+  Jest/Detox, REST APIs, Swift/SwiftUI, and TestFlight.  Strong knowledge of iOS
+  and Android UI design principles, patterns, and best practices.  Certification
+  as a Flutter Developer and AWS Mobile Developer. Preferred Qualifications  A
+  total of 6 years' experience in mobile application development.  Experience
+  working remotely in a similar role.  Proficient in remote work tools and
+  practices.  Mobile App Security Certification and Kubernetes Application
+  Developer certification.  Strong problemsolving skills and project management
+  experience. Benefits & Perks  100% remote work with flexible hours. 
+  Competitive salary and benefits.  A culture that prioritizes worklife
+  balance.  Opportunities to learn from industry leaders.  An inclusive work
+  environment. Growth & Development This role provides a unique opportunity to
+  grow and develop your skills in a wellfunded startup environment. You will
+  have the chance to work with stateoftheart technologies, learn from industry
+  leaders, and be part of a growing company. In addition, we provide resources
+  for professional development and offer opportunities for advancement within
+  our rapidly expanding organization.
 location: 'San Antonio, TX'
 team: Mobile
 schedule: Full Time

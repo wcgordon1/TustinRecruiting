@@ -7,7 +7,25 @@ description: >-
   candidate will play a crucial role in maintaining and scaling the company's
   infrastructure during hightraffic periods. If you have proven experience with
   Kubernetes, Docker, Terraform, and major cloud platforms (AWS/GCP), this could
-  be the perfect role for you. Quali...
+  be the perfect role for you. Qualifications  Bachelor's degree in Computer
+  Science, Engineering, or related field.  Strong experience with Kubernetes,
+  Docker, and Terraform.  Proficiency in major cloud platforms like AWS and
+  GCP.  Knowledge of monitoring tools such as Datadog and New Relic.  Experience
+  with CI/CD pipelines and automation.  Familiarity with microservices
+  architecture and performance optimization.  Excellent problemsolving skills
+  and attention to detail.  Strong written and verbal communication skills.
+  Responsibilities  Maintain and scale the company's infrastructure during
+  hightraffic periods.  Implement and manage CI/CD pipelines and automation. 
+  Utilize monitoring tools like Datadog and New Relic to ensure optimal system
+  performance.  Develop and manage microservices architecture.  Work closely
+  with the development team to optimize application performance.  Ensure system
+  security and data protection. Pay/Benefits  Salary range: $108,028$128,028 per
+  year.  Comprehensive benefits package including health, dental, and vision
+  insurance.  Retirement plan with company match.  Paid time off and company
+  holidays.  Opportunity for professional growth and development. Our Client is
+  an equal opportunity employer and encourages applications from all qualified
+  individuals. We thank all applicants for their interest, however, only those
+  selected for an interview will be contacted.
 location: 'Sammamish, WA'
 team: Software
 datePosted: '2024-12-27T12:26:41.968Z'

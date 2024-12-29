@@ -7,7 +7,26 @@ description: >-
   near other tech hubs such as San Jose, Mountain View, and Menlo Park. This
   position offers the opportunity to work on cuttingedge technology in a
   fastpaced, hightraffic environment. The successful candidate will play a
-  crucial role in maintaining and scaling the com...
+  crucial role in maintaining and scaling the company's infrastructure,
+  especially during peak traffic periods. Qualifications  Bachelor’s degree in
+  Computer Science or a related field, or equivalent work experience.  Minimum
+  of 5 years experience in a DevOps role.  Strong experience with Kubernetes,
+  Docker, and Terraform.  Proficiency with major cloud platforms (AWS/GCP). 
+  Solid understanding of monitoring tools such as Datadog and New Relic. 
+  Experience with CI/CD pipelines and automation.  Expertise in microservices
+  architecture and performance optimization. Responsibilities  Design, develop,
+  and maintain scalable, automated system architectures.  Ensure the
+  availability, performance, security, and scalability of production systems. 
+  Handle code deployments in all environments.  Monitor, troubleshoot, and
+  resolve server and infrastructure issues.  Collaborate with a crossfunctional
+  team to understand and address system requirements and improve products and
+  services.  Implement and manage CI/CD pipelines.  Optimize the platform for
+  maximum speed and scalability. Pay/Benefits The salary range for this position
+  is $114,514  $134,514 per year, depending on skills and experience. The
+  company also offers a comprehensive benefits package, including health
+  insurance, retirement plans, and paid time off. This is an excellent
+  opportunity to join a growing company with a vibrant culture and numerous
+  opportunities for professional development.
 location: 'Palo Alto, CA'
 team: Software
 datePosted: '2024-12-27T11:46:41.218Z'

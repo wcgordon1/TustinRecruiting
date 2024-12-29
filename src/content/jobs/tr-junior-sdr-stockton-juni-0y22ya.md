@@ -11,7 +11,29 @@ description: >-
   foundation for growth and learning in a market ripe with opportunities. Key
   Responsibilities  Conduct outreach to prospective clients through various
   channels such as email, phone, and social media.  Qualify leads and set up
-  meetings for senior sales...
+  meetings for senior sales representatives.  Collaborate with the marketing
+  team to optimize lead generation strategies.  Maintain and update the CRM
+  system with accurate customer information.  Attend local industry events
+  within a 30mile radius to network and promote our services.  Continuously
+  ensure understanding of our product and service offerings. Required
+  Qualifications  02 years of experience in sales or customer service roles. 
+  AWS Cloud Practitioner Certification.  Google Analytics Certification. 
+  Proficiency with Outreach.io, Salesforce, ZoomInfo, LinkedIn Sales Navigator,
+  and HubSpot.  Excellent communication and interpersonal skills.  Ability to
+  work independently and as part of a team. Preferred Qualifications 
+  Understanding of the healthcare tech industry.  Previous experience with
+  digital health platforms or medical software sales.  Demonstrated ability to
+  meet and exceed targets. Benefits & Perks  Full Health Insurance  3 Weeks PTO 
+  401k Match  Performance Bonuses  Tool Allowance Growth & Development  Engage
+  in industryfocused training to deepen your knowledge of healthcare technology
+  and sales strategies.  Access to mentorship programs with experienced
+  professionals in our network.  Opportunities for rapid career progression into
+  senior sales roles as you develop your skills and expertise.  Be part of the
+  burgeoning tech scene in Stockton, leveraging its unique position for
+  innovation in digital health solutions. Join us and be a part of transforming
+  the healthcare landscape through technology while building a rewarding career
+  with ample growth potential. Your journey begins here in Stockton, a city
+  fostering innovation and opportunity in the tech industry.
 location: 'Stockton, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

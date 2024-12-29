@@ -9,7 +9,42 @@ description: >-
   healthcare operations. Position Overview As an AI Product Manager, you will
   play a pivotal role in driving the success of our digital health solutions.
   With 58 years of experience, you'll work remotely within a USbased team,
-  engaging with ...
+  engaging with a dynamic group of over ten professionals. You'll have the
+  opportunity to shape our product strategy and collaborate with experts in AI
+  and healthcare technology. Key Details:  Experience Required: 58 years  Work
+  Location: 100% Remote (USBased)  Schedule: Standard Business Hours  Work
+  Environment: Healthcare Tech (Digital Health Platforms, Medical Software,
+  Healthcare Analytics)  Team Structure: Member of a 10+ person regional team 
+  Travel: No travel required  Training: Industry focused Key Responsibilities 
+  Lead the product management lifecycle for AIdriven healthcare solutions. 
+  Collaborate with crossfunctional teams to define product vision and strategy. 
+  Analyze market trends and customer needs to inform product development. 
+  Oversee the design, implementation, and maintenance of AI features and
+  functionalities.  Ensure product compliance with healthcare regulations and
+  standards.  Drive continuous improvement and innovation in our digital health
+  offerings. Required Qualifications To excel in this role, you should possess: 
+  Strong communication skills for effective remote collaboration.  Experience
+  with remote work tools and practices.  Selfmotivation and the ability to work
+  independently.  Home office setup with reliable internet.  Required
+  Certifications:  Deep Learning Specialization  AWS Machine Learning Specialty 
+  Technology Stack:  Python, Kubernetes  Scikitlearn, MLflow  Docker, PyTorch,
+  TensorFlow Preferred Qualifications While not mandatory, the following
+  qualifications are advantageous:  AWS Machine Learning Specialty  Google Cloud
+  ML Engineer certification Benefits & Perks We offer a comprehensive benefits
+  package designed to support your career and wellbeing:  Competitive salary
+  with performancebased incentives  Health, dental, and vision insurance 
+  Flexible work hours and generous paid time off  Opportunities for professional
+  development and training  Access to cuttingedge technology and tools Growth &
+  Development This role offers significant growth opportunities, allowing you
+  to:  Advance your career in the rapidly evolving tech industry.  Work on
+  transformative projects that impact the healthcare landscape.  Gain expertise
+  in AI and machine learning applications in healthcare.  Collaborate with
+  industry leaders and innovative thinkers. Embrace the future of work with our
+  remotefirst culture, which values virtual collaboration and the dynamics of a
+  distributed team. Join us in San Diego to be part of a forwardthinking
+  organization that is redefining healthcare through technology and innovation.
+  Your contribution will help us create solutions that improve patient outcomes
+  and redefine how healthcare is delivered.
 location: 'San Diego, CA'
 team: Software
 schedule: Standard Business Hours

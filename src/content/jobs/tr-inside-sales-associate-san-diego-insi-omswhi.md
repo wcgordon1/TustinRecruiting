@@ -3,7 +3,38 @@ position: Inside Sales Associate
 description: >-
   Join our dynamic team in the vibrant tech hub of San Diego as an Inside Sales
   Associate. We are seeking a driven individual with a passion for SaaS and
-  enterprise software solutions. As part of our specialized team, you'll pl...
+  enterprise software solutions. As part of our specialized team, you'll play a
+  key role in connecting with clients and expanding our footprint in the B2B
+  technology sector. This is a unique opportunity to grow your career with a
+  company that values innovation, collaboration, and customer success. Key
+  Responsibilities  Develop and implement sales strategies to achieve and exceed
+  sales targets.  Conduct indepth research to identify and qualify new sales
+  opportunities.  Utilize Outreach.io, Salesforce, and HubSpot to manage and
+  track sales activities and customer interactions.  Collaborate with the
+  marketing team to optimize the sales process and generate highquality leads. 
+  Engage with potential customers through LinkedIn Sales Navigator and
+  ZoomInfo.  Prepare and deliver compelling sales presentations to prospective
+  clients.  Maintain a deep understanding of our products and services to
+  effectively communicate with clients.  Regular travel to nearby major cities
+  for client meetings and industry events. Required Qualifications  12 years of
+  experience in a sales role, preferably in a SaaS or B2B tech environment. 
+  Salesforce Certified Administrator certification.  Google Analytics
+  Certification.  Proficiency in the use of Outreach.io, Salesforce, HubSpot,
+  LinkedIn Sales Navigator, and ZoomInfo.  Strong communication and
+  interpersonal skills.  Ability to work independently and as part of a
+  collaborative team environment. Preferred Qualifications  Experience with
+  enterprise software companies or cloud platforms.  Proven track record of
+  achieving sales targets and driving revenue growth.  Familiarity with the
+  dynamics of the San Diego tech industry. Benefits & Perks  Premium Health
+  Insurance  4 Weeks PTO  401k Match  Quarterly Bonuses  Vehicle Allowance
+  Growth & Development  Engage in specialized sales development training to hone
+  your skills and expand your expertise.  Benefit from clear career progression
+  paths within our company, positioning you for future leadership
+  opportunities.  Participate in regular workshops and conferences in the San
+  Diego area to stay ahead of industry trends and network with key players. Join
+  our forwardthinking sales team and contribute to our success story while
+  accelerating your professional growth in one of California's most innovative
+  cities.
 location: 'San Diego, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

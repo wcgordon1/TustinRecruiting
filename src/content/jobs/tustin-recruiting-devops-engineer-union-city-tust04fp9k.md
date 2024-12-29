@@ -7,7 +7,15 @@ description: >-
   in a vibrant area, surrounded by the neighboring cities of Fremont, Hayward,
   and Newark. Qualifications  Strong experience with Kubernetes, Docker, and
   Terraform.  Proficiency with major cloud platforms such as AWS or GCP. 
-  Knowledge of monitoring tools lik...
+  Knowledge of monitoring tools like Datadog and New Relic.  Experience with
+  CI/CD pipelines and automation.  Experience with microservices architecture
+  and performance optimization. Responsibilities  Maintain and scale
+  infrastructure during hightraffic periods.  Utilize Kubernetes, Docker,
+  Terraform, and major cloud platforms for various tasks.  Monitor system
+  performance using tools like Datadog and New Relic.  Develop and optimize
+  CI/CD pipelines and automate processes.  Work with microservices architecture
+  and optimize system performance. Pay/Benefits Our Client offers a competitive
+  salary range of $111,724$131,724 per year, along with additional benefits.
 location: 'Union City, CA'
 team: Software
 datePosted: '2024-12-28T07:19:12.368Z'

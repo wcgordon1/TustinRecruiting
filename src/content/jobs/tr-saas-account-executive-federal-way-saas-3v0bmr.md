@@ -7,7 +7,42 @@ description: >-
   role is crucial for our regional expansion efforts in security software,
   focusing on identity management and cloud security solutions. You will be part
   of a vibrant 10+ person team, working the second shift from 2:00 PM to 10:30
-  PM, ensuring that our clients' needs are met ...
+  PM, ensuring that our clients' needs are met during essential business hours.
+  This position offers a unique opportunity to engage with cuttingedge
+  technology while contributing to the growth of a leading cybersecurity firm.
+  Key Responsibilities  Develop and maintain strong relationships with clients
+  within a 100mile radius of Federal Way, WA.  Drive sales growth by identifying
+  and acquiring new business opportunities.  Collaborate with the regional team
+  to develop strategic sales plans.  Utilize LinkedIn Sales Navigator, ZoomInfo,
+  Salesforce, Outreach.io, and HubSpot for prospecting and maintaining client
+  interactions.  Prepare detailed sales reports and forecasts to present to
+  executive leadership.  Ensure a high level of customer satisfaction by
+  addressing client concerns and delivering tailored solutions. Required
+  Qualifications  13 years of experience in sales, preferably in the technology
+  or cybersecurity sectors.  Must hold a HubSpot Sales Software Certification
+  and a Google Analytics Certification.  Proven experience working with CRM and
+  sales software tools such as Salesforce and HubSpot. Preferred Qualifications 
+  Additional certifications in HubSpot and Google Analytics are highly
+  regarded.  Familiarity with outreach and engagement tools such as Outreach.io
+  and ZoomInfo.  Experience in a cybersecurity or identity management sales
+  environment is a plus. Benefits & Perks Joining our team comes with a
+  comprehensive benefits package designed to support your health and wellbeing: 
+  Health Coverage: Standard Plus health, dental, and vision plans.  Retirement
+  Plans: Companymatched 401(k).  WorkLife Balance: Paid time off and flexible
+  working hours.  Professional Growth: Access to continuous learning
+  opportunities and professional development training. Growth & Development In
+  Federal Way, the tech industry is thriving, and this role offers you a
+  frontrow seat to its dynamic growth. As part of our team, you will be
+  encouraged to cultivate your professional skills through our focused training
+  programs. Our commitment to fostering an environment of growth allows you to
+  expand your expertise in cybersecurity sales, preparing you for future
+  leadership roles. We prioritize your development by providing resources and
+  opportunities that align with your career goals. In this exciting role, you
+  will be empowered to make impactful contributions to our company's success
+  while enjoying the support of a collaborative team. If you are ambitious,
+  customerfocused, and ready to make a difference in the cybersecurity industry,
+  we invite you to apply for the SaaS Account Executive position and be a part
+  of our journey in Federal Way.
 location: 'Federal Way, WA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

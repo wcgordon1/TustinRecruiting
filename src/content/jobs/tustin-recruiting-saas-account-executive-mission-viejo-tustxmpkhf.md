@@ -7,7 +7,26 @@ description: >-
   Orange County. Just a short distance from neighboring cities such as Irvine,
   Lake Forest, and Laguna Niguel, this opportunity offers a blend of suburban
   living with easy access to bustling city life. Qualifications The successful
-  candidate must have a proven track rec...
+  candidate must have a proven track record in fullcycle enterprise software
+  sales, with deal sizes ranging from $100K$500K annually. Experience selling
+  complex technical solutions to IT and business leaders is crucial. A strong
+  understanding of software implementation processes, ROI analysis, and contract
+  negotiations is required. Proficiency with Salesforce, sales engagement
+  platforms, and virtual demonstration tools is expected. Experience with
+  consultative selling methodology and solutionbased selling approach is
+  essential. Responsibilities As an Account Executive, you will be responsible
+  for driving new business opportunities, negotiating and closing deals, and
+  maintaining relationships with key accounts. You will be expected to meet and
+  exceed sales targets, collaborate with the sales team to develop strategies,
+  and provide accurate sales forecasts. In this role, you will also be expected
+  to understand customer needs and provide insightful product demonstrations.
+  Pay/Benefits Our client offers a competitive salary range of $83,878$93,878
+  per year, plus benefits. This includes health, dental, and vision insurance, a
+  401(k) plan with company match, paid time off, and a flexible work
+  environment. If you are an ambitious sales professional with a passion for
+  technology and a knack for building strong customer relationships, this could
+  be the perfect role for you. Apply today to join our client's dynamic team in
+  Mission Viejo!
 location: 'Mission Viejo, CA'
 team: Software
 datePosted: '2024-12-26T18:36:18.750Z'

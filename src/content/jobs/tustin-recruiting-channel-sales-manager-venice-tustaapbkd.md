@@ -7,7 +7,24 @@ description: >-
   Monica, Marina Del Rey, and Playa Del Rey, Venice offers a diverse and
   thriving environment for both personal and professional growth. The Channel
   Sales Manager will focus on building and managing reseller partnerships,
-  including recruiting, enabling, and growing a network o...
+  including recruiting, enabling, and growing a network of valueadded resellers
+  and system integrators. Qualifications  Proven experience in developing and
+  managing channel programs  Experience in creating partner enablement
+  materials  Ability to manage complex partner ecosystems  Strong understanding
+  of channel economics, deal registration programs, and partner incentive
+  structures  Proficiency with partner relationship management (PRM) systems 
+  Solid understanding of channel marketing strategies Responsibilities 
+  Recruitment, enablement, and growth of a network of valueadded resellers and
+  system integrators  Development of channel programs and partner enablement
+  materials  Management of partner ecosystem  Understanding and application of
+  channel economics, deal registration programs, and partner incentive
+  structures  Use of partner relationship management (PRM) systems 
+  Implementation of channel marketing strategies Pay/Benefits  Salary range:
+  $94,559  $114,559 per year  Competitive benefits package Our client is an
+  equal opportunity employer and values diversity. They do not discriminate on
+  the basis of race, religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, or disability status. We
+  encourage all suitable candidates to apply.
 location: 'Venice, CA'
 team: Software
 datePosted: '2024-12-26T19:30:06.195Z'

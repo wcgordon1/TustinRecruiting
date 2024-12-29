@@ -6,7 +6,34 @@ description: >-
   is a 100% Remote Mobile App Developer position based in Glendale, CA, offering
   you the opportunity to work from anywhere within the United States. As part of
   our team, you will play a vital role in transforming healthcare through
-  technology, collaborating virtually with a talented group o...
+  technology, collaborating virtually with a talented group of over 10
+  professionals dedicated to driving change in the industry. Key
+  Responsibilities  Develop and maintain highquality mobile applications within
+  the healthcare sector  Collaborate with crossfunctional teams to define,
+  design, and ship new features  Ensure the performance, quality, and
+  responsiveness of applications  Identify and correct bottlenecks and fix bugs 
+  Continuously discover, evaluate, and implement new technologies to maximize
+  development efficiency  Participate in code reviews and provide constructive
+  feedback  Contribute to the technical documentation and maintenance of apps
+  Requirements Remote Work Requirements  Strong communication skills for
+  effective remote collaboration  Proven experience with remote work tools and
+  practices  Selfmotivated with the ability to work independently  Fully
+  equipped home office setup with reliable internet connectivity Experience &
+  Skills  36 years of experience in mobile app development  Proficiency in
+  Kubernetes, Node.js, React, GraphQL, TypeScript, and Docker  Experience with
+  cloud platforms like AWS, Azure, or GCP  Familiarity with healthcare
+  technology platforms is a plus Required Skills & Certifications  Must have
+  Docker Certified Associate and Kubernetes Administrator certifications 
+  Preferred: Google Cloud Professional certification Benefits  Competitive
+  salary and comprehensive benefits package  Standard Plus benefits tier,
+  including health, dental, and vision insurance  Flexible work schedule aligned
+  with standard business hours  Opportunity for professional development and
+  training in sales development  No travel required, enhancing worklife balance 
+  Be part of a forwardthinking company in the heart of the tech industry  Engage
+  in a culture that prioritizes growth, innovation, and virtual collaboration
+  Join us and leverage your skills to make a significant impact in healthcare
+  technology. Be a part of a growing industry while enjoying the flexibility and
+  benefits of a remote work environment.
 location: 'Glendale, CA'
 team: Software
 schedule: Standard Business Hours

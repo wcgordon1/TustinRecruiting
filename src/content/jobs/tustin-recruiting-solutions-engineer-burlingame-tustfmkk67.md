@@ -7,7 +7,22 @@ description: >-
   you'll find yourself at the center of the tech world, bridging the gap between
   sales and technical teams to bring complex ad serving solutions to life.
   Qualifications We're looking for someone who knows their stuff. You should
-  have solid programming skills, particularly in ...
+  have solid programming skills, particularly in Python and JavaScript.
+  Experience with API integration and SQL is a musthave, and you'll need to be
+  comfortable giving technical presentations to customers. If you can speak the
+  language of digital advertising (think RTB and programmatic), that's a huge
+  plus. And, of course, familiarity with major ad platforms and analytics tools
+  is crucial. Responsibilities Your daytoday will be anything but ordinary.
+  You'll be the linchpin between the technical and sales teams, implementing
+  complex ad serving solutions for our clients. Expect plenty of customerfacing
+  work, as you'll be presenting technical concepts and solutions regularly.
+  We'll also look to you to integrate APIs and work with SQL to ensure
+  everything runs smoothly. Pay/Benefits Let's talk numbers. You're looking at a
+  salary range of $98,925 to $148,925 per year, plus a competitive benefits
+  package. We believe in rewarding our team for their hard work, and this
+  position is no exception. So there you have it! If you're ready to take on a
+  dynamic role at the crossroads of tech and advertising, we'd love to hear from
+  you.
 location: 'Burlingame, CA'
 team: Software
 datePosted: '2024-12-27T22:16:03.660Z'

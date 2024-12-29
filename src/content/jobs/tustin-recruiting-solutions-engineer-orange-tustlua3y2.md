@@ -7,7 +7,28 @@ description: >-
   Anaheim, and Garden Grove. The successful candidate will have the opportunity
   to bridge the technical and sales teams, implementing complex ad serving
   solutions in a fastpaced, innovative environment. Qualifications  Strong
-  programming skills, particularly in Python an...
+  programming skills, particularly in Python and JavaScript.  Proficient
+  understanding of digital advertising concepts, including RTB and
+  programmatic.  Experience with API integration and SQL.  Comfortable
+  delivering customerfacing technical presentations.  Knowledge of major ad
+  platforms and analytics tools. Responsibilities  Collaborate with technical
+  and sales teams to implement ad serving solutions.  Leverage programming
+  skills to build and enhance ad technology tools.  Utilize knowledge of digital
+  advertising concepts to optimize ad delivery and performance.  Conduct API
+  integration and utilize SQL to manage data.  Deliver customerfacing technical
+  presentations to explain and sell solutions.  Stay uptodate with major ad
+  platforms and analytics tools to deliver cuttingedge solutions. Pay/Benefits 
+  Salary range: $100052$150052 per year, depending on experience and
+  qualifications.  Our client offers a competitive benefits package, including
+  health insurance, 401k matching, and generous vacation time. Please note that
+  this job description is not designed to cover or contain a comprehensive
+  listing of activities, duties, or responsibilities that are required of the
+  employee for this job. Duties, responsibilities, and activities may change at
+  any time with or without notice. Our client is an equal opportunity employer
+  and all qualified applicants will receive consideration for employment without
+  regard to race, color, religion, sex, national origin, disability status,
+  protected veteran status, or any other characteristic protected by law. We
+  look forward to receiving your application!
 location: 'Orange, CA'
 team: Software
 datePosted: '2024-12-27T12:16:34.021Z'

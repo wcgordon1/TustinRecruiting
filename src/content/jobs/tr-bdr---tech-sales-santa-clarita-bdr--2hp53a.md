@@ -10,7 +10,31 @@ description: >-
   field, providing a foundation for a thriving career in the tech industry. Key
   Responsibilities  Identify and qualify new sales opportunities through various
   channels including cold outreach, networking, and industry events. 
-  Collaborate with the regional sales tea...
+  Collaborate with the regional sales team to develop strategies for account
+  penetration and lead nurturing.  Conduct highvolume prospecting to generate
+  interest and coordinate meetings with senior sales team members.  Manage and
+  update CRM systems, ensuring data accuracy and timely followup.  Travel
+  regularly to nearby major cities for networking events, prospect meetings, and
+  conferences.  Utilize and master our technology stack, including Outreach.io,
+  ZoomInfo, Salesforce, and LinkedIn Sales Navigator, to maximize efficiency and
+  results. Required Qualifications  01 year of sales experience, preferably in
+  tech or related fields.  HubSpot Sales Software Certification.  AWS Cloud
+  Practitioner Certification.  Strong interpersonal and communication skills. 
+  Ability to thrive in a fastpaced, dynamic work environment. Preferred
+  Qualifications  Google Analytics Certification.  Salesforce Certified
+  Administrator.  Knowledge of current marketing and sales trends within the
+  tech industry.  Prior experience with CRM tools and sales automation
+  platforms. Benefits & Perks  Premium Health Insurance.  4 Weeks of Paid Time
+  Off (PTO).  401k Match to secure your future.  Quarterly Bonuses based on
+  performance.  Vehicle Allowance for business travel. Growth & Development 
+  Access to regular professional growth training sessions focusing on sales
+  strategies, client management, and industry trends.  Opportunities for career
+  progression into senior sales or account management roles within the company. 
+  Mentorship programs with seasoned industry professionals to refine skills and
+  expand your professional network. Embark on a journey within the vibrant tech
+  industry in Santa Clarita, where innovation meets opportunity. We're looking
+  for enthusiastic and ambitious individuals ready to make an impact and grow
+  with us. If you're ready to kickstart your sales career in tech, apply today!
 location: 'Santa Clarita, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

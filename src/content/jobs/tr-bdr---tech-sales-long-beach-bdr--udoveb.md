@@ -11,7 +11,34 @@ description: >-
   professional network and experience the diverse tech landscape. Key
   Responsibilities  Identify and qualify potential customers through outbound
   and inbound prospecting.  Collaborate with various project teams to align
-  sales strategies with product offerings.  Manag...
+  sales strategies with product offerings.  Manage leads and maintain accurate
+  records using our technology stack, including Salesforce and HubSpot. 
+  Facilitate introductory meetings and product demonstrations with prospective
+  clients.  Gather and report customer insights to inform product development
+  and improve customer experiences.  Travel regularly to nearby major cities to
+  engage with prospects and attend industry events. Required Qualifications  01
+  years of experience in a sales or customerfacing role.  AWS Cloud Practitioner
+  Certification.  HubSpot Sales Software Certification.  Proficiency with
+  Salesforce, Outreach.io, ZoomInfo, and LinkedIn Sales Navigator.  Excellent
+  communication and interpersonal skills.  Strong organizational and time
+  management abilities. Preferred Qualifications  Experience in the
+  cybersecurity or technology sales sectors.  Additional certifications in sales
+  or related technology platforms.  Familiarity with the Long Beach tech
+  community and emerging market trends. Benefits & Perks  Premium Health
+  Insurance, ensuring comprehensive healthcare coverage.  4 Weeks Paid Time Off
+  (PTO) to maintain worklife balance.  401k Match for a secure financial
+  future.  Quarterly Bonuses based on performance and team success.  Vehicle
+  Allowance to support your regular travel needs. Growth & Development  Sales
+  Development Training focused on enhancing your skills in prospecting,
+  negotiation, and closing deals.  Clear Career Progression Path to help you
+  advance from BDR to more senior sales positions, with opportunities to
+  specialize or diversify across various product lines.  Access to
+  industryleading resources and mentorship from seasoned sales professionals. 
+  Engage with the thriving tech industry in Long Beach, gaining exposure to
+  cuttingedge security software solutions and best practices. Embrace this
+  unique opportunity to start your tech sales career with us and grow within a
+  leading security software firm. Join our team, explore the possibilities, and
+  contribute to securing the digital landscape.
 location: 'Long Beach, CA'
 team: Software
 schedule: Flexible Hours

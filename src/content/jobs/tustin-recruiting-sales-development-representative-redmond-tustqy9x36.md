@@ -7,7 +7,18 @@ description: >-
   cities of Bellevue, Kirkland, and Sammamish. As a Sales Development
   Representative, you will be responsible for outbound prospecting to generate
   qualified leads for Account Executives. If you're proficient with Salesforce,
-  Outreach.io, LinkedIn Sales Navigator, and understan...
+  Outreach.io, LinkedIn Sales Navigator, and understand technical concepts, then
+  this might be the role for you! Qualifications  Proficiency with Salesforce,
+  Outreach.io, and LinkedIn Sales Navigator  Strong communication skills 
+  Ability to understand and explain technical concepts  Experience with cold
+  calling, email campaigns, and social selling preferred Responsibilities 
+  Outbound prospecting to generate qualified leads for Account Executives 
+  Utilize Salesforce, Outreach.io, and LinkedIn Sales Navigator to track and
+  manage leads  Understand and communicate complex technical concepts  Engage in
+  cold calling, email campaigns, and social selling Pay/Benefits  Salary Range:
+  $48,751$63,751 per year, plus benefits If you're ready to take the next step
+  in your sales career with a company that offers significant growth
+  opportunities, Our Client is ready to meet you!
 location: 'Redmond, WA'
 team: Software
 datePosted: '2024-12-27T14:09:12.240Z'

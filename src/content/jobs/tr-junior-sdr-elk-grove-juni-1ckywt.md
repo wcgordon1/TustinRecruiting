@@ -1,10 +1,34 @@
 ---
 position: Junior SDR
 description: >-
-  Join our dynamic team as a Junior Sales Development Representative (SDR) in
-  Elk Grove, CA, where you'll play a vital role in the innovative world of
-  MarTech. This entrylevel position offers a unique opportunity to dive into
-  marketing platforms, analytics, and automation tools....
+  Position Overview Join our dynamic team as a Junior Sales Development
+  Representative (SDR) in Elk Grove, CA, where you'll play a vital role in the
+  innovative world of MarTech. This entrylevel position offers a unique
+  opportunity to dive into marketing platforms, analytics, and automation tools.
+  With flexible hours and a supportive 35 person team, you'll be empowered to
+  grow your skills and impact our business in meaningful ways. If you’re eager
+  to launch your tech career, we want to hear from you! Key Responsibilities 
+  Engage with potential clients to generate new business leads.  Collaborate
+  with team members to develop effective sales strategies.  Utilize technologies
+  such as ZoomInfo, Salesforce, and LinkedIn Sales Navigator to track and
+  analyze leads.  Schedule meetings and followups using Outreach.io and
+  HubSpot.  Report on weekly success metrics and refine outreach efforts for
+  maximum impact.  Attend local events and seminars to represent the company
+  (travel within 30 miles). Required Qualifications  02 years of experience in
+  sales or a related field.  AWS Cloud Practitioner Certification.  HubSpot
+  Sales Software Certification.  Proficiency in utilizing LinkedIn Sales
+  Navigator and Salesforce CRM. Preferred Qualifications  Google Analytics
+  Certification.  Strong understanding of MarTech industry dynamics.  Ability to
+  quickly adapt to new technologies and platforms. Benefits & Perks  Premium
+  Health Insurance  4 Weeks Paid Time Off (PTO)  401k Match  Quarterly Bonuses 
+  Vehicle Allowance Growth & Development  Engage in extensive technical training
+  focused on stateoftheart MarTech tools.  Opportunities for career progression
+  into senior sales or account management roles.  Access to mentorship programs
+  with industry leaders in Elk Grove.  Regular workshops and seminars designed
+  to enhance your skills and industry knowledge. Dive into a thriving tech
+  landscape in Elk Grove and seize the chance to grow alongside a leading
+  MarTech company. We encourage ambitious individuals who are passionate about
+  technology and eager to make a difference.
 location: 'Elk Grove, CA'
 team: Software
 schedule: Flexible Hours

@@ -11,7 +11,58 @@ description: >-
   results, this role could be your gateway into the dynamic world of digital
   banking, payment processing, and financial services. What You'll Do Imagine
   starting your day with a team meeting, where the atmosphere is charged with
-  inspiration, collaboration, and strategic ...
+  inspiration, collaboration, and strategic planning. Your role as a BDR will be
+  to work across multiple project teams, connecting dots in our fintech
+  ecosystem, and identifying new avenues for business growth. Picture yourself
+  leveraging cuttingedge platforms like Salesforce and HubSpot, integrating data
+  from ZoomInfo, and building relationships through LinkedIn Sales Navigator.
+  This isn't just about selling; it's about crafting a narrative that resonates
+  with clients, highlighting how our fintech solutions can transform their
+  operations. With standard business hours, you'll have the perfect balance to
+  explore Auburn's vibrant lifestyle, while occasionally traveling within a
+  30mile radius to meet clients and attend industry events. What You'll Need To
+  thrive in this role, you'll need to bring your Agame. We seek individuals who
+  are Salesforce Certified Administrators, familiar with the ins and outs of
+  managing and customizing customer relationship management tools. The HubSpot
+  Sales Software Certification is another feather in your cap, ensuring you can
+  navigate through the intricacies of sales processes with finesse. While
+  experience is not mandatory, your eagerness to learn and adapt quickly in a
+  fastpaced environment is crucial. You'll be armed with comprehensive sales
+  development training, equipping you with the skills needed to excel and grow.
+  Nice to Have While not mandatory, possessing a Salesforce Certified
+  Administrator or AWS Cloud Practitioner certification will give you an edge in
+  understanding the backend and cloud solutions that power our fintech products.
+  These additional certifications reflect not just your technical acumen but
+  also your commitment to staying ahead in the technology landscape. Why Join Us
+  Why choose a career with us in Auburn, WA? Apart from being part of a
+  visionary company at the forefront of fintech, you get to immerse yourself in
+  a culture that values innovation, collaboration, and personal growth. Auburn
+  offers a unique blend of urban convenience and natural beauty, providing a
+  perfect backdrop for a career that is as rewarding personally as it is
+  professionally. Here, you're not just a cog in the wheel; you're an integral
+  part of a tightknit team that celebrates every win, nurtures potential, and
+  transforms challenges into opportunities. Our Tech Stack Our robust tech stack
+  is the backbone of our operations, encompassing Salesforce for customer
+  relationship management, Outreach.io for streamlining communications, LinkedIn
+  Sales Navigator for networking, and ZoomInfo for detailed insights and lead
+  generation. HubSpot is our weapon of choice for marketing automation,
+  optimizing workflows, and ensuring our business development strategies hit the
+  mark. You'll have the opportunity to work with these powerful tools, enhancing
+  your skillset and empowering you to make datadriven decisions. Benefits &
+  Growth Joining our team comes with a package of Standard Plus benefits,
+  crafted to support you in achieving optimal worklife balance. We provide
+  comprehensive healthcare, a competitive salary, and opportunities for
+  continuous learning and development. Your growth is our priority, and as you
+  prove your mettle, you'll have the chance to explore various career paths
+  within our organization—from sales leadership to product development and
+  beyond. In Auburn, WA, the tech industry is ripe with potential, and by
+  joining us as a Business Development Representative, you're not just finding a
+  job; you're embarking on a career that has boundless possibilities. So bring
+  your passion, your ambition, and your drive, and let's forge the future of
+  fintech together. Embrace the journey with us, where every step is a story
+  waiting to be told, every project is a chapter in the making, and every
+  interaction is a chance to leave a legacy. Your adventure in tech sales begins
+  here.
 location: 'Auburn, WA'
 team: Software
 schedule: Standard Business Hours

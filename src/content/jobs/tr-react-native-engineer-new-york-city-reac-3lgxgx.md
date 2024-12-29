@@ -7,7 +7,33 @@ description: >-
   We are currently seeking an experienced React Native Engineer to join our team
   remotely from New York City. The position involves leading a pod of 34 mobile
   developers and focusing on product development. Applicants should ideally have
-  36 years of experience in the field...
+  36 years of experience in the field. Position Overview As our React Native
+  Engineer, you will be responsible for leading your dedicated pod in developing
+  and maintaining our mobile application. Collaborate with our distributed team
+  of professionals and help us deliver highquality software solutions. Please
+  note, this is a 100% remote, fulltime position. Key Responsibilities  Lead a
+  pod of 34 mobile developers  Develop and maintain our mobile application using
+  React Native  Work closely with our product team to define feature
+  specifications  Participate in code reviews to maintain a highquality
+  codebase  Collaborate with the design team to ensure a consistent user
+  experience Required Qualifications  36 years of experience with React Native 
+  Certification as an AWS Mobile Developer or Azure Mobile Developer 
+  Proficiency in using Fastlane, Jest/Detox, REST APIs, Swift/SwiftUI, Kotlin,
+  CircleCI/Jenkins  Excellent communication skills for effective remote
+  collaboration  Experience with remote work tools and practices  Must be
+  selfmotivated and able to work independently  A home office setup with
+  reliable internet Preferred Qualifications  Certification as an Apple
+  Developer or Azure Mobile Developer is a plus  Previous experience in a
+  leadership role  Exposure to FinTech and/or the crypto space Benefits & Perks 
+  Competitive salary and equity options  Comprehensive health, dental, and
+  vision coverage  Flexible work schedule and vacation policy  Enjoy the
+  convenience and flexibility of working from home  Regular virtual team bonding
+  activities Growth & Development We are a startup that values growth and
+  learning. As part of our team, you will have opportunities to expand your
+  skills, tackle complex problems, and grow your career. Product development
+  training will be provided to enable you to excel in your role and contribute
+  positively to our team. We are excited to invest in your growth as a part of
+  our dedicated and innovative team.
 location: 'New York City, NY'
 team: Mobile
 schedule: Full Time

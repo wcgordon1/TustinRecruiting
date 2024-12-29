@@ -7,7 +7,33 @@ description: >-
   crossfunctional product teams working on innovative consumer tech products
   that cater to social media users, digital content creators, and mobilefirst
   consumers. We're looking for someone with a strong background in mobile
-  development, boasting 36 years of experience in the industry, ...
+  development, boasting 36 years of experience in the industry, and who is ready
+  to take on the exciting challenges of a growing startup. Position Overview As
+  a Remote React Native Engineer, you will be responsible for building and
+  maintaining our mobile applications using our tech stack. Your job will be to
+  ensure that our apps provide excellent user experiences, interact seamlessly
+  with our backend systems, and remain updated with the latest industry
+  standards and trends. Key Responsibilities  Design and develop mobile
+  applications using React Native  Collaborate with crossfunctional teams to
+  define, design, and ship new features  Ensure the performance, quality, and
+  responsiveness of applications  Identify and correct bottlenecks and fix bugs 
+  Help maintain code quality, organization, and automatization Required
+  Qualifications  36 years of experience in mobile development  Certified in
+  React Native and Android Advanced Development  Proficiency with tech stack:
+  Jest/Detox, REST APIs, Flutter/Dart, React Native, Fastlane, Play Store
+  Console  Strong communication skills for remote collaboration  Experience with
+  remote work tools and practices  Home office setup with a reliable internet
+  connection Preferred Qualifications  Apple Developer Certification  Google
+  Mobile Web Specialist Certification  Experience working in agile teams 
+  Experience with consumer tech products Benefits & Perks  100% remote work with
+  flexible hours  Competitive salary and benefits package  Regular virtual
+  teambuilding activities  Monthly stipends for home office improvements Growth
+  & Development As a part of our team, you will have ample opportunities for
+  professional growth. You will not only gain exposure to a wide array of tech
+  stacks but also will get a chance to work with some of the best minds in the
+  industry. Our startup environment is conducive to rapid learning,
+  experimentation, and career advancement. We also provide necessary training
+  and resources to boost your skills and knowledge in mobile development.
 location: 'Columbus, OH'
 team: Mobile
 schedule: Full Time

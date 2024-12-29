@@ -7,7 +7,21 @@ description: >-
   trailblazer in the cybersecurity industry, is on the hunt for a dynamic
   Enterprise Account Executive. The role involves selling topnotch enterprise
   security solutions to Fortune 500 companies. If you're fluent in complex
-  security frameworks and compliance requirements, we wan...
+  security frameworks and compliance requirements, we want to hear from you!
+  Qualifications We're looking for someone who knows their way around NIST and
+  ISO frameworks, and has a track record of selling to CISOs and IT leaders.
+  Proven experience of closing deals over $500K is a must. Oh, and if you're
+  proficient with Salesforce, security concepts and enterprise sales cycles,
+  you'd fit right in! Responsibilities As an Enterprise Account Executive, your
+  main gig would be to sell our toptier enterprise security solutions. This
+  means spending your days impressing Fortune 500 companies, understanding their
+  needs, and offering them the best cybersecurity solutions. You'll be the one
+  to put us on the map in the cybersecurity industry! Pay/Benefits We believe in
+  rewarding our hardworking team. The salary range for this role is
+  $118112$148112 per year, and we also offer a comprehensive benefits package.
+  We're talking health, dental, vision, and a whole lot more! So, if you're
+  ready to take your career to the next level in the cybersecurity industry,
+  we'd love to hear from you!
 location: 'West Hollywood, CA'
 team: Software
 datePosted: '2024-12-27T06:42:38.205Z'

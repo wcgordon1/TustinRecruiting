@@ -7,7 +7,20 @@ description: >-
   Hillsboro, Lake Oswego offers a unique blend of smalltown charm and bigcity
   opportunities. This role is a crucial link between the technical and sales
   teams, implementing complex ad serving solutions. Qualifications  Must possess
-  strong programming skills, particularly i...
+  strong programming skills, particularly in Python and JavaScript. 
+  Understanding of digital advertising concepts such as RTB and programmatic is
+  essential.  Experience in API integration and SQL.  Proven ability in
+  customerfacing technical presentations.  Knowledge of major ad platforms and
+  analytics tools is required. Responsibilities  Works closely with the
+  technical and sales teams to understand and implement complex ad serving
+  solutions.  Uses Python and JavaScript to develop and implement solutions. 
+  Understands and applies digital advertising concepts such as RTB and
+  programmatic.  Integrates APIs and uses SQL in the solution building process. 
+  Delivers customerfacing technical presentations.  Utilizes knowledge of major
+  ad platforms and analytics tools in daily work. Pay/Benefits Our client offers
+  a competitive salary range of $103,085$153,085 per year, based on experience.
+  Additionally, they provide a comprehensive benefits package, details of which
+  will be discussed during the interview process.
 location: 'Lake Oswego, OR'
 team: Software
 datePosted: '2024-12-27T19:56:18.096Z'

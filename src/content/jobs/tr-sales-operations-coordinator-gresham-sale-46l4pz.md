@@ -1,16 +1,40 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  Join our dynamic team in Gresham, OR, as a Sales Operations Coordinator, where
-  you're positioned at the crossroads of innovation in the healthcare tech
-  industry. This role is crafted for those eager to propel digital health
-  platforms, medical software, and healthcare analytics to new heights. As a
-  Sales Operations Coordinator, you'll navigate a hybrid work environment,
-  engaging with multiple project teams to optimize sales processes and support
-  strategic initiatives on the second shift (2:00 PM  10:30 PM). Key
+  Position Overview Join our dynamic team in Gresham, OR, as a Sales Operations
+  Coordinator, where you're positioned at the crossroads of innovation in the
+  healthcare tech industry. This role is crafted for those eager to propel
+  digital health platforms, medical software, and healthcare analytics to new
+  heights. As a Sales Operations Coordinator, you'll navigate a hybrid work
+  environment, engaging with multiple project teams to optimize sales processes
+  and support strategic initiatives on the second shift (2:00 PM  10:30 PM). Key
   Responsibilities  Collaborate with crossfunctional teams to streamline and
   enhance sales operations.  Utilize Salesforce and HubSpot to manage and
-  analyze sales data, providing actionable insights.  Coordinate sales enable...
+  analyze sales data, providing actionable insights.  Coordinate sales
+  enablement activities using Outreach.io and LinkedIn Sales Navigator.  Support
+  the development and execution of sales strategies and campaigns.  Maintain and
+  update customer databases with tools like ZoomInfo.  Assist in the preparation
+  of sales forecasts and performance reports.  Travel as required within a
+  30mile radius to support various project needs. Required Qualifications  02
+  years of experience in sales operations or a related field.  Google Analytics
+  Certification and Salesforce Certified Administrator certification. 
+  Proficiency in HubSpot, ZoomInfo, Salesforce, LinkedIn Sales Navigator, and
+  Outreach.io.  Strong analytical and problemsolving skills.  Excellent
+  communication and time management abilities. Preferred Qualifications 
+  Experience in the healthcare tech industry.  Advanced understanding of digital
+  health platforms, medical software, or healthcare analytics.  Proven ability
+  to work collaboratively across different teams and functions.  A proactive
+  approach to identifying and implementing process improvements. Benefits &
+  Perks  Full Health Insurance  3 Weeks PTO  401k Match  Performance Bonuses 
+  Tool Allowance Growth & Development  Access to industryfocused training
+  programs designed to enhance your expertise in healthcare technology and sales
+  operations.  Clear career progression pathways with opportunities to advance
+  within the organization.  Regular professional development workshops and
+  certifications. Embrace the chance to be at the forefront of transformative
+  healthcare solutions in Gresham's rapidly growing tech landscape. If you're
+  looking to start or advance your career in sales operations within the
+  healthcare tech industry, we invite you to apply and become part of a team
+  dedicated to making impactful changes.
 location: 'Gresham, OR'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'
