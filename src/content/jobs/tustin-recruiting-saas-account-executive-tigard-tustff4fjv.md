@@ -3,11 +3,11 @@ position: SaaS Account Executive
 description: >-
   Our client, a prominent B2B SaaS company located in Tigard, Oregon, is
   currently seeking an experienced Account Executive to join their team. This
-  role, which focuses on full-cycle enterprise software sales with deal sizes
-  ranging from $100K-$500K annually, is perfect for those who are skilled at
+  role, which focuses on fullcycle enterprise software sales with deal sizes
+  ranging from $100K$500K annually, is perfect for those who are skilled at
   selling complex technical solutions to IT and business leaders. With nearby
   cities including Beaverton, Lake Oswego, and Tualatin, Tigard offers an
-  excellent work-life balance in a rapidly growing tech ...
+  excellent worklife balance in a rapidly growing tech ...
 location: 'Tigard, OR'
 team: Software
 datePosted: '2024-12-28T10:09:53.991Z'

@@ -4,15 +4,10 @@ description: >-
   Our client, a leading advertising technology company based in the beautiful
   city of Lake Oswego, OR, is seeking a talented and experienced Solutions
   Engineer to join their team. Situated close to Portland, Beaverton, and
-  Hillsboro, Lake Oswego offers a unique blend of small-town charm and big-city
+  Hillsboro, Lake Oswego offers a unique blend of smalltown charm and bigcity
   opportunities. This role is a crucial link between the technical and sales
-  teams, implementing complex ad serving solutions.
-
-
-  ## Qualifications
-
-
-  - Must possess strong programming skills, particularly i...
+  teams, implementing complex ad serving solutions. Qualifications  Must possess
+  strong programming skills, particularly i...
 location: 'Lake Oswego, OR'
 team: Software
 datePosted: '2024-12-27T19:56:18.096Z'

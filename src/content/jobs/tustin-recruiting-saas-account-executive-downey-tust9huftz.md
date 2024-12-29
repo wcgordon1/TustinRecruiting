@@ -5,9 +5,9 @@ description: >-
   Executive position based in Downey, CA. This opportunity is ideal for
   candidates who are willing to work in or relocate to Downey and its
   neighboring cities such as Bell Gardens, Paramount, Norwalk, and Santa Fe
-  Springs. This role focuses on full-cycle enterprise software sales, with deal
-  sizes ranging from $100K-$500K annually. If you have experience selling
-  complex technical solutions to IT and business leaders, this role ...
+  Springs. This role focuses on fullcycle enterprise software sales, with deal
+  sizes ranging from $100K$500K annually. If you have experience selling complex
+  technical solutions to IT and business leaders, this role ...
 location: 'Downey, CA'
 team: Software
 datePosted: '2024-12-28T16:07:41.824Z'

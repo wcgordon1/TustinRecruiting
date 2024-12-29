@@ -1,370 +1,510 @@
 {
-  "timestamp": "2024-12-22T15:09:17.931Z",
+  "timestamp": "2024-12-28T17:16:14.816Z",
   "results": [
     {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-everett-saas-p1v6dz",
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-murrieta-juni-x5jebc",
       "status": 200,
-      "timestamp": "2024-12-22T15:08:49.517Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-anaheim-juni-bb6k02",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:49.870Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-beaverton-insi-vdeb75",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:50.203Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-springfield-insi-yyx16y",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:50.553Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-vancouver-saas-8urn1a",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:50.905Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-long-beach-bdr--hfz8u1",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:51.227Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-palmdale-juni-end8s9",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:51.565Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-temecula-insi-j4i7m1",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:51.859Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-long-beach-bdr--udoveb",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:52.195Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-business-development-representative-austin-busi-1fefd3",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:52.508Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-vp-ibank-idny8492",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:52.855Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-marysville-saas-v3p38c",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:53.201Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-contract-admin-id-mf8590",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:53.524Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-efae-idhr8933",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:53.868Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-riverside-insi-0hoj8n",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:54.211Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-pasco-saas-h40b5i",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:54.549Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-fort-worth-aeef-idbf74881",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:54.862Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-san-bernardino-bdr--1wv35o",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:55.203Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-kent-saas-qrclnu",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:55.540Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-react-native-engineer-san diego-reac-6vitbw",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:55.857Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-carlsbad-insi-v1jaud",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:56.183Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-murrieta-saas-k2d5zn",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:56.503Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/bola-jr-software-engineer-id-bf8921",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:56.821Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-federal-way-saas-3v0bmr",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:57.149Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-ibanking-idtu4892",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:57.488Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/bola-saas-ae-id-bf-3293",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:57.809Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/bola-lead-software-engineer-id-bf9821",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:58.137Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-modesto-juni-i2z9ra",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:58.457Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-tacoma-saas-466ilf",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:58.783Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-salinas-insi-rbxwzq",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:59.102Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-san-jose-bdr--688epy",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:59.434Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/bols-vp-software-engineering-id-bf4328",
-      "status": 200,
-      "timestamp": "2024-12-22T15:08:59.768Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-auburn-bdr--ucdv90",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:00.090Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-ontario-juni-cap6m6",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:00.412Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-lancaster-insi-9hci2w",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:00.734Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-seattle-insi-vubhzn",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:01.054Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-account-executive-houston-acco-vv1mj7",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:01.376Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-bellevue-insi-tfkic9",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:01.679Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-bellingham-saas-s6wimu",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:01.999Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-react-native-engineer-san francisco-reac-oxwwul",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:02.316Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-sacramento-juni-csdz1k",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:02.636Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-ef-funding-manager-idbg0882",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:02.959Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-cypress-account-executive-idbf8931",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:03.283Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-ae-finance-idbd8942",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:03.603Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-hayward-juni-6te3eh",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:03.918Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-doc-specialist-id-bf8402",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:04.222Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-los-angeles-insi-93f0d5",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:04.548Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-react-native-engineer-san jose-reac-qj7jll",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:04.871Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-san-francisco-bdr--3qz7k7",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:05.192Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-carlsbad-saas-h3575m",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:05.521Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-fresno-bdr--ai0vqp",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:11.036Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-irvine-sale-fd1sl3",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:11.354Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-oakland-juni-yhc3l9",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:11.673Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-salem-insi-a2ahco",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:11.973Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/bola-software-engineer-id-bd9423",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:12.293Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-portland-bdr--cxb7wp",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:12.614Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-react-native-engineer-los angeles-reac-c6qpok",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:12.941Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-santa-ana-juni-z9gkjo",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:13.249Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-hillsboro-juni-igf7bj",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:13.570Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-medford-insi-oxv4pg",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:13.889Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/bol-saas-bdr-id-bf0938",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:14.206Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-santa-clarita-saas-iwjequ",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:14.527Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-santa-clarita-bdr--2hp53a",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:14.848Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-san-diego-insi-omswhi",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:15.181Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-houston-aeef-idyt7477",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:15.493Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-gresham-sale-46l4pz",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:15.810Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-funding-paralegal-irvine-idbg0932",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:16.133Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-santa-rosa-juni-ujr1qx",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:16.455Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-stockton-juni-0y22ya",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:16.763Z"
-    },
-    {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-santa-ana-bdr--bn50zm",
-      "status": 200,
-      "timestamp": "2024-12-22T15:09:17.085Z"
+      "timestamp": "2024-12-28T17:14:56.096Z"
     },
     {
       "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-bakersfield-saas-d0g99x",
       "status": 200,
-      "timestamp": "2024-12-22T15:09:17.411Z"
+      "timestamp": "2024-12-28T17:14:56.426Z"
     },
     {
-      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-murrieta-juni-x5jebc",
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-santa-ana-bdr--bn50zm",
       "status": 200,
-      "timestamp": "2024-12-22T15:09:17.728Z"
+      "timestamp": "2024-12-28T17:14:56.760Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-stockton-juni-0y22ya",
+      "status": 200,
+      "timestamp": "2024-12-28T17:14:57.084Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-santa-rosa-juni-ujr1qx",
+      "status": 200,
+      "timestamp": "2024-12-28T17:14:57.414Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-funding-paralegal-irvine-idbg0932",
+      "status": 200,
+      "timestamp": "2024-12-28T17:14:57.744Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-gresham-sale-46l4pz",
+      "status": 200,
+      "timestamp": "2024-12-28T17:14:58.061Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-houston-aeef-idyt7477",
+      "status": 200,
+      "timestamp": "2024-12-28T17:14:58.383Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-san-diego-insi-omswhi",
+      "status": 200,
+      "timestamp": "2024-12-28T17:14:58.709Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-santa-clarita-bdr--2hp53a",
+      "status": 200,
+      "timestamp": "2024-12-28T17:14:59.027Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-santa-clarita-saas-iwjequ",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:04.552Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/bol-saas-bdr-id-bf0938",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:04.876Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-medford-insi-oxv4pg",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:05.197Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-hillsboro-juni-igf7bj",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:05.521Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-santa-ana-juni-z9gkjo",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:05.845Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-react-native-engineer-los angeles-reac-c6qpok",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:06.164Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-portland-bdr--cxb7wp",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:06.484Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/bola-software-engineer-id-bd9423",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:06.809Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-salem-insi-a2ahco",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:07.172Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-oakland-juni-yhc3l9",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:07.499Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-irvine-sale-fd1sl3",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:13.008Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-fresno-bdr--ai0vqp",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:13.328Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-carlsbad-saas-h3575m",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:13.642Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-san-francisco-bdr--3qz7k7",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:13.957Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-react-native-engineer-san jose-reac-qj7jll",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:14.281Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-los-angeles-insi-93f0d5",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:14.602Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-doc-specialist-id-bf8402",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:14.922Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-hayward-juni-6te3eh",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:15.251Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-ae-finance-idbd8942",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:15.570Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-cypress-account-executive-idbf8931",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:15.896Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-ef-funding-manager-idbg0882",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:21.411Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-sacramento-juni-csdz1k",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:21.730Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-react-native-engineer-san francisco-reac-oxwwul",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:22.052Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-bellingham-saas-s6wimu",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:22.378Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-bellevue-insi-tfkic9",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:22.703Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-account-executive-houston-acco-vv1mj7",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:23.022Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-seattle-insi-vubhzn",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:23.344Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-lancaster-insi-9hci2w",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:23.668Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-ontario-juni-cap6m6",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:23.994Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-auburn-bdr--ucdv90",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:24.314Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/bols-vp-software-engineering-id-bf4328",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:29.823Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-san-jose-bdr--688epy",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:30.147Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-salinas-insi-rbxwzq",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:30.465Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-tacoma-saas-466ilf",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:30.784Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-modesto-juni-i2z9ra",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:31.099Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/bola-lead-software-engineer-id-bf9821",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:31.420Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/bola-saas-ae-id-bf-3293",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:31.737Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-ibanking-idtu4892",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:32.057Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-federal-way-saas-3v0bmr",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:32.378Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/bola-jr-software-engineer-id-bf8921",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:32.697Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-murrieta-saas-k2d5zn",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:38.206Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-carlsbad-insi-v1jaud",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:38.524Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-react-native-engineer-san diego-reac-6vitbw",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:38.825Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-kent-saas-qrclnu",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:39.152Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-san-bernardino-bdr--1wv35o",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:39.475Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-fort-worth-aeef-idbf74881",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:39.788Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-pasco-saas-h40b5i",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:40.104Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-riverside-insi-0hoj8n",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:40.421Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-efae-idhr8933",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:40.741Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-contract-admin-id-mf8590",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:41.057Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-marysville-saas-v3p38c",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:46.577Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-vp-ibank-idny8492",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:46.902Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-business-development-representative-austin-busi-1fefd3",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:47.227Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-long-beach-bdr--udoveb",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:47.550Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-temecula-insi-j4i7m1",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:47.877Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-palmdale-juni-end8s9",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:48.195Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-bdr---tech-sales-long-beach-bdr--hfz8u1",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:48.514Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-vancouver-saas-8urn1a",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:48.832Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-springfield-insi-yyx16y",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:49.150Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-beaverton-insi-vdeb75",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:49.486Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-anaheim-juni-bb6k02",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:54.997Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-sdr-everett-saas-p1v6dz",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:55.317Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-corona-insi-u9gxwr",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:55.638Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-escondido-sale-z644k5",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:55.960Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-yakima-sale-962ovh",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:56.277Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-eugene-sale-c3zfts",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:56.602Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-legal-documentation-idbd9023",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:56.920Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-associate-bakersfield-insi-ue1ibe",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:57.216Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-corvallis-juni-0pd2ej",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:57.536Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-escondido-juni-9q71fw",
+      "status": 200,
+      "timestamp": "2024-12-28T17:15:57.846Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-bend-sale-z6kyny",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:03.351Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-renton-saas-lu595z",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:03.678Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-sdr-elk-grove-juni-1ckywt",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:03.993Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-saas-account-executive-spokane-saas-9bnh8v",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:04.313Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-junior-account-executive-oceanside-juni-6jjdt1",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:04.632Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-kennewick-sale-pplnuz",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:04.946Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-anaheim-sale-q6ia29",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:05.266Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-business-development-representative-dallas-busi-lj27vg",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:05.591Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-coordinator-temecula-sale-htt6k6",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:05.909Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-business-development-representative-san-antonio-busi-jeo7dy",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:06.232Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-inside-sales-rep-fort-worth-insi-rse82a",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:11.743Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-manager-los-angeles-sale-bob5ij",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:12.062Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-systems-administrator-los-angeles-syst-n6jyp0",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:12.380Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-ai-product-manager-long-beach-ai-p-2ta7dg",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:12.690Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-channel-partner-manager-santa-clarita-chan-5sltwg",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:13.010Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-mobile-app-developer-glendale-mobi-ukf2nt",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:13.327Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-systems-administrator-lancaster-syst-x91j6u",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:13.648Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-machine-learning-engineer-palmdale-mach-l96e0w",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:13.967Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-computer-vision-engineer-pomona-comp-f0qucf",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:14.296Z"
+    },
+    {
+      "url": "https://www.tustinrecruiting.com/jobs/tr-sales-operations-manager-torrance-sale-mj601p",
+      "status": 200,
+      "timestamp": "2024-12-28T17:16:14.615Z"
     }
   ],
   "summary": {
-    "total": 72,
-    "successful": 72,
+    "total": 100,
+    "successful": 100,
     "failed": 0
   }
 }

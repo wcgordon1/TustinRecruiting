@@ -7,7 +7,7 @@ description: >-
   individuals who are ready to make a significant impact in the healthcare
   sector across Los Angeles and its neighboring cities including Pasadena,
   Glendale, Long Beach, Anaheim, and Santa Monica. The selected candidate will
-  be responsible for selling high-quality medical d...
+  be responsible for selling highquality medical d...
 location: 'Los Angeles, CA'
 team: Medical Device
 datePosted: '2024-12-26T19:38:25.499Z'

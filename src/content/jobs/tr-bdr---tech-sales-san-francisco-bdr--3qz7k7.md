@@ -3,8 +3,8 @@ position: BDR - Tech Sales
 description: >-
   Join an innovative team at the forefront of healthcare technology in San
   Francisco, CA, as a Business Development Representative (BDR) in Tech Sales.
-  This entry-level role, ideal for those with 0-1 years of experience, offers a
-  dynamic work environment where you'll engage with cutting-edge digital health
+  This entrylevel role, ideal for those with 01 years of experience, offers a
+  dynamic work environment where you'll engage with cuttingedge digital health
   platforms, medical software, and healthcare analytics. Operating during the
   first shift from 6:00 AM to 2:30 PM, you'll collaborate across multiple
   project teams, fostering...

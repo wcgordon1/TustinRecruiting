@@ -8,12 +8,7 @@ description: >-
   is at the forefront of innovation, focusing on payment processing and digital
   banking solutions. They are seeking a seasoned DevOps Engineer to join their
   dynamic team, and this could be your opportunity to make a significant impact.
-
-
-  ## About the Role
-
-
-  Imagine being part of a collaborat...
+  About the Role Imagine being part of a collaborat...
 location: 'Fullerton, CA'
 team: Software
 schedule: Standard Business Hours

@@ -6,7 +6,7 @@ description: >-
   of San Carlos, CA. Imagine working just a stone's throw away from beautiful
   neighboring cities like Redwood City, Belmont, and Foster City. This role is
   all about selling transportation, warehousing, and supply chain solutions to
-  mid-market and enterprise companies. You'll need to know your stuff when it
+  midmarket and enterprise companies. You'll need to know your stuff when it
   comes to freight modes (FTL, LTL, int...
 location: 'San Carlos, CA'
 team: Logistics

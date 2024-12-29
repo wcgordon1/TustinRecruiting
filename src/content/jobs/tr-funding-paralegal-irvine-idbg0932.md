@@ -1,13 +1,13 @@
 ---
 position: Finance Paralegal
 description: >-
-  We are looking for a meticulous and organized **Finance Paralegal** to join
-  our client’s team in Irvine, CA. This on-site position is ideal for a skilled
-  paralegal with a background in finance-related legal documentation who is
-  ready to transition into a finance company specializing in heavy document
-  work. Your expertise in managing contracts and ensuring compliance will play a
-  critical role in supporting the efficiency of commercial equipment lease and
-  loan transactions.
+  We are looking for a meticulous and organized Finance Paralegal to join our
+  client’s team in Irvine, CA. This onsite position is ideal for a skilled
+  paralegal with a background in financerelated legal documentation who is ready
+  to transition into a finance company specializing in heavy document work. Your
+  expertise in managing contracts and ensuring compliance will play a critical
+  role in supporting the efficiency of commercial equipment lease and loan
+  transactions.
 location: 'Irvine, CA'
 team: Equipment Finance
 datePosted: '2024-12-28T08:26:17.154Z'

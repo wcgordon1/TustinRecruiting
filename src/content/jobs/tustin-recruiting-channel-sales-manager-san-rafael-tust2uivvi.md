@@ -3,17 +3,11 @@ position: Channel Sales Manager
 description: >-
   Our Client, located in San Rafael, CA, is seeking a Channel Sales Manager to
   join their team. This role is centered around building and managing a network
-  of value-added resellers and system integrators. The ideal candidate will have
+  of valueadded resellers and system integrators. The ideal candidate will have
   a strong understanding of channel economics, deal registration programs, and
   partner incentive structures. With neighboring cities such as Novato,
   Petaluma, and Vallejo, San Rafael offers a vibrant and diverse workplace
-  environment.
-
-
-  ## Qualifications
-
-
-  - Proven expe...
+  environment. Qualifications  Proven expe...
 location: 'San Rafael, CA'
 team: Software
 datePosted: '2024-12-28T16:46:34.723Z'

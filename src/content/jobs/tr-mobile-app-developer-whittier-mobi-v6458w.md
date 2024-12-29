@@ -1,25 +1,14 @@
 ---
 position: Mobile App Developer
 description: >-
-  ## Overview
-
-
-  Join our dynamic Healthcare Tech company, located in Whittier, CA, as a 100%
-  Remote Mobile App Developer. Engage with innovative digital health platforms,
-  medical software, and healthcare analytics in a fully remote capacity.
-  Collaborate across multiple project teams to drive technological advancements
-  in healthcare, all from the comfort of your home.
-
-
-  ## Key Responsibilities
-
-
-  - Develop and maintain high-quality mobile applications.
-
-  - Collaborate with cross-functional teams to define, design, and ship new
-  features.
-
-  - Ensure the performance, quality, and responsiveness of applicati...
+  Overview Join our dynamic Healthcare Tech company, located in Whittier, CA, as
+  a 100% Remote Mobile App Developer. Engage with innovative digital health
+  platforms, medical software, and healthcare analytics in a fully remote
+  capacity. Collaborate across multiple project teams to drive technological
+  advancements in healthcare, all from the comfort of your home. Key
+  Responsibilities  Develop and maintain highquality mobile applications. 
+  Collaborate with crossfunctional teams to define, design, and ship new
+  features.  Ensure the performance, quality, and responsiveness of applicati...
 location: 'Whittier, CA'
 team: Software
 schedule: Standard Business Hours

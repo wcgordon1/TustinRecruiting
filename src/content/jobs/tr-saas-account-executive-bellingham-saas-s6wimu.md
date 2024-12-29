@@ -1,16 +1,13 @@
 ---
 position: SaaS Account Executive
 description: >-
-  ## About the Role
-
-
-  Nestled in the vibrant, innovative landscape of Bellingham, WA, an opportunity
-  awaits for a driven and dynamic individual to join our expanding team as a
-  SaaS Account Executive. This role is more than a position; it's an adventure
-  into the heart of marketing technology, where creativity, analytics, and
-  automation converge to transform the way businesses reach their audiences. As
-  the sun sets over the picturesque Puget Sound, you'll begin your second shift,
-  from 2:00 PM to 10:3...
+  About the Role Nestled in the vibrant, innovative landscape of Bellingham, WA,
+  an opportunity awaits for a driven and dynamic individual to join our
+  expanding team as a SaaS Account Executive. This role is more than a position;
+  it's an adventure into the heart of marketing technology, where creativity,
+  analytics, and automation converge to transform the way businesses reach their
+  audiences. As the sun sets over the picturesque Puget Sound, you'll begin your
+  second shift, from 2:00 PM to 10:3...
 location: 'Bellingham, WA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

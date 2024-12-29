@@ -1,26 +1,14 @@
 ---
 position: Mobile App Developer
 description: >-
-  ## Overview
-
-
-  Join our dynamic MarTech company as a Mobile App Developer, working 100%
-  remotely from Lakewood, CA. We specialize in innovative marketing platforms,
-  analytics, and automation tools. Become a vital part of our 10+ person
-  regional team, enhancing our applications and contributing to cutting-edge
-  technology solutions. 
-
-
-  ## Key Responsibilities
-
-
-  - Develop and maintain mobile applications using modern frameworks and
-  technologies.
-
-  - Collaborate with cross-functional teams to design, develop, and deploy new
-  features.
-
-  - Utilize agile methodologies to manage development cycles and meet pr...
+  Overview Join our dynamic MarTech company as a Mobile App Developer, working
+  100% remotely from Lakewood, CA. We specialize in innovative marketing
+  platforms, analytics, and automation tools. Become a vital part of our 10+
+  person regional team, enhancing our applications and contributing to
+  cuttingedge technology solutions. Key Responsibilities  Develop and maintain
+  mobile applications using modern frameworks and technologies.  Collaborate
+  with crossfunctional teams to design, develop, and deploy new features. 
+  Utilize agile methodologies to manage development cycles and meet pr...
 location: 'Lakewood, CA'
 team: Software
 schedule: Standard Business Hours

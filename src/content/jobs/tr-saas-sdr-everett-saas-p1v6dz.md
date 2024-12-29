@@ -1,14 +1,11 @@
 ---
 position: SaaS SDR
 description: >-
-  ## Position Overview
-
-
-  Join our innovative and dynamic team as a Sales Development Representative
-  (SDR) in the vibrant fintech sector of Everett, WA. This role offers an
-  exciting opportunity to be on the front lines of our sales efforts, engaging
-  with prospective clients and driving the growth of cutting-edge financial
-  technologies. As an SDR, you will be part of a close-knit team of 3-5
+  Position Overview Join our innovative and dynamic team as a Sales Development
+  Representative (SDR) in the vibrant fintech sector of Everett, WA. This role
+  offers an exciting opportunity to be on the front lines of our sales efforts,
+  engaging with prospective clients and driving the growth of cuttingedge
+  financial technologies. As an SDR, you will be part of a closeknit team of 35
   professionals, working together to identify and create qualified sales
   opportunities. With a focus on digital ...
 location: 'Everett, WA'

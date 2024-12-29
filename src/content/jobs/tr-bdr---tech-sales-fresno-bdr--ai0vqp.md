@@ -1,28 +1,17 @@
 ---
 position: BDR - Tech Sales
 description: >-
-  ## Position Overview
-
-
-  Join our dynamic fintech team as a Business Development Representative (BDR)
-  in the heart of California's Central Valley, Fresno. Perfectly suited for
-  individuals eager to launch their career in tech sales, this role offers a
-  flexible schedule and the opportunity to engage with cutting-edge financial
-  technologies. As a BDR, you will be an integral part of a regional team of
-  over 10 professionals, dedicated to expanding our innovative solutions in
-  financial services, payment processing, and digital banking across the region.
-
-
-  ## Key Responsibilities
-
-
-  - Conduct market research to identify potential leads and prospects within the
-  fintech industry.
-
-  - Utilize LinkedIn Sales Navigator and ZoomInfo to build and maintain a robust
-  sales pipeline.
-
-  - Engage with prospects throug...
+  Position Overview Join our dynamic fintech team as a Business Development
+  Representative (BDR) in the heart of California's Central Valley, Fresno.
+  Perfectly suited for individuals eager to launch their career in tech sales,
+  this role offers a flexible schedule and the opportunity to engage with
+  cuttingedge financial technologies. As a BDR, you will be an integral part of
+  a regional team of over 10 professionals, dedicated to expanding our
+  innovative solutions in financial services, payment processing, and digital
+  banking across the region. Key Responsibilities  Conduct market research to
+  identify potential leads and prospects within the fintech industry.  Utilize
+  LinkedIn Sales Navigator and ZoomInfo to build and maintain a robust sales
+  pipeline.  Engage with prospects throug...
 location: 'Fresno, CA'
 team: Software
 schedule: Flexible Hours

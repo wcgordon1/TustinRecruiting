@@ -2,9 +2,9 @@
 position: Inside Sales Associate
 description: >-
   Join our dynamic team as an Inside Sales Associate in the vibrant fintech hub
-  of Carlsbad, CA. If you're looking to thrive in the fast-paced world of
+  of Carlsbad, CA. If you're looking to thrive in the fastpaced world of
   financial services and digital banking, and are passionate about leveraging
-  cutting-edge...
+  cuttingedge...
 location: 'Carlsbad, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

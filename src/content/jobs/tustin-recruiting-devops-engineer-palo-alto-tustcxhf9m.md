@@ -1,12 +1,12 @@
 ---
 position: DevOps Engineer
 description: >-
-  Our client, a well-established and rapidly expanding e-commerce platform, is
+  Our client, a wellestablished and rapidly expanding ecommerce platform, is
   seeking a seasoned DevOps Engineer to join their dynamic team in Palo Alto,
   CA. Nestled in the heart of Silicon Valley, Palo Alto is conveniently located
   near other tech hubs such as San Jose, Mountain View, and Menlo Park. This
-  position offers the opportunity to work on cutting-edge technology in a
-  fast-paced, high-traffic environment. The successful candidate will play a
+  position offers the opportunity to work on cuttingedge technology in a
+  fastpaced, hightraffic environment. The successful candidate will play a
   crucial role in maintaining and scaling the com...
 location: 'Palo Alto, CA'
 team: Software

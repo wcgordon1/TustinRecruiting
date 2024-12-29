@@ -4,13 +4,10 @@ description: >-
   Welcome to an exciting opportunity for a Full Stack Developer in the beautiful
   city of Tualatin, OR. Known for its proximity to stunning natural beauty and
   neighboring cities like Portland, Lake Oswego, and West Linn, Tualatin offers
-  a unique blend of small-town charm and big-city opportunity. Our Client, a
+  a unique blend of smalltown charm and bigcity opportunity. Our Client, a
   dynamic fintech startup, is looking for an expert developer with a passion for
   building secure, scalable web applications for payment processing and
-  financial transactions.
-
-
-  ## Qualifications...
+  financial transactions. Qualifications...
 location: 'Tualatin, OR'
 team: Finance
 datePosted: '2024-12-27T12:42:33.502Z'

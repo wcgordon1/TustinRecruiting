@@ -1,7 +1,7 @@
 ---
 position: Regional Sales Manager
 description: >-
-  Our client, an industry-leading industrial manufacturing company, is seeking a
+  Our client, an industryleading industrial manufacturing company, is seeking a
   dynamic and experienced Regional Sales Manager to join their team in Menlo
   Park, CA. This role is a unique opportunity to work in the heart of Silicon
   Valley, with nearby cities including Palo Alto, Redwood City, Mountain View,

@@ -1,13 +1,11 @@
 ---
 position: Computer Vision Engineer
 description: >-
-  ## Overview
-
-  Join a dynamic Healthcare Tech company dedicated to revolutionizing digital
-  health platforms, medical software, and healthcare analytics. This is a 100%
-  remote position based in Pomona, CA, offering the opportunity to be part of a
-  forward-thinking team while working from the comfort of your home. We are
-  focused on delivering innovative solutions that enhance patient care and
+  Overview Join a dynamic Healthcare Tech company dedicated to revolutionizing
+  digital health platforms, medical software, and healthcare analytics. This is
+  a 100% remote position based in Pomona, CA, offering the opportunity to be
+  part of a forwardthinking team while working from the comfort of your home. We
+  are focused on delivering innovative solutions that enhance patient care and
   healthcare services. Embrace a remote work culture that prom...
 location: 'Pomona, CA'
 team: Software

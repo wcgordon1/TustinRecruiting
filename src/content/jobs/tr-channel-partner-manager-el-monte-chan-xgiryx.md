@@ -1,15 +1,13 @@
 ---
 position: Channel Partner Manager
 description: >-
-  ## Position Overview
-
-
-  This is a dynamic on-site position with a leading SaaS company in El Monte,
-  CA, where innovation meets industry expertise. As a Channel Partner Manager,
-  you will be a pivotal part of the team, driving strategic partnerships and
-  fostering relationships within the technology landscape. Your role will
-  involve collaborating with key stakeholders to enhance our channel partner
-  program, ensuring alignment with our goals and object...
+  Position Overview This is a dynamic onsite position with a leading SaaS
+  company in El Monte, CA, where innovation meets industry expertise. As a
+  Channel Partner Manager, you will be a pivotal part of the team, driving
+  strategic partnerships and fostering relationships within the technology
+  landscape. Your role will involve collaborating with key stakeholders to
+  enhance our channel partner program, ensuring alignment with our goals and
+  object...
 location: 'El Monte, CA'
 team: Software
 schedule: Standard Business Hours

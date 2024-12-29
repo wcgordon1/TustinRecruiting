@@ -2,12 +2,12 @@
 position: Enterprise Account Executive
 description: >-
   Hey there! We're on the hunt for a seasoned Enterprise Account Executive for a
-  top-notch cybersecurity company. The role is located in the heart of Silicon
+  topnotch cybersecurity company. The role is located in the heart of Silicon
   Valley, in Cupertino, CA, a stone's throw away from the bustling towns of
-  Sunnyvale, Santa Clara, and San Jose. You'll be focused on selling
-  cutting-edge enterprise security solutions to the big guns in the Fortune 500.
-  If you're someone who can wrap your head around complex security frameworks
-  like NIST and ISO, and understand the ins and ou...
+  Sunnyvale, Santa Clara, and San Jose. You'll be focused on selling cuttingedge
+  enterprise security solutions to the big guns in the Fortune 500. If you're
+  someone who can wrap your head around complex security frameworks like NIST
+  and ISO, and understand the ins and ou...
 location: 'Cupertino, CA'
 team: Software
 datePosted: '2024-12-27T01:26:55.116Z'

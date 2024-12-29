@@ -6,8 +6,8 @@ description: >-
   contribute to the development and enhancement of our Ecommerce iOS
   application. This role offers the flexibility of remote work while providing
   the opportunity to make a significant mark on a pioneering product, all within
-  the dynamic pace of a startup environment. Key Duties: - Develop and maintain
-  a robust Ecommerce iOS application using Re...
+  the dynamic pace of a startup environment. Key Duties:  Develop and maintain a
+  robust Ecommerce iOS application using Re...
 location: 'San Diego, CA'
 team: Mobile
 datePosted: '2024-12-28T10:02:09.101Z'

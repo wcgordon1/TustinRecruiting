@@ -1,27 +1,17 @@
 ---
 position: DevOps Engineer
 description: >-
-  ## Position Overview
-
-
-  Join our dynamic and innovative team as a Remote DevOps Engineer for a leading
-  SaaS-focused company headquartered in Norwalk, CA. This is a fully remote
-  position, allowing you to work from anywhere within the United States while
-  contributing to cutting-edge enterprise software solutions. Our company
-  specializes in cloud platforms and B2B technology, providing you with the
-  opportunity to engage with advanced technology stacks and lead a talented team
-  of 4-6 technicians. If you're passionate about remote collaboration and have a
-  knack for optimizing software development processes, this role is for you.
-
-
-  ## Key Responsibilities
-
-
-  - Design, implement, and manage scalable cloud-based solutions.
-
-  - Collaborate with cross-functional teams to streamline deployment processes.
-
-  - ...
+  Position Overview Join our dynamic and innovative team as a Remote DevOps
+  Engineer for a leading SaaSfocused company headquartered in Norwalk, CA. This
+  is a fully remote position, allowing you to work from anywhere within the
+  United States while contributing to cuttingedge enterprise software solutions.
+  Our company specializes in cloud platforms and B2B technology, providing you
+  with the opportunity to engage with advanced technology stacks and lead a
+  talented team of 46 technicians. If you're passionate about remote
+  collaboration and have a knack for optimizing software development processes,
+  this role is for you. Key Responsibilities  Design, implement, and manage
+  scalable cloudbased solutions.  Collaborate with crossfunctional teams to
+  streamline deployment processes.  ...
 location: 'Norwalk, CA'
 team: Software
 schedule: Standard Business Hours

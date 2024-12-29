@@ -2,14 +2,10 @@
 position: SaaS Account Executive
 description: >-
   Hey there! We're on the hunt for an Account Executive for Our Client, a
-  top-notch B2B SaaS company based in the vibrant city of Foster City, CA. You
+  topnotch B2B SaaS company based in the vibrant city of Foster City, CA. You
   might know it as the friendly neighbor to San Mateo, Belmont, and Redwood
-  City. This gig is all about full-cycle enterprise software sales, and you'll
-  be handling some pretty hefty deals - think $100K-$500K annually.
-
-
-  ##Qualifications
-
+  City. This gig is all about fullcycle enterprise software sales, and you'll be
+  handling some pretty hefty deals  think $100K$500K annually. Qualifications
   Now, let's talk about what you need in your toolbox for this role. Firstly,
   you need to be comfortable selling compl...
 location: 'Foster City, CA'

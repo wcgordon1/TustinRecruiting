@@ -1,16 +1,13 @@
 ---
 position: Machine Learning Engineer
 description: >-
-  ## Position Overview
-
-
-  Join an innovative SaaS company that thrives on cutting-edge technology and a
-  dynamic work environment, as a 100% Remote Machine Learning Engineer based in
-  Lake Forest, CA. This role immerses you in the heart of enterprise software
-  development, cloud platforms, and B2B technology. As part of a
-  forward-thinking team, you'll lead efforts to design, implement, and refine
-  machine learning models and solutions that empower businesses globally. Your
-  work will directly contribute to our mission of transforming data into
+  Position Overview Join an innovative SaaS company that thrives on cuttingedge
+  technology and a dynamic work environment, as a 100% Remote Machine Learning
+  Engineer based in Lake Forest, CA. This role immerses you in the heart of
+  enterprise software development, cloud platforms, and B2B technology. As part
+  of a forwardthinking team, you'll lead efforts to design, implement, and
+  refine machine learning models and solutions that empower businesses globally.
+  Your work will directly contribute to our mission of transforming data into
   intelligent action, all from the comfort of your home offic...
 location: 'Lake Forest, CA'
 team: Software

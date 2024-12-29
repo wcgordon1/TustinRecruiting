@@ -3,14 +3,12 @@ position: Full Stack Developer
 description: >-
   In the heart of the rapidly evolving healthcare tech industry, a unique
   opportunity awaits passionate Full Stack Developers. This position offers the
-  perfect blend of cutting-edge technology, meaningful work, and the comfort of
-  a 100% remote setup. Our company is dedicated to revolutionizing healthcare
+  perfect blend of cuttingedge technology, meaningful work, and the comfort of a
+  100% remote setup. Our company is dedicated to revolutionizing healthcare
   through digital health platforms, medical software, and healthcare analytics.
   And while our roots are in Bellflower, CA, your location can be as flexible as
   your imagination. With an unwavering commitment to advancing healthcare, we
-  offer you a chance to make a difference from wherever you are.
-
-  ...
+  offer you a chance to make a difference from wherever you are. ...
 location: 'Bellflower, CA'
 team: Software
 schedule: Standard Business Hours

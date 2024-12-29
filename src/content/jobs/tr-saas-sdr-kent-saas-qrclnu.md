@@ -1,31 +1,13 @@
 ---
 position: SaaS SDR
 description: >-
-  ## Overview
-
-  - Position: SaaS Sales Development Representative (SDR)
-
-  - Location: Kent, WA
-
-  - Industry: Security Software (Cybersecurity, Identity Management, Cloud
-  Security)
-
-  - Experience: 0-2 years
-
-  - Schedule: Flexible hours
-
-  - Environment: Collaborate across multiple project teams
-
-  - Travel: Within 30 miles from home base
-
-  - Training: Focused on technical skills
-
-
-  ## Key Responsibilities
-
-  - Identify and qualify potential leads within the cybersecurity sector
-
-  - Use technology stack (ZoomInfo, Outreach....
+  Overview  Position: SaaS Sales Development Representative (SDR)  Location:
+  Kent, WA  Industry: Security Software (Cybersecurity, Identity Management,
+  Cloud Security)  Experience: 02 years  Schedule: Flexible hours  Environment:
+  Collaborate across multiple project teams  Travel: Within 30 miles from home
+  base  Training: Focused on technical skills Key Responsibilities  Identify and
+  qualify potential leads within the cybersecurity sector  Use technology stack
+  (ZoomInfo, Outreach....
 location: 'Kent, WA'
 team: Software
 schedule: Flexible Hours

@@ -1,37 +1,16 @@
 ---
 position: Full Stack Developer
 description: >-
-  **Remote Full Stack Developer (100% Remote) - Fintech Company**
-
-
-  Join our dynamic Fintech company as a Full Stack Developer, working 100%
-  remotely from anywhere in the United States. In this role, you’ll lead a team
-  of talented developers to build innovative financial solutions. Leverage
-  cutting-edge technologies in a collaborative, virtual environment, and
-  contribute to the evolving financial landscape.
-
-
-  ## Overview
-
-  - **Position**: Full Stack Developer
-
-  - **Location**: 100% Remote (US-Based)
-
-  - **Industry**: Fintech (Financial Services, Payment Processors, Digital
-  Banking)
-
-  - **Schedule**: Standard Business Hours
-
-  - **Team Structure**: Lead a team of 4-6 technicians
-
-  - **Travel**: No travel required
-
-  - **Training**: Sales Development focused
-
-
-  ## Key Responsibilities
-
-  - Design and develop scalabl...
+  Remote Full Stack Developer (100% Remote)  Fintech Company Join our dynamic
+  Fintech company as a Full Stack Developer, working 100% remotely from anywhere
+  in the United States. In this role, you’ll lead a team of talented developers
+  to build innovative financial solutions. Leverage cuttingedge technologies in
+  a collaborative, virtual environment, and contribute to the evolving financial
+  landscape. Overview  Position: Full Stack Developer  Location: 100% Remote
+  (USBased)  Industry: Fintech (Financial Services, Payment Processors, Digital
+  Banking)  Schedule: Standard Business Hours  Team Structure: Lead a team of 46
+  technicians  Travel: No travel required  Training: Sales Development focused
+  Key Responsibilities  Design and develop scalabl...
 location: 'Downey, CA'
 team: Software
 schedule: Standard Business Hours

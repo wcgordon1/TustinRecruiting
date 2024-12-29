@@ -1,31 +1,27 @@
 ---
 position: Lead Software Engineer
 description: >-
-  Bola AI is hiring a **Lead Software Engineer** for a hybrid role based in
-  **Santa Ana, CA**. This is a unique opportunity to lead a team of talented
-  engineers, drive innovation in Voice-AI technology, and shape the future of
-  dental practice management. If you are a seasoned software engineer with
-  leadership experience and a passion for cutting-edge technology, we want to
-  hear from you.
-
-  ### Responsibilities - Lead, mentor, and inspire a team of software engineers
-  to deliver high-quality solutions. - Design, develop, and maintain scalable
+  Bola AI is hiring a Lead Software Engineer for a hybrid role based in Santa
+  Ana, CA. This is a unique opportunity to lead a team of talented engineers,
+  drive innovation in VoiceAI technology, and shape the future of dental
+  practice management. If you are a seasoned software engineer with leadership
+  experience and a passion for cuttingedge technology, we want to hear from you.
+  Responsibilities  Lead, mentor, and inspire a team of software engineers to
+  deliver highquality solutions.  Design, develop, and maintain scalable
   software systems using the MERN stack (MongoDB, Express.js, React.js,
-  Node.js). - Collaborate with product managers, designers, and stakeholders to
-  define technical requirements and project goals. - Ensure the team follows
-  best practices in coding, testing, and documentation. - Optimize software
-  performance, scalability, and reliability. - Evaluate and integrate emerging
-  technologies to enhance the product offering. - Participate in hiring and
-  onboarding new engineering talent. - Act as a key liaison between engineering
+  Node.js).  Collaborate with product managers, designers, and stakeholders to
+  define technical requirements and project goals.  Ensure the team follows best
+  practices in coding, testing, and documentation.  Optimize software
+  performance, scalability, and reliability.  Evaluate and integrate emerging
+  technologies to enhance the product offering.  Participate in hiring and
+  onboarding new engineering talent.  Act as a key liaison between engineering
   and executive leadership, contributing to strategic planning and
-  decision-making.
-
-  ### Qualifications - 7+ years of professional experience in software
-  development, with at least 3 years in a leadership role. - Expertise in the
-  MERN stack, API design, database architecture, and cloud platforms like AWS or
-  Azure. - Strong knowledge of software development methodologies, including
-  Agile practices. - Proven ability to lead and manage cross-functional teams. -
-  Excellent communication and collaboration skills.
+  decisionmaking. Qualifications  7+ years of professional experience in
+  software development, with at least 3 years in a leadership role.  Expertise
+  in the MERN stack, API design, database architecture, and cloud platforms like
+  AWS or Azure.  Strong knowledge of software development methodologies,
+  including Agile practices.  Proven ability to lead and manage crossfunctional
+  teams.  Excellent communication and collaboration skills.
 location: 'Santa Ana, CA'
 team: Artificial Intelligence
 datePosted: '2024-12-28T11:15:49.110Z'

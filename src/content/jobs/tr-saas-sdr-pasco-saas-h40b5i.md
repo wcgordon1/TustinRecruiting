@@ -1,16 +1,13 @@
 ---
 position: SaaS SDR
 description: >-
-  ## About the Role
-
-
-  In the heart of Pasco, WA, a vibrant community known for its rich history and
-  dynamic economic landscape, lies a unique opportunity that promises to shape
-  your career and expand the frontiers of digital health technology. Welcome to
-  the role of a SaaS Sales Development Representative (SDR), where innovation
-  meets healthcare, and your passion for technology can contribute to
-  transforming lives. At our company, we are not just creating software; we are
-  crafting solutions that em...
+  About the Role In the heart of Pasco, WA, a vibrant community known for its
+  rich history and dynamic economic landscape, lies a unique opportunity that
+  promises to shape your career and expand the frontiers of digital health
+  technology. Welcome to the role of a SaaS Sales Development Representative
+  (SDR), where innovation meets healthcare, and your passion for technology can
+  contribute to transforming lives. At our company, we are not just creating
+  software; we are crafting solutions that em...
 location: 'Pasco, WA'
 team: Software
 schedule: Flexible Hours

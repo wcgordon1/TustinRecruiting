@@ -1,28 +1,17 @@
 ---
 position: DevOps Engineer
 description: >-
-  **Position Overview**
-
-
-  This is an exciting opportunity to join a dynamic MarTech company as a DevOps
-  Engineer in a fully remote capacity. Our company focuses on innovative
-  marketing platforms, analytics solutions, and automation tools. As part of our
-  specialized team, you'll contribute to building and enhancing our technology
-  solutions that empower businesses to engage with their audiences effectively.
-  While our headquarters are based in Orange, CA, this position is open to
-  candidates across the US who are eager to work in a 100% remote environment.
-
-
-  ## Key Responsibilities
-
-
-  - Design, implement, and manage scalable infrastructure using cloud platforms
-  like AWS, Azure, and GCP.
-
-  - Collaborate with cross-functional teams to streamline CI/CD pipelines and
-  DevOps practices.
-
-  - Monitor and optimi...
+  Position Overview This is an exciting opportunity to join a dynamic MarTech
+  company as a DevOps Engineer in a fully remote capacity. Our company focuses
+  on innovative marketing platforms, analytics solutions, and automation tools.
+  As part of our specialized team, you'll contribute to building and enhancing
+  our technology solutions that empower businesses to engage with their
+  audiences effectively. While our headquarters are based in Orange, CA, this
+  position is open to candidates across the US who are eager to work in a 100%
+  remote environment. Key Responsibilities  Design, implement, and manage
+  scalable infrastructure using cloud platforms like AWS, Azure, and GCP. 
+  Collaborate with crossfunctional teams to streamline CI/CD pipelines and
+  DevOps practices.  Monitor and optimi...
 location: 'Orange, CA'
 team: Software
 schedule: Standard Business Hours

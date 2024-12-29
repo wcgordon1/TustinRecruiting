@@ -1,20 +1,12 @@
 ---
 position: Full Stack Developer
 description: >-
-  Remote Full Stack Developer at a MarTech Innovator
-
-
-  Join an exciting journey with a MarTech-focused company where you can
-  contribute to cutting-edge marketing platforms and analytics tools—all from
-  the comfort of your home. This 100% remote position offers you the flexibility
-  to collaborate with talented professionals nationwide, leveraging innovative
-  solutions to drive marketing automation and analytics.
-
-
-  ## Position Overview
-
-
-  As a Full Stack De...
+  Remote Full Stack Developer at a MarTech Innovator Join an exciting journey
+  with a MarTechfocused company where you can contribute to cuttingedge
+  marketing platforms and analytics tools—all from the comfort of your home.
+  This 100% remote position offers you the flexibility to collaborate with
+  talented professionals nationwide, leveraging innovative solutions to drive
+  marketing automation and analytics. Position Overview As a Full Stack De...
 location: 'Tustin, CA'
 team: Software
 schedule: Standard Business Hours

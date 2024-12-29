@@ -1,17 +1,13 @@
 ---
 position: Mobile Architecture Lead
 description: >-
-  Our LA-based startup is seeking a Remote Mobile Architecture Lead to join our
-  rapidly growing team. As a well-funded company operating in the e-commerce
+  Our LAbased startup is seeking a Remote Mobile Architecture Lead to join our
+  rapidly growing team. As a wellfunded company operating in the ecommerce
   space, we are shaping the future of online shopping by connecting shoppers,
   retail partners, and digital marketplaces in innovative ways. This remote
   position is ideal for an experienced professional who is looking to leverage
-  their skills and grow their career in a dynamic startup environment. 
-
-
-  ## Position Overview
-
-  As the Remote Mobile Archite...
+  their skills and grow their career in a dynamic startup environment. Position
+  Overview As the Remote Mobile Archite...
 location: 'Philadelphia, PA'
 team: Mobile
 schedule: Full Time

@@ -6,13 +6,8 @@ description: >-
   Nestled within easy reach of San Francisco, San Mateo, and Redwood City,
   you'll find yourself at the center of the tech world, bridging the gap between
   sales and technical teams to bring complex ad serving solutions to life.
-
-
-  ## Qualifications
-
-
-  We're looking for someone who knows their stuff. You should have solid
-  programming skills, particularly in ...
+  Qualifications We're looking for someone who knows their stuff. You should
+  have solid programming skills, particularly in ...
 location: 'Burlingame, CA'
 team: Software
 datePosted: '2024-12-27T22:16:03.660Z'

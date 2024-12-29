@@ -1,7 +1,7 @@
 ---
 position: Business Development Manager
 description: >-
-  Our Client, a prominent third-party logistics company situated in the vibrant
+  Our Client, a prominent thirdparty logistics company situated in the vibrant
   city of Pleasanton, CA, is seeking a seasoned Business Development Manager.
   With neighboring cities like Dublin, Livermore, and San Ramon, the company is
   ideally located in the heart of the dynamic Bay Area. This role is pivotal in

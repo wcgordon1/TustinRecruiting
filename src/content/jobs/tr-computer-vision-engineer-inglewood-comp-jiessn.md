@@ -1,15 +1,12 @@
 ---
 position: Computer Vision Engineer
 description: >-
-  ## Position Overview
-
-
-  Join our innovative fintech company as a Computer Vision Engineer in a dynamic
-  role that offers the flexibility of a 100% remote work environment. Based in
-  the heart of Inglewood, CA, but operating across the US, we are at the
-  forefront of financial technology, reshaping how financial services and
-  digital banking operate. This position provides an incredible opportunity to
-  work across multiple project teams, fostering a coll...
+  Position Overview Join our innovative fintech company as a Computer Vision
+  Engineer in a dynamic role that offers the flexibility of a 100% remote work
+  environment. Based in the heart of Inglewood, CA, but operating across the US,
+  we are at the forefront of financial technology, reshaping how financial
+  services and digital banking operate. This position provides an incredible
+  opportunity to work across multiple project teams, fostering a coll...
 location: 'Inglewood, CA'
 team: Software
 schedule: Standard Business Hours

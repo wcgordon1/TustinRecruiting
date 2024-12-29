@@ -1,18 +1,12 @@
 ---
 position: Channel Partner Manager
 description: >-
-  This is an exciting on-site opportunity in Huntington Beach, CA with an
+  This is an exciting onsite opportunity in Huntington Beach, CA with an
   innovative company at the cutting edge of MarTech (Marketing Technology). With
   a focus on developing and managing strategic partnerships, this Channel
   Partner Manager position offers the chance to immerse yourself in a dynamic
   environment where marketing platforms, analytics, and automation tools
-  converge to create sophisticated solutions for businesses.
-
-
-  ## About the Role
-
-
-  P...
+  converge to create sophisticated solutions for businesses. About the Role P...
 location: 'Huntington Beach, CA'
 team: Software
 schedule: Standard Business Hours

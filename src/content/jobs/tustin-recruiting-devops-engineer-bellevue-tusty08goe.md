@@ -4,8 +4,8 @@ description: >-
   Hey there! We have an exciting opportunity for a DevOps Engineer right in the
   heart of Bellevue, WA. If you're near Seattle, Mercer Island, Kirkland, or
   Redmond, this role is right in your backyard. Our client, a major player in
-  the e-commerce industry, is looking for someone to help maintain and scale
-  their infrastructure, particularly during high-traffic periods. If you're the
+  the ecommerce industry, is looking for someone to help maintain and scale
+  their infrastructure, particularly during hightraffic periods. If you're the
   kind of person who loves working with Kubernetes, Docker, and Terraform, and
   you're no stranger to major cloud platfor...
 location: 'Bellevue, WA'

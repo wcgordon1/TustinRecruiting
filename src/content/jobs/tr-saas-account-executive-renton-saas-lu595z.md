@@ -1,13 +1,10 @@
 ---
 position: SaaS Account Executive
 description: >-
-  ## About the Role
-
-
-  In the heart of Renton, Washington, where the lush Pacific Northwest landscape
-  meets the innovative spirit of cutting-edge technology, lies an exciting
-  opportunity for a dynamic SaaS Account Executive. This role is more than just
-  a job; it's an invitation to be a part of a fintech...
+  About the Role In the heart of Renton, Washington, where the lush Pacific
+  Northwest landscape meets the innovative spirit of cuttingedge technology,
+  lies an exciting opportunity for a dynamic SaaS Account Executive. This role
+  is more than just a job; it's an invitation to be a part of a fintech...
 location: 'Renton, WA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

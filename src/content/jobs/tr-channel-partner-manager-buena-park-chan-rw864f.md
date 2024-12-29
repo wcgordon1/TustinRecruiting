@@ -1,15 +1,12 @@
 ---
 position: Channel Partner Manager
 description: >-
-  ## Position Overview
-
-
-  Join a thriving MarTech company in Buena Park, CA, as our Channel Partner
-  Manager. This on-site role offers you the chance to take the lead in a
-  dynamic, fast-paced environment that focuses on marketing platforms,
+  Position Overview Join a thriving MarTech company in Buena Park, CA, as our
+  Channel Partner Manager. This onsite role offers you the chance to take the
+  lead in a dynamic, fastpaced environment that focuses on marketing platforms,
   analytics, and automation tools. You’ll be responsible for managing a
-  dedicated team of 4-6 technicians and ensuring the seamless integration of
-  technological solutions within a 30-mile radius of Buena Park. If you...
+  dedicated team of 46 technicians and ensuring the seamless integration of
+  technological solutions within a 30mile radius of Buena Park. If you...
 location: 'Buena Park, CA'
 team: Software
 schedule: Standard Business Hours

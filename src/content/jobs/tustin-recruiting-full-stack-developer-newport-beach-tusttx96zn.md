@@ -6,12 +6,8 @@ description: >-
   an opportunity to work in an innovative environment, surrounded by the
   stunning cities of Huntington Beach, Costa Mesa, and Irvine. The right
   candidate will focus on building secure, scalable web applications for payment
-  processing and financial transactions. 
-
-
-  ## Qualifications
-
-  - Strong experience with React, Node.js, TypeScript, and PostgreSQL is r...
+  processing and financial transactions. Qualifications  Strong experience with
+  React, Node.js, TypeScript, and PostgreSQL is r...
 location: 'Newport Beach, CA'
 team: Finance
 datePosted: '2024-12-26T19:23:46.544Z'

@@ -1,7 +1,7 @@
 ---
 position: Senior iOS Engineer
 description: >-
-  We are a well-funded LA-based startup operating in the e-commerce space. Our
+  We are a wellfunded LAbased startup operating in the ecommerce space. Our
   platform is designed to bring convenience to online shoppers while providing
   new opportunities for our retail partners and digital marketplaces. We are
   currently on the hunt for a Remote Senior iOS Engineer to join our lean,

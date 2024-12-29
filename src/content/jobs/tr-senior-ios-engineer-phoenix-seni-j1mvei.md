@@ -1,17 +1,13 @@
 ---
 position: Senior iOS Engineer
 description: >-
-  We're a well-funded FinTech startup based out of LA, offering exciting
+  We're a wellfunded FinTech startup based out of LA, offering exciting
   opportunities for progression and growth. We're building innovative solutions
   for mobile banking users, digital payment users, and crypto enthusiasts. We're
-  currently seeking a Senior iOS Engineer to lead a pod of 3-4 mobile
-  developers. This role is entirely remote, offering work flexibility and the
-  chance to join a dynamic, fast-growing team.
-
-
-  ## Position Overview
-
-  As a Remote Senior iOS Engineer, you will be responsible for ...
+  currently seeking a Senior iOS Engineer to lead a pod of 34 mobile developers.
+  This role is entirely remote, offering work flexibility and the chance to join
+  a dynamic, fastgrowing team. Position Overview As a Remote Senior iOS
+  Engineer, you will be responsible for ...
 location: 'Phoenix, AZ'
 team: Mobile
 schedule: Full Time

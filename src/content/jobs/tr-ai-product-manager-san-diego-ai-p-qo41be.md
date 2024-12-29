@@ -2,19 +2,14 @@
 position: AI Product Manager
 description: >-
   Join our innovative Healthcare Tech company as a 100% Remote AI Product
-  Manager, where you'll lead the development of cutting-edge digital health
+  Manager, where you'll lead the development of cuttingedge digital health
   platforms and medical software solutions. Based in San Diego, CA, our
   organization is at the forefront of healthcare analytics, leveraging
   artificial intelligence to revolutionize patient care and streamline
-  healthcare operations.
-
-
-  ## Position Overview
-
-
-  As an AI Product Manager, you will play a pivotal role in driving the success
-  of our digital health solutions. With 5-8 years of experience, you'll work
-  remotely within a US-based team, engaging with ...
+  healthcare operations. Position Overview As an AI Product Manager, you will
+  play a pivotal role in driving the success of our digital health solutions.
+  With 58 years of experience, you'll work remotely within a USbased team,
+  engaging with ...
 location: 'San Diego, CA'
 team: Software
 schedule: Standard Business Hours

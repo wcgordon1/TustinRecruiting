@@ -1,22 +1,10 @@
 ---
 position: Business Development Representative
 description: >-
-  ## Overview
-
-  - Position: Business Development Representative
-
-  - Location: Dallas, TX
-
-  - Schedule: Second Shift (2:00 PM - 10:30 PM)
-
-  - Industry: Healthcare Tech (Digital Health Platforms, Medical Software,
-  Healthcare Analytics)
-
-  - Team Size: 3-5 person specialized team
-
-  - Travel: Up to 100 mile radius
-
-  - I...
+  Overview  Position: Business Development Representative  Location: Dallas, TX 
+  Schedule: Second Shift (2:00 PM  10:30 PM)  Industry: Healthcare Tech (Digital
+  Health Platforms, Medical Software, Healthcare Analytics)  Team Size: 35
+  person specialized team  Travel: Up to 100 mile radius  I...
 location: 'Dallas, TX'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'
@@ -78,8 +66,6 @@ trainingProgram:
 ---
 
 
-
-## Overview
 - Position: Business Development Representative
 - Location: Dallas, TX
 - Schedule: Second Shift (2:00 PM - 10:30 PM)

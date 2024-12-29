@@ -4,9 +4,9 @@ description: >-
   Join our dynamic and innovative team in the heart of Santa Ana, CA, as a
   Junior Sales Development Representative (SDR). In this role, you'll spearhead
   the early stages of the sales cycle by connecting with potential clients,
-  guiding them through the features of our cutting-edge marketing technologies,
+  guiding them through the features of our cuttingedge marketing technologies,
   and paving the way for successful business partnerships. You'll be a pivotal
-  part of a fast-paced MarTech environm...
+  part of a fastpaced MarTech environm...
 location: 'Santa Ana, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

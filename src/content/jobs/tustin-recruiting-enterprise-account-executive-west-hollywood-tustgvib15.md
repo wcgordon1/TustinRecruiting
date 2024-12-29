@@ -5,7 +5,7 @@ description: >-
   West Hollywood, CA! Imagine being just a stone's throw away from other vibrant
   cities like Beverly Hills, Los Angeles, and Hollywood. Our client, a
   trailblazer in the cybersecurity industry, is on the hunt for a dynamic
-  Enterprise Account Executive. The role involves selling top-notch enterprise
+  Enterprise Account Executive. The role involves selling topnotch enterprise
   security solutions to Fortune 500 companies. If you're fluent in complex
   security frameworks and compliance requirements, we wan...
 location: 'West Hollywood, CA'

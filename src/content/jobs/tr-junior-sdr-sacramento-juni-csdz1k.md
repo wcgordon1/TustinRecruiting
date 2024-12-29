@@ -1,15 +1,13 @@
 ---
 position: Junior SDR
 description: >-
-  ## Position Overview
-
-  Join our dynamic team as a **Junior Sales Development Representative (SDR)**
-  based in Sacramento, CA, where you will play a pivotal role in the growth of
-  our healthcare tech solutions. Our company specializes in digital health
-  platforms, medical software, and healthcare analytics, offering innovative
-  tools to transform the healthcare landscape. As a Junior SDR, you will
-  leverage your passion for technology and customer engagement to drive our
-  business forward, collaborating ...
+  Position Overview Join our dynamic team as a Junior Sales Development
+  Representative (SDR) based in Sacramento, CA, where you will play a pivotal
+  role in the growth of our healthcare tech solutions. Our company specializes
+  in digital health platforms, medical software, and healthcare analytics,
+  offering innovative tools to transform the healthcare landscape. As a Junior
+  SDR, you will leverage your passion for technology and customer engagement to
+  drive our business forward, collaborating ...
 location: 'Sacramento, CA'
 team: Software
 schedule: Flexible Hours

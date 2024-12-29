@@ -6,13 +6,8 @@ description: >-
   Valley, adjacent to notable areas such as Cupertino, Mountain View, and Santa
   Clara. The Channel Sales Manager will play a crucial role in building and
   managing reseller partnerships, recruiting, enabling, and growing a network of
-  value-added resellers and system integrators.
-
-
-  ## Qualifications
-
-
-  The ideal candidate will have experience developing...
+  valueadded resellers and system integrators. Qualifications The ideal
+  candidate will have experience developing...
 location: 'Sunnyvale, CA'
 team: Software
 datePosted: '2024-12-26T16:42:11.254Z'

@@ -6,12 +6,8 @@ description: >-
   for a Business Development Manager to join their dynamic team. If you're
   someone who enjoys the hustle and bustle of city life, you'll be glad to know
   that this role is just a stone's throw away from neighboring cities like
-  Bellevue, Seattle, and Tacoma.
-
-
-  ## Qualifications 
-
-  We're on the hunt for someone with a deep understanding of supply chai...
+  Bellevue, Seattle, and Tacoma. Qualifications We're on the hunt for someone
+  with a deep understanding of supply chai...
 location: 'Renton, WA'
 team: Logistics
 datePosted: '2024-12-27T11:33:44.327Z'

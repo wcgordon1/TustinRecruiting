@@ -1,12 +1,12 @@
 ---
 position: DevOps Engineer
 description: >-
-  Our Client, a leading e-commerce platform, is seeking a seasoned DevOps
+  Our Client, a leading ecommerce platform, is seeking a seasoned DevOps
   Engineer to join their team in Irvine, California. Ideally located in the
   heart of Orange County, Irvine is surrounded by a number of thriving cities
   including Tustin, Newport Beach, Costa Mesa, and Lake Forest. This is a
   crucial role that involves maintaining and scaling the company's
-  infrastructure during high-traffic periods. The ideal candidate will have
+  infrastructure during hightraffic periods. The ideal candidate will have
   strong experience with Kubernetes, Docker, Terraform, and major clo...
 location: 'Irvine, CA'
 team: Software

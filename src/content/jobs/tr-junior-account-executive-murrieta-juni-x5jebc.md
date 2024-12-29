@@ -8,14 +8,9 @@ description: >-
   collaborative 10+ person regional team, working with innovative technologies
   and contributing to the transformation of the healthcare industry. This
   position offers flexible hours and requires regular travel to nearby major
-  cities, providing you with an engaging and varied work schedule.
-
-
-  ## Key Responsibilities
-
-
-  - Develop and maintain strong relationships with healthcare clients,
-  understanding their needs and aligning our solutions to meet thos...
+  cities, providing you with an engaging and varied work schedule. Key
+  Responsibilities  Develop and maintain strong relationships with healthcare
+  clients, understanding their needs and aligning our solutions to meet thos...
 location: 'Murrieta, CA'
 team: Software
 schedule: Flexible Hours

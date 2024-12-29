@@ -1,21 +1,12 @@
 ---
 position: Inside Sales Associate
 description: >-
-  **Location:** Medford, OR  
-
-  **Schedule:** Second Shift (2:00 PM - 10:30 PM)  
-
-  **Industry:** Security Software (Cybersecurity Firms, Identity Management,
-  Cloud Security)  
-
-
-  ## Position Overview
-
-
-  Join our vibrant team in Medford as an Inside Sales Associate, where you will
-  be integral to our mission of providing cutting-edge security software
-  solutions. Our ideal candidate has 1-2 years of sales experience and is eager
-  to dive into the dynamic world of cybersecur...
+  Location: Medford, OR Schedule: Second Shift (2:00 PM  10:30 PM) Industry:
+  Security Software (Cybersecurity Firms, Identity Management, Cloud Security)
+  Position Overview Join our vibrant team in Medford as an Inside Sales
+  Associate, where you will be integral to our mission of providing cuttingedge
+  security software solutions. Our ideal candidate has 12 years of sales
+  experience and is eager to dive into the dynamic world of cybersecur...
 location: 'Medford, OR'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

@@ -1,16 +1,13 @@
 ---
 position: Junior SDR
 description: >-
-  ## Position Overview
-
-
-  Join our dynamic team as a Junior Sales Development Representative (SDR) in
-  Hillsboro, OR, where innovation meets healthcare technology. This entry-level
-  position offers you a chance to dive into the rapidly evolving field of
-  digital health platforms, medical software, and healthcare analytics. As part
-  of a specialized 3-5 person team, you will play a crucial role in driving
-  business growth, exploring new markets, and building impactful relationships.
-  With flexible hours an...
+  Position Overview Join our dynamic team as a Junior Sales Development
+  Representative (SDR) in Hillsboro, OR, where innovation meets healthcare
+  technology. This entrylevel position offers you a chance to dive into the
+  rapidly evolving field of digital health platforms, medical software, and
+  healthcare analytics. As part of a specialized 35 person team, you will play a
+  crucial role in driving business growth, exploring new markets, and building
+  impactful relationships. With flexible hours an...
 location: 'Hillsboro, OR'
 team: Software
 schedule: Flexible Hours

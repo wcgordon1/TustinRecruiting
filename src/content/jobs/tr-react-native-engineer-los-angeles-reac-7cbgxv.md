@@ -1,16 +1,13 @@
 ---
 position: React Native Engineer
 description: >-
-  We are a fast-growing FinTech startup based in Los Angeles, CA. Our mission is
+  We are a fastgrowing FinTech startup based in Los Angeles, CA. Our mission is
   to revolutionize the financial industry by providing innovative mobile banking
   solutions and digital payment services. We are currently looking for a
   seasoned React Native Engineer with a passion for creating outstanding user
   experiences. This is a remote position, where you will join a small, dynamic
-  team to develop cutting-edge applications for our growing base of mobile
-  banking users and crypto enthusiasts.
-
-
-  ## Pos...
+  team to develop cuttingedge applications for our growing base of mobile
+  banking users and crypto enthusiasts. Pos...
 location: 'Los Angeles, CA'
 team: Mobile
 schedule: Full Time

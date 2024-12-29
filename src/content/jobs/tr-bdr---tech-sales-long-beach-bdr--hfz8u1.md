@@ -1,22 +1,17 @@
 ---
 position: BDR - Tech Sales
-description: |-
-  ## Overview
-  - Position: Business Development Representative (BDR) - Tech Sales
-  - Location: Long Beach, CA
-  - Schedule: Second Shift (2:00 PM - 10:30 PM)
-  - Industry: Fintech - Financial Services, Payment Processors, Digital Banking
-  - Team: Join a dynamic, 10+ person regional team
-  - Travel: Travel within a 100-mile radius as needed
-  - Training: Comprehensive Sales Development training provided
-
-  ## Key Responsibilities
-  - Prospect and identify potential clients within the fintech industry
-  - Conduct outreach via phone, email, and social media platforms
-  - Qualify leads and set appointments for the sales team
-  - Collaborate with team members to strategize and execute sales plans
-  - Maintain and update CRM systems with lead information and sales activities
-  - Monitor and report on market and competitor...
+description: >-
+  Overview  Position: Business Development Representative (BDR)  Tech Sales 
+  Location: Long Beach, CA  Schedule: Second Shift (2:00 PM  10:30 PM) 
+  Industry: Fintech  Financial Services, Payment Processors, Digital Banking 
+  Team: Join a dynamic, 10+ person regional team  Travel: Travel within a
+  100mile radius as needed  Training: Comprehensive Sales Development training
+  provided Key Responsibilities  Prospect and identify potential clients within
+  the fintech industry  Conduct outreach via phone, email, and social media
+  platforms  Qualify leads and set appointments for the sales team  Collaborate
+  with team members to strategize and execute sales plans  Maintain and update
+  CRM systems with lead information and sales activities  Monitor and report on
+  market and competitor...
 location: 'Long Beach, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

@@ -1,16 +1,13 @@
 ---
 position: Inside Sales Rep
 description: >-
-  ## About the Role
-
-
-  In the vibrant and ever-evolving landscape of Fort Worth, Texas's technology
-  sector, nestled amidst the bustling MarTech industry, lies an exciting
-  opportunity for an Inside Sales Representative eager to make their mark. Here
-  in the heart of the Lone Star State, where innovation meets tradition, you
-  will dive headfirst into a second-shift role that thrives on the dynamic
-  energy of the late afternoon and evening hours, capturing opportunities that
-  lead to success. Starting your...
+  About the Role In the vibrant and everevolving landscape of Fort Worth,
+  Texas's technology sector, nestled amidst the bustling MarTech industry, lies
+  an exciting opportunity for an Inside Sales Representative eager to make their
+  mark. Here in the heart of the Lone Star State, where innovation meets
+  tradition, you will dive headfirst into a secondshift role that thrives on the
+  dynamic energy of the late afternoon and evening hours, capturing
+  opportunities that lead to success. Starting your...
 location: 'Fort Worth, TX'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

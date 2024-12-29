@@ -6,12 +6,8 @@ description: >-
   vibrant cities like San Jose, Los Gatos, and Saratoga, this B2B SaaS company
   is making waves in the enterprise software sales space. If you're experienced
   in selling complex technical solutions and love the thrill of closing deals
-  from $100K-$500K annually, then we're looking for you!
-
-
-  ## Qualifications
-
-  So, what's it take to land this gig? Well, y...
+  from $100K$500K annually, then we're looking for you! Qualifications So,
+  what's it take to land this gig? Well, y...
 location: 'Campbell, CA'
 team: Software
 datePosted: '2024-12-27T00:16:29.859Z'

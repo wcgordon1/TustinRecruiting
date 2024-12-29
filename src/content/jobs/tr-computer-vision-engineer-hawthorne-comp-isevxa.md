@@ -1,28 +1,17 @@
 ---
 position: Computer Vision Engineer
 description: >-
-  ## Position Overview
-
-
-  Join our cutting-edge Security Software company as a Computer Vision
-  Engineer—a role that offers the flexibility and comfort of working 100%
+  Position Overview Join our cuttingedge Security Software company as a Computer
+  Vision Engineer—a role that offers the flexibility and comfort of working 100%
   remotely from anywhere in the U.S. Based in the vibrant tech hub of Hawthorne,
   CA, our company specializes in cybersecurity, identity management, and cloud
   security solutions. We are looking for a motivated and experienced engineer to
   contribute to our innovative projects, ensuring the highest level of security
   software solutions. This remote position is perfect for someone who thrives in
   a virtual work environment, collaborating seamlessly with diverse teams across
-  multiple projects.
-
-
-  ## Key Responsibilities
-
-
-  As a Computer Vision Engineer, you will:
-
-
-  - Develop and enhance computer vision algorithms tailored for cybersecurity
-  app...
+  multiple projects. Key Responsibilities As a Computer Vision Engineer, you
+  will:  Develop and enhance computer vision algorithms tailored for
+  cybersecurity app...
 location: 'Hawthorne, CA'
 team: Software
 schedule: Standard Business Hours

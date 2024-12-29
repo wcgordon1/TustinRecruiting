@@ -4,15 +4,10 @@ description: >-
   Join an innovative B2B SaaS company in the heart of Irvine, CA. This vibrant
   city, nestled among Santa Ana, Costa Mesa, and Lake Forest, is the perfect
   place to grow your career as an Account Executive. This role focuses on
-  full-cycle enterprise software sales, dealing with sizes ranging from
-  $100K-$500K annually. If you're passionate about selling complex technical
+  fullcycle enterprise software sales, dealing with sizes ranging from
+  $100K$500K annually. If you're passionate about selling complex technical
   solutions to IT and business leaders, this could be the opportunity for you!
-
-
-  ## Qualifications
-
-
-  Our client is looking for an Accou...
+  Qualifications Our client is looking for an Accou...
 location: 'Irvine, CA'
 team: Software
 datePosted: '2024-12-27T18:57:10.127Z'

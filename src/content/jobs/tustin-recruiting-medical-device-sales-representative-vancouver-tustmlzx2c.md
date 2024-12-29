@@ -5,7 +5,7 @@ description: >-
   Vancouver, WA. Nestled between Portland, Beaverton, and Gresham, Vancouver is
   a vibrant healthcare hub. Our client is on the hunt for a Medical Device Sales
   Representative who can seamlessly weave through the complex world of
-  healthcare sales. This role is all about selling top-notch medical devices and
+  healthcare sales. This role is all about selling topnotch medical devices and
   equipment to hospitals, clinics, and healthcare providers. So, if you're
   someone who knows your way around medical term...
 location: 'Vancouver, WA'

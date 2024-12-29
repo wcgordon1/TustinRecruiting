@@ -1,31 +1,27 @@
 ---
 position: Documentation Specialist
 description: >-
-  We are hiring a meticulous and proactive **Documentation Specialist** to join
-  our client's team in **Irvine, CA**. This on-site role is vital for managing
-  the documentation process for commercial equipment lease and loan
-  transactions, ensuring smooth and compliant transaction flows from start to
-  finish. If you are organized, detail-oriented, and thrive in a collaborative
-  environment, this is the opportunity for you.  
-
-  ### Key Responsibilities - Assist in processing lease and loan transactions
-  from origination to funding.   - Prepare and file UCC Financing Statements
-  accurately and in a timely manner.   - Review UCC lien searches, resolve
-  conflicts, and obtain necessary agreements.   - Ensure proper execution,
-  organization, and maintenance of documents in compliance with company
-  policies.   - Address and resolve pre- and post-funding documentation
-  exceptions.   - Collect, track, verify, and reconcile vendor invoices and
-  proof of payments.   - Confirm wire instructions and manage proper
-  disbursements.   - Collaborate with internal teams (sales, accounting,
-  syndication) and external parties (vendors, customers) to manage equipment
-  titling and other documentation needs.   - Monitor and track insurance
-  renewals and ensure compliance with transaction requirements.  
-
-  ### Qualifications - Bachelor’s degree or equivalent experience in a related
-  field.   - Exceptional organizational and communication skills.   -
-  Familiarity with UCC filing and lien search processes is a plus.   -
-  Proficiency in CRM tools and Microsoft Office Suite.   - Strong
-  problem-solving and multitasking abilities. 
+  We are hiring a meticulous and proactive Documentation Specialist to join our
+  client's team in Irvine, CA. This onsite role is vital for managing the
+  documentation process for commercial equipment lease and loan transactions,
+  ensuring smooth and compliant transaction flows from start to finish. If you
+  are organized, detailoriented, and thrive in a collaborative environment, this
+  is the opportunity for you. Key Responsibilities  Assist in processing lease
+  and loan transactions from origination to funding.  Prepare and file UCC
+  Financing Statements accurately and in a timely manner.  Review UCC lien
+  searches, resolve conflicts, and obtain necessary agreements.  Ensure proper
+  execution, organization, and maintenance of documents in compliance with
+  company policies.  Address and resolve pre and postfunding documentation
+  exceptions.  Collect, track, verify, and reconcile vendor invoices and proof
+  of payments.  Confirm wire instructions and manage proper disbursements. 
+  Collaborate with internal teams (sales, accounting, syndication) and external
+  parties (vendors, customers) to manage equipment titling and other
+  documentation needs.  Monitor and track insurance renewals and ensure
+  compliance with transaction requirements. Qualifications  Bachelor’s degree or
+  equivalent experience in a related field.  Exceptional organizational and
+  communication skills.  Familiarity with UCC filing and lien search processes
+  is a plus.  Proficiency in CRM tools and Microsoft Office Suite.  Strong
+  problemsolving and multitasking abilities.
 location: 'Irvine, CA'
 team: Equipment Finance
 datePosted: '2024-12-28T17:00:28.398Z'

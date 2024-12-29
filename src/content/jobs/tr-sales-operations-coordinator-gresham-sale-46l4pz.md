@@ -7,18 +7,10 @@ description: >-
   platforms, medical software, and healthcare analytics to new heights. As a
   Sales Operations Coordinator, you'll navigate a hybrid work environment,
   engaging with multiple project teams to optimize sales processes and support
-  strategic initiatives on the second shift (2:00 PM - 10:30 PM).
-
-
-  ## Key Responsibilities
-
-  - Collaborate with cross-functional teams to streamline and enhance sales
-  operations.
-
-  - Utilize Salesforce and HubSpot to manage and analyze sales data, providing
-  actionable insights.
-
-  - Coordinate sales enable...
+  strategic initiatives on the second shift (2:00 PM  10:30 PM). Key
+  Responsibilities  Collaborate with crossfunctional teams to streamline and
+  enhance sales operations.  Utilize Salesforce and HubSpot to manage and
+  analyze sales data, providing actionable insights.  Coordinate sales enable...
 location: 'Gresham, OR'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

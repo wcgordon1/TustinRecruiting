@@ -1,7 +1,7 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  Join a dynamic and rapidly-growing security software firm based in Irvine, CA,
+  Join a dynamic and rapidlygrowing security software firm based in Irvine, CA,
   as a Sales Operations Coordinator. Our team is focused on revolutionizing the
   cybersecurity landscape through innovative identity management and cloud
   security solutio...

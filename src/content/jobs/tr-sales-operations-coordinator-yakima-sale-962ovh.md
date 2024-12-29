@@ -1,41 +1,17 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  ## Overview
-
-  - Position: Sales Operations Coordinator
-
-  - Location: Yakima, WA
-
-  - Industry: MarTech (Marketing Platforms, Analytics Companies, Automation
-  Tools)
-
-  - Team: Part of a 10+ person regional team
-
-  - Schedule: Flexible hours
-
-  - Travel: Up to a 100-mile radius
-
-  - Growth: Emphasis on professional development
-
-
-  ## Key Responsibilities
-
-  - Support sales team with operational tasks to enhance efficiency and
-  productivity.
-
-  - Manage and maintain CRM data accuracy using Salesforce.
-
-  - Utilize Outreach.io, HubSpot, and LinkedIn Sales Navigator for strategic
-  sales operations.
-
-  - Coordinate with team members to analyze sales data and generate actionable
-  insights.
-
-  - Assist in the development and execution of sales strategies tailored for
-  Yakima market dynamics.
-
-  - Support the integration and optimization of ...
+  Overview  Position: Sales Operations Coordinator  Location: Yakima, WA 
+  Industry: MarTech (Marketing Platforms, Analytics Companies, Automation
+  Tools)  Team: Part of a 10+ person regional team  Schedule: Flexible hours 
+  Travel: Up to a 100mile radius  Growth: Emphasis on professional development
+  Key Responsibilities  Support sales team with operational tasks to enhance
+  efficiency and productivity.  Manage and maintain CRM data accuracy using
+  Salesforce.  Utilize Outreach.io, HubSpot, and LinkedIn Sales Navigator for
+  strategic sales operations.  Coordinate with team members to analyze sales
+  data and generate actionable insights.  Assist in the development and
+  execution of sales strategies tailored for Yakima market dynamics.  Support
+  the integration and optimization of ...
 location: 'Yakima, WA'
 team: Software
 schedule: Flexible Hours

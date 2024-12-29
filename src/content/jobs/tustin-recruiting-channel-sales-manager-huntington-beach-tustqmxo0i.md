@@ -5,13 +5,8 @@ description: >-
   nestled between the bustling cities of Long Beach, Anaheim, and Irvine, is
   seeking a dynamic and experienced Channel Sales Manager. This role is focused
   on building and managing reseller partnerships, and is perfect for someone who
-  thrives in an innovative, fast-paced environment. 
-
-
-  ## Qualifications 
-
-
-  To be successful in this role, you will need to have substantial experience in
+  thrives in an innovative, fastpaced environment. Qualifications To be
+  successful in this role, you will need to have substantial experience in
   recruiting, enabling, and growing a network ...
 location: 'Huntington Beach, CA'
 team: Software

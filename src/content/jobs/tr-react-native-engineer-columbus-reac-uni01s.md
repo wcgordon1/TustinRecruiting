@@ -1,13 +1,13 @@
 ---
 position: React Native Engineer
 description: >-
-  Our well-funded Los Angeles-based startup is currently seeking an experienced
+  Our wellfunded Los Angelesbased startup is currently seeking an experienced
   and proactive React Native Engineer to join our remote team, based in
   Columbus, OH. In this role, you will be an integral part of our
-  cross-functional product teams working on innovative consumer tech products
-  that cater to social media users, digital content creators, and mobile-first
+  crossfunctional product teams working on innovative consumer tech products
+  that cater to social media users, digital content creators, and mobilefirst
   consumers. We're looking for someone with a strong background in mobile
-  development, boasting 3-6 years of experience in the industry, ...
+  development, boasting 36 years of experience in the industry, ...
 location: 'Columbus, OH'
 team: Mobile
 schedule: Full Time

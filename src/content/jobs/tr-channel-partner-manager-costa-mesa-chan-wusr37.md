@@ -1,15 +1,12 @@
 ---
 position: Channel Partner Manager
 description: >-
-  ## Overview
-
-
-  Join a dynamic SaaS company in Costa Mesa, CA, as a Channel Partner Manager in
-  an exciting on-site position. This role is designed for individuals who thrive
-  in the fast-paced world of enterprise software, cloud platforms, and B2B tech
-  companies. As part of a specialized 3-5 person team, you'll work standard
-  business hours and engage in travel within a 30-mile radius, focusing on
-  building and nurturing relationships with strategic ch...
+  Overview Join a dynamic SaaS company in Costa Mesa, CA, as a Channel Partner
+  Manager in an exciting onsite position. This role is designed for individuals
+  who thrive in the fastpaced world of enterprise software, cloud platforms, and
+  B2B tech companies. As part of a specialized 35 person team, you'll work
+  standard business hours and engage in travel within a 30mile radius, focusing
+  on building and nurturing relationships with strategic ch...
 location: 'Costa Mesa, CA'
 team: Software
 schedule: Standard Business Hours

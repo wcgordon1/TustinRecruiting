@@ -1,22 +1,14 @@
 ---
 position: Sales Operations Manager
 description: >-
-  ## Overview
-
-
-  Join our innovative MarTech company as an on-site Sales Operations Manager
-  based in Westminster, CA. In this pivotal role, you will leverage cutting-edge
-  marketing platforms, analytics, and automation tools to drive sales efficiency
-  and growth. Collaborate across multiple project teams and engage with clients
-  in nearby major cities to foster strategic partnerships and enhance sales
-  operations. This position is tailored for individuals with a strategic mindset
-  and a passion for technology-driven sales environments.
-
-
-  ## Key Responsibilities
-
-
-  - Lead and optimize sales operations to e...
+  Overview Join our innovative MarTech company as an onsite Sales Operations
+  Manager based in Westminster, CA. In this pivotal role, you will leverage
+  cuttingedge marketing platforms, analytics, and automation tools to drive
+  sales efficiency and growth. Collaborate across multiple project teams and
+  engage with clients in nearby major cities to foster strategic partnerships
+  and enhance sales operations. This position is tailored for individuals with a
+  strategic mindset and a passion for technologydriven sales environments. Key
+  Responsibilities  Lead and optimize sales operations to e...
 location: 'Westminster, CA'
 team: Software
 schedule: Standard Business Hours

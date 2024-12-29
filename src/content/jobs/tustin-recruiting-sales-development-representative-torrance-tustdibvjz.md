@@ -6,16 +6,8 @@ description: >-
   fantastic opportunity for someone looking to grow their sales career in the
   tech industry. The role primarily focuses on outbound prospecting to generate
   qualified leads for Account Executives. Neighboring cities include Redondo
-  Beach, Long Beach, Los Angeles, and Hawthorne.
-
-
-  ## Qualifications
-
-
-  The ideal candidate should have:
-
-
-  * Proficiency wi...
+  Beach, Long Beach, Los Angeles, and Hawthorne. Qualifications The ideal
+  candidate should have: Proficiency wi...
 location: 'Torrance, CA'
 team: Software
 datePosted: '2024-12-27T02:07:44.590Z'

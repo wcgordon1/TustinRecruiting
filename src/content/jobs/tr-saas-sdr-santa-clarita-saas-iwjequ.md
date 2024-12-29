@@ -1,16 +1,10 @@
 ---
 position: SaaS SDR
 description: >-
-  ## Overview
-
-  Join a dynamic team in the heart of healthcare tech as a SaaS Sales
+  Overview Join a dynamic team in the heart of healthcare tech as a SaaS Sales
   Development Representative (SDR) in Santa Clarita, CA. Drive growth in digital
-  health platforms, medical software, and healthcare analytics.
-
-
-  ## Key Responsibilities
-
-  - Lead and mentor a team of 4-6 technicians to achieve...
+  health platforms, medical software, and healthcare analytics. Key
+  Responsibilities  Lead and mentor a team of 46 technicians to achieve...
 location: 'Santa Clarita, CA'
 team: Software
 schedule: Standard Business Hours

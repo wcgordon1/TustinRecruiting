@@ -7,13 +7,7 @@ description: >-
   the vibrant business environment of Southern Oregon. Medford, located near the
   picturesque cities of Ashland, Grants Pass, and Central Point, is regarded as
   the heart of the Rogue Valley and offers a thriving community for business
-  professionals.
-
-
-  ## Qualifications
-
-
-  - ...
+  professionals. Qualifications  ...
 location: 'Medford, OR'
 team: Software
 datePosted: '2024-12-26T22:54:11.106Z'

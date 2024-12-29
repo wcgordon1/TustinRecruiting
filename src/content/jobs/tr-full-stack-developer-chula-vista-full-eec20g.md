@@ -1,20 +1,14 @@
 ---
 position: Full Stack Developer
 description: >-
-  ## About the Role
-
-
-  In the vibrant tech landscape of Chula Vista, CA, a remarkable opportunity
-  awaits for a Full Stack Developer passionate about shaping the future of SaaS
-  (Software as a Service). Imagine being part of a dynamic enterprise software
-  company that operates at the cutting edge of technology, yet offers the
-  flexibility of a fully remote position. Nestled virtually in a technological
-  haven, this role provides the unique blend of innovation and flexibility,
-  allowing you to work from anywhere in the U.S., yet feel tethered to a vision
-  shared by a closely-knit team. 
-
-
-  Being remote does...
+  About the Role In the vibrant tech landscape of Chula Vista, CA, a remarkable
+  opportunity awaits for a Full Stack Developer passionate about shaping the
+  future of SaaS (Software as a Service). Imagine being part of a dynamic
+  enterprise software company that operates at the cutting edge of technology,
+  yet offers the flexibility of a fully remote position. Nestled virtually in a
+  technological haven, this role provides the unique blend of innovation and
+  flexibility, allowing you to work from anywhere in the U.S., yet feel tethered
+  to a vision shared by a closelyknit team. Being remote does...
 location: 'Chula Vista, CA'
 team: Software
 schedule: Standard Business Hours

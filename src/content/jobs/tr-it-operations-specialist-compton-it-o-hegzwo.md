@@ -1,17 +1,14 @@
 ---
 position: IT Operations Specialist
 description: >-
-  ## Position Overview
-
-
-  This is an exciting on-site opportunity for an IT Operations Specialist with a
-  focus on SaaS solutions in Compton, CA. As part of a dynamic enterprise
-  software company, you will play a crucial role in ensuring the smooth
-  operation of cloud platforms and B2B tech services. Embedded within a regional
-  team of over 10 talented professionals, you will contribute to our mission
-  while enjoying a collaborative and tech-forward work environment. This role
-  demands a balance of technical prowess and team coordination, with occasional
-  travel within a 30-mile radius from your home bas...
+  Position Overview This is an exciting onsite opportunity for an IT Operations
+  Specialist with a focus on SaaS solutions in Compton, CA. As part of a dynamic
+  enterprise software company, you will play a crucial role in ensuring the
+  smooth operation of cloud platforms and B2B tech services. Embedded within a
+  regional team of over 10 talented professionals, you will contribute to our
+  mission while enjoying a collaborative and techforward work environment. This
+  role demands a balance of technical prowess and team coordination, with
+  occasional travel within a 30mile radius from your home bas...
 location: 'Compton, CA'
 team: Software
 schedule: Standard Business Hours

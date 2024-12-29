@@ -7,16 +7,11 @@ description: >-
   cloud infrastructure. With flexible hours and a collaborative work
   environment, this position offers the perfect balance between career
   advancement and personal life. Embrace the opportunity to work across multiple
-  project teams and make a significant impact in the tech-heavy region of Santa
-  Rosa, known for its thriving innovation hub.
-
-
-  ## Key Responsibilities
-
-  - Assist senior sales executives in developing and implementing sales
-  strategies to meet company goals.
-
-  - Engage with potential clients through direct communication...
+  project teams and make a significant impact in the techheavy region of Santa
+  Rosa, known for its thriving innovation hub. Key Responsibilities  Assist
+  senior sales executives in developing and implementing sales strategies to
+  meet company goals.  Engage with potential clients through direct
+  communication...
 location: 'Santa Rosa, CA'
 team: Software
 schedule: Flexible Hours

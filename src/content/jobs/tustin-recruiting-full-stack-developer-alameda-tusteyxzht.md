@@ -6,16 +6,8 @@ description: >-
   dynamic team in the heart of the Bay area, with close proximity to neighboring
   cities like Oakland, Berkeley, and San Francisco. The successful candidate
   will be responsible for building secure, scalable web applications for payment
-  processing and financial transactions.
-
-
-  ## Qualifications
-
-
-  The ideal candidate should have:
-
-
-  - Strong experien...
+  processing and financial transactions. Qualifications The ideal candidate
+  should have:  Strong experien...
 location: 'Alameda, CA'
 team: Finance
 datePosted: '2024-12-26T17:07:05.908Z'

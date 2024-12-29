@@ -1,15 +1,13 @@
 ---
 position: Junior Account Executive
 description: >-
-  ## Position Overview
-
-  Join our dynamic team in Modesto, CA, as a Junior Account Executive where you
-  will play a pivotal role in driving our sales efforts within the SaaS
-  industry. With flexible working hours, you'll have the opportunity to engage
-  with enterprise software companies, cloud platforms, and B2B tech firms.
-  You'll work across multiple project teams, delivering tailored solutions that
-  meet the diverse needs of our clients. Regular travel to nearby major cities
-  is required, ensuring you'...
+  Position Overview Join our dynamic team in Modesto, CA, as a Junior Account
+  Executive where you will play a pivotal role in driving our sales efforts
+  within the SaaS industry. With flexible working hours, you'll have the
+  opportunity to engage with enterprise software companies, cloud platforms, and
+  B2B tech firms. You'll work across multiple project teams, delivering tailored
+  solutions that meet the diverse needs of our clients. Regular travel to nearby
+  major cities is required, ensuring you'...
 location: 'Modesto, CA'
 team: Software
 schedule: Flexible Hours

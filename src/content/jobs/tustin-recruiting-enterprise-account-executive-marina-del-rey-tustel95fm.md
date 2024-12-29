@@ -5,12 +5,8 @@ description: >-
   experienced Enterprise Account Executive to join their team in Marina del Rey,
   CA. Located near the vibrant cities of Santa Monica, Venice, Culver City, and
   Playa Vista, this role offers an excellent opportunity for an individual to
-  participate in a dynamic and fast-paced environment with a focus on selling
-  complex enterprise security solutions to Fortune 500 companies.
-
-
-  ## Qualifications
-
+  participate in a dynamic and fastpaced environment with a focus on selling
+  complex enterprise security solutions to Fortune 500 companies. Qualifications
   The ideal candidate for this po...
 location: 'Marina del Rey, CA'
 team: Software

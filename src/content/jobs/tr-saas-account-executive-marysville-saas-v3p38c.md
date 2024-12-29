@@ -1,11 +1,9 @@
 ---
 position: SaaS Account Executive
 description: >-
-  ## Overview
-
-  Join our dynamic MarTech company in Marysville, WA, as a SaaS Account
+  Overview Join our dynamic MarTech company in Marysville, WA, as a SaaS Account
   Executive. Play a crucial role in driving our sales and revenue within the
-  local market by leveraging cutting-edge marketing platforms and analytics
+  local market by leveraging cuttingedge marketing platforms and analytics
   tools. Work with a talented team of 10+ professionals, contributing t...
 location: 'Marysville, WA'
 team: Software

@@ -4,7 +4,7 @@ description: >-
   In the heart of sunny Newport Beach, California lies an innovative MarTech
   company that’s redefining how businesses connect with their audiences. Yet,
   there's no need for you to pack your bags or endure the hustle of daily
-  commutes. This dynamic and forward-thinking company is offering a 100% remote
+  commutes. This dynamic and forwardthinking company is offering a 100% remote
   position for an experienced DevOps Engineer. If you're passionate about
   shaping the future of marketing technology and thrive in a virtual team
   envir...

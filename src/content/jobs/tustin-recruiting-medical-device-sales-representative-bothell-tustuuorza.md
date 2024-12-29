@@ -2,7 +2,7 @@
 position: Medical Device Sales Representative
 description: >-
   Our Client, a leader in the Medical Device industry, is seeking a dedicated
-  and results-driven Medical Device Sales Representative. The role is based in
+  and resultsdriven Medical Device Sales Representative. The role is based in
   Bothell, WA, a vibrant city nestled in the heart of the Pacific Northwest and
   surrounded by neighboring cities such as Kirkland, Woodinville, and Lynnwood.
   The successful candidate will have the primary responsibility of selling

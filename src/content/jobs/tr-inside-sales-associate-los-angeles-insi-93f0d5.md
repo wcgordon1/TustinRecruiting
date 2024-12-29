@@ -1,22 +1,12 @@
 ---
 position: Inside Sales Associate
 description: >-
-  **Location:** Los Angeles, CA  
-
-  **Schedule:** First Shift (6:00 AM - 2:30 PM)  
-
-  **Team Structure:** Join our specialized 3-5 person team  
-
-  **Travel:** Regular travel to nearby major cities required
-
-
-  ## Position Overview
-
-
-  Join a dynamic and innovative fintech company that's reshaping the future of
-  financial services, payment processing, and digital banking. As an Inside
-  Sales Associate, you'll be at the forefront of industry advancements in the
-  diverse...
+  Location: Los Angeles, CA Schedule: First Shift (6:00 AM  2:30 PM) Team
+  Structure: Join our specialized 35 person team Travel: Regular travel to
+  nearby major cities required Position Overview Join a dynamic and innovative
+  fintech company that's reshaping the future of financial services, payment
+  processing, and digital banking. As an Inside Sales Associate, you'll be at
+  the forefront of industry advancements in the diverse...
 location: 'Los Angeles, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

@@ -6,13 +6,8 @@ description: >-
   enjoy the vibrant lifestyle of Central Oregon, with neighboring cities like
   Redmond, Prineville, and Sisters close by. The Channel Sales Manager will
   focus on building and managing reseller partnerships, recruiting, enabling,
-  and growing a network of value-added resellers and system integrators.
-
-
-  ## Qualifications
-
-
-  To be successful in this r...
+  and growing a network of valueadded resellers and system integrators.
+  Qualifications To be successful in this r...
 location: 'Bend, OR'
 team: Software
 datePosted: '2024-12-26T23:56:42.487Z'

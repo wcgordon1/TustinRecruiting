@@ -4,7 +4,7 @@ description: >-
   Our client, a dynamic B2B SaaS company located in the heart of Walnut Creek,
   CA, just a stone's throw away from Concord, Lafayette, and Pleasant Hill, is
   on the hunt for an enthusiastic and driven Sales Development Representative.
-  If you are a go-getter, passionate about tech, and have a knack for connecting
+  If you are a gogetter, passionate about tech, and have a knack for connecting
   with potential customers, this role is your calling. With an emphasis on
   outbound prospecting, this role is pivotal in generating qualified leads for
   Account Executives. Get ready to acceler...

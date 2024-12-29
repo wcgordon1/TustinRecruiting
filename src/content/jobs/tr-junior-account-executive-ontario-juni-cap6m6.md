@@ -2,7 +2,7 @@
 position: Junior Account Executive
 description: >-
   Join our dynamic team as a Junior Account Executive in Ontario, CA, where you
-  will be immersed in the fast-paced world of SaaS, working with enterprise
+  will be immersed in the fastpaced world of SaaS, working with enterprise
   software companies on cloud platforms and engaging with B2B tech companies.
   This role ...
 location: 'Ontario, CA'

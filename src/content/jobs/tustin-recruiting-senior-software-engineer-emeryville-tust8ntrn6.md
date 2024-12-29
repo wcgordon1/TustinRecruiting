@@ -5,7 +5,7 @@ description: >-
   in the heart of Emeryville, CA! If you're from around Oakland, Berkeley, or
   even San Francisco and you're passionate about healthcare and technology, then
   we've got a golden ticket that might just be your dream job. Our client, a
-  cutting-edge healthcare technology company, is looking for a Senior Software
+  cuttingedge healthcare technology company, is looking for a Senior Software
   Engineer to join their team. Their main focus? Building scalable backend
   systems for electronic health records and ...
 location: 'Emeryville, CA'

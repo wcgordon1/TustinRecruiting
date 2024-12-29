@@ -1,17 +1,14 @@
 ---
 position: Machine Learning Engineer
 description: >-
-  ## Position Overview
-
-
-  Join a dynamic and forward-thinking security software company as a Remote
-  Machine Learning Engineer. Our company is at the forefront of cybersecurity,
-  specializing in identity management and cloud security solutions. We are
-  committed to innovation and are seeking talented individuals who are
-  passionate about leveraging technology to solve complex security challenges.
-  This 100% remote position is open to candidates based in the U.S., allowing
-  you to work from the comfort of your home while contributing to cutting-edge
-  projects and collaborating with a diverse team of profe...
+  Position Overview Join a dynamic and forwardthinking security software company
+  as a Remote Machine Learning Engineer. Our company is at the forefront of
+  cybersecurity, specializing in identity management and cloud security
+  solutions. We are committed to innovation and are seeking talented individuals
+  who are passionate about leveraging technology to solve complex security
+  challenges. This 100% remote position is open to candidates based in the U.S.,
+  allowing you to work from the comfort of your home while contributing to
+  cuttingedge projects and collaborating with a diverse team of profe...
 location: 'Palmdale, CA'
 team: Software
 schedule: Standard Business Hours

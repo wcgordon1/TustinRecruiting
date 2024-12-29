@@ -1,18 +1,13 @@
 ---
 position: Mobile DevOps Engineer
 description: >-
-  We are an LA-based startup revolutionizing the consumer tech industry. We're
+  We are an LAbased startup revolutionizing the consumer tech industry. We're
   shaping the digital landscape by developing innovative tools for social media
-  users, digital content creators, and mobile-first consumers. We're looking for
+  users, digital content creators, and mobilefirst consumers. We're looking for
   a Remote Mobile DevOps Engineer to guide our mobile developers and drive our
-  product development.
-
-
-  ## Position Overview
-
-
-  As a Remote Mobile DevOps Engineer, you will be leading a pod of 3-4 mobile
-  developers dedicated to creating world-class applications for our pla...
+  product development. Position Overview As a Remote Mobile DevOps Engineer, you
+  will be leading a pod of 34 mobile developers dedicated to creating worldclass
+  applications for our pla...
 location: 'Jacksonville, FL'
 team: Mobile
 schedule: Full Time

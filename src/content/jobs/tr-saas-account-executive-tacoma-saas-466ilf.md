@@ -1,13 +1,10 @@
 ---
 position: SaaS Account Executive
 description: >-
-  ## About the Role
-
-
-  In the vibrant city of Tacoma, nestled between the majestic Mount Rainier and
-  the bustling waterways of the Puget Sound, a compelling opportunity awaits for
-  an ambitious SaaS Account Executive. Imagine being part of a cutting-edge
-  Fintech company that’s not just revolutionizing fi...
+  About the Role In the vibrant city of Tacoma, nestled between the majestic
+  Mount Rainier and the bustling waterways of the Puget Sound, a compelling
+  opportunity awaits for an ambitious SaaS Account Executive. Imagine being part
+  of a cuttingedge Fintech company that’s not just revolutionizing fi...
 location: 'Tacoma, WA'
 team: Software
 schedule: Standard Business Hours

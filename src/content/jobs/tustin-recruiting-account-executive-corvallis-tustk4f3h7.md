@@ -6,13 +6,8 @@ description: >-
   This is an opportunity to live and work in a vibrant community surrounded by
   other bustling cities such as Albany, Salem, and Eugene. The Account Executive
   role is pivotal to the company, focusing on the sales of transportation,
-  warehousing, and supply chain solutions to mid-market and enterprise
-  companies. 
-
-
-  ## Qualifications
-
-  * In-depth understand...
+  warehousing, and supply chain solutions to midmarket and enterprise companies.
+  Qualifications Indepth understand...
 location: 'Corvallis, OR'
 team: Logistics
 datePosted: '2024-12-28T15:35:37.164Z'

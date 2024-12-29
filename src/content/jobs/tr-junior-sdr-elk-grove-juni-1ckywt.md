@@ -3,7 +3,7 @@ position: Junior SDR
 description: >-
   Join our dynamic team as a Junior Sales Development Representative (SDR) in
   Elk Grove, CA, where you'll play a vital role in the innovative world of
-  MarTech. This entry-level position offers a unique opportunity to dive into
+  MarTech. This entrylevel position offers a unique opportunity to dive into
   marketing platforms, analytics, and automation tools....
 location: 'Elk Grove, CA'
 team: Software

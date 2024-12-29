@@ -6,12 +6,8 @@ description: >-
   for an experienced professional passionate about building and managing
   reseller partnerships. Based in Brisbane, this position comes with the
   advantage of working in a vibrant city conveniently located near San
-  Francisco, Daly City, South San Francisco and Sunset District.
-
-
-  ## Qualifications
-
-  - Proven track record of recruiting, enabling, and growing...
+  Francisco, Daly City, South San Francisco and Sunset District. Qualifications 
+  Proven track record of recruiting, enabling, and growing...
 location: 'Brisbane, CA'
 team: Software
 datePosted: '2024-12-27T17:16:48.027Z'

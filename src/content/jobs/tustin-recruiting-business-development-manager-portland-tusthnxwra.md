@@ -7,13 +7,7 @@ description: >-
   including neighboring cities such as Beaverton, Gresham, and Hillsboro. The
   successful candidate will have a proven track record in developing strategic
   partnerships, identifying new market opportunities, and managing large
-  logistics accounts.
-
-
-  ## Qualifications
-
-
-  - Dee...
+  logistics accounts. Qualifications  Dee...
 location: 'Portland, OR'
 team: Logistics
 datePosted: '2024-12-27T17:14:38.806Z'

@@ -6,11 +6,8 @@ description: >-
   partnerships. Located in the vibrant heart of the Pacific Northwest, Seattle
   is surrounded by bustling neighboring cities such as Bellevue, Tacoma,
   Olympia, and Everett. This role offers an unparalleled chance to work in a
-  dynamic environment, recruiting, enabling, and growing a network of
-  value-added resellers and system integrators. 
-
-
-  ## Qua...
+  dynamic environment, recruiting, enabling, and growing a network of valueadded
+  resellers and system integrators. Qua...
 location: 'Seattle, WA'
 team: Software
 datePosted: '2024-12-28T11:48:04.710Z'

@@ -1,21 +1,16 @@
 ---
 position: BDR - Tech Sales
 description: >-
-  Join a dynamic and fast-growing MarTech company as a Business Development
+  Join a dynamic and fastgrowing MarTech company as a Business Development
   Representative in Santa Clarita, CA. Our focus is on innovative marketing
   platforms, analytics, and automation tools that empower businesses to reach
   new heights. As a BDR, you'll be on the front lines, driving our sales efforts
   and expanding our client base. This role offers a unique opportunity for
-  recent graduates or early-career professionals to dive into the tech sales
-  field, providing a foundation for a thriving career in the tech industry.
-
-
-  ## Key Responsibilities
-
-  - Identify and qualify new sales opportunities through various channels
-  including cold outreach, networking, and industry events.
-
-  - Collaborate with the regional sales tea...
+  recent graduates or earlycareer professionals to dive into the tech sales
+  field, providing a foundation for a thriving career in the tech industry. Key
+  Responsibilities  Identify and qualify new sales opportunities through various
+  channels including cold outreach, networking, and industry events. 
+  Collaborate with the regional sales tea...
 location: 'Santa Clarita, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

@@ -1,13 +1,13 @@
 ---
 position: Lead iOS Developer
 description: >-
-  Our company is a fast-growing, well-funded Los Angeles-based startup that
+  Our company is a fastgrowing, wellfunded Los Angelesbased startup that
   operates in the realm of consumer tech, particularly catering to social media
-  users, digital content creators, and mobile-first consumers. We are seeking a
-  highly-experienced and motivated Remote Lead iOS Developer to join our lean
-  and dynamic mobile team. In this role, you will play a critical part in
-  shaping the future of our mobile applications, while working from the comfort
-  of your home. We offer an environment that f...
+  users, digital content creators, and mobilefirst consumers. We are seeking a
+  highlyexperienced and motivated Remote Lead iOS Developer to join our lean and
+  dynamic mobile team. In this role, you will play a critical part in shaping
+  the future of our mobile applications, while working from the comfort of your
+  home. We offer an environment that f...
 location: 'Houston, TX'
 team: Mobile
 schedule: Full Time

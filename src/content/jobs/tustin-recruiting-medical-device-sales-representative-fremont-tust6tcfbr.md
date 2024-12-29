@@ -5,7 +5,7 @@ description: >-
   like San Jose, Oakland, and Palo Alto, our client is offering an exciting
   opportunity for a dynamic Medical Device Sales Representative. This role
   offers a chance to make a significant impact in the healthcare industry by
-  selling top-notch medical devices and equipment to hospitals, clinics, and
+  selling topnotch medical devices and equipment to hospitals, clinics, and
   healthcare providers. If you have a knack for navigating complex healthcare
   sales cycles and a deep understanding of hospital ...
 location: 'Fremont, CA'

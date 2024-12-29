@@ -1,12 +1,11 @@
 ---
 position: SaaS SDR
 description: >-
-  ## Overview
-
-  Join a dynamic SaaS sales team in Carlsbad, CA, as a Sales Development
-  Representative (SDR). Dive into a vibrant tech hub known for its innovation
-  and collaborative spirit. Leverage flexible hours to enhance work-life balance
-  while gaining valuable experience in B2B technology sales. Thi...
+  Overview Join a dynamic SaaS sales team in Carlsbad, CA, as a Sales
+  Development Representative (SDR). Dive into a vibrant tech hub known for its
+  innovation and collaborative spirit. Leverage flexible hours to enhance
+  worklife balance while gaining valuable experience in B2B technology sales.
+  Thi...
 location: 'Carlsbad, CA'
 team: Software
 schedule: Flexible Hours

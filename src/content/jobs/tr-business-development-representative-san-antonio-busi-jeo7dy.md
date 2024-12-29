@@ -1,25 +1,17 @@
 ---
 position: Business Development Representative
 description: >-
-  ## About the Role
-
-
-  In the vibrant heart of San Antonio, where history intertwines with modern
-  innovation, a new opportunity awaits for a spirited and ambitious individual
-  ready to dive into the dynamic world of cybersecurity. Our company stands at
-  the forefront of security software, weaving intricate webs of protection in a
-  digital age fraught with threats. As a Business Development Representative,
-  you'll be at the helm of our expansion efforts, steering a small, agile team
-  of 4-6 passionate technicians. This entry-level role is perfect for those
-  eager to make their mark in the industry, where every day brings new
-  challenges and opportunities to learn and grow.
-
-
-  ## What You'll Do
-
-
-  Your mornings will start with the crisp air of anticipation, as you embark on
-  your first shift from 6:00 AM to...
+  About the Role In the vibrant heart of San Antonio, where history intertwines
+  with modern innovation, a new opportunity awaits for a spirited and ambitious
+  individual ready to dive into the dynamic world of cybersecurity. Our company
+  stands at the forefront of security software, weaving intricate webs of
+  protection in a digital age fraught with threats. As a Business Development
+  Representative, you'll be at the helm of our expansion efforts, steering a
+  small, agile team of 46 passionate technicians. This entrylevel role is
+  perfect for those eager to make their mark in the industry, where every day
+  brings new challenges and opportunities to learn and grow. What You'll Do Your
+  mornings will start with the crisp air of anticipation, as you embark on your
+  first shift from 6:00 AM to...
 location: 'San Antonio, TX'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

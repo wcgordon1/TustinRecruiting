@@ -6,12 +6,8 @@ description: >-
   vibrant city surrounded by neighboring areas such as South San Francisco,
   Millbrae, and Pacifica. This crucial role focuses on building and managing
   reseller partnerships, including recruiting, enabling, and growing a network
-  of value-added resellers and system integrators.
-
-
-  ## Qualifications
-
-  The ideal candidate will have extensive experience in developin...
+  of valueadded resellers and system integrators. Qualifications The ideal
+  candidate will have extensive experience in developin...
 location: 'San Bruno, CA'
 team: Software
 datePosted: '2024-12-28T02:34:31.925Z'

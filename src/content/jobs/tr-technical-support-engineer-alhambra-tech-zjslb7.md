@@ -1,28 +1,17 @@
 ---
 position: Technical Support Engineer
 description: >-
-  ## Position Overview
-
-
-  Join our dynamic team as a Technical Support Engineer, where you'll work
-  on-site with a leading MarTech company in Alhambra, CA. This role offers a
-  unique opportunity to be at the forefront of technology, providing essential
-  support for marketing platforms, analytics companies, and automation tools.
-  You will be part of a specialized team of 3-5 engineers, working within
+  Position Overview Join our dynamic team as a Technical Support Engineer, where
+  you'll work onsite with a leading MarTech company in Alhambra, CA. This role
+  offers a unique opportunity to be at the forefront of technology, providing
+  essential support for marketing platforms, analytics companies, and automation
+  tools. You will be part of a specialized team of 35 engineers, working within
   standard business hours, and will occasionally travel to nearby major cities
-  to expand your expertise and network.
-
-
-  ## Key Responsibilities
-
-
-  - **Technical Support**: Provide high-quality support to resolve technical
-  issues related to marketing technologies and platforms.
-
-  - **Troubleshooting**: Diagnose and troubleshoot software and hardware
-  problems effectively.
-
-  - **System Monitoring**: Utilize tools s...
+  to expand your expertise and network. Key Responsibilities  Technical Support:
+  Provide highquality support to resolve technical issues related to marketing
+  technologies and platforms.  Troubleshooting: Diagnose and troubleshoot
+  software and hardware problems effectively.  System Monitoring: Utilize tools
+  s...
 location: 'Alhambra, CA'
 team: Software
 schedule: Standard Business Hours

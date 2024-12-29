@@ -1,25 +1,17 @@
 ---
 position: Systems Administrator
 description: >-
-  ## About the Role
-
-
-  Welcome to the heart of innovation nestled in the vibrant city of Lancaster,
-  CA, where our MarTech company is redefining the future of marketing
-  technologies. We are seeking an experienced Systems Administrator to join our
-  dynamic team on-site. This is not just another job—it's an opportunity to lead
-  and inspire a team of talented technicians, spearheading initiatives that
-  integrate cutting-edge technology into marketing platforms, analytics
+  About the Role Welcome to the heart of innovation nestled in the vibrant city
+  of Lancaster, CA, where our MarTech company is redefining the future of
+  marketing technologies. We are seeking an experienced Systems Administrator to
+  join our dynamic team onsite. This is not just another job—it's an opportunity
+  to lead and inspire a team of talented technicians, spearheading initiatives
+  that integrate cuttingedge technology into marketing platforms, analytics
   services, and automation tools. If you have a knack for turning complex IT
   challenges into seamless solutions and a desire to work in an industry that
-  thrives on innovation and transformation, this role is crafted for you.
-
-
-  ## What You'll Do
-
-
-  Imagine starting your day with a team huddle in our state-of-the-art Lancaster
-  office, where...
+  thrives on innovation and transformation, this role is crafted for you. What
+  You'll Do Imagine starting your day with a team huddle in our stateoftheart
+  Lancaster office, where...
 location: 'Lancaster, CA'
 team: Software
 schedule: Standard Business Hours

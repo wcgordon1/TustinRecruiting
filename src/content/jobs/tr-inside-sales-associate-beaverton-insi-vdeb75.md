@@ -4,7 +4,7 @@ description: >-
   Join our dynamic fintech team in Beaverton, OR, as an Inside Sales Associate,
   where you'll play a crucial role in driving the growth of innovative financial
   services, payment processing solutions, and digital banking products. You'll
-  be part of a specialized team of 3-5 professionals, working in a flexible
+  be part of a specialized team of 35 professionals, working in a flexible
   environment that values collaboration and professional development. This
   position includes regular travel to nearby major cities, offering you t...
 location: 'Beaverton, OR'

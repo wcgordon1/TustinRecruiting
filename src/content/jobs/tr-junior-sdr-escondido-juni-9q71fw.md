@@ -1,15 +1,13 @@
 ---
 position: Junior SDR
 description: >-
-  ## Position Overview
-
-  We are seeking a motivated and dynamic Junior Sales Development Representative
-  (SDR) to join our team in Escondido, CA. As a Junior SDR, you will be part of
-  a focused team dedicated to growing our customer base in the enterprise
-  software, cloud platforms, and B2B tech sectors. This role is perfect for
-  those looking to kickstart their career in tech sales, offering hands-on
-  experience in a supportive and innovative environment. You will work the
-  second shift from 2:00 PM to 1...
+  Position Overview We are seeking a motivated and dynamic Junior Sales
+  Development Representative (SDR) to join our team in Escondido, CA. As a
+  Junior SDR, you will be part of a focused team dedicated to growing our
+  customer base in the enterprise software, cloud platforms, and B2B tech
+  sectors. This role is perfect for those looking to kickstart their career in
+  tech sales, offering handson experience in a supportive and innovative
+  environment. You will work the second shift from 2:00 PM to 1...
 location: 'Escondido, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

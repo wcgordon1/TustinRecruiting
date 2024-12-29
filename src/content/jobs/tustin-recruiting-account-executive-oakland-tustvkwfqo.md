@@ -4,9 +4,9 @@ description: >-
   Located in the vibrant city of Oakland, CA, surrounded by bustling neighboring
   cities like Berkeley, Alameda, and San Francisco, our client is a leading
   Third Party Logistics company. They are actively seeking a dynamic and
-  self-driven Account Executive to join their team. In this role, you'll be at
+  selfdriven Account Executive to join their team. In this role, you'll be at
   the forefront of selling transportation, warehousing, and supply chain
-  solutions to mid-market and enterprise companies. This exciting opportunity
+  solutions to midmarket and enterprise companies. This exciting opportunity
   puts you at the heart of understanding freight modes...
 location: 'Oakland, CA'
 team: Logistics

@@ -1,16 +1,13 @@
 ---
 position: Medical Device Sales Representative
 description: >-
-  Hello there! 
-
-
-  We've got a great opportunity for a Medical Device Sales Representative
-  nestled right in Playa Vista, CA. This charming city is surrounded by lively
-  neighborhoods like Marina Del Rey, Culver City, and Santa Monica. Our client
-  is in the business of selling top-notch medical devices and equipment to
-  hospitals, clinics, and healthcare providers. They're looking for someone who
-  knows their way around the complex healthcare sales cycles and understands the
-  ins and outs of hospital proc...
+  Hello there! We've got a great opportunity for a Medical Device Sales
+  Representative nestled right in Playa Vista, CA. This charming city is
+  surrounded by lively neighborhoods like Marina Del Rey, Culver City, and Santa
+  Monica. Our client is in the business of selling topnotch medical devices and
+  equipment to hospitals, clinics, and healthcare providers. They're looking for
+  someone who knows their way around the complex healthcare sales cycles and
+  understands the ins and outs of hospital proc...
 location: 'Playa Vista, CA'
 team: Medical Device
 datePosted: '2024-12-27T02:07:54.725Z'

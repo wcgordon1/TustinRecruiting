@@ -1,41 +1,17 @@
 ---
 position: Inside Sales Associate
 description: >-
-  ## Overview
-
-  - Position: Inside Sales Associate
-
-  - Location: Seattle, WA
-
-  - Industry: MarTech (Marketing Platforms, Analytics Companies, Automation
-  Tools)
-
-  - Role: Lead a team of 4-6 technicians
-
-  - Schedule: Flexible hours
-
-  - Travel: Regular travel to nearby major cities
-
-  - Training: Industry-focused and ongoing
-
-
-  ## Key Responsibilities
-
-  - Drive sales growth by leveraging MarTech platforms and tools.
-
-  - Manage and lead a team of 4-6 technicians in daily sales activities.
-
-  - Develop and execute sales strategies using analytics and marketing
-  automation tools.
-
-  - Engage with clients, understanding their needs and providing tailored
-  solutions.
-
-  - Utilize Salesforce, LinkedIn Sales Navigator, and Outreach.io for sales
-  processes.
-
-  - Conduct regular travel to major nearby cities for client meetings and
-  indust...
+  Overview  Position: Inside Sales Associate  Location: Seattle, WA  Industry:
+  MarTech (Marketing Platforms, Analytics Companies, Automation Tools)  Role:
+  Lead a team of 46 technicians  Schedule: Flexible hours  Travel: Regular
+  travel to nearby major cities  Training: Industryfocused and ongoing Key
+  Responsibilities  Drive sales growth by leveraging MarTech platforms and
+  tools.  Manage and lead a team of 46 technicians in daily sales activities. 
+  Develop and execute sales strategies using analytics and marketing automation
+  tools.  Engage with clients, understanding their needs and providing tailored
+  solutions.  Utilize Salesforce, LinkedIn Sales Navigator, and Outreach.io for
+  sales processes.  Conduct regular travel to major nearby cities for client
+  meetings and indust...
 location: 'Seattle, WA'
 team: Software
 schedule: Flexible Hours

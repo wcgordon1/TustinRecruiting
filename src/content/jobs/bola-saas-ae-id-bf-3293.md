@@ -1,29 +1,25 @@
 ---
 position: SaaS Account Executive
 description: >-
-  Bola AI, a leader in Voice-AI technology for dental practices, is looking for
-  a dynamic **SaaS Account Executive** to join our team in **Newport Beach,
-  CA**. In this on-site role, you will drive revenue growth by cultivating
-  relationships with new clients, showcasing the value of our cutting-edge SaaS
-  solutions, and closing high-impact deals. If you’re a sales professional with
-  a passion for technology and a proven track record in SaaS sales, we want to
-  hear from you.
-
-  ### Responsibilities - Identify and pursue new business opportunities to
-  expand Bola AI's client base.   - Conduct product demos and present tailored
-  solutions to potential clients.   - Build and maintain strong, long-term
-  relationships with customers.   - Meet and exceed monthly and quarterly sales
-  targets.   - Collaborate with the marketing and product teams to refine
-  messaging and feedback.   - Negotiate contracts and manage the sales cycle
-  from prospecting to closing.   - Stay up-to-date with industry trends and
-  competitors to position Bola AI effectively.  
-
-  ### Qualifications - 3+ years of SaaS sales experience with a proven track
-  record of meeting or exceeding quotas.   - Strong communication, negotiation,
-  and presentation skills.   - Ability to build rapport with clients and
-  understand their unique needs.   - Familiarity with CRM tools such as
-  Salesforce or HubSpot.   - Experience in HealthTech or AI is a plus.   - A
-  self-starter with excellent organizational skills and attention to detail.   
+  Bola AI, a leader in VoiceAI technology for dental practices, is looking for a
+  dynamic SaaS Account Executive to join our team in Newport Beach, CA. In this
+  onsite role, you will drive revenue growth by cultivating relationships with
+  new clients, showcasing the value of our cuttingedge SaaS solutions, and
+  closing highimpact deals. If you’re a sales professional with a passion for
+  technology and a proven track record in SaaS sales, we want to hear from you.
+  Responsibilities  Identify and pursue new business opportunities to expand
+  Bola AI's client base.  Conduct product demos and present tailored solutions
+  to potential clients.  Build and maintain strong, longterm relationships with
+  customers.  Meet and exceed monthly and quarterly sales targets.  Collaborate
+  with the marketing and product teams to refine messaging and feedback. 
+  Negotiate contracts and manage the sales cycle from prospecting to closing. 
+  Stay uptodate with industry trends and competitors to position Bola AI
+  effectively. Qualifications  3+ years of SaaS sales experience with a proven
+  track record of meeting or exceeding quotas.  Strong communication,
+  negotiation, and presentation skills.  Ability to build rapport with clients
+  and understand their unique needs.  Familiarity with CRM tools such as
+  Salesforce or HubSpot.  Experience in HealthTech or AI is a plus.  A
+  selfstarter with excellent organizational skills and attention to detail.
 location: 'Newport Beach, CA'
 team: Artificial Intelligence
 datePosted: '2024-12-28T17:01:24.917Z'

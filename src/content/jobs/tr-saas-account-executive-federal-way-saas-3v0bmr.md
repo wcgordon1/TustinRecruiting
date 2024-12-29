@@ -1,15 +1,13 @@
 ---
 position: SaaS Account Executive
 description: >-
-  ## Position Overview
-
-  Are you passionate about cybersecurity and interested in driving sales in a
-  high-impact environment? We are seeking a dynamic and motivated SaaS Account
-  Executive to join our team in Federal Way, WA. This role is crucial for our
-  regional expansion efforts in security software, focusing on identity
-  management and cloud security solutions. You will be part of a vibrant 10+
-  person team, working the second shift from 2:00 PM to 10:30 PM, ensuring that
-  our clients' needs are met ...
+  Position Overview Are you passionate about cybersecurity and interested in
+  driving sales in a highimpact environment? We are seeking a dynamic and
+  motivated SaaS Account Executive to join our team in Federal Way, WA. This
+  role is crucial for our regional expansion efforts in security software,
+  focusing on identity management and cloud security solutions. You will be part
+  of a vibrant 10+ person team, working the second shift from 2:00 PM to 10:30
+  PM, ensuring that our clients' needs are met ...
 location: 'Federal Way, WA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

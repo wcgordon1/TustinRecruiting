@@ -1,12 +1,10 @@
 ---
 position: BDR - Tech Sales
 description: >-
-  ## Overview
-
-  Join our dynamic team as a Business Development Representative (BDR) in Santa
-  Ana, CA, specializing in tech sales within the vibrant SaaS environment. Be
-  part of a 10+ member regional team focused on driving growth and innovation in
-  Enterprise Software, Cloud Platforms, and B2B Tech Comp...
+  Overview Join our dynamic team as a Business Development Representative (BDR)
+  in Santa Ana, CA, specializing in tech sales within the vibrant SaaS
+  environment. Be part of a 10+ member regional team focused on driving growth
+  and innovation in Enterprise Software, Cloud Platforms, and B2B Tech Comp...
 location: 'Santa Ana, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

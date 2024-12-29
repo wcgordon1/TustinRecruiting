@@ -1,17 +1,13 @@
 ---
 position: Mobile DevOps Engineer
 description: >-
-  Our company is a growing, well-funded startup based in LA that is disrupting
+  Our company is a growing, wellfunded startup based in LA that is disrupting
   the consumer tech industry by empowering social media users, digital content
-  creators, and mobile-first consumers. We are looking for an experienced Mobile
+  creators, and mobilefirst consumers. We are looking for an experienced Mobile
   DevOps Engineer to join our team remotely from Dallas, TX. In this role, you
-  will work collaboratively with a cross-functional product team, applying your
-  engineering excellence to build and deliver top-tier mobile applications.
-
-
-  ## Position Overview
-
-  As a Remote Mobi...
+  will work collaboratively with a crossfunctional product team, applying your
+  engineering excellence to build and deliver toptier mobile applications.
+  Position Overview As a Remote Mobi...
 location: 'Dallas, TX'
 team: Mobile
 schedule: Full Time

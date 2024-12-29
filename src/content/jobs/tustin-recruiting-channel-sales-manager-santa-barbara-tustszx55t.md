@@ -5,14 +5,9 @@ description: >-
   CA, is seeking a talented Channel Sales Manager. The role will focus on
   building and managing reseller partnerships. This position is a key
   opportunity for someone who is passionate about recruiting, enabling, and
-  growing a network of value-added resellers and system integrators. The
-  location provides a unique lifestyle opportunity with neighboring cities
-  including Goleta, Carpinteria, and Montecito. 
-
-
-  ## Qualifications
-
-  ...
+  growing a network of valueadded resellers and system integrators. The location
+  provides a unique lifestyle opportunity with neighboring cities including
+  Goleta, Carpinteria, and Montecito. Qualifications ...
 location: 'Santa Barbara, CA'
 team: Software
 datePosted: '2024-12-27T17:27:36.335Z'

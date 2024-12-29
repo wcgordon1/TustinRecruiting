@@ -1,7 +1,7 @@
 ---
 position: Business Development Manager
 description: >-
-  Our Client, a prominent Third-Party Logistics company in Pasadena, CA, is
+  Our Client, a prominent ThirdParty Logistics company in Pasadena, CA, is
   seeking a Business Development Manager to join their team. This role is in a
   prime location surrounded by the vibrant cities of Los Angeles, Glendale,
   Burbank, and Alhambra. The position focuses on fostering strategic

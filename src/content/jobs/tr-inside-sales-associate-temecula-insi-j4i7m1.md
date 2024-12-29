@@ -1,39 +1,17 @@
 ---
 position: Inside Sales Associate
 description: >-
-  ## Overview
-
-  - Position: Inside Sales Associate
-
-  - Location: Temecula, CA
-
-  - Industry: SaaS (Enterprise Software Companies, Cloud Platforms, B2B Tech
-  Companies)
-
-  - Team: Member of a 10+ person regional team
-
-  - Schedule: Standard Business Hours
-
-  - Travel: Up to 100 mile radius
-
-  - Focus: Professional Growth
-
-
-  ## Key Responsibilities
-
-  - Drive sales growth by developing new business within assigned territory.
-
-  - Engage potential clients through outbound calls, emails, and follow-up
-  communications.
-
-  - Utilize Salesforce, Outreach.io, ZoomInfo, and LinkedIn Sales Navigator to
-  identify leads.
-
-  - Maintain detailed records of client interactions and sales activities.
-
-  - Collaborate with team members to develop and implement sales strategies.
-
-  - Participate in ongoing training to enhance product knowledge and sal...
+  Overview  Position: Inside Sales Associate  Location: Temecula, CA  Industry:
+  SaaS (Enterprise Software Companies, Cloud Platforms, B2B Tech Companies) 
+  Team: Member of a 10+ person regional team  Schedule: Standard Business Hours 
+  Travel: Up to 100 mile radius  Focus: Professional Growth Key
+  Responsibilities  Drive sales growth by developing new business within
+  assigned territory.  Engage potential clients through outbound calls, emails,
+  and followup communications.  Utilize Salesforce, Outreach.io, ZoomInfo, and
+  LinkedIn Sales Navigator to identify leads.  Maintain detailed records of
+  client interactions and sales activities.  Collaborate with team members to
+  develop and implement sales strategies.  Participate in ongoing training to
+  enhance product knowledge and sal...
 location: 'Temecula, CA'
 team: Software
 schedule: Standard Business Hours

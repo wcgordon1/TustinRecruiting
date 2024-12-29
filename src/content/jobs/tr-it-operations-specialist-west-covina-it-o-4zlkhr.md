@@ -1,21 +1,12 @@
 ---
 position: IT Operations Specialist
 description: >-
-  ## Overview
-
-
-  Join a dynamic Fintech-focused company in West Covina, CA, as an IT Operations
-  Specialist. This on-site position offers you the opportunity to lead a team of
-  technicians within a thriving financial services environment. Leverage your
-  expertise to enhance IT operations while enjoying the vibrant tech landscape
-  of West Covina.
-
-
-  ## Key Responsibilities
-
-
-  - **Lead and Manage**: Direct a team of 4-6 IT technicians, ensuring efficient
-  opera...
+  Overview Join a dynamic Fintechfocused company in West Covina, CA, as an IT
+  Operations Specialist. This onsite position offers you the opportunity to lead
+  a team of technicians within a thriving financial services environment.
+  Leverage your expertise to enhance IT operations while enjoying the vibrant
+  tech landscape of West Covina. Key Responsibilities  Lead and Manage: Direct a
+  team of 46 IT technicians, ensuring efficient opera...
 location: 'West Covina, CA'
 team: Software
 schedule: Standard Business Hours

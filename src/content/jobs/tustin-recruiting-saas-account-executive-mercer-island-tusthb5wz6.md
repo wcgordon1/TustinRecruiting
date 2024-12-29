@@ -5,12 +5,9 @@ description: >-
   vibrant cities of Seattle, Bellevue, and Renton, our client, a leading B2B
   SaaS enterprise, seeks to add a driven and dynamic Account Executive to their
   team. This role is an excellent opportunity for those passionate about
-  technology sales, as it focuses on full-cycle enterprise software sales with
-  deal sizes ranging from $100K-$500K annually. If you're ready to take that
-  next step in your career, apply today!
-
-
-  ## Qualif...
+  technology sales, as it focuses on fullcycle enterprise software sales with
+  deal sizes ranging from $100K$500K annually. If you're ready to take that next
+  step in your career, apply today! Qualif...
 location: 'Mercer Island, WA'
 team: Software
 datePosted: '2024-12-28T00:49:09.836Z'

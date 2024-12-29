@@ -1,19 +1,13 @@
 ---
 position: DevOps Engineer
 description: >-
-  Hi there! Our client, a significant player in the e-commerce industry, is on
+  Hi there! Our client, a significant player in the ecommerce industry, is on
   the lookout for a DevOps Engineer to join their team in San Ramon, CA. Nestled
   in the East Bay of the San Francisco Bay Area, San Ramon is just a stone's
   throw away from the vibrant cities of Walnut Creek, Pleasanton, and Livermore.
   This role is all about maintaining and scaling up their infrastructure,
   particularly during those peak traffic periods. Think you've got what it
-  takes? Keep reading!
-
-
-  ## Qualifications
-
-
-  Alri...
+  takes? Keep reading! Qualifications Alri...
 location: 'San Ramon, CA'
 team: Software
 datePosted: '2024-12-27T20:57:30.472Z'

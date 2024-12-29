@@ -1,22 +1,13 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  ## Overview  
-
-  Join our dynamic MarTech team in Kennewick, WA, as a Sales Operations
+  Overview Join our dynamic MarTech team in Kennewick, WA, as a Sales Operations
   Coordinator. Thrive in a flexible work environment that fosters growth and
-  innovation, and support a 10+ person regional team using cutting-edge
-  marketing platforms and analytics tools.
-
-
-  ## Key Responsibilities  
-
-  - Manage and optimize CRM systems, ensuring data accuracy and efficiency.  
-
-  - Collaborate with sales and marketing teams to streamline operations and
-  improve performance.  
-
-  - Utilize technology stack eff...
+  innovation, and support a 10+ person regional team using cuttingedge marketing
+  platforms and analytics tools. Key Responsibilities  Manage and optimize CRM
+  systems, ensuring data accuracy and efficiency.  Collaborate with sales and
+  marketing teams to streamline operations and improve performance.  Utilize
+  technology stack eff...
 location: 'Kennewick, WA'
 team: Software
 schedule: Flexible Hours

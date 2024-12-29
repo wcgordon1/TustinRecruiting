@@ -1,18 +1,13 @@
 ---
 position: Solutions Engineer
 description: >-
-  Hey there, are you a tech-savvy whiz with a knack for translating complex
-  concepts into easy-to-understand solutions? If so, we've got a fantastic
+  Hey there, are you a techsavvy whiz with a knack for translating complex
+  concepts into easytounderstand solutions? If so, we've got a fantastic
   opportunity for you to flex those skills! Our client, a leading advertising
   technology company, is on the hunt for a Solutions Engineer. You'll be based
   in the bustling hub of South San Francisco, CA, a stone's throw away from the
-  vibrant cities of San Bruno, Daly City, and Pacifica.
-
-
-  ## Qualifications
-
-
-  We're looking for someone who's got a solid hand...
+  vibrant cities of San Bruno, Daly City, and Pacifica. Qualifications We're
+  looking for someone who's got a solid hand...
 location: 'South San Francisco, CA'
 team: Software
 datePosted: '2024-12-27T11:44:27.448Z'

@@ -6,7 +6,7 @@ description: >-
   will have a strong understanding of transportation, warehousing, and supply
   chain solutions. This position is ideally situated for those living in or
   around the neighboring cities of Valencia, Newhall, and Canyon Country. The
-  role involves selling various services to mid-market and enterprise companies,
+  role involves selling various services to midmarket and enterprise companies,
   with a focus on freight modes (FTL, LTL,...
 location: 'Santa Clarita, CA'
 team: Logistics

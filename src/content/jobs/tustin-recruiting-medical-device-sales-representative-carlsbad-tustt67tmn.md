@@ -6,14 +6,8 @@ description: >-
   nestled between Oceanside, Vista, and Encinitas, offers a vibrant lifestyle
   and a thriving healthcare community. The successful candidate will focus on
   selling medical devices and equipment to hospitals, clinics, and healthcare
-  providers in the region. 
-
-
-  ## Qualifications 
-
-  - Experience navigating complex healthcare sales cycles
-
-  - Understanding of hos...
+  providers in the region. Qualifications  Experience navigating complex
+  healthcare sales cycles  Understanding of hos...
 location: 'Carlsbad, CA'
 team: Medical Device
 datePosted: '2024-12-28T03:43:45.733Z'

@@ -1,15 +1,12 @@
 ---
 position: Computer Vision Engineer
 description: >-
-  **Position Overview**
-
-
-  We are seeking a talented and motivated Computer Vision Engineer to join our
-  innovative team at a leading Security Software company. This is a 100% Remote
-  position, allowing you to work from the comfort of your home while
-  contributing to cutting-edge projects in cybersecurity, identity management,
-  and cloud security. As a member of our dynamic 10+ person regional team, you
-  will have the opportunity to collaborate with some ...
+  Position Overview We are seeking a talented and motivated Computer Vision
+  Engineer to join our innovative team at a leading Security Software company.
+  This is a 100% Remote position, allowing you to work from the comfort of your
+  home while contributing to cuttingedge projects in cybersecurity, identity
+  management, and cloud security. As a member of our dynamic 10+ person regional
+  team, you will have the opportunity to collaborate with some ...
 location: 'Garden Grove, CA'
 team: Software
 schedule: Standard Business Hours

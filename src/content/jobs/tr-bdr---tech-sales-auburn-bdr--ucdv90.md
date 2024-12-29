@@ -1,25 +1,17 @@
 ---
 position: BDR - Tech Sales
 description: >-
-  ## About the Role
-
-
-  In the bustling heart of Auburn, WA, where the rhythm of innovation dances
-  alongside the scenic views of Mount Rainier, an exciting career opportunity
-  unfolds with us. Our firm, a trailblazer in the fintech arena, is on the
-  lookout for an enthusiastic Business Development Representative (BDR) who is
-  ready to embark on an exhilarating journey in tech sales. Whether you're fresh
-  out of college or have just a year of experience, if you have a knack for
-  storytelling, a passion for numbers, and a drive for results, this role could
-  be your gateway into the dynamic world of digital banking, payment processing,
-  and financial services.
-
-
-  ## What You'll Do
-
-
-  Imagine starting your day with a team meeting, where the atmosphere is charged
-  with inspiration, collaboration, and strategic ...
+  About the Role In the bustling heart of Auburn, WA, where the rhythm of
+  innovation dances alongside the scenic views of Mount Rainier, an exciting
+  career opportunity unfolds with us. Our firm, a trailblazer in the fintech
+  arena, is on the lookout for an enthusiastic Business Development
+  Representative (BDR) who is ready to embark on an exhilarating journey in tech
+  sales. Whether you're fresh out of college or have just a year of experience,
+  if you have a knack for storytelling, a passion for numbers, and a drive for
+  results, this role could be your gateway into the dynamic world of digital
+  banking, payment processing, and financial services. What You'll Do Imagine
+  starting your day with a team meeting, where the atmosphere is charged with
+  inspiration, collaboration, and strategic ...
 location: 'Auburn, WA'
 team: Software
 schedule: Standard Business Hours

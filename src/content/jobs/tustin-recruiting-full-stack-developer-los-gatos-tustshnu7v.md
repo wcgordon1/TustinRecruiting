@@ -6,14 +6,8 @@ description: >-
   position focuses on building secure, scalable web applications for payment
   processing and financial transactions. Ideally located for candidates in the
   surrounding areas of Saratoga, Campbell, Monte Sereno, and Cupertino, this
-  role offers the opportunity to work with cutting-edge technology in a dynamic
-  and innovative environment.
-
-
-  ## Qualifications
-
-
-  ...
+  role offers the opportunity to work with cuttingedge technology in a dynamic
+  and innovative environment. Qualifications ...
 location: 'Los Gatos, CA'
 team: Finance
 datePosted: '2024-12-27T09:50:17.667Z'

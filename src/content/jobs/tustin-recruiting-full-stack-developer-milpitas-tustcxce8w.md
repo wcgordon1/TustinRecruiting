@@ -6,12 +6,8 @@ description: >-
   Sunnyvale, this role is smack in the middle of it all. Our client is all about
   creating secure, scalable web applications for payment processing and
   financial transactions. So, if you’re great with React, Node.js, TypeScript,
-  and PostgreSQL, you might just be the perfect fit! 
-
-
-  ## Qualifications
-
-  We’re looking for someone who knows their way a...
+  and PostgreSQL, you might just be the perfect fit! Qualifications We’re
+  looking for someone who knows their way a...
 location: 'Milpitas, CA'
 team: Finance
 datePosted: '2024-12-27T03:09:23.846Z'

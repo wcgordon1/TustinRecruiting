@@ -1,28 +1,17 @@
 ---
 position: Inside Sales Associate
 description: >-
-  ## Position Overview
-
-
-  Join our dynamic team in Salem, OR as an Inside Sales Associate, where you
-  will play a pivotal role in driving our sales efforts within the ever-evolving
-  cybersecurity industry. You will be at the forefront of our innovative
-  solutions, working closely with a dedicated team of technicians and leveraging
-  cutting-edge technologies to secure and empower businesses. With a focus on
-  growth and development, this position offers a unique opportunity to hone your
-  leadership skills and contribute to the thriving tech landscape in Salem.
-
-
-  ## Key Responsibilities
-
-
-  - Lead and manage a team of 4-6 technicians to exceed sales targets and
-  enhance customer relationships.
-
-  - Develop and execute strategic sales plans to expand our customer base within
-  a 30-mile radius.
-
-  - Utilize Salesfor...
+  Position Overview Join our dynamic team in Salem, OR as an Inside Sales
+  Associate, where you will play a pivotal role in driving our sales efforts
+  within the everevolving cybersecurity industry. You will be at the forefront
+  of our innovative solutions, working closely with a dedicated team of
+  technicians and leveraging cuttingedge technologies to secure and empower
+  businesses. With a focus on growth and development, this position offers a
+  unique opportunity to hone your leadership skills and contribute to the
+  thriving tech landscape in Salem. Key Responsibilities  Lead and manage a team
+  of 46 technicians to exceed sales targets and enhance customer relationships. 
+  Develop and execute strategic sales plans to expand our customer base within a
+  30mile radius.  Utilize Salesfor...
 location: 'Salem, OR'
 team: Software
 schedule: Standard Business Hours

@@ -7,10 +7,7 @@ description: >-
   executives. This is a fantastic opportunity for someone who is proficient with
   Salesforce, Outreach.io, and LinkedIn Sales Navigator. The position is
   conveniently located in Culver City, close to neighboring cities such as
-  Beverly Hills, Santa Monica, and Los Angeles.
-
-
-  ## Qual...
+  Beverly Hills, Santa Monica, and Los Angeles. Qual...
 location: 'Culver City, CA'
 team: Software
 datePosted: '2024-12-28T00:22:47.520Z'

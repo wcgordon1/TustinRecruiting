@@ -1,12 +1,9 @@
 ---
 position: Mobile App Developer
 description: >-
-  ## Overview
-
-
-  Join our dynamic and innovative Healthcare Tech company, specializing in
-  digital health platforms, medical software, and healthcare analytics. This is
-  a 100% Remote Mobile App Developer position based in Glendale, CA, offering
+  Overview Join our dynamic and innovative Healthcare Tech company, specializing
+  in digital health platforms, medical software, and healthcare analytics. This
+  is a 100% Remote Mobile App Developer position based in Glendale, CA, offering
   you the opportunity to work from anywhere within the United States. As part of
   our team, you will play a vital role in transforming healthcare through
   technology, collaborating virtually with a talented group o...

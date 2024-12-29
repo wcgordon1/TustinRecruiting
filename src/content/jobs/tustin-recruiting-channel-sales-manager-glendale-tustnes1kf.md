@@ -4,8 +4,8 @@ description: >-
   Our client, a reputable company based in Glendale, CA, is seeking a highly
   motivated and experienced Channel Sales Manager. This position offers an
   exciting opportunity to build and manage reseller partnerships in a dynamic
-  and fast-paced environment. The successful candidate will have a strong focus
-  on recruiting, enabling, and growing a network of value-added resellers and
+  and fastpaced environment. The successful candidate will have a strong focus
+  on recruiting, enabling, and growing a network of valueadded resellers and
   system integrators. Glendale is conveniently located near several thriving
   cities including Burbank, Pasadena, and Los Ang...
 location: 'Glendale, CA'

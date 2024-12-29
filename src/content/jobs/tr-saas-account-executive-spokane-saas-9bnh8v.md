@@ -1,19 +1,13 @@
 ---
 position: SaaS Account Executive
 description: >-
-  ### About the Role
-
-
-  Nestled in the vibrant city of Spokane, WA, where innovation meets
-  opportunity, lies a unique career path for those passionate about technology
-  and thriving in dynamic environments. As a **SaaS Account Executive**, you
-  will join a pioneering enterprise at the frontier of cloud platforms and B2B
-  technology companies. This isn't just a job; it's a journey where your skills
-  will be honed, your enthusiasm rewarded, and your career forged in the heart
-  of the tech industry.
-
-
-  In Spo...
+  About the Role Nestled in the vibrant city of Spokane, WA, where innovation
+  meets opportunity, lies a unique career path for those passionate about
+  technology and thriving in dynamic environments. As a SaaS Account Executive,
+  you will join a pioneering enterprise at the frontier of cloud platforms and
+  B2B technology companies. This isn't just a job; it's a journey where your
+  skills will be honed, your enthusiasm rewarded, and your career forged in the
+  heart of the tech industry. In Spo...
 location: 'Spokane, WA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

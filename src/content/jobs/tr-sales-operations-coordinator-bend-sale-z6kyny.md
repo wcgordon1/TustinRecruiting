@@ -1,21 +1,14 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-
   Join our dynamic team in Bend, OR as a Sales Operations Coordinator, where you
   will play a pivotal role in optimizing our sales processes across multiple
   project teams within the MarTech industry. This position offers a unique
   opportunity to work at the intersection of marketing platforms, analytics, and
   automation tools, enhancing our client and team experiences. If you are
   passionate about technology and eager to kickstart your career in sales
-  operations, we are looking for you!
-
-
-  ## Key Responsibilities
-
-
-  - Collaborate with various project teams to streamline sales operations and
-  enhance producti...
+  operations, we are looking for you! Key Responsibilities  Collaborate with
+  various project teams to streamline sales operations and enhance producti...
 location: 'Bend, OR'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

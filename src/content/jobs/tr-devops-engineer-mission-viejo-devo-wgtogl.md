@@ -1,26 +1,14 @@
 ---
 position: DevOps Engineer
 description: >-
-  ## Overview
-
-
-  Join a dynamic fintech company as a DevOps Engineer, where you'll work
-  remotely, contributing to the cutting-edge of financial services, payment
+  Overview Join a dynamic fintech company as a DevOps Engineer, where you'll
+  work remotely, contributing to the cuttingedge of financial services, payment
   processors, and digital banking. As part of a 100% remote position based in
   Mission Viejo, CA, you'll be integral to a regional team, leveraging your
-  expertise to drive innovation and efficiency.
-
-
-  ## Key Responsibilities
-
-
-  - Implement and manage CI/CD pipelines to streamline development.
-
-  - Automate infrastructure provisioning and configuration management.
-
-  - Monitor system performance, ensuring reliability and scalability.
-
-  - Collaborate wit...
+  expertise to drive innovation and efficiency. Key Responsibilities  Implement
+  and manage CI/CD pipelines to streamline development.  Automate infrastructure
+  provisioning and configuration management.  Monitor system performance,
+  ensuring reliability and scalability.  Collaborate wit...
 location: 'Mission Viejo, CA'
 team: Software
 schedule: Standard Business Hours

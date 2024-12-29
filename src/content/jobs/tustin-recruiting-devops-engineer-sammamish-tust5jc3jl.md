@@ -1,16 +1,13 @@
 ---
 position: DevOps Engineer
 description: >-
-  Our Client, a leading e-commerce platform, is seeking a seasoned DevOps
+  Our Client, a leading ecommerce platform, is seeking a seasoned DevOps
   Engineer to join their team in Sammamish, WA. This vibrant city is surrounded
   by neighboring cities such as Redmond, Bellevue, and Issaquah. The successful
   candidate will play a crucial role in maintaining and scaling the company's
-  infrastructure during high-traffic periods. If you have proven experience with
+  infrastructure during hightraffic periods. If you have proven experience with
   Kubernetes, Docker, Terraform, and major cloud platforms (AWS/GCP), this could
-  be the perfect role for you.
-
-
-  ## Quali...
+  be the perfect role for you. Quali...
 location: 'Sammamish, WA'
 team: Software
 datePosted: '2024-12-27T12:26:41.968Z'

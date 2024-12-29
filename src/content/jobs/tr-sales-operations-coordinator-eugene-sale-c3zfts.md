@@ -3,9 +3,9 @@ position: Sales Operations Coordinator
 description: >-
   Join our dynamic team as a Sales Operations Coordinator in the vibrant city of
   Eugene, OR. This role offers the perfect opportunity for recent graduates or
-  those with up to two years of experience to dive into the fast-paced world of
+  those with up to two years of experience to dive into the fastpaced world of
   MarTech. As a key member of our regional team, you'll collaborate with over
-  ten professionals, leveraging cutting-edge marketing platforms and analytics
+  ten professionals, leveraging cuttingedge marketing platforms and analytics
   tools. With flexible hours and regular travel to nearby majo...
 location: 'Eugene, OR'
 team: Software

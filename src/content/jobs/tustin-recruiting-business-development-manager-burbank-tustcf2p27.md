@@ -6,16 +6,8 @@ description: >-
   team. This is an exciting opportunity for a seasoned professional to develop
   strategic partnerships with enterprise clients and identify new market
   opportunities in the logistics sector. The role is situated in Burbank, with
-  nearby cities including Glendale, Pasadena, and Los Angeles.
-
-
-  ## Qualifications
-
-
-  The ideal candidate should have:
-
-
-  - Deep un...
+  nearby cities including Glendale, Pasadena, and Los Angeles. Qualifications
+  The ideal candidate should have:  Deep un...
 location: 'Burbank, CA'
 team: Logistics
 datePosted: '2024-12-26T17:24:09.494Z'

@@ -1,21 +1,16 @@
 ---
 position: Junior SDR
 description: >-
-
   Join our dynamic team in Corvallis, OR, as a Junior Sales Development
-  Representative within the fast-paced world of cybersecurity. As a Junior SDR,
+  Representative within the fastpaced world of cybersecurity. As a Junior SDR,
   you'll be an integral part of a specialized team, working to bridge the gap
   between potential clients and our robust security solutions. Whether you're
   just starting your career or looking to build on foundational experience, this
   role offers a unique opportunity to develop your skills in the technology
   sector. You'll operate within the first shift from 6:00 AM to 2:30 PM,
-  providing substantial work-life balance while engaging in impactful industry
-  activities.
-
-
-  ## Key Responsibilities
-
-  - Identify and qualify potential leads through various outreach ...
+  providing substantial worklife balance while engaging in impactful industry
+  activities. Key Responsibilities  Identify and qualify potential leads through
+  various outreach ...
 location: 'Corvallis, OR'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

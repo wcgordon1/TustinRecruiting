@@ -3,17 +3,11 @@ position: Sales Development Representative
 description: >-
   Hey there! Our Client, a leading B2B SaaS company, is on the hunt for a
   superstar Sales Development Representative to join their team in the beautiful
-  city of Salem, OR. You'd be working in a friendly, fast-paced environment
-  where your main focus will be on outbound prospecting to help generate
-  qualified leads for Account Executives. The cities of Portland, Corvallis, and
-  Eugene are just a short commute away, so you can enjoy the best of both city
-  and suburban life. 
-
-
-  ## Qualifications
-
-
-  If you'r...
+  city of Salem, OR. You'd be working in a friendly, fastpaced environment where
+  your main focus will be on outbound prospecting to help generate qualified
+  leads for Account Executives. The cities of Portland, Corvallis, and Eugene
+  are just a short commute away, so you can enjoy the best of both city and
+  suburban life. Qualifications If you'r...
 location: 'Salem, OR'
 team: Software
 datePosted: '2024-12-26T21:57:03.232Z'

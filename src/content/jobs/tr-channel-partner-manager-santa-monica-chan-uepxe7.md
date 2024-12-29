@@ -1,23 +1,14 @@
 ---
 position: Channel Partner Manager
 description: >-
-  ## Overview
-
-
-  Join our dynamic fintech company as a Channel Partner Manager in the vibrant
-  tech hub of Santa Monica, CA. This on-site position places you at the heart of
-  financial innovation, where you will drive key partnerships and expand our
-  reach in the financial services sector. You'll be part of a collaborative
-  team, working in a fast-paced environment that thrives on growth and
-  cutting-edge technology.
-
-
-  ## Key Responsibilities
-
-
-  - **Develop and Manage Channel Partnerships:**
-    - Build and maintain strong relationships with existing partners.
-    - Identify and onboard new channel partners t...
+  Overview Join our dynamic fintech company as a Channel Partner Manager in the
+  vibrant tech hub of Santa Monica, CA. This onsite position places you at the
+  heart of financial innovation, where you will drive key partnerships and
+  expand our reach in the financial services sector. You'll be part of a
+  collaborative team, working in a fastpaced environment that thrives on growth
+  and cuttingedge technology. Key Responsibilities  Develop and Manage Channel
+  Partnerships:  Build and maintain strong relationships with existing
+  partners.  Identify and onboard new channel partners t...
 location: 'Santa Monica, CA'
 team: Software
 schedule: Standard Business Hours

@@ -6,8 +6,8 @@ description: >-
   presents a unique opportunity to immerse yourself in the vibrant commercial
   hub of Los Angeles, with neighboring cities including Santa Monica, Beverly
   Hills, and Pasadena. As an Account Executive, you will be responsible for
-  selling transportation, warehousing, and supply chain solutions to mid-market
-  and enterprise-level companies. Your underst...
+  selling transportation, warehousing, and supply chain solutions to midmarket
+  and enterpriselevel companies. Your underst...
 location: 'Los Angeles, CA'
 team: Logistics
 datePosted: '2024-12-28T11:24:09.224Z'

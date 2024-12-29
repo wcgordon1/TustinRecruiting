@@ -1,18 +1,12 @@
 ---
 position: Sales Operations Manager
 description: >-
-  ## Overview
-
-
-  Join a dynamic SaaS company headquartered in Los Angeles, CA, as a Sales
-  Operations Manager. This is an on-site position perfect for individuals
+  Overview Join a dynamic SaaS company headquartered in Los Angeles, CA, as a
+  Sales Operations Manager. This is an onsite position perfect for individuals
   passionate about driving sales performance in the enterprise software, cloud
   platforms, and B2B tech sectors. Work within a vibrant ecosystem that thrives
   on innovation and collaboration, offering growth opportunities in one of the
-  most dynamic tech markets in the world.
-
-
-  ## Key Responsibili...
+  most dynamic tech markets in the world. Key Responsibili...
 location: 'Los Angeles, CA'
 team: Software
 schedule: Standard Business Hours

@@ -1,13 +1,13 @@
 ---
 position: React Native Engineer
 description: >-
-  Our client is a high-growth, LA-based startup with a significant footprint in
+  Our client is a highgrowth, LAbased startup with a significant footprint in
   the social media and digital content creation industry. As a Remote React
   Native Engineer, you will play a pivotal role in developing strong foundations
   for our mobile applications, thus directly influencing the expansion of our
-  mobile-first consumer base. This role provides the opportunity to work
-  remotely with our US-based team, offering a healthy work-life balance and a
-  chance to contribute significantly to our grow...
+  mobilefirst consumer base. This role provides the opportunity to work remotely
+  with our USbased team, offering a healthy worklife balance and a chance to
+  contribute significantly to our grow...
 location: 'San Antonio, TX'
 team: Mobile
 schedule: Full Time

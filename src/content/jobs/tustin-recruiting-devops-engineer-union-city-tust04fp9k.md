@@ -1,20 +1,13 @@
 ---
 position: DevOps Engineer
 description: >-
-  Our Client, a large e-commerce platform based in Union City, CA, is seeking a
+  Our Client, a large ecommerce platform based in Union City, CA, is seeking a
   talented and experienced DevOps Engineer. This role will focus on maintaining
-  and scaling infrastructure during high-traffic periods. The position is
-  located in a vibrant area, surrounded by the neighboring cities of Fremont,
-  Hayward, and Newark.
-
-
-  ## Qualifications
-
-  - Strong experience with Kubernetes, Docker, and Terraform.
-
-  - Proficiency with major cloud platforms such as AWS or GCP.
-
-  - Knowledge of monitoring tools lik...
+  and scaling infrastructure during hightraffic periods. The position is located
+  in a vibrant area, surrounded by the neighboring cities of Fremont, Hayward,
+  and Newark. Qualifications  Strong experience with Kubernetes, Docker, and
+  Terraform.  Proficiency with major cloud platforms such as AWS or GCP. 
+  Knowledge of monitoring tools lik...
 location: 'Union City, CA'
 team: Software
 datePosted: '2024-12-28T07:19:12.368Z'

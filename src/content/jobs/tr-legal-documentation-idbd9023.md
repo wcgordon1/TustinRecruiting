@@ -1,9 +1,9 @@
 ---
 position: Legal Documentation Specialist
 description: >-
-  We are seeking a highly skilled **Legal Documentation Specialist** to join a
-  leading finance company based in Anaheim Hills, CA. This on-site role is
-  perfect for a detail-oriented professional with a background in legal and
+  We are seeking a highly skilled Legal Documentation Specialist to join a
+  leading finance company based in Anaheim Hills, CA. This onsite role is
+  perfect for a detailoriented professional with a background in legal and
   financial documentation who thrives on managing complex processes. With a
   competitive salary range of $90,000 to $100,000, this position offers a unique
   opportunity to make an impact in a dynamic and growing organization.

@@ -1,25 +1,17 @@
 ---
 position: SaaS Account Executive
 description: >-
-  ## Overview
-
-  Join our dynamic team as a SaaS Account Executive in Vancouver, WA. We are
-  looking for ambitious professionals with 1-3 years of experience to manage and
-  expand our client relationships. This role involves working within the
-  exciting field of enterprise software, cloud platforms, and B2B technology
-  companies. Enjoy a first-shift schedule from 6:00 AM to 2:30 PM while
+  Overview Join our dynamic team as a SaaS Account Executive in Vancouver, WA.
+  We are looking for ambitious professionals with 13 years of experience to
+  manage and expand our client relationships. This role involves working within
+  the exciting field of enterprise software, cloud platforms, and B2B technology
+  companies. Enjoy a firstshift schedule from 6:00 AM to 2:30 PM while
   collaborating across multiple project teams and traveling regularly to nearby
   major cities. This position emphasizes professional growth and development.
-
-
-  ## Key Responsibilities
-
-  - Develop and maintain strong relationships with enterprise clients using SaaS
-  solutions.
-
-  - Identify new business opportunities and drive growth in designated markets.
-
-  - Collaborate effectively with multiple project teams to deliver client...
+  Key Responsibilities  Develop and maintain strong relationships with
+  enterprise clients using SaaS solutions.  Identify new business opportunities
+  and drive growth in designated markets.  Collaborate effectively with multiple
+  project teams to deliver client...
 location: 'Vancouver, WA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

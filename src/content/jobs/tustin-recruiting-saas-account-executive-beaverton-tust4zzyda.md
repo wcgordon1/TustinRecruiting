@@ -4,8 +4,8 @@ description: >-
   Situated in the thriving city of Beaverton, OR, a stone's throw away from
   Portland, Hillsboro, and Tigard, our client, a leading B2B SaaS company, is on
   the lookout for a dynamic and experienced Account Executive. This is a
-  fantastic opportunity to join a cutting-edge enterprise software sales team,
-  working full cycle sales with deal sizes ranging from $100K-$500K annually. If
+  fantastic opportunity to join a cuttingedge enterprise software sales team,
+  working full cycle sales with deal sizes ranging from $100K$500K annually. If
   you are looking to contribute to a team that is passionate about selling
   complex technical solutions to IT and business ...
 location: 'Beaverton, OR'

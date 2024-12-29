@@ -6,13 +6,7 @@ description: >-
   firm specializes in cybersecurity, identity management, and cloud security,
   offering innovative solutions that protect businesses across the globe.
   Embrace the chance to work from the comfort of your home while contributing to
-  a dynamic and forward-thinking team.
-
-
-  ## Position Overview
-
-
-  As our...
+  a dynamic and forwardthinking team. Position Overview As our...
 location: 'Long Beach, CA'
 team: Software
 schedule: Standard Business Hours

@@ -2,9 +2,9 @@
 position: BDR - Tech Sales
 description: >-
   Join our dynamic tech sales team in San Bernardino, CA, as a Business
-  Development Representative (BDR). Dive into the fast-paced world of
+  Development Representative (BDR). Dive into the fastpaced world of
   cybersecurity, identity management, and cloud security as a crucial member of
-  our specialized 3-5 person team. T...
+  our specialized 35 person team. T...
 location: 'San Bernardino, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

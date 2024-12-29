@@ -7,13 +7,7 @@ description: >-
   health records and patient data management. Fullerton, known for its vibrant
   community and proximity to Anaheim, Brea, Placentia, and Buena Park, offers an
   ideal location for those desiring to be at the forefront of healthcare
-  technology innovation.
-
-
-  ## Qualifications
-
-
-  Th...
+  technology innovation. Qualifications Th...
 location: 'Fullerton, CA'
 team: Software
 datePosted: '2024-12-28T10:14:23.140Z'

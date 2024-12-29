@@ -1,13 +1,13 @@
 ---
 position: React Native Engineer
 description: >-
-  Job Description: San Jose-based React Native Engineers, RTRO is calling upon
-  you! We are a well-funded Los Angeles startup looking to hire a highly skilled
+  Job Description: San Josebased React Native Engineers, RTRO is calling upon
+  you! We are a wellfunded Los Angeles startup looking to hire a highly skilled
   React Native Engineer to work remotely on our Ecommerce iOS application. While
   this role is fully remote, we are specifically seeking candidates from the
   vibrant tech hub of San Jose, CA. By joining our small but rapidly expanding
   team, you'll get the chance to make a significant impact on our innovative
-  product in a fast-paced startup enviro...
+  product in a fastpaced startup enviro...
 location: 'San Jose, CA'
 team: Mobile
 datePosted: '2024-12-28T08:41:11.326Z'

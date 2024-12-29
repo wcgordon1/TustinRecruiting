@@ -1,12 +1,11 @@
 ---
 position: Sales Operations Coordinator
 description: >-
-  ## Overview
-
-  Join our dynamic team in Anaheim, CA, as a Sales Operations Coordinator
-  specializing in healthcare tech. This role is integral to enhancing sales
-  productivity within digital health platforms, medical software, and healthcare
-  analytics. Lead a team of 4-6 technicians and travel within a 1...
+  Overview Join our dynamic team in Anaheim, CA, as a Sales Operations
+  Coordinator specializing in healthcare tech. This role is integral to
+  enhancing sales productivity within digital health platforms, medical
+  software, and healthcare analytics. Lead a team of 46 technicians and travel
+  within a 1...
 location: 'Anaheim, CA'
 team: Software
 schedule: Standard Business Hours

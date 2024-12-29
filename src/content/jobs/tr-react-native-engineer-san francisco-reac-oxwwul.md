@@ -1,13 +1,13 @@
 ---
 position: React Native Engineer
 description: >-
-  Position: RTRO, a thriving Los Angeles-based startup, is on the search for a
+  Position: RTRO, a thriving Los Angelesbased startup, is on the search for a
   proficient React Native Engineer to elevate our Ecommerce iOS application.
   Despite our LA roots, we're offering a remote position specifically for
   candidates located in San Francisco, CA. Join our compact yet expanding team
-  and leave your mark on a state-of-the-art product in a dynamic startup
-  atmosphere. Key Responsibilities: - Develop and sustain a high-performance
-  Ecommerce iOS application with React Native. - Work h...
+  and leave your mark on a stateoftheart product in a dynamic startup
+  atmosphere. Key Responsibilities:  Develop and sustain a highperformance
+  Ecommerce iOS application with React Native.  Work h...
 location: 'San Francisco, CA'
 team: Mobile
 datePosted: '2024-12-28T13:31:54.481Z'

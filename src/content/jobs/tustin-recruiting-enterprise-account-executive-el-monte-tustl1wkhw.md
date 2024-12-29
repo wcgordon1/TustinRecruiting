@@ -4,7 +4,7 @@ description: >-
   Our Client, a leading cybersecurity firm, is seeking an experienced Enterprise
   Account Executive for their location in El Monte, CA. Situated close to
   Rosemead, West Covina, and Baldwin Park, the role focuses on selling
-  cutting-edge enterprise security solutions to Fortune 500 companies. The
+  cuttingedge enterprise security solutions to Fortune 500 companies. The
   successful candidate will have a deep understanding of complex security
   frameworks such as NIST and ISO, as well as the ability to navigate compliance
   requirements. Proven experience selling to CISOs and IT ...

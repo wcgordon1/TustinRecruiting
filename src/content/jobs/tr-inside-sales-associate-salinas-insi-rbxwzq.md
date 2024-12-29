@@ -1,13 +1,10 @@
 ---
 position: Inside Sales Associate
 description: >-
-  ## Position Overview
-
-
-  We are seeking a dynamic and driven Inside Sales Associate to join our
-  innovative fintech team in Salinas, CA. This role is perfect for a sales
-  professional who thrives in a fast-paced environment and is eager to lead a
-  team within the ever-evolving financial services industry....
+  Position Overview We are seeking a dynamic and driven Inside Sales Associate
+  to join our innovative fintech team in Salinas, CA. This role is perfect for a
+  sales professional who thrives in a fastpaced environment and is eager to lead
+  a team within the everevolving financial services industry....
 location: 'Salinas, CA'
 team: Software
 schedule: Standard Business Hours

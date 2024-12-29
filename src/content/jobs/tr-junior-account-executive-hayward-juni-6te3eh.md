@@ -1,12 +1,10 @@
 ---
 position: Junior Account Executive
 description: >-
-  ## Position Overview
-
-  Join our dynamic team in Hayward, CA as a Junior Account Executive, where you
-  will drive growth and develop strategic relationships within the bustling
-  technology sector. This role is perfect for a motivated individual looking to
-  elevate their sales career in a fast-paced SaaS e...
+  Position Overview Join our dynamic team in Hayward, CA as a Junior Account
+  Executive, where you will drive growth and develop strategic relationships
+  within the bustling technology sector. This role is perfect for a motivated
+  individual looking to elevate their sales career in a fastpaced SaaS e...
 location: 'Hayward, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

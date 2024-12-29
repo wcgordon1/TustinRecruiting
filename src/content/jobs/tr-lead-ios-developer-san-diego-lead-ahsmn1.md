@@ -1,11 +1,11 @@
 ---
 position: Lead iOS Developer
 description: >-
-  We are a rapidly growing, well-funded FinTech startup based in Los Angeles,
+  We are a rapidly growing, wellfunded FinTech startup based in Los Angeles,
   California. Our mission is to revolutionize the way people interact with their
   finances through digital payments, mobile banking, and cryptocurrency. Our
   team is looking for a Remote Lead iOS Developer, based anywhere within the US,
-  to join our lean, dynamic mobile team of 4-6 engineers. The successful
+  to join our lean, dynamic mobile team of 46 engineers. The successful
   candidate will have a deep understanding of iOS development, experience
   working remotely, and a passion for engineering ...
 location: 'San Diego, CA'

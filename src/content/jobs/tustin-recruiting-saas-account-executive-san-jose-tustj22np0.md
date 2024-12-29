@@ -5,8 +5,8 @@ description: >-
   Executive to join their dynamic team in San Jose, CA. Situated in the heart of
   Silicon Valley, San Jose is surrounded by several prominent cities such as
   Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Cupertino. This role is
-  geared towards individuals who excel in full-cycle enterprise software sales,
-  with deal sizes ranging from $100K-$500K annually. The ideal candidate is
+  geared towards individuals who excel in fullcycle enterprise software sales,
+  with deal sizes ranging from $100K$500K annually. The ideal candidate is
   expected to have experience selling complex te...
 location: 'San Jose, CA'
 team: Software

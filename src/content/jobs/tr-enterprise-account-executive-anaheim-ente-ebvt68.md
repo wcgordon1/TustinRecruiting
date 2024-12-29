@@ -1,22 +1,14 @@
 ---
 position: Enterprise Account Executive
 description: >-
-  ## Overview
-
-
-  Join our dynamic MarTech company as an Enterprise Account Executive at our
-  on-site location in Anaheim, CA. This role offers the opportunity to drive
-  growth in a vibrant market, collaborating with cutting-edge marketing
+  Overview Join our dynamic MarTech company as an Enterprise Account Executive
+  at our onsite location in Anaheim, CA. This role offers the opportunity to
+  drive growth in a vibrant market, collaborating with cuttingedge marketing
   technology platforms, analytics companies, and automation tools. You'll lead a
-  team of 4-6 technicians, working standard business hours with regular travel
-  to nearby major cities. This position is pivotal for expanding our reach and
-  enhancing our technological offerings in the MarTech industry.
-
-
-  ## Key Responsibilities
-
-
-  - **Client Engagement**: Develop and maintain...
+  team of 46 technicians, working standard business hours with regular travel to
+  nearby major cities. This position is pivotal for expanding our reach and
+  enhancing our technological offerings in the MarTech industry. Key
+  Responsibilities  Client Engagement: Develop and maintain...
 location: 'Anaheim, CA'
 team: Software
 schedule: Standard Business Hours

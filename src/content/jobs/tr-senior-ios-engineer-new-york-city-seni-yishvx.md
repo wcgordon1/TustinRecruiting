@@ -1,13 +1,13 @@
 ---
 position: Senior iOS Engineer
 description: >-
-  Our company, a well-funded LA-based startup in the consumer tech industry, is
+  Our company, a wellfunded LAbased startup in the consumer tech industry, is
   looking for an experienced Remote Senior iOS Engineer to join our dynamic
   team. We're driving innovation in the social media landscape, providing
-  powerful solutions for digital content creators and mobile-first consumers. We
+  powerful solutions for digital content creators and mobilefirst consumers. We
   foster a remote work culture that emphasizes virtual collaboration and
   distributed team dynamics. If you're passionate about mobile app development
-  and thrive in a challenging, fast-paced startup e...
+  and thrive in a challenging, fastpaced startup e...
 location: 'New York City, NY'
 team: Mobile
 schedule: Full Time

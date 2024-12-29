@@ -4,7 +4,7 @@ description: >-
   Our Client, a reputable Third Party Logistics company based in San Francisco,
   CA is seeking a highly skilled Business Development Manager. This role
   presents an excellent opportunity for a seasoned professional who is
-  well-versed in supply chain operations, contract negotiations, and RFP
+  wellversed in supply chain operations, contract negotiations, and RFP
   processes. The ideal candidate will have a proven track record of managing
   large logistics accounts and developing customized supply chain solutions.
   Located in the vibrant city of San Francisco, this role offer...

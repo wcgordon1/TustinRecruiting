@@ -1,15 +1,13 @@
 ---
 position: BDR - Tech Sales
 description: >-
-  ## Position Overview
-
-  The Business Development Representative (BDR) role in our tech sales team is
-  an entry-level position based in Portland, OR, ideal for ambitious individuals
-  looking to kick-start their career in the thriving tech industry. Our BDRs
-  work within the dynamic world of SaaS, engaging with enterprise software
-  companies, cloud platforms, and B2B tech organizations. Positioned at the
-  forefront of our sales strategy, our BDRs are instrumental in generating
-  leads, nurturing client rela...
+  Position Overview The Business Development Representative (BDR) role in our
+  tech sales team is an entrylevel position based in Portland, OR, ideal for
+  ambitious individuals looking to kickstart their career in the thriving tech
+  industry. Our BDRs work within the dynamic world of SaaS, engaging with
+  enterprise software companies, cloud platforms, and B2B tech organizations.
+  Positioned at the forefront of our sales strategy, our BDRs are instrumental
+  in generating leads, nurturing client rela...
 location: 'Portland, OR'
 team: Software
 schedule: Standard Business Hours

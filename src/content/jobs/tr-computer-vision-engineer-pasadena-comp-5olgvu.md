@@ -1,13 +1,10 @@
 ---
 position: Computer Vision Engineer
 description: >-
-  # Remote Computer Vision Engineer - Join Our Innovative Security Software
-  Team!
-
-
+  Remote Computer Vision Engineer  Join Our Innovative Security Software Team!
   Nestled in the vibrant landscape of Pasadena, California, yet offering the
   freedom of a fully remote lifestyle, our company is a beacon of innovation in
-  the world of security software. We specialize in building cutting-edge
+  the world of security software. We specialize in building cuttingedge
   cybersecurity solutions that empower businesses to protect their digital
   assets with confidence. As a Computer Vision Engineer in our team, you'll have
   the opportunity to work remotely from anywhere within the US, playing a

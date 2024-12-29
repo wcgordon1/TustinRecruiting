@@ -1,29 +1,17 @@
 ---
 position: Sales Operations Manager
 description: >-
-  ## Position Overview
-
-
-  Join a dynamic MarTech company as a Sales Operations Manager in Torrance, CA,
-  where you will play a pivotal role in optimizing sales processes and driving
-  technology-driven efficiencies. This is an on-site position that requires a
-  keen understanding of marketing platforms, analytics, and automation tools,
-  ensuring that you are at the forefront of industry advancements. As a leader
-  in our team, you will be responsible for implementing strategies that enhance
-  productivity and support our sales objectives.
-
-
-  ---
-
-
-  ## Key Responsibilities
-
-
-  - **Lead and Develop**: Manage and mentor a team of 4-6 technicians, fostering
-  a collaborative and high-performance culture.
-
-  - **Optimize Processes**: Design and implement sales processes that utilize
-  MarTech tools to increase efficiency ...
+  Position Overview Join a dynamic MarTech company as a Sales Operations Manager
+  in Torrance, CA, where you will play a pivotal role in optimizing sales
+  processes and driving technologydriven efficiencies. This is an onsite
+  position that requires a keen understanding of marketing platforms, analytics,
+  and automation tools, ensuring that you are at the forefront of industry
+  advancements. As a leader in our team, you will be responsible for
+  implementing strategies that enhance productivity and support our sales
+  objectives.  Key Responsibilities  Lead and Develop: Manage and mentor a team
+  of 46 technicians, fostering a collaborative and highperformance culture. 
+  Optimize Processes: Design and implement sales processes that utilize MarTech
+  tools to increase efficiency ...
 location: 'Torrance, CA'
 team: Software
 schedule: Standard Business Hours

@@ -1,13 +1,13 @@
 ---
 position: React Native Engineer
 description: >-
-  We are a well-funded startup based in Los Angeles, working in the FinTech
+  We are a wellfunded startup based in Los Angeles, working in the FinTech
   space. We are dedicated to creating seamless mobile banking experiences for
   our users, integrating digital payments, and catering to crypto enthusiasts.
   We are currently seeking an experienced React Native Engineer to join our team
-  remotely from New York City. The position involves leading a pod of 3-4 mobile
+  remotely from New York City. The position involves leading a pod of 34 mobile
   developers and focusing on product development. Applicants should ideally have
-  3-6 years of experience in the field...
+  36 years of experience in the field...
 location: 'New York City, NY'
 team: Mobile
 schedule: Full Time

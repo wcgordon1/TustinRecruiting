@@ -2,12 +2,12 @@
 position: DevOps Engineer
 description: >-
   Are you a problem solver with a passion for infrastructure at scale? Our
-  client, a titan in the e-commerce domain located in the vibrant city of
+  client, a titan in the ecommerce domain located in the vibrant city of
   Berkeley, CA, is seeking a seasoned DevOps Engineer to join their diverse
   team. This is your chance to work in the dynamic tech hub of the East Bay,
   surrounded by neighboring cities like Oakland, Emeryville, and Albany. If you
-  thrive in high-pressure situations, enjoy dealing with the challenges that
-  come with high-traffic periods, and want to make a ta...
+  thrive in highpressure situations, enjoy dealing with the challenges that come
+  with hightraffic periods, and want to make a ta...
 location: 'Berkeley, CA'
 team: Software
 datePosted: '2024-12-26T16:53:45.206Z'

@@ -1,17 +1,13 @@
 ---
 position: DevOps Engineer
 description: >-
-  Our client, a well-known e-commerce platform, is seeking a DevOps Engineer to
+  Our client, a wellknown ecommerce platform, is seeking a DevOps Engineer to
   join their team in Mountain View, California. This bustling city, nestled
   between Sunnyvale, Palo Alto, and Los Altos, offers the perfect blend of a
-  tech-driven, dynamic environment and California charm. As a DevOps Engineer,
+  techdriven, dynamic environment and California charm. As a DevOps Engineer,
   you will play a critical role in maintaining and scaling their infrastructure
-  during high-traffic periods.
-
-
-  ## Qualifications
-
-  - Proven experience as a DevOps Engineer, preferably in a large scale ...
+  during hightraffic periods. Qualifications  Proven experience as a DevOps
+  Engineer, preferably in a large scale ...
 location: 'Mountain View, CA'
 team: Software
 datePosted: '2024-12-28T02:10:33.220Z'

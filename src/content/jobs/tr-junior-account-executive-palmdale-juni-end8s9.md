@@ -1,13 +1,10 @@
 ---
 position: Junior Account Executive
 description: >-
-  ## Position Overview
-
-
-  Join our dynamic and forward-thinking team as a **Junior Account Executive**
-  in the vibrant city of Palmdale, CA. This entry-level role is ideal for
-  individuals passionate about technology, marketing, and sales. You'll immerse
-  yourself in the MarTech industry, working with lead...
+  Position Overview Join our dynamic and forwardthinking team as a Junior
+  Account Executive in the vibrant city of Palmdale, CA. This entrylevel role is
+  ideal for individuals passionate about technology, marketing, and sales.
+  You'll immerse yourself in the MarTech industry, working with lead...
 location: 'Palmdale, CA'
 team: Software
 schedule: Standard Business Hours

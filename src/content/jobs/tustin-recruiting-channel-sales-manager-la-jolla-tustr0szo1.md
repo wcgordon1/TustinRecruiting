@@ -6,15 +6,8 @@ description: >-
   opportunity for someone with a strategic mind and a passion for partnership
   development. The city is surrounded by several neighboring cities including
   Del Mar, Solana Beach, and San Diego, offering an attractive location for
-  those seeking a balance of city life and coastal charm.
-
-
-  ## Qualifications
-
-
-  The ideal candidate for this role will have:
-
-  ...
+  those seeking a balance of city life and coastal charm. Qualifications The
+  ideal candidate for this role will have: ...
 location: 'La Jolla, CA'
 team: Software
 datePosted: '2024-12-27T18:39:34.927Z'

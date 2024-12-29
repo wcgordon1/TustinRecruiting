@@ -20,8 +20,10 @@
     "update-salary-unit": "node scripts/update-salary-unit.js",
     "update-oldest": "node scripts/update-oldest-jobs.js",
     "notify-updated": "node scripts/notify-updated-jobs.js",
+    "update-llms": "node scripts/update-llms-jobs.js",
     "list-jobs": "node scripts/list-jobs.js",
-    "fix-team-name": "node scripts/fix-team-name.js"
+    "fix-team-name": "node scripts/fix-team-name.js",
+    "remove-description-markdown": "node scripts/remove-description-markdown.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",

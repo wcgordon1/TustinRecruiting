@@ -1,23 +1,14 @@
 ---
 position: Systems Administrator
 description: >-
-  ## Position Overview
-
-
-  We are seeking a dedicated and skilled Systems Administrator to join our
-  dynamic on-site team in Los Angeles, CA. As part of a leading MarTech company
-  specializing in marketing platforms, analytics, and automation tools, you will
-  be integral in ensuring our systems operate seamlessly. This role offers the
-  opportunity to be at the forefront of technology in a vibrant and fast-paced
-  industry, contributing to impactful solutions in a city renowned for its tech
-  innovation.
-
-
-  ## Key Responsibilities
-
-
-  As a Systems Administrator, you will be expected to manage and support our
-  IT...
+  Position Overview We are seeking a dedicated and skilled Systems Administrator
+  to join our dynamic onsite team in Los Angeles, CA. As part of a leading
+  MarTech company specializing in marketing platforms, analytics, and automation
+  tools, you will be integral in ensuring our systems operate seamlessly. This
+  role offers the opportunity to be at the forefront of technology in a vibrant
+  and fastpaced industry, contributing to impactful solutions in a city renowned
+  for its tech innovation. Key Responsibilities As a Systems Administrator, you
+  will be expected to manage and support our IT...
 location: 'Los Angeles, CA'
 team: Software
 schedule: Standard Business Hours

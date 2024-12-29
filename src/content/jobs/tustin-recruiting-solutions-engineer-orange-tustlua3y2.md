@@ -6,13 +6,8 @@ description: >-
   role is conveniently located near neighboring cities such as Santa Ana,
   Anaheim, and Garden Grove. The successful candidate will have the opportunity
   to bridge the technical and sales teams, implementing complex ad serving
-  solutions in a fast-paced, innovative environment.
-
-
-  ## Qualifications
-
-
-  - Strong programming skills, particularly in Python an...
+  solutions in a fastpaced, innovative environment. Qualifications  Strong
+  programming skills, particularly in Python an...
 location: 'Orange, CA'
 team: Software
 datePosted: '2024-12-27T12:16:34.021Z'

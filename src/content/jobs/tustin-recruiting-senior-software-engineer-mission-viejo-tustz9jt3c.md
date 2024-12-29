@@ -6,12 +6,8 @@ description: >-
   Orange County, Mission Viejo is just a short commute from neighboring cities
   such as Irvine, Laguna Niguel, and Lake Forest. The ideal candidate will be
   proficient in the development of scalable backend systems for electronic
-  health records and patient data management.
-
-
-  ## Qualifications
-
-  - Bachelor's degree in Computer Science or a related field....
+  health records and patient data management. Qualifications  Bachelor's degree
+  in Computer Science or a related field....
 location: 'Mission Viejo, CA'
 team: Software
 datePosted: '2024-12-28T07:38:49.485Z'

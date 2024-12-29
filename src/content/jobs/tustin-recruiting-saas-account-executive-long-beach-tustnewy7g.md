@@ -2,8 +2,8 @@
 position: SaaS Account Executive
 description: >-
   Our Client, a leading B2B SaaS company located in Long Beach, CA, is seeking
-  an Account Executive. This dynamic role centers around full-cycle enterprise
-  software sales with annual deal sizes ranging from $100K-$500K. Our Client is
+  an Account Executive. This dynamic role centers around fullcycle enterprise
+  software sales with annual deal sizes ranging from $100K$500K. Our Client is
   ideally situated for those residing in neighboring cities such as Carson,
   Lakewood, Los Alamitos, and Seal Beach. The ideal candidate will bring a
   wealth of experience selling complex technical solutions to both IT and

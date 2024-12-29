@@ -5,7 +5,7 @@ description: >-
   Account Executive to join their team in Novato, California. This role is key
   to driving the growth and success of the company by selling enterprise
   security solutions to Fortune 500 companies. The Enterprise Account Executive
-  will have the opportunity to work in a thriving, tech-driven environment
+  will have the opportunity to work in a thriving, techdriven environment
   surrounded by cities like Petaluma, San Rafael, and Vallejo. The candidate
   should have a deep understanding of complex secu...
 location: 'Novato, CA'

@@ -1,14 +1,12 @@
 ---
 position: Full Stack Developer
 description: >-
-  ## Overview
-
-  Join our innovative MarTech company as a Full Stack Developer, working 100%
-  remotely from anywhere in the U.S. We specialize in marketing platforms,
-  analytics, and automation tools. As a member of our dynamic 10+ person
-  regional team, you'll collaborate virtually to design and implement
-  cutting-edge solutions. No travel is required, and you'll work standard
-  business hours. Gain industry-focused training and leverage growth
+  Overview Join our innovative MarTech company as a Full Stack Developer,
+  working 100% remotely from anywhere in the U.S. We specialize in marketing
+  platforms, analytics, and automation tools. As a member of our dynamic 10+
+  person regional team, you'll collaborate virtually to design and implement
+  cuttingedge solutions. No travel is required, and you'll work standard
+  business hours. Gain industryfocused training and leverage growth
   opportuniti...
 location: 'Burbank, CA'
 team: Software

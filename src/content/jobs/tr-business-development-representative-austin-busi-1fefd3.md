@@ -1,16 +1,13 @@
 ---
 position: Business Development Representative
 description: >-
-  ## About the Role
-
-
-  In the vibrant heart of Austin, Texas, where innovation thrives and the tech
-  industry flourishes, a unique opportunity awaits a dynamic individual at the
-  crossroads of healthcare and technology. As a Business Development
-  Representative, you will be the catalyst for driving positive change within
-  the realm of digital health platforms, medical software, and healthcare
-  analytics. Imagine starting your day, not just with a cup of coffee, but with
-  the motivation of knowing you are ...
+  About the Role In the vibrant heart of Austin, Texas, where innovation thrives
+  and the tech industry flourishes, a unique opportunity awaits a dynamic
+  individual at the crossroads of healthcare and technology. As a Business
+  Development Representative, you will be the catalyst for driving positive
+  change within the realm of digital health platforms, medical software, and
+  healthcare analytics. Imagine starting your day, not just with a cup of
+  coffee, but with the motivation of knowing you are ...
 location: 'Austin, TX'
 team: Software
 schedule: Flexible Hours

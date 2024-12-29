@@ -1,12 +1,10 @@
 ---
 position: SaaS Account Executive
 description: >-
-  ## Overview
-
-  Join a dynamic and growing security software company in Murrieta, CA, as a
-  SaaS Account Executive. Leverage your sales expertise and certifications to
-  drive business success in the fast-evolving cybersecurity landscape. Be part
-  of an innovative team working on cutting-edge solutions in i...
+  Overview Join a dynamic and growing security software company in Murrieta, CA,
+  as a SaaS Account Executive. Leverage your sales expertise and certifications
+  to drive business success in the fastevolving cybersecurity landscape. Be part
+  of an innovative team working on cuttingedge solutions in i...
 location: 'Murrieta, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

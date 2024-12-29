@@ -5,16 +5,10 @@ description: >-
   Technology. Our company is dedicated to transforming digital health platforms,
   medical software, and healthcare analytics. We are seeking a motivated and
   experienced individual who thrives in a remote working environment and who can
-  lead our distributed team effectively.
-
-
-  ## Position Overview
-
-
-  As an AI Product Manager, you will play a critical role in driving the
-  development and deployment of cutting-edge AI solutions in the healthcare
-  sector. You will be working remotely, leveraging your expertise to oversee a
-  dedica...
+  lead our distributed team effectively. Position Overview As an AI Product
+  Manager, you will play a critical role in driving the development and
+  deployment of cuttingedge AI solutions in the healthcare sector. You will be
+  working remotely, leveraging your expertise to oversee a dedica...
 location: 'Santa Ana, CA'
 team: Software
 schedule: Standard Business Hours

@@ -4,19 +4,14 @@ description: >-
   Located in the vibrant city of Riverside, CA, our company is seeking an
   enthusiastic and dedicated Inside Sales Associate to join our dynamic
   healthcare tech team. As a key player in a specialized group, you'll work with
-  cutting-edge digital health platforms, medical software, and healthcare
+  cuttingedge digital health platforms, medical software, and healthcare
   analytics solutions. This role offers the opportunity to thrive in a
-  forward-thinking environment while contributing significantly to the success
-  of our innovative products.
-
-
-  ## Position Overview
-
-
-  Join our team as an Inside Sales Associate, where you will engage with
-  healthcare professionals across Riverside, making impactful connections and
-  driving sales initiatives. With a work schedule that perfectly balances
-  productivity and personal time, you'll be part of a collaborative...
+  forwardthinking environment while contributing significantly to the success of
+  our innovative products. Position Overview Join our team as an Inside Sales
+  Associate, where you will engage with healthcare professionals across
+  Riverside, making impactful connections and driving sales initiatives. With a
+  work schedule that perfectly balances productivity and personal time, you'll
+  be part of a collaborative...
 location: 'Riverside, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

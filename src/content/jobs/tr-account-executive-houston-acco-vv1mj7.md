@@ -1,12 +1,10 @@
 ---
 position: Account Executive
 description: >-
-  ## Position Overview
-
-  We are searching for a dynamic and ambitious Account Executive to join our
-  innovative team in Houston, TX. This role is pivotal in our SaaS operations,
-  supporting a suite of enterprise software solutions for cloud platforms and
-  B2B tech companies. As part of a specialized group ...
+  Position Overview We are searching for a dynamic and ambitious Account
+  Executive to join our innovative team in Houston, TX. This role is pivotal in
+  our SaaS operations, supporting a suite of enterprise software solutions for
+  cloud platforms and B2B tech companies. As part of a specialized group ...
 location: 'Houston, TX'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

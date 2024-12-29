@@ -7,11 +7,7 @@ description: >-
   Fremont, Union City, and Hayward. This exciting opportunity will have you
   working at the intersection of technology and sales, implementing complex ad
   serving solutions while interacting with dynamic teams and clients.
-
-
-  ## Qualifications
-
-  To excel in this role, you will...
+  Qualifications To excel in this role, you will...
 location: 'Newark, CA'
 team: Software
 datePosted: '2024-12-27T22:28:02.582Z'

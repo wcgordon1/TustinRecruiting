@@ -2,12 +2,12 @@
 position: SaaS Account Executive
 description: >-
   Our Client, a B2B SaaS company, is actively seeking a driven and experienced
-  Account Executive for a full-time position based in their San Diego, CA
-  office. This vibrant city is surrounded by the neighboring cities of Chula
-  Vista, El Cajon, and Carlsbad. As an Account Executive, you will focus on
-  full-cycle enterprise software sales with deal sizes ranging from $100K-$500K
-  annually. This role offers incredible growth opportunities for individuals
-  with a passion for selling complex technical solu...
+  Account Executive for a fulltime position based in their San Diego, CA office.
+  This vibrant city is surrounded by the neighboring cities of Chula Vista, El
+  Cajon, and Carlsbad. As an Account Executive, you will focus on fullcycle
+  enterprise software sales with deal sizes ranging from $100K$500K annually.
+  This role offers incredible growth opportunities for individuals with a
+  passion for selling complex technical solu...
 location: 'San Diego, CA'
 team: Software
 datePosted: '2024-12-27T06:17:11.726Z'

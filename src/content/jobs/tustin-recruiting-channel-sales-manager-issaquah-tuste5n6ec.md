@@ -5,13 +5,9 @@ description: >-
   world of channel sales management. This vibrant city is nestled between
   Bellevue, Sammamish, and Redmond, offering a mix of urban convenience and
   natural beauty. The role focuses on building and managing strategic reseller
-  partnerships, creating a unique opportunity for those who love to craft
-  win-win situations and thrive in fast-paced environments. 
-
-
-  ## Qualifications
-
-  Our client is seeking a dynamic and dedicated Channel...
+  partnerships, creating a unique opportunity for those who love to craft winwin
+  situations and thrive in fastpaced environments. Qualifications Our client is
+  seeking a dynamic and dedicated Channel...
 location: 'Issaquah, WA'
 team: Software
 datePosted: '2024-12-27T07:52:53.319Z'

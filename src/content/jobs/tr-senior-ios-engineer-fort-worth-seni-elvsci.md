@@ -1,18 +1,13 @@
 ---
 position: Senior iOS Engineer
 description: >-
-  Our company is a well-funded startup based in Los Angeles, California. We
+  Our company is a wellfunded startup based in Los Angeles, California. We
   specialize in FinTech, with an emphasis on mobile banking and digital payment
   solutions for crypto enthusiasts. We're looking for a remote, Senior iOS
-  Engineer to join our dynamic team and lead a pod of 3-4 mobile developers. The
+  Engineer to join our dynamic team and lead a pod of 34 mobile developers. The
   successful candidate will possess strong leadership skills, a deep
-  understanding of iOS development, and a passion for growing with a fast-paced
-  startup.
-
-
-  ## Position Overview
-
-  As a Remote Senior i...
+  understanding of iOS development, and a passion for growing with a fastpaced
+  startup. Position Overview As a Remote Senior i...
 location: 'Fort Worth, TX'
 team: Mobile
 schedule: Full Time

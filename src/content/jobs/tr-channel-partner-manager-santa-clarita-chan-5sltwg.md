@@ -1,15 +1,12 @@
 ---
 position: Channel Partner Manager
 description: >-
-  ## Position Overview
-
-
-  Join a dynamic Healthcare Tech company in Santa Clarita, CA, as a Channel
-  Partner Manager. This on-site role offers you the chance to be part of a
-  cutting-edge digital health team, focusing on innovative solutions through
-  digital health platforms, medical software, and healthcare analytics. As a key
-  member of our expanding regional team, you will play an integral role in
-  building and maintaining strategic relationships with ...
+  Position Overview Join a dynamic Healthcare Tech company in Santa Clarita, CA,
+  as a Channel Partner Manager. This onsite role offers you the chance to be
+  part of a cuttingedge digital health team, focusing on innovative solutions
+  through digital health platforms, medical software, and healthcare analytics.
+  As a key member of our expanding regional team, you will play an integral role
+  in building and maintaining strategic relationships with ...
 location: 'Santa Clarita, CA'
 team: Software
 schedule: Standard Business Hours

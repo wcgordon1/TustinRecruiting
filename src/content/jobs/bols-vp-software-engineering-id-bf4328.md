@@ -1,13 +1,13 @@
 ---
 position: VP Software Engineering
 description: >-
-  Bola AI is seeking a visionary and experienced **Vice President of Software
-  Engineering** to lead our innovative engineering team in **Huntington Beach,
-  CA**. As a key member of our leadership team, you will drive the strategic
-  direction of our software development efforts, overseeing the creation of
-  cutting-edge Voice-AI solutions that are transforming dental practices across
-  the United States. This hybrid role offers the flexibility to work remotely
-  part-time while collaborating on-site with a dynamic and talented team
+  Bola AI is seeking a visionary and experienced Vice President of Software
+  Engineering to lead our innovative engineering team in Huntington Beach, CA.
+  As a key member of our leadership team, you will drive the strategic direction
+  of our software development efforts, overseeing the creation of cuttingedge
+  VoiceAI solutions that are transforming dental practices across the United
+  States. This hybrid role offers the flexibility to work remotely parttime
+  while collaborating onsite with a dynamic and talented team
 location: 'Huntington Beach, CA'
 team: Artificial Intelligence
 datePosted: '2024-12-28T14:49:45.626Z'

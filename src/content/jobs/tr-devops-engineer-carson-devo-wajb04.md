@@ -3,32 +3,15 @@ position: DevOps Engineer
 description: >-
   This is an exciting opportunity for a DevOps Engineer to join our innovative
   fintech company, fully remote from anywhere in the United States. You will be
-  part of a cutting-edge team, driving technology solutions in the fast-paced
+  part of a cuttingedge team, driving technology solutions in the fastpaced
   financial services sector. Collaborate with a talented team, leveraging the
   latest technologies to revolutionize digital banking and payment processing.
-
-
-  ## Overview
-
-  - Position: DevOps Engineer
-
-  - Location: 100% Remote (US-Based)
-
-  - Industry: Fintech (Financial Services, Payment Processors, Digital Banking)
-
-  - Team: Collaborate within a specialized team of 3-5 professionals
-
-  - Schedule: Standard Business Hours
-
-  - Travel: No travel required
-
-
-  ## Key Responsibilities
-
-  - Design, implement, and manage scalable infrastructure using modern DevOps
-  practices
-
-  - Collaborate with ...
+  Overview  Position: DevOps Engineer  Location: 100% Remote (USBased) 
+  Industry: Fintech (Financial Services, Payment Processors, Digital Banking) 
+  Team: Collaborate within a specialized team of 35 professionals  Schedule:
+  Standard Business Hours  Travel: No travel required Key Responsibilities 
+  Design, implement, and manage scalable infrastructure using modern DevOps
+  practices  Collaborate with ...
 location: 'Carson, CA'
 team: Software
 schedule: Standard Business Hours

@@ -1,29 +1,17 @@
 ---
 position: BDR - Tech Sales
 description: >-
-  ## Position Overview
-
-
-  Join our dynamic team as a Business Development Representative (BDR) in the
-  tech sales division, located in the vibrant city of Long Beach, CA. In this
-  entry-level position, you will become an integral part of our ambitious sales
-  team, specializing in security software, including cybersecurity solutions,
-  identity management, and cloud security. Enjoy flexible working hours and gain
-  hands-on experience across multiple project teams. Regular travel to nearby
-  major cities offers a chance to expand your professional network and
-  experience the diverse tech landscape.
-
-
-  ## Key Responsibilities
-
-
-  - Identify and qualify potential customers through outbound and inbound
-  prospecting.
-
-  - Collaborate with various project teams to align sales strategies with
-  product offerings.
-
-  - Manag...
+  Position Overview Join our dynamic team as a Business Development
+  Representative (BDR) in the tech sales division, located in the vibrant city
+  of Long Beach, CA. In this entrylevel position, you will become an integral
+  part of our ambitious sales team, specializing in security software, including
+  cybersecurity solutions, identity management, and cloud security. Enjoy
+  flexible working hours and gain handson experience across multiple project
+  teams. Regular travel to nearby major cities offers a chance to expand your
+  professional network and experience the diverse tech landscape. Key
+  Responsibilities  Identify and qualify potential customers through outbound
+  and inbound prospecting.  Collaborate with various project teams to align
+  sales strategies with product offerings.  Manag...
 location: 'Long Beach, CA'
 team: Software
 schedule: Flexible Hours

@@ -1,7 +1,7 @@
 ---
 position: Account Executive
 description: >-
-  Hey there! We're chatting on behalf of our client, a top-notch Third Party
+  Hey there! We're chatting on behalf of our client, a topnotch Third Party
   Logistics company based out in the sunny Huntington Beach, CA. If you're
   familiar with the area, it's nestled right alongside neighboring cities like
   Newport Beach, Costa Mesa, and Fountain Valley. They're on the lookout for an

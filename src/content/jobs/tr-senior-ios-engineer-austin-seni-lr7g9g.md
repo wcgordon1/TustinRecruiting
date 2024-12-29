@@ -1,12 +1,12 @@
 ---
 position: Senior iOS Engineer
 description: >-
-  Our company, a well-funded startup based in Los Angeles, is on a mission to
+  Our company, a wellfunded startup based in Los Angeles, is on a mission to
   revolutionize the way people interact and create in the digital world. We're
   looking for an experienced and passionate Senior iOS Engineer to join our
   remote team based out of Austin, Texas. You will be working on critical
-  components of our consumer tech-focused apps, which are used by millions of
-  social media users, digital content creators, and mobile-first consumers
+  components of our consumer techfocused apps, which are used by millions of
+  social media users, digital content creators, and mobilefirst consumers
   worldwide. Our engineering team is committed to exce...
 location: 'Austin, TX'
 team: Mobile

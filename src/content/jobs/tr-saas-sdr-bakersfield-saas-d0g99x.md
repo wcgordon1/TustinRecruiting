@@ -1,23 +1,17 @@
 ---
 position: SaaS SDR
 description: >-
-  ## About the Role
-
-
-  Nestled in the heart of Bakersfield, California, where the tech industry is
-  gradually taking root against the backdrop of this oil-rich city, we are on
-  the hunt for a dynamic Sales Development Representative (SDR) to join our
-  budding fintech enterprise. As a SaaS-focused company, our mission is to
-  revolutionize financial services, making them more accessible and efficient
+  About the Role Nestled in the heart of Bakersfield, California, where the tech
+  industry is gradually taking root against the backdrop of this oilrich city,
+  we are on the hunt for a dynamic Sales Development Representative (SDR) to
+  join our budding fintech enterprise. As a SaaSfocused company, our mission is
+  to revolutionize financial services, making them more accessible and efficient
   for our clientele, ranging from savvy startups to established institutions.
-  This position is crafted for go-getters with a knack for forging relationships
-  and a penchant for solving the financial puzzles that today’s fast-paced world
-  presents.
-
-
-  With an experience requirement of just 0-2 years, this is an incredible
-  opportunity for those who are freshly minted from academia, or those who’ve
-  dipped their ...
+  This position is crafted for gogetters with a knack for forging relationships
+  and a penchant for solving the financial puzzles that today’s fastpaced world
+  presents. With an experience requirement of just 02 years, this is an
+  incredible opportunity for those who are freshly minted from academia, or
+  those who’ve dipped their ...
 location: 'Bakersfield, CA'
 team: Software
 schedule: Flexible Hours

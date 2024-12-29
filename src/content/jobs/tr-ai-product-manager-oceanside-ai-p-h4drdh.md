@@ -7,16 +7,11 @@ description: >-
   revolutionizing financial services, payment processors, and digital banking.
   Despite its Oceanside roots, this groundbreaking company is at the forefront
   of remote work, offering a 100% remote AI Product Manager position that could
-  be your next career-defining move.
-
-
-  ## About the Role
-
-
-  As an AI Product Manager, you will play a pivotal role in shaping the future
-  of financial technology. Your work will transcend geographical boundaries, as
-  you collaborate with diverse teams from across the United States, all from the
-  comfort of your home. This position isn't just about ...
+  be your next careerdefining move. About the Role As an AI Product Manager, you
+  will play a pivotal role in shaping the future of financial technology. Your
+  work will transcend geographical boundaries, as you collaborate with diverse
+  teams from across the United States, all from the comfort of your home. This
+  position isn't just about ...
 location: 'Oceanside, CA'
 team: Software
 schedule: Standard Business Hours

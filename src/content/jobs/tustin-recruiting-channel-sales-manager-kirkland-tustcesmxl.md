@@ -2,18 +2,12 @@
 position: Channel Sales Manager
 description: >-
   Our client, a leading tech firm in Kirkland, WA, is seeking an experienced
-  Channel Sales Manager to manage and grow their network of value-added
-  resellers and system integrators. This role is perfectly suited for those who
-  thrive in building and nurturing business partnerships. Kirkland is a vibrant
-  city located on the shores of Lake Washington, just east of Seattle. The city
-  is well-connected to neighboring cities such as Bellevue, Redmond, and
-  Bothell.
-
-
-  ## Qualifications
-
-
-  - Proven experience i...
+  Channel Sales Manager to manage and grow their network of valueadded resellers
+  and system integrators. This role is perfectly suited for those who thrive in
+  building and nurturing business partnerships. Kirkland is a vibrant city
+  located on the shores of Lake Washington, just east of Seattle. The city is
+  wellconnected to neighboring cities such as Bellevue, Redmond, and Bothell.
+  Qualifications  Proven experience i...
 location: 'Kirkland, WA'
 team: Software
 datePosted: '2024-12-27T06:16:54.344Z'

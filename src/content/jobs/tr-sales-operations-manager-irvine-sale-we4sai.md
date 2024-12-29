@@ -1,15 +1,12 @@
 ---
 position: Sales Operations Manager
 description: >-
-  **On-site Position with Fintech Focused Company**
-
-
-  Nestled in the heart of Irvine, CA, a vibrant community known for its
-  innovative spirit and proximity to the bustling tech hubs of Southern
-  California, an exciting opportunity awaits you. As the demand for cutting-edge
-  financial services and digital banking solutions grows, so does the need for
-  talented professionals who can navigate and drive the complex landscape of
-  fintech. Our company, a pion...
+  Onsite Position with Fintech Focused Company Nestled in the heart of Irvine,
+  CA, a vibrant community known for its innovative spirit and proximity to the
+  bustling tech hubs of Southern California, an exciting opportunity awaits you.
+  As the demand for cuttingedge financial services and digital banking solutions
+  grows, so does the need for talented professionals who can navigate and drive
+  the complex landscape of fintech. Our company, a pion...
 location: 'Irvine, CA'
 team: Software
 schedule: Standard Business Hours

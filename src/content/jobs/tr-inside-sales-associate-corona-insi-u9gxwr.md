@@ -1,24 +1,12 @@
 ---
 position: Inside Sales Associate
 description: >-
-  **Location:** Corona, CA  
-
-  **Schedule:** Second Shift (2:00 PM - 10:30 PM)  
-
-  **Travel:** Up to 100-mile radius  
-
-  **Team Structure:** Leading a team of 4-6 technicians  
-
-  **Industry:** MarTech (Marketing Platforms, Analytics Companies, Automation
-  Tools)
-
-
-  ## Position Overview
-
-
-  Join our dynamic team as an Inside Sales Associate, where you will play a
-  pivotal role in driving sales and fostering strong customer relationships in
-  the fast-paced MarTech industry. Located in Coro...
+  Location: Corona, CA Schedule: Second Shift (2:00 PM  10:30 PM) Travel: Up to
+  100mile radius Team Structure: Leading a team of 46 technicians Industry:
+  MarTech (Marketing Platforms, Analytics Companies, Automation Tools) Position
+  Overview Join our dynamic team as an Inside Sales Associate, where you will
+  play a pivotal role in driving sales and fostering strong customer
+  relationships in the fastpaced MarTech industry. Located in Coro...
 location: 'Corona, CA'
 team: Software
 schedule: 'Second Shift (2:00 PM - 10:30 PM)'

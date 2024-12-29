@@ -1,26 +1,17 @@
 ---
 position: Junior SDR
 description: >-
-  ## Position Overview
-
-
-  Join our dynamic team as a Junior Sales Development Representative (SDR) based
-  in Stockton, CA, where you will play a pivotal role in expanding our footprint
-  in the healthcare tech industry. As part of our specialized team, you will
-  work closely with seasoned professionals to engage potential clients and
-  elevate our digital health platforms, medical software, and healthcare
-  analytics solutions. If you're looking to start or further your career in
-  sales within a cutting-edge tech space, this role offers an excellent
-  foundation for growth and learning in a market ripe with opportunities.
-
-
-  ## Key Responsibilities
-
-
-  - Conduct outreach to prospective clients through various channels such as
-  email, phone, and social media.
-
-  - Qualify leads and set up meetings for senior sales...
+  Position Overview Join our dynamic team as a Junior Sales Development
+  Representative (SDR) based in Stockton, CA, where you will play a pivotal role
+  in expanding our footprint in the healthcare tech industry. As part of our
+  specialized team, you will work closely with seasoned professionals to engage
+  potential clients and elevate our digital health platforms, medical software,
+  and healthcare analytics solutions. If you're looking to start or further your
+  career in sales within a cuttingedge tech space, this role offers an excellent
+  foundation for growth and learning in a market ripe with opportunities. Key
+  Responsibilities  Conduct outreach to prospective clients through various
+  channels such as email, phone, and social media.  Qualify leads and set up
+  meetings for senior sales...
 location: 'Stockton, CA'
 team: Software
 schedule: 'First Shift (6:00 AM - 2:30 PM)'

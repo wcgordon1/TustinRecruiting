@@ -3,16 +3,11 @@ position: SaaS Account Executive
 description: >-
   Our client, a leading B2B SaaS company, is looking to hire an experienced
   Account Executive for their location in Mission Viejo, CA. This is a unique
-  opportunity to work in a dynamic and fast-paced environment, in the heart of
+  opportunity to work in a dynamic and fastpaced environment, in the heart of
   Orange County. Just a short distance from neighboring cities such as Irvine,
   Lake Forest, and Laguna Niguel, this opportunity offers a blend of suburban
-  living with easy access to bustling city life.
-
-
-  ## Qualifications
-
-
-  The successful candidate must have a proven track rec...
+  living with easy access to bustling city life. Qualifications The successful
+  candidate must have a proven track rec...
 location: 'Mission Viejo, CA'
 team: Software
 datePosted: '2024-12-26T18:36:18.750Z'

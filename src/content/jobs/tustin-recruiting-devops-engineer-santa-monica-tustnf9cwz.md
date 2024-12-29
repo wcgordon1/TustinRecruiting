@@ -1,13 +1,13 @@
 ---
 position: DevOps Engineer
 description: >-
-  Our Client, a leading e-commerce platform, is seeking a dynamic and driven
+  Our Client, a leading ecommerce platform, is seeking a dynamic and driven
   DevOps Engineer to join their team in beautiful Santa Monica, CA. Surrounded
   by the vibrant communities of Venice, Pacific Palisades, Brentwood, and Marina
   Del Rey, Santa Monica offers a perfect blend of work and play, making it an
   ideal location for tech professionals seeking a balanced lifestyle. The
   successful candidate will play a crucial role in maintaining and scaling the
-  company's infrastructure during high-traffic...
+  company's infrastructure during hightraffic...
 location: 'Santa Monica, CA'
 team: Software
 datePosted: '2024-12-27T16:18:10.224Z'

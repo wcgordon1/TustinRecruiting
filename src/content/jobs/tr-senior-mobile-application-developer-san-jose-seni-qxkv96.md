@@ -1,12 +1,12 @@
 ---
 position: Senior Mobile Application Developer
 description: >-
-  We are a well-funded LA-based startup specializing in Financial Technology.
-  Our focus is on enhancing mobile banking experiences, digital payments, and
+  We are a wellfunded LAbased startup specializing in Financial Technology. Our
+  focus is on enhancing mobile banking experiences, digital payments, and
   catering to the continually growing community of crypto enthusiasts. As a
   Remote Senior Mobile Application Developer, you will be a key player in our
   mission to redefine FinTech and will have the opportunity to collaborate with
-  cross-functional product teams. This position offers a unique opportunity for
+  crossfunctional product teams. This position offers a unique opportunity for
   professional growth in an exciting startup...
 location: 'San Jose, CA'
 team: Mobile

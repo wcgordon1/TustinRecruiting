@@ -1,27 +1,24 @@
 ---
 position: Business Development Representative
 description: >-
-  Bola AI is seeking a motivated **Business Development Representative (BDR)**
-  to join our sales team in **Irvine, CA**. As an on-site BDR, you will play a
-  critical role in driving growth by identifying potential clients, initiating
-  conversations, and qualifying leads for the sales team. This entry-level role
+  Bola AI is seeking a motivated Business Development Representative (BDR) to
+  join our sales team in Irvine, CA. As an onsite BDR, you will play a critical
+  role in driving growth by identifying potential clients, initiating
+  conversations, and qualifying leads for the sales team. This entrylevel role
   is perfect for someone eager to jumpstart their career in SaaS sales within a
-  fast-paced, high-energy environment.
-
-  ### Responsibilities - Research and identify potential clients within the
-  dental and healthcare industries.   - Reach out to prospects through cold
-  calls, emails, and social media to generate leads.   - Qualify leads and
-  schedule product demos for the Account Executive team.   - Maintain accurate
-  records of prospecting activities in the CRM system.   - Collaborate with the
-  marketing team to execute targeted campaigns.   - Stay updated on Bola AI’s
-  products, industry trends, and competitors.  
-
-  ### Qualifications - Bachelor’s degree in Business, Marketing, or a related
-  field (preferred).   - Excellent verbal and written communication skills.   -
-  Strong interpersonal skills and a results-driven attitude.   - Ability to
-  thrive in a fast-paced, team-oriented environment.   - Previous experience in
-  sales or customer-facing roles is a plus.   - Familiarity with CRM tools like
-  Salesforce or HubSpot is advantageous.
+  fastpaced, highenergy environment. Responsibilities  Research and identify
+  potential clients within the dental and healthcare industries.  Reach out to
+  prospects through cold calls, emails, and social media to generate leads. 
+  Qualify leads and schedule product demos for the Account Executive team. 
+  Maintain accurate records of prospecting activities in the CRM system. 
+  Collaborate with the marketing team to execute targeted campaigns.  Stay
+  updated on Bola AI’s products, industry trends, and competitors.
+  Qualifications  Bachelor’s degree in Business, Marketing, or a related field
+  (preferred).  Excellent verbal and written communication skills.  Strong
+  interpersonal skills and a resultsdriven attitude.  Ability to thrive in a
+  fastpaced, teamoriented environment.  Previous experience in sales or
+  customerfacing roles is a plus.  Familiarity with CRM tools like Salesforce or
+  HubSpot is advantageous.
 location: 'Irvine, CA'
 team: Artificial Intelligence
 datePosted: '2024-12-28T11:35:02.756Z'
