@@ -26,8 +26,8 @@ description: >-
   insurance, retirement plans, and paid time off.
 location: 'Portland, OR'
 team: Logistics
-datePosted: '2024-12-27T17:14:38.806Z'
-validThrough: '2025-01-28T17:14:38.806Z'
+datePosted: '2025-01-14T13:11:57.574Z'
+validThrough: '2025-02-28T13:11:57.574Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

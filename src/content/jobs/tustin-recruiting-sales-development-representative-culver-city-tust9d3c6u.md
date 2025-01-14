@@ -26,8 +26,8 @@ description: >-
   with our Client.
 location: 'Culver City, CA'
 team: Software
-datePosted: '2024-12-28T00:22:47.520Z'
-validThrough: '2025-02-06T00:22:47.520Z'
+datePosted: '2025-01-14T11:38:36.035Z'
+validThrough: '2025-02-21T11:38:36.035Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -27,8 +27,8 @@ description: >-
   we encourage you to apply.
 location: 'Long Beach, CA'
 team: Software
-datePosted: '2024-12-28T01:39:25.360Z'
-validThrough: '2025-02-03T01:39:25.360Z'
+datePosted: '2025-01-14T13:55:36.655Z'
+validThrough: '2025-02-14T13:55:36.655Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

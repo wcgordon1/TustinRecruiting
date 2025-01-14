@@ -31,8 +31,8 @@ description: >-
   logistics industry!
 location: 'Los Angeles, CA'
 team: Logistics
-datePosted: '2024-12-28T11:24:09.224Z'
-validThrough: '2025-01-30T11:24:09.224Z'
+datePosted: '2025-01-14T12:31:30.893Z'
+validThrough: '2025-02-27T12:31:30.893Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

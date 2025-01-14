@@ -50,8 +50,8 @@ description: >-
   environment. Your next adventure starts here!
 location: 'Oceanside, CA'
 team: Software
-datePosted: '2024-12-28T08:23:56.384Z'
-validThrough: '2025-02-02T08:23:56.384Z'
+datePosted: '2025-01-14T08:23:47.559Z'
+validThrough: '2025-02-14T08:23:47.559Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

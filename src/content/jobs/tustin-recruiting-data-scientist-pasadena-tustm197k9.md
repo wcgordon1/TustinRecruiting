@@ -33,8 +33,8 @@ description: >-
   professional skills.
 location: 'Pasadena, CA'
 team: Analytics
-datePosted: '2024-12-27T17:58:47.065Z'
-validThrough: '2025-02-03T17:58:47.065Z'
+datePosted: '2025-01-14T16:08:14.214Z'
+validThrough: '2025-02-24T16:08:14.214Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

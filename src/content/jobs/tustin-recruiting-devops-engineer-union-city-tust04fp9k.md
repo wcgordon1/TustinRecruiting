@@ -18,8 +18,8 @@ description: >-
   salary range of $111,724$131,724 per year, along with additional benefits.
 location: 'Union City, CA'
 team: Software
-datePosted: '2024-12-28T07:19:12.368Z'
-validThrough: '2025-01-30T07:19:12.368Z'
+datePosted: '2025-01-14T13:45:02.775Z'
+validThrough: '2025-02-18T13:45:02.775Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -57,8 +57,8 @@ description: >-
   professional growth and development.
 location: 'Burbank, CA'
 team: Medical Device
-datePosted: '2024-12-28T01:15:25.208Z'
-validThrough: '2025-01-28T01:15:25.208Z'
+datePosted: '2025-01-14T12:21:16.944Z'
+validThrough: '2025-02-17T12:21:16.944Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

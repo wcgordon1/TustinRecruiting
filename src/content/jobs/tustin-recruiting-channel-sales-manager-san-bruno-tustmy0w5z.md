@@ -27,8 +27,8 @@ description: >-
   Apply now to join our client's team in San Bruno, CA.
 location: 'San Bruno, CA'
 team: Software
-datePosted: '2024-12-28T02:34:31.925Z'
-validThrough: '2025-02-06T02:34:31.925Z'
+datePosted: '2025-01-14T10:44:21.880Z'
+validThrough: '2025-02-27T10:44:21.880Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

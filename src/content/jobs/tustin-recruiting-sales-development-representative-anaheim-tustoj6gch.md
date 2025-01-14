@@ -28,8 +28,8 @@ description: >-
   teamoriented work environment.
 location: 'Anaheim, CA'
 team: Software
-datePosted: '2024-12-27T21:53:09.103Z'
-validThrough: '2025-02-08T21:53:09.103Z'
+datePosted: '2025-01-14T13:39:44.105Z'
+validThrough: '2025-02-22T13:39:44.105Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

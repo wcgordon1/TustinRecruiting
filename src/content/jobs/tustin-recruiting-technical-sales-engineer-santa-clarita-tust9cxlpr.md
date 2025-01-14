@@ -38,8 +38,8 @@ description: >-
   opportunities.  Ongoing training and certifications.
 location: 'Santa Clarita, CA'
 team: Engineering
-datePosted: '2024-12-28T09:01:01.375Z'
-validThrough: '2025-01-30T09:01:01.375Z'
+datePosted: '2025-01-14T15:39:56.512Z'
+validThrough: '2025-02-21T15:39:56.512Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

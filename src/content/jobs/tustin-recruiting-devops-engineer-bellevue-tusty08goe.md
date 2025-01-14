@@ -29,8 +29,8 @@ description: >-
   Engineer!
 location: 'Bellevue, WA'
 team: Software
-datePosted: '2024-12-28T04:21:53.296Z'
-validThrough: '2025-02-07T04:21:53.296Z'
+datePosted: '2025-01-14T08:38:33.420Z'
+validThrough: '2025-02-27T08:38:33.420Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

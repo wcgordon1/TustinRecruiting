@@ -29,8 +29,8 @@ description: >-
   will be provided during the recruitment process.
 location: 'Pleasanton, CA'
 team: Logistics
-datePosted: '2024-12-27T20:19:36.749Z'
-validThrough: '2025-02-03T20:19:36.749Z'
+datePosted: '2025-01-14T15:39:48.489Z'
+validThrough: '2025-02-18T15:39:48.489Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

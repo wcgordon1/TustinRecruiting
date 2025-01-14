@@ -39,8 +39,8 @@ description: >-
   connect with you!
 location: 'Los Angeles, CA'
 team: Mobile
-datePosted: '2024-12-28T10:32:19.531Z'
-validThrough: '2025-02-08T10:32:19.531Z'
+datePosted: '2025-01-14T15:18:54.976Z'
+validThrough: '2025-02-15T15:18:54.976Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: RTRO

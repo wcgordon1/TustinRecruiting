@@ -29,8 +29,8 @@ description: >-
   matching, paid holidays, and generous vacation time.
 location: 'Glendale, CA'
 team: Software
-datePosted: '2024-12-27T23:03:38.293Z'
-validThrough: '2025-01-30T23:03:38.293Z'
+datePosted: '2025-01-14T09:46:23.744Z'
+validThrough: '2025-02-15T09:46:23.744Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

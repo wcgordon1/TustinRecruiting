@@ -33,8 +33,8 @@ description: >-
   characteristic protected by law.
 location: 'San Francisco, CA'
 team: Logistics
-datePosted: '2024-12-27T17:58:28.683Z'
-validThrough: '2025-01-29T17:58:28.683Z'
+datePosted: '2025-01-14T15:19:25.009Z'
+validThrough: '2025-02-27T15:19:25.009Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

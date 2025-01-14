@@ -24,8 +24,8 @@ description: >-
   you ready to jump into this exciting role? We can't wait to hear from you!
 location: 'San Carlos, CA'
 team: Logistics
-datePosted: '2024-12-27T21:53:57.571Z'
-validThrough: '2025-02-03T21:53:57.571Z'
+datePosted: '2025-01-14T14:27:17.176Z'
+validThrough: '2025-02-17T14:27:17.176Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

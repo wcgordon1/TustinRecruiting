@@ -40,8 +40,8 @@ description: >-
   skills sharp and relevant.
 location: 'Encinitas, CA'
 team: Software
-datePosted: '2024-12-28T04:03:42.097Z'
-validThrough: '2025-02-01T04:03:42.097Z'
+datePosted: '2025-01-14T16:04:55.741Z'
+validThrough: '2025-02-25T16:04:55.741Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -28,8 +28,8 @@ description: >-
   Apply today and let's shape the future of advertising technology together!
 location: 'Newark, CA'
 team: Software
-datePosted: '2024-12-27T22:28:02.582Z'
-validThrough: '2025-02-04T22:28:02.582Z'
+datePosted: '2025-01-14T09:43:19.107Z'
+validThrough: '2025-02-15T09:43:19.107Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

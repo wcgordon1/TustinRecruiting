@@ -55,8 +55,8 @@ description: >-
   and certifications
 location: 'Westminster, CA'
 team: Software
-datePosted: '2024-12-28T10:49:39.404Z'
-validThrough: '2025-02-09T10:49:39.404Z'
+datePosted: '2025-01-14T10:37:09.460Z'
+validThrough: '2025-02-15T10:37:09.460Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

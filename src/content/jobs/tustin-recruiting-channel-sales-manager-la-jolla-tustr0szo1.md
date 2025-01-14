@@ -26,8 +26,8 @@ description: >-
   candidate's experience and qualifications.
 location: 'La Jolla, CA'
 team: Software
-datePosted: '2024-12-27T18:39:34.927Z'
-validThrough: '2025-01-30T18:39:34.927Z'
+datePosted: '2025-01-14T14:31:05.516Z'
+validThrough: '2025-02-28T14:31:05.516Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -42,8 +42,8 @@ description: >-
   exceptional client service.
 location: 'Lake Forest, CA'
 team: Equipment Finance
-datePosted: '2024-12-28T08:54:20.174Z'
-validThrough: '2025-01-31T08:54:20.174Z'
+datePosted: '2025-01-14T15:51:50.525Z'
+validThrough: '2025-02-18T15:51:50.525Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

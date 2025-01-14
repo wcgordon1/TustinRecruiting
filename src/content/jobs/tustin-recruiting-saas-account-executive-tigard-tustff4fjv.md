@@ -23,8 +23,8 @@ description: >-
   national origin, age, disability or genetics.
 location: 'Tigard, OR'
 team: Software
-datePosted: '2024-12-28T10:09:53.991Z'
-validThrough: '2025-01-29T10:09:53.991Z'
+datePosted: '2025-01-14T08:36:08.900Z'
+validThrough: '2025-02-20T08:36:08.900Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

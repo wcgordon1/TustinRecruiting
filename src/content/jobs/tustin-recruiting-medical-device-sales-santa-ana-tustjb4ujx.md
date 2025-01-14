@@ -57,8 +57,8 @@ description: >-
   acquisition.
 location: 'Santa Ana, CA'
 team: Medical Device
-datePosted: '2024-12-28T07:44:29.867Z'
-validThrough: '2025-02-07T07:44:29.867Z'
+datePosted: '2025-01-14T16:13:36.251Z'
+validThrough: '2025-02-13T16:13:36.251Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

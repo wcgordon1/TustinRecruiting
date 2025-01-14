@@ -34,8 +34,8 @@ description: >-
   environment.
 location: 'Morgan Hill, CA'
 team: Software
-datePosted: '2024-12-28T12:08:19.268Z'
-validThrough: '2025-01-28T12:08:19.268Z'
+datePosted: '2025-01-14T09:57:59.112Z'
+validThrough: '2025-02-28T09:57:59.112Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

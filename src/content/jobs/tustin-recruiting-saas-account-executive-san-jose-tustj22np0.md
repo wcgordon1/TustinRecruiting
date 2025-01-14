@@ -32,8 +32,8 @@ description: >-
   policy
 location: 'San Jose, CA'
 team: Software
-datePosted: '2024-12-28T09:25:48.072Z'
-validThrough: '2025-02-03T09:25:48.072Z'
+datePosted: '2025-01-14T13:04:17.799Z'
+validThrough: '2025-02-25T13:04:17.799Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

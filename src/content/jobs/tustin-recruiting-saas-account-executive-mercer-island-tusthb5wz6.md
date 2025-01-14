@@ -28,8 +28,8 @@ description: >-
   from you if you're driven, ambitious, and eager to make an impact!
 location: 'Mercer Island, WA'
 team: Software
-datePosted: '2024-12-28T00:49:09.836Z'
-validThrough: '2025-02-07T00:49:09.836Z'
+datePosted: '2025-01-14T14:03:19.245Z'
+validThrough: '2025-02-28T14:03:19.245Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

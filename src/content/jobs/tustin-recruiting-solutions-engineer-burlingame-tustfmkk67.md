@@ -25,8 +25,8 @@ description: >-
   you.
 location: 'Burlingame, CA'
 team: Software
-datePosted: '2024-12-27T22:16:03.660Z'
-validThrough: '2025-02-07T22:16:03.660Z'
+datePosted: '2025-01-14T10:44:44.106Z'
+validThrough: '2025-02-27T10:44:44.106Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

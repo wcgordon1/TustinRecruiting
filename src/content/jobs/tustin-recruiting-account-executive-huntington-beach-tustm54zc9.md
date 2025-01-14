@@ -25,8 +25,8 @@ description: >-
   Huntington Beach your next career destination!
 location: 'Huntington Beach, CA'
 team: Logistics
-datePosted: '2024-12-28T08:07:14.697Z'
-validThrough: '2025-02-11T08:07:14.697Z'
+datePosted: '2025-01-14T10:42:32.161Z'
+validThrough: '2025-02-19T10:42:32.161Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

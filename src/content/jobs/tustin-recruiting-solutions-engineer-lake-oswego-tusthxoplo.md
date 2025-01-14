@@ -23,8 +23,8 @@ description: >-
   will be discussed during the interview process.
 location: 'Lake Oswego, OR'
 team: Software
-datePosted: '2024-12-27T19:56:18.096Z'
-validThrough: '2025-01-27T19:56:18.096Z'
+datePosted: '2025-01-14T16:25:13.478Z'
+validThrough: '2025-02-19T16:25:13.478Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -22,8 +22,8 @@ description: >-
   comprehensive benefits package.
 location: 'Pasadena, CA'
 team: Logistics
-datePosted: '2024-12-27T22:32:31.931Z'
-validThrough: '2025-02-10T22:32:31.931Z'
+datePosted: '2025-01-14T15:03:53.564Z'
+validThrough: '2025-02-28T15:03:53.564Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

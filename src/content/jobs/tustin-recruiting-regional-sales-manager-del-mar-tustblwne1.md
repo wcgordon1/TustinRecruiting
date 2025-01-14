@@ -30,8 +30,8 @@ description: >-
   development in a leading industrial manufacturing company.
 location: 'Del Mar, CA'
 team: Logistics
-datePosted: '2024-12-28T04:05:37.223Z'
-validThrough: '2025-02-03T04:05:37.223Z'
+datePosted: '2025-01-14T11:06:09.484Z'
+validThrough: '2025-02-22T11:06:09.484Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

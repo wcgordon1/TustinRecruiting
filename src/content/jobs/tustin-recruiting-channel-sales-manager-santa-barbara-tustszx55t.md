@@ -26,8 +26,8 @@ description: >-
   professional growth and career advancement.
 location: 'Santa Barbara, CA'
 team: Software
-datePosted: '2024-12-27T17:27:36.335Z'
-validThrough: '2025-02-02T17:27:36.335Z'
+datePosted: '2025-01-14T13:52:41.662Z'
+validThrough: '2025-02-19T13:52:41.662Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

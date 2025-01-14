@@ -63,8 +63,8 @@ description: >-
   CA.
 location: 'Santa Ana, CA'
 team: Engineering
-datePosted: '2024-12-28T06:43:04.696Z'
-validThrough: '2025-02-06T06:43:04.696Z'
+datePosted: '2025-01-14T11:23:12.500Z'
+validThrough: '2025-02-15T11:23:12.500Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -27,8 +27,8 @@ description: >-
   package, including health insurance, retirement plans, and paid time off.
 location: 'Fremont, CA'
 team: Medical Device
-datePosted: '2024-12-28T10:20:38.448Z'
-validThrough: '2025-02-05T10:20:38.448Z'
+datePosted: '2025-01-14T10:14:04.071Z'
+validThrough: '2025-02-14T10:14:04.071Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

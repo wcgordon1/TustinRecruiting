@@ -32,8 +32,8 @@ description: >-
   and paid time off.
 location: 'Garden Grove, CA'
 team: Logistics
-datePosted: '2024-12-27T21:02:13.889Z'
-validThrough: '2025-02-02T21:02:13.889Z'
+datePosted: '2025-01-14T09:59:56.479Z'
+validThrough: '2025-02-22T09:59:56.479Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

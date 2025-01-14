@@ -31,8 +31,8 @@ description: >-
   time off, and opportunities for professional development.
 location: 'Manhattan Beach, CA'
 team: Logistics
-datePosted: '2024-12-28T01:36:54.988Z'
-validThrough: '2025-01-30T01:36:54.988Z'
+datePosted: '2025-01-14T08:24:31.788Z'
+validThrough: '2025-02-18T08:24:31.788Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

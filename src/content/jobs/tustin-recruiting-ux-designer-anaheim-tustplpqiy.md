@@ -45,8 +45,8 @@ description: >-
   UX/UI design industry.
 location: 'Anaheim, CA'
 team: Software
-datePosted: '2024-12-28T09:56:51.165Z'
-validThrough: '2025-01-29T09:56:51.165Z'
+datePosted: '2025-01-14T13:54:30.228Z'
+validThrough: '2025-02-21T13:54:30.228Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

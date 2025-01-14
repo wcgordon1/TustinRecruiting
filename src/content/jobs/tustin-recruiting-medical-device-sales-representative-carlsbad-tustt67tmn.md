@@ -26,8 +26,8 @@ description: >-
   disability.
 location: 'Carlsbad, CA'
 team: Medical Device
-datePosted: '2024-12-28T03:43:45.733Z'
-validThrough: '2025-01-28T03:43:45.733Z'
+datePosted: '2025-01-14T16:28:39.956Z'
+validThrough: '2025-02-25T16:28:39.956Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

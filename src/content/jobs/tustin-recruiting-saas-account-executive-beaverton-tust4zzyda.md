@@ -29,8 +29,8 @@ description: >-
   wait. Apply today!
 location: 'Beaverton, OR'
 team: Software
-datePosted: '2024-12-27T17:29:43.154Z'
-validThrough: '2025-02-09T17:29:43.154Z'
+datePosted: '2025-01-14T11:15:01.084Z'
+validThrough: '2025-02-15T11:15:01.084Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

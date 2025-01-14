@@ -30,8 +30,8 @@ description: >-
   make a difference in the lives of patients, we encourage you to apply today.
 location: 'Fullerton, CA'
 team: Software
-datePosted: '2024-12-28T10:14:23.140Z'
-validThrough: '2025-02-01T10:14:23.140Z'
+datePosted: '2025-01-14T08:32:40.486Z'
+validThrough: '2025-02-20T08:32:40.486Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

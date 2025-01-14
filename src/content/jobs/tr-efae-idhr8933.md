@@ -35,8 +35,8 @@ description: >-
   and paternity leave.  Disability insurance and pension plan.
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2024-12-28T08:14:04.054Z'
-validThrough: '2025-01-30T08:14:04.054Z'
+datePosted: '2025-01-14T11:44:41.733Z'
+validThrough: '2025-02-20T11:44:41.733Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

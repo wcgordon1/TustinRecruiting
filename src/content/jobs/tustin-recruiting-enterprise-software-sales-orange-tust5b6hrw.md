@@ -55,8 +55,8 @@ description: >-
   just selling software, but transforming businesses and industries.
 location: 'Orange, CA'
 team: Software
-datePosted: '2024-12-28T03:46:34.562Z'
-validThrough: '2025-02-10T03:46:34.562Z'
+datePosted: '2025-01-14T10:51:11.843Z'
+validThrough: '2025-02-18T10:51:11.843Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

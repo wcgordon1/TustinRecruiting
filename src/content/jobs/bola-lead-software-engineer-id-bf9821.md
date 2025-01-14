@@ -39,8 +39,8 @@ description: >-
   industry!
 location: 'Santa Ana, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-28T11:15:49.110Z'
-validThrough: '2025-01-31T11:15:49.110Z'
+datePosted: '2025-01-14T09:58:42.504Z'
+validThrough: '2025-02-16T09:58:42.504Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

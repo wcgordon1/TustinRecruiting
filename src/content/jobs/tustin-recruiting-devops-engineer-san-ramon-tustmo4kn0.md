@@ -26,8 +26,8 @@ description: >-
   offers a competitive compensation package? Swing us your resume today!
 location: 'San Ramon, CA'
 team: Software
-datePosted: '2024-12-27T20:57:30.472Z'
-validThrough: '2025-02-01T20:57:30.472Z'
+datePosted: '2025-01-14T13:34:52.768Z'
+validThrough: '2025-02-26T13:34:52.768Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

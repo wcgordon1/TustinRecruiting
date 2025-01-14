@@ -38,8 +38,8 @@ description: >-
   collaboration, and innovation in delivering exceptional client experiences.
 location: 'Anaheim Hills, CA'
 team: Equipment Finance
-datePosted: '2024-12-28T09:22:31.528Z'
-validThrough: '2025-02-02T09:22:31.528Z'
+datePosted: '2025-01-14T08:10:15.474Z'
+validThrough: '2025-02-26T08:10:15.474Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

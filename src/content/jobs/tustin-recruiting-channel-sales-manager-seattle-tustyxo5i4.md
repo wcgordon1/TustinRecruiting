@@ -28,8 +28,8 @@ description: >-
   employer and encourages applicants from all backgrounds to apply.
 location: 'Seattle, WA'
 team: Software
-datePosted: '2024-12-28T11:48:04.710Z'
-validThrough: '2025-02-07T11:48:04.710Z'
+datePosted: '2025-01-14T14:06:51.906Z'
+validThrough: '2025-02-20T14:06:51.906Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

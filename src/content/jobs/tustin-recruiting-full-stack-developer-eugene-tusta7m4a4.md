@@ -29,8 +29,8 @@ description: >-
   vision insurance, retirement savings plans, paid time off, and more.
 location: 'Eugene, OR'
 team: Finance
-datePosted: '2024-12-28T04:56:19.798Z'
-validThrough: '2025-01-30T04:56:19.798Z'
+datePosted: '2025-01-14T10:10:30.504Z'
+validThrough: '2025-02-19T10:10:30.504Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

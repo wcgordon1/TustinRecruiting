@@ -27,8 +27,8 @@ description: >-
   love to hear from you!
 location: 'Vancouver, WA'
 team: Medical Device
-datePosted: '2024-12-27T16:39:50.340Z'
-validThrough: '2025-02-07T16:39:50.340Z'
+datePosted: '2025-01-14T08:29:25.719Z'
+validThrough: '2025-02-20T08:29:25.719Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -24,8 +24,8 @@ description: >-
   rewarding career with room for growth, this could be the opportunity for you!
 location: 'Irvine, CA'
 team: Software
-datePosted: '2024-12-27T18:57:10.127Z'
-validThrough: '2025-01-29T18:57:10.127Z'
+datePosted: '2025-01-14T10:50:23.270Z'
+validThrough: '2025-02-14T10:50:23.270Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -25,8 +25,8 @@ description: >-
   and encourages all qualified individuals to apply.
 location: 'Pasadena, CA'
 team: Logistics
-datePosted: '2024-12-28T05:15:57.457Z'
-validThrough: '2025-02-02T05:15:57.457Z'
+datePosted: '2025-01-14T10:47:55.547Z'
+validThrough: '2025-02-15T10:47:55.547Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

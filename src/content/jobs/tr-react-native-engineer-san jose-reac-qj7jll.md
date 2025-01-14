@@ -35,8 +35,8 @@ description: >-
   in a startup setting, we would be thrilled to hear from you!
 location: 'San Jose, CA'
 team: Mobile
-datePosted: '2024-12-28T08:41:11.326Z'
-validThrough: '2025-02-02T08:41:11.326Z'
+datePosted: '2025-01-14T10:20:36.360Z'
+validThrough: '2025-02-25T10:20:36.360Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: RTRO

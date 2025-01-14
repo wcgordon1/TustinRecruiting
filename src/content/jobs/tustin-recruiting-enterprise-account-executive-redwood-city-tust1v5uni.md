@@ -22,8 +22,8 @@ description: >-
   retirement plans, and paid time off.
 location: 'Redwood City, CA'
 team: Software
-datePosted: '2024-12-28T01:50:44.156Z'
-validThrough: '2025-02-09T01:50:44.156Z'
+datePosted: '2025-01-14T08:23:16.195Z'
+validThrough: '2025-02-22T08:23:16.195Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

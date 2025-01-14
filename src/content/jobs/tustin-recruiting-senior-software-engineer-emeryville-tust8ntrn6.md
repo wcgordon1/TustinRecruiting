@@ -30,8 +30,8 @@ description: >-
   lives together!
 location: 'Emeryville, CA'
 team: Software
-datePosted: '2024-12-28T07:51:06.906Z'
-validThrough: '2025-02-09T07:51:06.906Z'
+datePosted: '2025-01-14T12:35:45.176Z'
+validThrough: '2025-02-23T12:35:45.176Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

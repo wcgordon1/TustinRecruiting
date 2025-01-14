@@ -26,8 +26,8 @@ description: >-
   platform, apply today!
 location: 'Santa Monica, CA'
 team: Software
-datePosted: '2024-12-27T16:18:10.224Z'
-validThrough: '2025-02-05T16:18:10.224Z'
+datePosted: '2025-01-14T14:55:11.529Z'
+validThrough: '2025-02-18T14:55:11.529Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

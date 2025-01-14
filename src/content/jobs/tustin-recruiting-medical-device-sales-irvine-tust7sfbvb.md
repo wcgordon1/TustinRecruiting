@@ -33,8 +33,8 @@ description: >-
   training and certifications.
 location: 'Irvine, CA'
 team: Medical Device
-datePosted: '2024-12-27T15:24:29.701Z'
-validThrough: '2025-02-10T15:24:29.701Z'
+datePosted: '2025-01-14T15:01:46.669Z'
+validThrough: '2025-02-13T15:01:46.669Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

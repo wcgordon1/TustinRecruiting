@@ -24,8 +24,8 @@ description: >-
   leader.
 location: 'Beverly Hills, CA'
 team: Software
-datePosted: '2024-12-28T03:26:35.548Z'
-validThrough: '2025-02-03T03:26:35.548Z'
+datePosted: '2025-01-14T10:48:20.495Z'
+validThrough: '2025-02-14T10:48:20.495Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

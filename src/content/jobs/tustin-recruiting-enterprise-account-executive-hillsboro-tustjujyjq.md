@@ -22,8 +22,8 @@ description: >-
   expanding cybersecurity company.
 location: 'Hillsboro, OR'
 team: Software
-datePosted: '2024-12-28T11:20:16.618Z'
-validThrough: '2025-01-31T11:20:16.618Z'
+datePosted: '2025-01-14T14:29:06.538Z'
+validThrough: '2025-02-16T14:29:06.538Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

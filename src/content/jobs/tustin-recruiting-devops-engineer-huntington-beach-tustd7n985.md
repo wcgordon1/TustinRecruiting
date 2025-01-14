@@ -31,8 +31,8 @@ description: >-
   us.
 location: 'Huntington Beach, CA'
 team: Software
-datePosted: '2024-12-28T00:46:49.730Z'
-validThrough: '2025-02-08T00:46:49.730Z'
+datePosted: '2025-01-14T12:17:23.309Z'
+validThrough: '2025-02-22T12:17:23.309Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

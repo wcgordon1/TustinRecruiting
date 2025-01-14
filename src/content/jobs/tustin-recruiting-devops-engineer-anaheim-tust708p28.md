@@ -43,8 +43,8 @@ description: >-
   your skills sharp and relevant.
 location: 'Anaheim, CA'
 team: Software
-datePosted: '2024-12-28T09:28:46.236Z'
-validThrough: '2025-02-03T09:28:46.236Z'
+datePosted: '2025-01-14T13:52:48.576Z'
+validThrough: '2025-02-27T13:52:48.576Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

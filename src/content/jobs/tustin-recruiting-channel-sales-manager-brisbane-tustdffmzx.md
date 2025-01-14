@@ -23,8 +23,8 @@ description: >-
   package, including health insurance, retirement plans, and paid time off.
 location: 'Brisbane, CA'
 team: Software
-datePosted: '2024-12-27T17:16:48.027Z'
-validThrough: '2025-02-01T17:16:48.027Z'
+datePosted: '2025-01-14T13:55:58.543Z'
+validThrough: '2025-02-24T13:55:58.543Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

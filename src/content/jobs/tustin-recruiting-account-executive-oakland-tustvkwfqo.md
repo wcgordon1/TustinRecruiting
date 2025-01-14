@@ -28,8 +28,8 @@ description: >-
   environment and have a passion for logistics, apply today!
 location: 'Oakland, CA'
 team: Logistics
-datePosted: '2024-12-27T22:23:28.543Z'
-validThrough: '2025-02-10T22:23:28.543Z'
+datePosted: '2025-01-14T08:08:30.918Z'
+validThrough: '2025-02-22T08:08:30.918Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

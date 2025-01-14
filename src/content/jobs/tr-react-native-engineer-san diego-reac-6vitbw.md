@@ -35,8 +35,8 @@ description: >-
   with you!
 location: 'San Diego, CA'
 team: Mobile
-datePosted: '2024-12-28T10:02:09.101Z'
-validThrough: '2025-02-11T10:02:09.101Z'
+datePosted: '2025-01-14T10:45:20.704Z'
+validThrough: '2025-02-28T10:45:20.704Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: RTRO

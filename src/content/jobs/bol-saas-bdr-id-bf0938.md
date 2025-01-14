@@ -26,8 +26,8 @@ description: >-
   bonuses, and health benefits.
 location: 'Irvine, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-28T11:35:02.756Z'
-validThrough: '2025-01-31T11:35:02.756Z'
+datePosted: '2025-01-14T15:51:52.016Z'
+validThrough: '2025-02-16T15:51:52.016Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

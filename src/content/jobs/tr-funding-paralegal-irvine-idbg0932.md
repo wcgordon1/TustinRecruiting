@@ -35,8 +35,8 @@ description: >-
   expertise will drive transaction success and client satisfaction.
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2024-12-28T08:26:17.154Z'
-validThrough: '2025-01-27T08:26:17.154Z'
+datePosted: '2025-01-14T08:56:12.063Z'
+validThrough: '2025-02-24T08:56:12.063Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -42,8 +42,8 @@ description: >-
   expertise.
 location: 'San Diego, CA'
 team: Analytics
-datePosted: '2024-12-27T23:02:12.052Z'
-validThrough: '2025-02-03T23:02:12.052Z'
+datePosted: '2025-01-14T16:05:01.705Z'
+validThrough: '2025-02-16T16:05:01.705Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

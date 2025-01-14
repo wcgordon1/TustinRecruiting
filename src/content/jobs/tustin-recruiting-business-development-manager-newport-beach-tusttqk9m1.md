@@ -25,8 +25,8 @@ description: >-
   and are committed to creating an inclusive environment for all employees.
 location: 'Newport Beach, CA'
 team: Logistics
-datePosted: '2024-12-28T07:43:41.666Z'
-validThrough: '2025-02-07T07:43:41.666Z'
+datePosted: '2025-01-14T09:58:04.299Z'
+validThrough: '2025-02-24T09:58:04.299Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting
