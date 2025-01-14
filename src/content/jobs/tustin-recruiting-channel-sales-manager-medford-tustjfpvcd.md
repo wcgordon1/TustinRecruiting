@@ -27,8 +27,8 @@ description: >-
   security of our team members.
 location: 'Medford, OR'
 team: Software
-datePosted: '2024-12-26T22:54:11.106Z'
-validThrough: '2025-01-28T22:54:11.106Z'
+datePosted: '2025-01-13T21:58:28.934Z'
+validThrough: '2025-02-12T21:58:28.934Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

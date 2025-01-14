@@ -29,8 +29,8 @@ description: >-
   This includes health insurance, paid time off, and a retirement plan.
 location: 'Burbank, CA'
 team: Logistics
-datePosted: '2024-12-26T17:24:09.494Z'
-validThrough: '2025-02-03T17:24:09.494Z'
+datePosted: '2025-01-13T23:29:06.199Z'
+validThrough: '2025-02-22T23:29:06.199Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

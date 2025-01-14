@@ -21,7 +21,7 @@ export async function GET(context) {
       link: `${context.site}jobs/${job.slug}`,
       customData: `
         <company>${job.data.hiringOrganization.name}</company>
-        <companyLogo>${job.data.hiringOrganization.logo}</companyLogo>
+        <companyLogo>https://www.tustinrecruiting.com/${job.data.hiringOrganization.logo}</companyLogo>
         <datePosted>${job.data.datePosted}</datePosted>
         <validThrough>${job.data.validThrough}</validThrough>
         <location>${job.data.location}</location>

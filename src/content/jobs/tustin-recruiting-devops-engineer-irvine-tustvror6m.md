@@ -29,8 +29,8 @@ description: >-
   innovative work environment in a central location
 location: 'Irvine, CA'
 team: Software
-datePosted: '2024-12-26T20:08:58.649Z'
-validThrough: '2025-02-08T20:08:58.649Z'
+datePosted: '2025-01-13T19:36:29.824Z'
+validThrough: '2025-02-23T19:36:29.824Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

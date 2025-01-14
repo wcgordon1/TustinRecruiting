@@ -31,8 +31,8 @@ description: >-
   look forward to receiving your application!
 location: 'Orange, CA'
 team: Software
-datePosted: '2024-12-27T12:16:34.021Z'
-validThrough: '2025-02-09T12:16:34.021Z'
+datePosted: '2025-01-13T14:48:22.006Z'
+validThrough: '2025-02-12T14:48:22.006Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

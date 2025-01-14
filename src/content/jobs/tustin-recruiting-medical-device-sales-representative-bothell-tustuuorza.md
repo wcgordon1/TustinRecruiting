@@ -29,8 +29,8 @@ description: >-
   insurance, a 401(k) retirement plan, paid time off, and more.
 location: 'Bothell, WA'
 team: Medical Device
-datePosted: '2024-12-27T02:09:00.720Z'
-validThrough: '2025-02-07T02:09:00.720Z'
+datePosted: '2025-01-13T19:09:47.379Z'
+validThrough: '2025-02-16T19:09:47.379Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

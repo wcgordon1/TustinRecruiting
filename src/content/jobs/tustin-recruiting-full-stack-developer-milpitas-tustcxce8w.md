@@ -23,8 +23,8 @@ description: >-
   client's team.
 location: 'Milpitas, CA'
 team: Finance
-datePosted: '2024-12-27T03:09:23.846Z'
-validThrough: '2025-02-01T03:09:23.846Z'
+datePosted: '2025-01-13T17:06:30.048Z'
+validThrough: '2025-02-17T17:06:30.048Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

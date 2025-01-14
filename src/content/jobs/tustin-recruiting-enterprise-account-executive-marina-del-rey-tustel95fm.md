@@ -29,8 +29,8 @@ description: >-
   an assignment as a temporary employee of Our Client.
 location: 'Marina del Rey, CA'
 team: Software
-datePosted: '2024-12-27T01:35:37.008Z'
-validThrough: '2025-01-27T01:35:37.008Z'
+datePosted: '2025-01-13T19:15:22.227Z'
+validThrough: '2025-02-17T19:15:22.227Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

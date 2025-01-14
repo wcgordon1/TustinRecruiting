@@ -33,8 +33,8 @@ description: >-
   industry. Uncapped commission structure to reward your success.
 location: 'Tustin, CA'
 team: Medical Device
-datePosted: '2024-12-27T13:31:09.376Z'
-validThrough: '2025-01-27T13:31:09.376Z'
+datePosted: '2025-01-13T10:45:31.505Z'
+validThrough: '2025-02-22T10:45:31.505Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

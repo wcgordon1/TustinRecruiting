@@ -18,93 +18,64 @@ const openai = new OpenAI({
 });
 
 const JOB_TYPES = {
-    'Software Engineer': {
-    minValue: 105000,
-    maxValue: 125000,
+  'Assistant Property Manager': {
+    minValue: 70000,
+    maxValue: 90000,
+    experienceLevel: 'entryLevel',
+    category: 'Property Management',
+    team: 'Operations',
+    yearsExperience: '1-3',
+    responsibilities: 'Support property managers in day-to-day operations, assist with tenant communications, coordinate maintenance requests and vendor management, maintain accurate property records and reports, assist in preparing budgets and monitoring expenses, oversee small-scale construction projects, ensure compliance with lease agreements, track rent payments and follow up on delinquencies, assist in marketing and leasing activities, attend property inspections and meetings',
+    qualifications: 'Experience with property management software and Microsoft Excel, excellent organizational and communication skills, ability to handle multiple tasks and meet deadlines, basic understanding of property maintenance and leasing terms, ability to work collaboratively with a team, strong attention to detail',
+    prompt: 'Create a job description for an Assistant Property Manager focusing on supporting retail leasing operations. Emphasize tenant communication, vendor coordination, and budgeting assistance. Must have experience with Excel and property management software. A strong attention to detail and ability to multitask are required.'
+},
+
+'Leasing Coordinator': {
+    minValue: 70000,
+    maxValue: 90000,
+    experienceLevel: 'entryLevel',
+    category: 'Leasing',
+    team: 'Commercial',
+    yearsExperience: '1-3',
+    responsibilities: 'Coordinate leasing activities for retail properties, draft lease agreements and amendments, manage lease expirations and renewals, maintain leasing and marketing databases, assist in preparing financial models for leasing opportunities, support brokers and property managers with market research and presentations, ensure lease compliance with company policies and legal requirements, communicate regularly with tenants to address leasing inquiries and concerns, track leasing KPIs and provide regular reports to management, assist in site tours and marketing efforts',
+    qualifications: 'Experience with leasing processes and legal terminology, proficiency in Microsoft Excel and property management software, excellent verbal and written communication skills, ability to analyze market data and financial models, strong organizational and multitasking skills, customer service-oriented approach',
+    prompt: 'Create a job description for a Leasing Coordinator in a retail-focused commercial property management company. Highlight responsibilities in lease drafting, tracking, and compliance. Include tenant communication and coordination with brokers. Must have strong Excel skills and organizational abilities.'
+},
+
+'Construction Project Coordinator': {
+    minValue: 75000,
+    maxValue: 95000,
     experienceLevel: 'midLevel',
-    category: 'Software Engineering',
-    team: 'Software',
+    category: 'Construction',
+    team: 'Project Management',
     yearsExperience: '3-5',
-    responsibilities: 'Design and develop scalable web applications, write clean and maintainable code in languages like Python, JavaScript, and Java, implement RESTful APIs and microservices architecture, optimize application performance and database queries, participate in code reviews and architectural discussions, mentor junior developers, collaborate with product managers and designers, deploy and monitor applications in cloud environments, implement security best practices, contribute to technical documentation',
-    qualifications: 'BS/MS in Computer Science or related field, strong proficiency in multiple programming languages, experience with modern frameworks (React, Node.js, Django), knowledge of cloud platforms (AWS, Azure, GCP), understanding of CI/CD pipelines, experience with agile development methodologies, strong problem-solving skills, excellent communication abilities',
-    prompt: 'Create a job description for a Full Stack Software Engineer specializing in web application development. Must have strong experience with modern JavaScript frameworks, backend technologies, and cloud services. Knowledge of microservices architecture, API design, and database optimization required. Position involves both independent development and mentoring junior team members. Must understand agile methodologies, Git workflows, and DevOps practices. Role includes participating in system design, code reviews, and technical documentation. Remote work options available with occasional on-site meetings. Strong focus on code quality, scalability, and maintainable solutions. Career growth opportunities include technical leadership and architecture roles.'
-    },
-    'DevOps Engineer': {
-    minValue: 115000,
-    maxValue: 135000,
-    experienceLevel: 'senior',
-    category: 'Software Engineering',
-    team: 'Software',
-    yearsExperience: '5+',
-    responsibilities: 'Design and implement CI/CD pipelines, manage cloud infrastructure using Infrastructure as Code, optimize container orchestration systems, implement security and compliance measures, monitor system performance and reliability, automate deployment processes, manage database operations and scaling, implement disaster recovery solutions, coordinate with development teams on infrastructure needs, maintain documentation for all systems',
-    qualifications: 'Strong experience with AWS/Azure/GCP, expertise in Docker and Kubernetes, proficiency in scripting languages (Python, Bash), experience with monitoring tools and log aggregation, knowledge of security best practices, strong understanding of networking concepts, experience with Infrastructure as Code tools like Terraform',
-    prompt: 'Create a job description for a Senior DevOps Engineer focusing on cloud infrastructure and automation. Must have extensive experience with cloud platforms, container orchestration, and automated deployment systems. Expert knowledge of CI/CD pipelines, Infrastructure as Code, and system monitoring required. Position involves designing and implementing scalable cloud solutions, optimizing infrastructure costs, and maintaining high-availability systems. Must understand security best practices, compliance requirements, and disaster recovery strategies. Role includes mentoring junior engineers and collaborating with development teams. On-call rotation required for production support. Career path leads to Cloud Architecture or Site Reliability Engineering roles.'
-    },
-    'Data Scientist': {
-    minValue: 110000,
-    maxValue: 130000,
-    experienceLevel: 'midLevel',
-    category: 'Data Science',
-    team: 'Analytics',
-    yearsExperience: '3-7',
-    responsibilities: 'Develop and implement machine learning models, analyze large datasets to extract insights, create predictive analytics solutions, build data pipelines for model deployment, collaborate with business stakeholders on requirements, present findings to executive teams, optimize model performance and accuracy, maintain documentation of methodologies, ensure data quality and integrity, implement A/B testing frameworks',
-    qualifications: 'MS/PhD in Data Science, Statistics, or related field, strong programming skills in Python and R, experience with ML frameworks (TensorFlow, PyTorch), expertise in SQL and data manipulation, knowledge of big data technologies, strong statistical analysis skills, experience with data visualization tools, excellent communication abilities',
-    prompt: 'Create a job description for a Data Scientist specializing in machine learning and predictive analytics. Must have strong background in statistical analysis, machine learning algorithms, and data modeling. Experience with Python, R, and major ML frameworks required. Position involves developing predictive models, analyzing complex datasets, and presenting insights to stakeholders. Must understand A/B testing, experimental design, and feature engineering. Role includes both independent research and collaboration with business teams. Strong focus on practical application of ML solutions to business problems. Career growth opportunities include Lead Data Scientist and ML Architecture roles.'
-    },
-    'Product Manager': {
-    minValue: 100000,
-    maxValue: 120000,
-    experienceLevel: 'senior',
-    category: 'Product Management',
-    team: 'Software',
-    yearsExperience: '5-8',
-    responsibilities: 'Define product strategy and roadmap, conduct market research and competitive analysis, gather and prioritize product requirements, work closely with engineering teams on implementation, manage product launches and iterations, analyze product metrics and user feedback, present to stakeholders and executives, coordinate with marketing on product positioning, maintain product documentation, conduct user interviews and testing',
-    qualifications: 'BA/BS in Business or Technical field, MBA preferred, proven experience in product management, strong analytical and data interpretation skills, excellent communication and presentation abilities, experience with agile methodologies, understanding of software development lifecycle, demonstrated leadership skills',
-    prompt: 'Create a job description for a Senior Product Manager focusing on technology products. Must have strong experience in product strategy, market analysis, and agile development processes. Knowledge of user experience design, data analytics, and technical architecture required. Position involves leading product vision, coordinating with multiple teams, and driving business growth. Must excel at stakeholder management, strategic planning, and cross-functional leadership. Role includes defining product roadmap, analyzing metrics, and ensuring product-market fit. Regular travel to customer sites may be required. Career path leads to Director of Product or VP of Product roles.'
-    },
-    'UX Designer': {
-    minValue: 110000,
-    maxValue: 120000,
-    experienceLevel: 'midLevel',
-    category: 'Design',
-    team: 'Software',
-    yearsExperience: '3-6',
-    responsibilities: 'Create user-centered designs for digital products, develop wireframes and prototypes, conduct user research and usability testing, design responsive interfaces for web and mobile applications, create and maintain design systems, collaborate with product and engineering teams, analyze user feedback and metrics, ensure consistency across platforms, create user flows and journey maps, maintain design documentation',
-    qualifications: 'BA/BS in Design or related field, strong portfolio demonstrating UI/UX work, proficiency in design tools (Figma, Adobe XD), experience with interaction design patterns, knowledge of accessibility standards, understanding of front-end development principles, strong visual design skills, excellent communication abilities',
-    prompt: 'Create a job description for a Senior UX/UI Designer specializing in digital products. Must have strong portfolio showing user-centered design process and results. Experience with modern design tools, prototyping, and user research required. Position involves creating intuitive interfaces, developing design systems, and ensuring consistent user experience. Must understand accessibility requirements, responsive design, and mobile-first principles. Role includes conducting user research, creating wireframes, and collaborating with development teams. Some remote work possible with regular on-site collaboration. Career growth opportunities include Lead Designer or Design Director roles.'
-    },
-    'Medical Device Sales': {
-minValue: 90000,
-maxValue: 110000,
-experienceLevel: 'midLevel',
-category: 'Sales',
-team: 'Medical Device',
-yearsExperience: '3-5',
-responsibilities: 'Build and maintain relationships with healthcare providers and hospital systems, demonstrate complex medical devices to medical professionals, provide technical product training to clinical staff, develop territory growth strategies, manage sales pipeline in CRM, coordinate with clinical specialists for product evaluations, maintain detailed account records, analyze market trends and competitive landscape, ensure compliance with healthcare regulations, participate in medical conferences and trade shows',
-qualifications: 'Bachelor degree in Life Sciences or Business, proven medical sales experience, strong understanding of hospital purchasing processes, knowledge of healthcare regulations and compliance requirements, excellent presentation and demonstration skills, ability to build relationships with medical professionals, strong technical aptitude for learning complex products, clean driving record and professional appearance, willingness to travel within territory',
-prompt: 'Create a job description for a Medical Device Sales Representative specializing in surgical equipment. Must have proven track record in medical device or healthcare sales. Experience with hospital systems, purchasing committees, and healthcare regulations required. Position involves managing territory relationships, conducting product demonstrations, and providing clinical education. Must understand surgical workflows, hospital protocols, and value analysis processes. Role includes regular travel to healthcare facilities, attendance at medical conferences, and coordination with clinical specialists. Commission-based compensation with excellent earning potential. Career growth opportunities include Senior Sales Representative or Regional Sales Manager roles. Clean background check and drug screening required. Uncapped commission structure.'
+    responsibilities: 'Oversee construction projects within retail properties, coordinate with contractors, vendors, and property managers to ensure timely completion, prepare project schedules and track progress, assist in reviewing construction budgets and bids, manage documentation, including permits and change orders, conduct regular site inspections to ensure work aligns with plans and safety standards, communicate project updates to stakeholders, resolve on-site issues to minimize delays, maintain project cost controls and reporting, ensure compliance with local building codes and regulations',
+    qualifications: 'Experience with construction management in commercial properties, strong knowledge of project scheduling and budgeting, proficiency in Microsoft Excel and project management software, ability to manage multiple projects simultaneously, strong problem-solving and communication skills, knowledge of local building codes and safety regulations',
+    prompt: 'Create a job description for a Construction Project Coordinator specializing in retail property projects. Focus on construction scheduling, vendor coordination, and cost tracking. Experience in commercial property construction management required, with strong Excel and project management software skills.'
 },
-'Enterprise Software Sales': {
-minValue: 95000,
-maxValue: 115000,
-experienceLevel: 'senior',
-category: 'Sales',
-team: 'Software',
-yearsExperience: '5-8',
-responsibilities: 'Develop and execute strategic sales plans for enterprise accounts, build relationships with C-level executives, coordinate complex software demonstrations and proof of concepts, manage contract negotiations and procurement processes, collaborate with solution architects on technical requirements, forecast sales pipeline accuracy, maintain detailed opportunity documentation, coordinate with implementation teams, analyze competitive positioning, mentor junior sales staff',
-qualifications: 'Bachelor degree in Business or related field, proven enterprise software sales experience, strong understanding of enterprise software and cloud solutions, experience with complex sales cycles and contract negotiations, excellent presentation and communication skills, proven track record of exceeding quota, proficiency with CRM systems and sales tools, strategic thinking and problem-solving abilities',
-prompt: 'Create a job description for an Enterprise Software Sales Executive focusing on cloud solutions and digital transformation. Must have proven track record selling complex software solutions to enterprise organizations. Experience with multi-stakeholder sales processes, contract negotiations, and solution selling required. Position involves managing strategic accounts, developing new business, and maintaining executive relationships. Must understand cloud architecture, digital transformation strategies, and enterprise software implementation. Role includes coordinating with technical teams, managing complex sales cycles, and maintaining accurate forecasts. Significant earning potential through base salary plus commission structure. Travel required for client meetings and industry events. Career path leads to Regional Vice President or Global Account Executive roles.'
+
+'Retail Property Analyst': {
+    minValue: 75000,
+    maxValue: 95000,
+    experienceLevel: 'midLevel',
+    category: 'Finance',
+    team: 'Strategy',
+    yearsExperience: '2-4',
+    responsibilities: 'Analyze financial performance of retail properties, prepare detailed reports on property budgets, expenses, and profitability, develop financial models to evaluate leasing scenarios, provide market research and competitor analysis to inform leasing strategies, assist property managers with budget preparation and expense tracking, monitor portfolio performance and identify opportunities for improvement, maintain databases of lease terms, tenant information, and market data, support due diligence for acquisitions or dispositions of properties, present insights and recommendations to senior management',
+    qualifications: 'Strong analytical and financial modeling skills, proficiency in Microsoft Excel and data visualization tools, knowledge of commercial property management practices, excellent communication and presentation abilities, detail-oriented with the ability to manage multiple projects, basic understanding of market research methods',
+    prompt: 'Create a job description for a Retail Property Analyst focusing on financial performance analysis, budgeting, and market research for retail leasing. Include financial modeling, database management, and reporting responsibilities. Must have strong analytical skills and experience with Excel and data visualization tools.'
 },
-'Technical Sales Engineer': {
-minValue: 85000,
-maxValue: 105000,
-experienceLevel: 'midLevel',
-category: 'Sales',
-team: 'Engineering',
-yearsExperience: '3-6',
-responsibilities: 'Provide technical expertise during sales process, conduct product demonstrations and proof of concepts, develop technical solutions for customer requirements, create detailed proposals and technical documentation, support customer implementations and integrations, analyze customer technical needs and challenges, collaborate with product development teams, maintain knowledge of industry trends and competitive solutions, provide technical training to sales team members, participate in technical conferences and trade shows',
-qualifications: 'Bachelor degree in Engineering or Computer Science, experience in technical sales or solutions engineering, strong understanding of software development and system architecture, excellent problem-solving and analytical skills, ability to translate technical concepts for non-technical audiences, strong presentation and communication abilities, project management experience, customer-focused mindset',
-prompt: 'Create a job description for a Technical Sales Engineer specializing in enterprise software solutions. Must have strong technical background and customer-facing experience. Expertise in software architecture, integration patterns, and solution design required. Position involves supporting complex sales cycles, conducting technical demonstrations, and designing customer solutions. Must understand various technology stacks, integration methods, and implementation approaches. Role includes creating technical documentation, supporting proof of concepts, and providing product expertise. Some travel required for customer meetings and technical conferences. Base salary plus bonus structure. Career growth opportunities include Senior Solutions Architect or Technical Sales Director roles. Strong focus on continuous learning to stay current with technology trends.'
+
+'Property Manager': {
+    minValue: 80000,
+    maxValue: 100000,
+    experienceLevel: 'seniorLevel',
+    category: 'Property Management',
+    team: 'Leadership',
+    yearsExperience: '5-7',
+    responsibilities: 'Manage day-to-day operations of retail properties, develop and execute property budgets and financial plans, oversee tenant relations, including handling inquiries, disputes, and lease compliance, coordinate property maintenance and vendor management to ensure high-quality service, negotiate and manage service contracts, lead leasing efforts and support marketing activities, ensure compliance with local regulations and company policies, monitor rent collections and address delinquencies, prepare monthly and quarterly reports for senior management, mentor and guide junior team members, conduct property inspections and ensure safety standards are met',
+    qualifications: 'Proven experience in property management, strong knowledge of budgeting and financial planning, excellent leadership and communication skills, proficiency in property management software and Microsoft Excel, ability to manage multiple properties and priorities, broker’s license preferred but not required',
+    prompt: 'Create a job description for a Property Manager specializing in retail properties. Focus on tenant relations, budgeting, and maintenance coordination. Must have proven property management experience and strong financial skills. A broker’s license is preferred but not required.'
 }
 };
 
@@ -127,50 +98,35 @@ const COMPANIES = {
   name: 'Tustin Recruiting',
   sameAs: 'https://www.tustinrecruiting.com/',
   logo: '/images/LOGO1.png'
+},
+'Perkins Properties': {
+  name: 'Perkins Properties',
+  sameAs: 'https://www.perkinsproperties.us/',
+  logo: 'https://www.perkinsproperties.us/wp-content/uploads/2018/01/logo-1.jpg'
 }
 };
 
 const LOCATIONS = [
-  // Orange County's 15 Most Populous Cities
-  { city: 'Anaheim', state: 'CA', zipCode: '92805' },
-  { city: 'Santa Ana', state: 'CA', zipCode: '92701' },
-  { city: 'Irvine', state: 'CA', zipCode: '92618' },
-  { city: 'Huntington Beach', state: 'CA', zipCode: '92648' },
-  { city: 'Garden Grove', state: 'CA', zipCode: '92840' },
-  { city: 'Orange', state: 'CA', zipCode: '92868' },
-  { city: 'Fullerton', state: 'CA', zipCode: '92832' },
-  { city: 'Costa Mesa', state: 'CA', zipCode: '92626' },
-  { city: 'Mission Viejo', state: 'CA', zipCode: '92691' },
-  { city: 'Westminster', state: 'CA', zipCode: '92683' },
-  { city: 'Newport Beach', state: 'CA', zipCode: '92660' },
-  { city: 'Lake Forest', state: 'CA', zipCode: '92630' },
-  { city: 'Buena Park', state: 'CA', zipCode: '90620' },
-  { city: 'Tustin', state: 'CA', zipCode: '92780' },
-  { city: 'Yorba Linda', state: 'CA', zipCode: '92886' },
-
-  // LA County West of Ontario's 15 Most Populous Cities
-  { city: 'Los Angeles', state: 'CA', zipCode: '90012' },
-  { city: 'Long Beach', state: 'CA', zipCode: '90802' },
-  { city: 'Santa Clarita', state: 'CA', zipCode: '91355' },
-  { city: 'Glendale', state: 'CA', zipCode: '91205' },
-  { city: 'Torrance', state: 'CA', zipCode: '90503' },
-  { city: 'Pasadena', state: 'CA', zipCode: '91101' },
-  { city: 'West Covina', state: 'CA', zipCode: '91790' },
-  { city: 'Norwalk', state: 'CA', zipCode: '90650' },
-  { city: 'Burbank', state: 'CA', zipCode: '91502' },
-  { city: 'Carson', state: 'CA', zipCode: '90745' },
-
-  // San Diego County's 15 Most Populous Cities
-  { city: 'San Diego', state: 'CA', zipCode: '92101' },
-  { city: 'Chula Vista', state: 'CA', zipCode: '91910' },
-  { city: 'Oceanside', state: 'CA', zipCode: '92054' },
-  { city: 'Escondido', state: 'CA', zipCode: '92025' },
-  { city: 'Carlsbad', state: 'CA', zipCode: '92008' },
-  { city: 'Vista', state: 'CA', zipCode: '92081' },
-  { city: 'San Marcos', state: 'CA', zipCode: '92069' },
-  { city: 'Encinitas', state: 'CA', zipCode: '92024' },
-  { city: 'Poway', state: 'CA', zipCode: '92064' },
-  { city: 'Imperial Beach', state: 'CA', zipCode: '91932' }
+  { city: 'Bellevue', state: 'NE', zipCode: '68005' },
+{ city: 'Papillion', state: 'NE', zipCode: '68046' },
+{ city: 'La Vista', state: 'NE', zipCode: '68128' },
+{ city: 'Ralston', state: 'NE', zipCode: '68127' },
+{ city: 'Council Bluffs', state: 'IA', zipCode: '51501' },
+{ city: 'Bennington', state: 'NE', zipCode: '68007' },
+{ city: 'Elkhorn', state: 'NE', zipCode: '68022' },
+{ city: 'Gretna', state: 'NE', zipCode: '68028' },
+{ city: 'Springfield', state: 'NE', zipCode: '68059' },
+{ city: 'Carter Lake', state: 'IA', zipCode: '51510' },
+{ city: 'Fort Calhoun', state: 'NE', zipCode: '68023' },
+{ city: 'Blair', state: 'NE', zipCode: '68008' },
+{ city: 'Offutt AFB', state: 'NE', zipCode: '68113' },
+{ city: 'Waterloo', state: 'NE', zipCode: '68069' },
+{ city: 'Ashland', state: 'NE', zipCode: '68003' },
+{ city: 'Plattsmouth', state: 'NE', zipCode: '68048' },
+{ city: 'Louisville', state: 'NE', zipCode: '68037' },
+{ city: 'Valley', state: 'NE', zipCode: '68064' },
+{ city: 'Arlington', state: 'NE', zipCode: '68002' },
+{ city: 'Pacific Junction', state: 'IA', zipCode: '51561' }
 ];
 
 const STREET_TYPES = [

@@ -34,8 +34,8 @@ description: >-
   status.
 location: 'Costa Mesa, CA'
 team: Logistics
-datePosted: '2024-12-27T06:34:08.941Z'
-validThrough: '2025-02-03T06:34:08.941Z'
+datePosted: '2025-01-13T21:00:30.456Z'
+validThrough: '2025-02-21T21:00:30.456Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

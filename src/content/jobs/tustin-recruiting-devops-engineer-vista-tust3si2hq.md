@@ -49,8 +49,8 @@ description: >-
   competitive.
 location: 'Vista, CA'
 team: Software
-datePosted: '2024-12-27T14:03:08.394Z'
-validThrough: '2025-02-08T14:03:08.394Z'
+datePosted: '2025-01-13T20:09:21.444Z'
+validThrough: '2025-02-17T20:09:21.444Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

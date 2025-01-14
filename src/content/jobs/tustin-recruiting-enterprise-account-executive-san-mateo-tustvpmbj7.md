@@ -30,8 +30,8 @@ description: >-
   individuals.
 location: 'San Mateo, CA'
 team: Software
-datePosted: '2024-12-27T11:29:40.471Z'
-validThrough: '2025-02-03T11:29:40.471Z'
+datePosted: '2025-01-13T14:33:38.920Z'
+validThrough: '2025-02-13T14:33:38.920Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

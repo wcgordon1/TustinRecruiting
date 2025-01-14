@@ -28,8 +28,8 @@ description: >-
   career advancement.
 location: 'Kirkland, WA'
 team: Software
-datePosted: '2024-12-27T06:16:54.344Z'
-validThrough: '2025-01-29T06:16:54.344Z'
+datePosted: '2025-01-13T14:50:00.885Z'
+validThrough: '2025-02-23T14:50:00.885Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

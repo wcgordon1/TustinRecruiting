@@ -29,8 +29,8 @@ description: >-
   making a difference in the fintech industry. Apply today!
 location: 'Tualatin, OR'
 team: Finance
-datePosted: '2024-12-27T12:42:33.502Z'
-validThrough: '2025-02-03T12:42:33.502Z'
+datePosted: '2025-01-13T21:36:38.018Z'
+validThrough: '2025-02-15T21:36:38.018Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

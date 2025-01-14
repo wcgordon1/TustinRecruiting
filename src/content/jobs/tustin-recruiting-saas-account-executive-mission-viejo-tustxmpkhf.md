@@ -29,8 +29,8 @@ description: >-
   Mission Viejo!
 location: 'Mission Viejo, CA'
 team: Software
-datePosted: '2024-12-26T18:36:18.750Z'
-validThrough: '2025-01-27T18:36:18.750Z'
+datePosted: '2025-01-13T10:34:33.118Z'
+validThrough: '2025-02-24T10:34:33.118Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

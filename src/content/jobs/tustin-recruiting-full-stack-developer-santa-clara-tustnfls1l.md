@@ -34,8 +34,8 @@ description: >-
   individuals.
 location: 'Santa Clara, CA'
 team: Finance
-datePosted: '2024-12-27T13:11:07.799Z'
-validThrough: '2025-02-01T13:11:07.799Z'
+datePosted: '2025-01-13T22:37:42.387Z'
+validThrough: '2025-02-26T22:37:42.387Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

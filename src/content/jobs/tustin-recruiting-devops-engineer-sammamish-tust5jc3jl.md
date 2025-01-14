@@ -28,8 +28,8 @@ description: >-
   selected for an interview will be contacted.
 location: 'Sammamish, WA'
 team: Software
-datePosted: '2024-12-27T12:26:41.968Z'
-validThrough: '2025-02-04T12:26:41.968Z'
+datePosted: '2025-01-13T16:04:22.470Z'
+validThrough: '2025-02-17T16:04:22.470Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

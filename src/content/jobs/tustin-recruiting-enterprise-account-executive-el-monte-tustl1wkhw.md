@@ -26,8 +26,8 @@ description: >-
   status.
 location: 'El Monte, CA'
 team: Software
-datePosted: '2024-12-26T22:42:03.825Z'
-validThrough: '2025-02-05T22:42:03.825Z'
+datePosted: '2025-01-13T10:35:53.936Z'
+validThrough: '2025-02-26T10:35:53.936Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -40,8 +40,8 @@ description: >-
   law.
 location: 'Tustin, CA'
 team: Software
-datePosted: '2024-12-27T10:46:44.313Z'
-validThrough: '2025-02-02T10:46:44.313Z'
+datePosted: '2025-01-13T19:52:14.337Z'
+validThrough: '2025-02-23T19:52:14.337Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

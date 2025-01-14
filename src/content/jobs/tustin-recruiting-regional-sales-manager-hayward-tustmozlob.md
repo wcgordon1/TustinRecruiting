@@ -34,8 +34,8 @@ description: >-
   encourage you to apply today.
 location: 'Hayward, CA'
 team: Logistics
-datePosted: '2024-12-27T14:43:11.197Z'
-validThrough: '2025-02-05T14:43:11.197Z'
+datePosted: '2025-01-13T22:26:23.637Z'
+validThrough: '2025-02-25T22:26:23.637Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

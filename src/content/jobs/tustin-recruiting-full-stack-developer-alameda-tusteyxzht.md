@@ -25,8 +25,8 @@ description: >-
   to join a growing company and work on cuttingedge technologies.
 location: 'Alameda, CA'
 team: Finance
-datePosted: '2024-12-26T17:07:05.908Z'
-validThrough: '2025-02-09T17:07:05.908Z'
+datePosted: '2025-01-13T20:01:14.058Z'
+validThrough: '2025-02-22T20:01:14.058Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -30,8 +30,8 @@ description: >-
   you.
 location: 'Novato, CA'
 team: Software
-datePosted: '2024-12-27T14:36:31.485Z'
-validThrough: '2025-02-08T14:36:31.485Z'
+datePosted: '2025-01-13T19:28:47.955Z'
+validThrough: '2025-02-27T19:28:47.955Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

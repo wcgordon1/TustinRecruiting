@@ -30,8 +30,8 @@ description: >-
   easier, we can't wait to hear from you!
 location: 'Belmont, CA'
 team: Logistics
-datePosted: '2024-12-27T12:00:46.880Z'
-validThrough: '2025-02-01T12:00:46.880Z'
+datePosted: '2025-01-14T00:53:28.698Z'
+validThrough: '2025-02-18T00:53:28.698Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

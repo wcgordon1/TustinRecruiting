@@ -30,8 +30,8 @@ description: >-
   application and discussing this opportunity further.
 location: 'Los Gatos, CA'
 team: Finance
-datePosted: '2024-12-27T09:50:17.667Z'
-validThrough: '2025-02-02T09:50:17.667Z'
+datePosted: '2025-01-13T10:54:39.998Z'
+validThrough: '2025-02-24T10:54:39.998Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

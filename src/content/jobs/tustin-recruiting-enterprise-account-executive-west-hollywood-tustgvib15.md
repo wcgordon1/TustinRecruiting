@@ -24,8 +24,8 @@ description: >-
   we'd love to hear from you!
 location: 'West Hollywood, CA'
 team: Software
-datePosted: '2024-12-27T06:42:38.205Z'
-validThrough: '2025-01-29T06:42:38.205Z'
+datePosted: '2025-01-13T08:59:02.827Z'
+validThrough: '2025-02-20T08:59:02.827Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

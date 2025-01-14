@@ -29,8 +29,8 @@ description: >-
   opportunities for professional development.
 location: 'Palo Alto, CA'
 team: Software
-datePosted: '2024-12-27T11:46:41.218Z'
-validThrough: '2025-02-03T11:46:41.218Z'
+datePosted: '2025-01-14T00:20:49.744Z'
+validThrough: '2025-02-22T00:20:49.744Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -59,8 +59,8 @@ description: >-
   and practices.
 location: 'Newport Beach, CA'
 team: Software
-datePosted: '2024-12-27T15:01:23.904Z'
-validThrough: '2025-01-27T15:01:23.904Z'
+datePosted: '2025-01-13T09:14:45.741Z'
+validThrough: '2025-02-14T09:14:45.741Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

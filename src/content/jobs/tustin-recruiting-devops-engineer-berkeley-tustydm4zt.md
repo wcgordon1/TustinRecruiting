@@ -26,8 +26,8 @@ description: >-
   you're ready to take your career to the next level, apply today!
 location: 'Berkeley, CA'
 team: Software
-datePosted: '2024-12-26T16:53:45.206Z'
-validThrough: '2025-01-30T16:53:45.206Z'
+datePosted: '2025-01-13T12:48:36.784Z'
+validThrough: '2025-02-17T12:48:36.784Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

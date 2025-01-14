@@ -36,8 +36,8 @@ description: >-
   fosters innovation, growth, and overall success.
 location: 'Menlo Park, CA'
 team: Logistics
-datePosted: '2024-12-27T06:27:31.545Z'
-validThrough: '2025-02-02T06:27:31.545Z'
+datePosted: '2025-01-13T17:50:23.855Z'
+validThrough: '2025-02-16T17:50:23.855Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

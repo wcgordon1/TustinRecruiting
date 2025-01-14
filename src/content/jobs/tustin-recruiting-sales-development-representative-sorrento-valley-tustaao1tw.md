@@ -23,8 +23,8 @@ description: >-
   resume and cover letter to Our Client. We look forward to hearing from you.
 location: 'Sorrento Valley, CA'
 team: Software
-datePosted: '2024-12-27T04:13:38.993Z'
-validThrough: '2025-02-02T04:13:38.993Z'
+datePosted: '2025-01-13T22:50:25.628Z'
+validThrough: '2025-02-26T22:50:25.628Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

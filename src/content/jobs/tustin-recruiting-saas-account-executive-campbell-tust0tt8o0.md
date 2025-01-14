@@ -26,8 +26,8 @@ description: >-
   hesitate to apply!
 location: 'Campbell, CA'
 team: Software
-datePosted: '2024-12-27T00:16:29.859Z'
-validThrough: '2025-02-01T00:16:29.859Z'
+datePosted: '2025-01-13T18:20:27.187Z'
+validThrough: '2025-02-13T18:20:27.187Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

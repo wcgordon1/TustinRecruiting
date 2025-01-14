@@ -27,8 +27,8 @@ description: >-
   today and let's explore how we can make a difference together!
 location: 'Issaquah, WA'
 team: Software
-datePosted: '2024-12-27T07:52:53.319Z'
-validThrough: '2025-01-27T07:52:53.319Z'
+datePosted: '2025-01-14T01:33:05.288Z'
+validThrough: '2025-02-24T01:33:05.288Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

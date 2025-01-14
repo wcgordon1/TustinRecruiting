@@ -27,8 +27,8 @@ description: >-
   encourage all suitable candidates to apply.
 location: 'Venice, CA'
 team: Software
-datePosted: '2024-12-26T19:30:06.195Z'
-validThrough: '2025-01-29T19:30:06.195Z'
+datePosted: '2025-01-13T10:18:50.978Z'
+validThrough: '2025-02-27T10:18:50.978Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

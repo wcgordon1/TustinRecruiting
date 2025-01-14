@@ -27,8 +27,8 @@ description: >-
   Opportunities for ongoing training and career development.
 location: 'Redondo Beach, CA'
 team: Logistics
-datePosted: '2024-12-27T00:44:36.617Z'
-validThrough: '2025-01-30T00:44:36.617Z'
+datePosted: '2025-01-13T10:13:35.420Z'
+validThrough: '2025-02-13T10:13:35.420Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

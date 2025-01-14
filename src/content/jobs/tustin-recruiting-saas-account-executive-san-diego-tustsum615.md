@@ -26,8 +26,8 @@ description: >-
   $82,017$92,017 per year, along with a comprehensive benefits package.
 location: 'San Diego, CA'
 team: Software
-datePosted: '2024-12-27T06:17:11.726Z'
-validThrough: '2025-02-07T06:17:11.726Z'
+datePosted: '2025-01-13T09:22:23.644Z'
+validThrough: '2025-02-25T09:22:23.644Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

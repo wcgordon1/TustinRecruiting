@@ -27,8 +27,8 @@ description: >-
   disability status.
 location: 'Bend, OR'
 team: Software
-datePosted: '2024-12-26T23:56:42.487Z'
-validThrough: '2025-02-07T23:56:42.487Z'
+datePosted: '2025-01-13T15:08:47.357Z'
+validThrough: '2025-02-21T15:08:47.357Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -27,8 +27,8 @@ description: >-
   national origin, disability, or protected veteran status.
 location: 'Santa Clarita, CA'
 team: Logistics
-datePosted: '2024-12-26T23:15:04.970Z'
-validThrough: '2025-01-29T23:15:04.970Z'
+datePosted: '2025-01-13T08:26:18.430Z'
+validThrough: '2025-02-25T08:26:18.430Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

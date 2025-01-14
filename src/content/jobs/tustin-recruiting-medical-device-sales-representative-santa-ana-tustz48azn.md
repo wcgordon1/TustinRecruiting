@@ -30,8 +30,8 @@ description: >-
   commensurate with the successful candidate's experience and qualifications.
 location: 'Santa Ana, CA'
 team: Medical Device
-datePosted: '2024-12-27T02:36:02.705Z'
-validThrough: '2025-02-09T02:36:02.705Z'
+datePosted: '2025-01-13T09:56:25.605Z'
+validThrough: '2025-02-19T09:56:25.605Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

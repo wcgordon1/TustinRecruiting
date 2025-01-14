@@ -32,8 +32,8 @@ description: >-
   join their growing team in Gresham!
 location: 'Gresham, OR'
 team: Logistics
-datePosted: '2024-12-27T12:46:21.337Z'
-validThrough: '2025-02-09T12:46:21.337Z'
+datePosted: '2025-01-14T01:12:29.207Z'
+validThrough: '2025-02-28T01:12:29.207Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -28,8 +28,8 @@ description: >-
   status and will not be discriminated against on the basis of disability.
 location: 'Newport Beach, CA'
 team: Finance
-datePosted: '2024-12-26T19:23:46.544Z'
-validThrough: '2025-02-01T19:23:46.544Z'
+datePosted: '2025-01-13T21:13:44.310Z'
+validThrough: '2025-02-15T21:13:44.310Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -34,8 +34,8 @@ description: >-
   and discussing this opportunity further.
 location: 'Los Angeles, CA'
 team: Medical Device
-datePosted: '2024-12-26T19:38:25.499Z'
-validThrough: '2025-02-01T19:38:25.499Z'
+datePosted: '2025-01-13T13:06:36.001Z'
+validThrough: '2025-02-26T13:06:36.001Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

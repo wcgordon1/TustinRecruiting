@@ -27,8 +27,8 @@ description: >-
   we'd love to hear from you. Let's secure a better future together!
 location: 'Cupertino, CA'
 team: Software
-datePosted: '2024-12-27T01:26:55.116Z'
-validThrough: '2025-01-29T01:26:55.116Z'
+datePosted: '2025-01-13T09:02:18.211Z'
+validThrough: '2025-02-22T09:02:18.211Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

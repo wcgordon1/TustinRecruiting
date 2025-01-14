@@ -44,8 +44,8 @@ description: >-
   of something great. We’re excited to see what you bring to the table!
 location: 'Fullerton, CA'
 team: Engineering
-datePosted: '2024-12-27T11:28:29.705Z'
-validThrough: '2025-01-29T11:28:29.705Z'
+datePosted: '2025-01-13T18:32:08.639Z'
+validThrough: '2025-02-13T18:32:08.639Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

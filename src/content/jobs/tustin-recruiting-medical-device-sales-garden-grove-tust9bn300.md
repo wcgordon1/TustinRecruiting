@@ -44,8 +44,8 @@ description: >-
   impact, we want to hear from you!
 location: 'Garden Grove, CA'
 team: Medical Device
-datePosted: '2024-12-27T11:03:36.605Z'
-validThrough: '2025-02-05T11:03:36.605Z'
+datePosted: '2025-01-13T19:39:05.260Z'
+validThrough: '2025-02-27T19:39:05.260Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

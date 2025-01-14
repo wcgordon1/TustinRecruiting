@@ -24,8 +24,8 @@ description: >-
   This could be the start of a fantastic journey with a leading ad tech company.
 location: 'South San Francisco, CA'
 team: Software
-datePosted: '2024-12-27T11:44:27.448Z'
-validThrough: '2025-02-02T11:44:27.448Z'
+datePosted: '2025-01-13T09:44:50.584Z'
+validThrough: '2025-02-16T09:44:50.584Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -27,8 +27,8 @@ description: >-
   through strong partner networks.
 location: 'Sunnyvale, CA'
 team: Software
-datePosted: '2024-12-26T16:42:11.254Z'
-validThrough: '2025-02-01T16:42:11.254Z'
+datePosted: '2025-01-13T22:48:47.890Z'
+validThrough: '2025-02-21T22:48:47.890Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

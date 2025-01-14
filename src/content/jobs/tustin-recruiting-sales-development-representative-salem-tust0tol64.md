@@ -26,8 +26,8 @@ description: >-
   your hard work, apply today! We can't wait to hear from you.
 location: 'Salem, OR'
 team: Software
-datePosted: '2024-12-26T21:57:03.232Z'
-validThrough: '2025-02-09T21:57:03.232Z'
+datePosted: '2025-01-13T17:45:26.185Z'
+validThrough: '2025-02-14T17:45:26.185Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

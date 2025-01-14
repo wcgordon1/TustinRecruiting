@@ -49,8 +49,8 @@ benefits:
   - Home Office Stipend
   - Learning & Development Budget
   - Quarterly Team Offsites in LA
-datePosted: '2024-12-22T06:28:13.201Z'
-validThrough: '2025-02-05T06:28:13.201Z'
+datePosted: '2025-01-13T23:26:11.767Z'
+validThrough: '2025-02-18T23:26:11.767Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -28,8 +28,8 @@ description: >-
   apply today!
 location: 'Walnut Creek, CA'
 team: Software
-datePosted: '2024-12-27T09:03:59.709Z'
-validThrough: '2025-02-02T09:03:59.709Z'
+datePosted: '2025-01-13T11:34:32.176Z'
+validThrough: '2025-02-15T11:34:32.176Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

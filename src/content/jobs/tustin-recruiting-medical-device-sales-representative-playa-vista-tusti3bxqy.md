@@ -30,8 +30,8 @@ description: >-
   meet you.
 location: 'Playa Vista, CA'
 team: Medical Device
-datePosted: '2024-12-27T02:07:54.725Z'
-validThrough: '2025-02-08T02:07:54.725Z'
+datePosted: '2025-01-13T15:47:23.577Z'
+validThrough: '2025-02-13T15:47:23.577Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

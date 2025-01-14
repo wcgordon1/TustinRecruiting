@@ -27,8 +27,8 @@ description: >-
   got what it takes, we'd love to hear from you!
 location: 'Renton, WA'
 team: Logistics
-datePosted: '2024-12-27T11:33:44.327Z'
-validThrough: '2025-02-05T11:33:44.327Z'
+datePosted: '2025-01-13T14:32:03.341Z'
+validThrough: '2025-02-18T14:32:03.341Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -21,8 +21,8 @@ description: >-
   opportunities, Our Client is ready to meet you!
 location: 'Redmond, WA'
 team: Software
-datePosted: '2024-12-27T14:09:12.240Z'
-validThrough: '2025-02-07T14:09:12.240Z'
+datePosted: '2025-01-13T19:52:10.243Z'
+validThrough: '2025-02-17T19:52:10.243Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

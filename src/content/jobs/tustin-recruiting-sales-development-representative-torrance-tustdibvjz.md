@@ -22,8 +22,8 @@ description: >-
   paid time off, and professional development opportunities.
 location: 'Torrance, CA'
 team: Software
-datePosted: '2024-12-27T02:07:44.590Z'
-validThrough: '2025-01-27T02:07:44.590Z'
+datePosted: '2025-01-13T15:42:47.098Z'
+validThrough: '2025-02-24T15:42:47.098Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting
