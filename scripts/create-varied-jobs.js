@@ -20,77 +20,83 @@ const openai = new OpenAI({
 const JOB_TYPES = {
   'Assistant Property Manager': {
     minValue: 70000,
-    maxValue: 90000,
+    maxValue: 72000,
     experienceLevel: 'entryLevel',
     category: 'Property Management',
     team: 'Operations',
-    yearsExperience: '1-3',
+    yearsExperience: '3-10',
     responsibilities: 'Support property managers in day-to-day operations, assist with tenant communications, coordinate maintenance requests and vendor management, maintain accurate property records and reports, assist in preparing budgets and monitoring expenses, oversee small-scale construction projects, ensure compliance with lease agreements, track rent payments and follow up on delinquencies, assist in marketing and leasing activities, attend property inspections and meetings',
     qualifications: 'Experience with property management software and Microsoft Excel, excellent organizational and communication skills, ability to handle multiple tasks and meet deadlines, basic understanding of property maintenance and leasing terms, ability to work collaboratively with a team, strong attention to detail',
     prompt: 'Create a job description for an Assistant Property Manager focusing on supporting retail leasing operations. Emphasize tenant communication, vendor coordination, and budgeting assistance. Must have experience with Excel and property management software. A strong attention to detail and ability to multitask are required.'
 },
-
 'Leasing Coordinator': {
     minValue: 70000,
-    maxValue: 90000,
+    maxValue: 75000,
     experienceLevel: 'entryLevel',
     category: 'Leasing',
-    team: 'Commercial',
-    yearsExperience: '1-3',
+    team: 'Operations',
+    yearsExperience: '3-10',
     responsibilities: 'Coordinate leasing activities for retail properties, draft lease agreements and amendments, manage lease expirations and renewals, maintain leasing and marketing databases, assist in preparing financial models for leasing opportunities, support brokers and property managers with market research and presentations, ensure lease compliance with company policies and legal requirements, communicate regularly with tenants to address leasing inquiries and concerns, track leasing KPIs and provide regular reports to management, assist in site tours and marketing efforts',
     qualifications: 'Experience with leasing processes and legal terminology, proficiency in Microsoft Excel and property management software, excellent verbal and written communication skills, ability to analyze market data and financial models, strong organizational and multitasking skills, customer service-oriented approach',
     prompt: 'Create a job description for a Leasing Coordinator in a retail-focused commercial property management company. Highlight responsibilities in lease drafting, tracking, and compliance. Include tenant communication and coordination with brokers. Must have strong Excel skills and organizational abilities.'
 },
-
 'Construction Project Coordinator': {
-    minValue: 75000,
-    maxValue: 95000,
+    minValue: 65000,
+    maxValue: 70000,
     experienceLevel: 'midLevel',
-    category: 'Construction',
-    team: 'Project Management',
+    category: 'Leasing',
+    team: 'Operations',
     yearsExperience: '3-5',
     responsibilities: 'Oversee construction projects within retail properties, coordinate with contractors, vendors, and property managers to ensure timely completion, prepare project schedules and track progress, assist in reviewing construction budgets and bids, manage documentation, including permits and change orders, conduct regular site inspections to ensure work aligns with plans and safety standards, communicate project updates to stakeholders, resolve on-site issues to minimize delays, maintain project cost controls and reporting, ensure compliance with local building codes and regulations',
     qualifications: 'Experience with construction management in commercial properties, strong knowledge of project scheduling and budgeting, proficiency in Microsoft Excel and project management software, ability to manage multiple projects simultaneously, strong problem-solving and communication skills, knowledge of local building codes and safety regulations',
     prompt: 'Create a job description for a Construction Project Coordinator specializing in retail property projects. Focus on construction scheduling, vendor coordination, and cost tracking. Experience in commercial property construction management required, with strong Excel and project management software skills.'
 },
-
 'Retail Property Analyst': {
     minValue: 75000,
     maxValue: 95000,
     experienceLevel: 'midLevel',
     category: 'Finance',
-    team: 'Strategy',
-    yearsExperience: '2-4',
+    team: 'Operations',
+    yearsExperience: '5-7',
     responsibilities: 'Analyze financial performance of retail properties, prepare detailed reports on property budgets, expenses, and profitability, develop financial models to evaluate leasing scenarios, provide market research and competitor analysis to inform leasing strategies, assist property managers with budget preparation and expense tracking, monitor portfolio performance and identify opportunities for improvement, maintain databases of lease terms, tenant information, and market data, support due diligence for acquisitions or dispositions of properties, present insights and recommendations to senior management',
     qualifications: 'Strong analytical and financial modeling skills, proficiency in Microsoft Excel and data visualization tools, knowledge of commercial property management practices, excellent communication and presentation abilities, detail-oriented with the ability to manage multiple projects, basic understanding of market research methods',
     prompt: 'Create a job description for a Retail Property Analyst focusing on financial performance analysis, budgeting, and market research for retail leasing. Include financial modeling, database management, and reporting responsibilities. Must have strong analytical skills and experience with Excel and data visualization tools.'
 },
-
 'Property Manager': {
     minValue: 80000,
-    maxValue: 100000,
+    maxValue: 85000,
     experienceLevel: 'seniorLevel',
     category: 'Property Management',
-    team: 'Leadership',
-    yearsExperience: '5-7',
+    team: 'Operations',
+    yearsExperience: '5-8',
     responsibilities: 'Manage day-to-day operations of retail properties, develop and execute property budgets and financial plans, oversee tenant relations, including handling inquiries, disputes, and lease compliance, coordinate property maintenance and vendor management to ensure high-quality service, negotiate and manage service contracts, lead leasing efforts and support marketing activities, ensure compliance with local regulations and company policies, monitor rent collections and address delinquencies, prepare monthly and quarterly reports for senior management, mentor and guide junior team members, conduct property inspections and ensure safety standards are met',
     qualifications: 'Proven experience in property management, strong knowledge of budgeting and financial planning, excellent leadership and communication skills, proficiency in property management software and Microsoft Excel, ability to manage multiple properties and priorities, broker’s license preferred but not required',
     prompt: 'Create a job description for a Property Manager specializing in retail properties. Focus on tenant relations, budgeting, and maintenance coordination. Must have proven property management experience and strong financial skills. A broker’s license is preferred but not required.'
+},
+'Commercial Property Manager': {
+    minValue: 85000,
+    maxValue: 95000,
+    experienceLevel: 'seniorLevel',
+    category: 'Property Management',
+    team: 'Operations',
+    yearsExperience: '5-10',
+    responsibilities: 'Oversee daily operations of commercial retail properties, ensuring smooth management of tenant relations and lease compliance. Develop, monitor, and adjust property budgets to optimize financial performance. Lead tenant communication efforts, addressing inquiries, resolving disputes, and ensuring satisfaction. Manage maintenance activities, vendor contracts, and on-site construction projects to maintain high-quality standards. Collaborate with leasing teams to support marketing strategies and negotiate new lease agreements. Ensure compliance with local regulations, safety codes, and company policies. Monitor rent collections, address delinquencies, and prepare detailed financial reports for senior management. Conduct regular property inspections to identify improvement opportunities and ensure facilities remain operationally efficient. Mentor junior staff members and provide training to support team development. Represent the company professionally in client and stakeholder interactions.',
+    qualifications: 'Extensive experience in commercial property management, with a focus on retail assets. Strong proficiency in financial planning, budgeting, and lease administration. Exceptional communication, leadership, and organizational skills. Proficiency in property management software and advanced knowledge of Microsoft Excel. Ability to manage multiple priorities and projects in a fast-paced environment. Broker’s license preferred but not required.',
+    prompt: 'Create a job description for a Commercial Property Manager specializing in retail properties. Emphasize responsibilities in tenant relations, financial planning, and overseeing maintenance and leasing efforts. Candidates should have proven experience in commercial property management, strong leadership skills, and expertise in financial analysis. Highlight the importance of maintaining high-quality property operations and team mentorship.'
 }
+
 };
 
 const PROMPT_STYLES = {
-  'conversational': 'Make this job description friendly and conversational, using casual language while maintaining professionalism. Use "you" and "we" to speak directly to the candidate. Randomly select which requirement and certs are necessary for the role.',
-  'formal': 'Write this job description in a formal, traditional corporate style with clear sections and bullet points. Randomly select which requirement and certs are necessary for the role.',
   'detailed': 'Create a comprehensive and detailed job description with specific examples and clear expectations for each responsibility. Randomly select which requirement and certs are necessary for the role.',
   'concise': 'Write a clear and concise job description focusing on key requirements and essential responsibilities. Randomly select which requirement and certs are necessary for the role.',
-  'engaging': 'Create an engaging and energetic job description that excites potential candidates while highlighting growth opportunities. Randomly select which requirement and certs are necessary for the role.'
+  'official': 'Write a job description in a formal, traditional corporate style with clear sections and bullet points like the CEO talking to the candidate. Randomly select which requirement and certs are necessary for the role.'
 };
 
 const DESCRIPTION_LENGTHS = {
   'short': 500,
-  'medium': 800,
-  'long': 1000
+  'medium': 600,
+  'long': 800
 };
 
 const COMPANIES = {
@@ -107,6 +113,7 @@ const COMPANIES = {
 };
 
 const LOCATIONS = [
+  { city: 'Omaha', state: 'NE', zipCode: '68102' },
   { city: 'Bellevue', state: 'NE', zipCode: '68005' },
 { city: 'Papillion', state: 'NE', zipCode: '68046' },
 { city: 'La Vista', state: 'NE', zipCode: '68128' },
@@ -126,7 +133,12 @@ const LOCATIONS = [
 { city: 'Louisville', state: 'NE', zipCode: '68037' },
 { city: 'Valley', state: 'NE', zipCode: '68064' },
 { city: 'Arlington', state: 'NE', zipCode: '68002' },
-{ city: 'Pacific Junction', state: 'IA', zipCode: '51561' }
+{ city: 'Pacific Junction', state: 'IA', zipCode: '51561' },
+{ city: 'Malvern', state: 'IA', zipCode: '51551' },
+{ city: 'Weeping Water', state: 'NE', zipCode: '68463' },
+{ city: 'Nebraska City', state: 'NE', zipCode: '68410' },
+{ city: 'Missouri Valley', state: 'IA', zipCode: '51555' },
+{ city: 'Glenwood', state: 'IA', zipCode: '51534' }
 ];
 
 const STREET_TYPES = [
