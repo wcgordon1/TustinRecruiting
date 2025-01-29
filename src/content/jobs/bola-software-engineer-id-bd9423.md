@@ -17,8 +17,8 @@ description: >-
   Competitive salary, benefits, and a collaborative team environment.
 location: 'Irvine, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-28T12:19:00.400Z'
-validThrough: '2025-01-27T12:19:00.400Z'
+datePosted: '2025-01-29T14:44:05.790Z'
+validThrough: '2025-03-03T14:44:05.790Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

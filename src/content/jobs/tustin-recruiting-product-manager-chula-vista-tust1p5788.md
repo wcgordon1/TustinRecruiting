@@ -27,8 +27,8 @@ description: >-
   ideas into reality and creating products that captivate and inspire!
 location: 'Chula Vista, CA'
 team: Software
-datePosted: '2024-12-28T13:07:44.763Z'
-validThrough: '2025-02-09T13:07:44.763Z'
+datePosted: '2025-01-29T11:58:18.105Z'
+validThrough: '2025-03-14T10:58:18.105Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

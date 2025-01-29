@@ -28,8 +28,8 @@ description: >-
   organization and advance your career in the logistics industry.
 location: 'Dublin, CA'
 team: Logistics
-datePosted: '2025-01-13T08:22:17.666Z'
-validThrough: '2025-02-14T08:22:17.666Z'
+datePosted: '2025-01-29T13:02:09.648Z'
+validThrough: '2025-03-05T13:02:09.648Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

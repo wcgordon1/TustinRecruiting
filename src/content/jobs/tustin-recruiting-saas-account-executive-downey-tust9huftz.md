@@ -29,8 +29,8 @@ description: >-
   qualified candidates to apply.
 location: 'Downey, CA'
 team: Software
-datePosted: '2024-12-28T16:07:41.824Z'
-validThrough: '2025-01-28T16:07:41.824Z'
+datePosted: '2025-01-29T15:49:23.595Z'
+validThrough: '2025-03-09T14:49:23.595Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -41,8 +41,8 @@ description: >-
   support professional development.
 location: 'Huntington Beach, CA'
 team: Analytics
-datePosted: '2024-12-28T20:36:51.482Z'
-validThrough: '2025-02-01T20:36:51.482Z'
+datePosted: '2025-01-29T14:29:40.059Z'
+validThrough: '2025-03-01T14:29:40.059Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

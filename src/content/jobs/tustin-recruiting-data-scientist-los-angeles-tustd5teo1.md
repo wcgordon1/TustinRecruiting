@@ -36,8 +36,8 @@ description: >-
   certifications to support professional growth.
 location: 'Los Angeles, CA'
 team: Analytics
-datePosted: '2024-12-29T02:31:08.685Z'
-validThrough: '2025-02-11T02:31:08.685Z'
+datePosted: '2025-01-29T15:40:46.835Z'
+validThrough: '2025-03-15T14:40:46.835Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -41,8 +41,8 @@ description: >-
   now and let’s make some data magic happen!
 location: 'Escondido, CA'
 team: Analytics
-datePosted: '2024-12-28T23:01:04.151Z'
-validThrough: '2025-02-01T23:01:04.151Z'
+datePosted: '2025-01-29T13:32:17.308Z'
+validThrough: '2025-03-04T13:32:17.308Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

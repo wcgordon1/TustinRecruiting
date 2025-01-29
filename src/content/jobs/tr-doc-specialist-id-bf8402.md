@@ -28,8 +28,8 @@ description: >-
   advancement.
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2024-12-28T17:00:28.398Z'
-validThrough: '2025-01-29T17:00:28.398Z'
+datePosted: '2025-01-29T10:20:18.035Z'
+validThrough: '2025-03-10T09:20:18.035Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -40,8 +40,8 @@ description: >-
   continuous learning and development.
 location: 'Poway, CA'
 team: Engineering
-datePosted: '2024-12-29T05:35:16.251Z'
-validThrough: '2025-02-07T05:35:16.251Z'
+datePosted: '2025-01-29T16:49:48.812Z'
+validThrough: '2025-03-08T16:49:48.812Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

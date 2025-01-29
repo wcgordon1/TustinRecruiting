@@ -25,8 +25,8 @@ description: >-
   can make a significant impact at Our Client's company.
 location: 'Foster City, CA'
 team: Software
-datePosted: '2024-12-28T12:20:46.872Z'
-validThrough: '2025-02-07T12:20:46.872Z'
+datePosted: '2025-01-29T15:04:22.025Z'
+validThrough: '2025-03-03T15:04:22.025Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

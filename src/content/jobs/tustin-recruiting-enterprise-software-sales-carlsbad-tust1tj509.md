@@ -29,8 +29,8 @@ description: >-
   a vibrant, techsavvy environment!
 location: 'Carlsbad, CA'
 team: Software
-datePosted: '2024-12-28T20:38:56.259Z'
-validThrough: '2025-02-06T20:38:56.259Z'
+datePosted: '2025-01-29T17:25:50.894Z'
+validThrough: '2025-03-12T16:25:50.894Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

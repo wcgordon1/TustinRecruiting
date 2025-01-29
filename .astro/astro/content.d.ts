@@ -336,111 +336,6 @@ declare module 'astro:content' {
   collection: "jobs";
   data: any
 } & { render(): Render[".md"] };
-"perkins-properties-assistant-property-manager-council-bluffs-perkg0egrl.md": {
-	id: "perkins-properties-assistant-property-manager-council-bluffs-perkg0egrl.md";
-  slug: "perkins-properties-assistant-property-manager-council-bluffs-perkg0egrl";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-commercial-property-manager-omaha-perkcr7lma.md": {
-	id: "perkins-properties-commercial-property-manager-omaha-perkcr7lma.md";
-  slug: "perkins-properties-commercial-property-manager-omaha-perkcr7lma";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-construction-project-coordinator-nebraska-city-perkudn4xx.md": {
-	id: "perkins-properties-construction-project-coordinator-nebraska-city-perkudn4xx.md";
-  slug: "perkins-properties-construction-project-coordinator-nebraska-city-perkudn4xx";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-leasing-coordinator-malvern-perkhcso0u.md": {
-	id: "perkins-properties-leasing-coordinator-malvern-perkhcso0u.md";
-  slug: "perkins-properties-leasing-coordinator-malvern-perkhcso0u";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-leasing-coordinator-valley-perkeowp2s.md": {
-	id: "perkins-properties-leasing-coordinator-valley-perkeowp2s.md";
-  slug: "perkins-properties-leasing-coordinator-valley-perkeowp2s";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-property-manager-bennington-perktidl5m.md": {
-	id: "perkins-properties-property-manager-bennington-perktidl5m.md";
-  slug: "perkins-properties-property-manager-bennington-perktidl5m";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-property-manager-carter-lake-perkagurud.md": {
-	id: "perkins-properties-property-manager-carter-lake-perkagurud.md";
-  slug: "perkins-properties-property-manager-carter-lake-perkagurud";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-property-manager-la-vista-perkf6hv8d.md": {
-	id: "perkins-properties-property-manager-la-vista-perkf6hv8d.md";
-  slug: "perkins-properties-property-manager-la-vista-perkf6hv8d";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-property-manager-missouri-valley-perk18qohx.md": {
-	id: "perkins-properties-property-manager-missouri-valley-perk18qohx.md";
-  slug: "perkins-properties-property-manager-missouri-valley-perk18qohx";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-property-manager-offutt-afb-perkkzgbm0.md": {
-	id: "perkins-properties-property-manager-offutt-afb-perkkzgbm0.md";
-  slug: "perkins-properties-property-manager-offutt-afb-perkkzgbm0";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-property-manager-pacific-junction-perkrcf4yw.md": {
-	id: "perkins-properties-property-manager-pacific-junction-perkrcf4yw.md";
-  slug: "perkins-properties-property-manager-pacific-junction-perkrcf4yw";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-property-manager-ralston-perkxa9bzl.md": {
-	id: "perkins-properties-property-manager-ralston-perkxa9bzl.md";
-  slug: "perkins-properties-property-manager-ralston-perkxa9bzl";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-retail-property-analyst-arlington-perk4is0tm.md": {
-	id: "perkins-properties-retail-property-analyst-arlington-perk4is0tm.md";
-  slug: "perkins-properties-retail-property-analyst-arlington-perk4is0tm";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-retail-property-analyst-louisville-perk42c5rn.md": {
-	id: "perkins-properties-retail-property-analyst-louisville-perk42c5rn.md";
-  slug: "perkins-properties-retail-property-analyst-louisville-perk42c5rn";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"perkins-properties-retail-property-analyst-plattsmouth-perk0qlbgg.md": {
-	id: "perkins-properties-retail-property-analyst-plattsmouth-perk0qlbgg.md";
-  slug: "perkins-properties-retail-property-analyst-plattsmouth-perk0qlbgg";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
 "tr-account-executive-houston-acco-vv1mj7.md": {
 	id: "tr-account-executive-houston-acco-vv1mj7.md";
   slug: "tr-account-executive-houston-acco-vv1mj7";
@@ -1491,13 +1386,6 @@ declare module 'astro:content' {
   collection: "jobs";
   data: any
 } & { render(): Render[".md"] };
-"tustin-recruiting-assistant-property-manager-gretna-tust1uy154.md": {
-	id: "tustin-recruiting-assistant-property-manager-gretna-tust1uy154.md";
-  slug: "tustin-recruiting-assistant-property-manager-gretna-tust1uy154";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
 "tustin-recruiting-business-development-manager-burbank-tustbvzbev.md": {
 	id: "tustin-recruiting-business-development-manager-burbank-tustbvzbev.md";
   slug: "tustin-recruiting-business-development-manager-burbank-tustbvzbev";
@@ -1676,34 +1564,6 @@ declare module 'astro:content' {
 "tustin-recruiting-channel-sales-manager-venice-tustaapbkd.md": {
 	id: "tustin-recruiting-channel-sales-manager-venice-tustaapbkd.md";
   slug: "tustin-recruiting-channel-sales-manager-venice-tustaapbkd";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-commercial-property-manager-elkhorn-tust8iiayr.md": {
-	id: "tustin-recruiting-commercial-property-manager-elkhorn-tust8iiayr.md";
-  slug: "tustin-recruiting-commercial-property-manager-elkhorn-tust8iiayr";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-commercial-property-manager-fort-calhoun-tust7t1b0g.md": {
-	id: "tustin-recruiting-commercial-property-manager-fort-calhoun-tust7t1b0g.md";
-  slug: "tustin-recruiting-commercial-property-manager-fort-calhoun-tust7t1b0g";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-commercial-property-manager-glenwood-tustes8nkl.md": {
-	id: "tustin-recruiting-commercial-property-manager-glenwood-tustes8nkl.md";
-  slug: "tustin-recruiting-commercial-property-manager-glenwood-tustes8nkl";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-construction-project-coordinator-springfield-tust90hb1m.md": {
-	id: "tustin-recruiting-construction-project-coordinator-springfield-tust90hb1m.md";
-  slug: "tustin-recruiting-construction-project-coordinator-springfield-tust90hb1m";
   body: string;
   collection: "jobs";
   data: any
@@ -2184,20 +2044,6 @@ declare module 'astro:content' {
   collection: "jobs";
   data: any
 } & { render(): Render[".md"] };
-"tustin-recruiting-property-manager-ashland-tustxdbnqr.md": {
-	id: "tustin-recruiting-property-manager-ashland-tustxdbnqr.md";
-  slug: "tustin-recruiting-property-manager-ashland-tustxdbnqr";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-property-manager-weeping-water-tustpqttuu.md": {
-	id: "tustin-recruiting-property-manager-weeping-water-tustpqttuu.md";
-  slug: "tustin-recruiting-property-manager-weeping-water-tustpqttuu";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
 "tustin-recruiting-regional-sales-manager-del-mar-tustblwne1.md": {
 	id: "tustin-recruiting-regional-sales-manager-del-mar-tustblwne1.md";
   slug: "tustin-recruiting-regional-sales-manager-del-mar-tustblwne1";
@@ -2243,34 +2089,6 @@ declare module 'astro:content' {
 "tustin-recruiting-regional-sales-manager-redondo-beach-tustobgu8h.md": {
 	id: "tustin-recruiting-regional-sales-manager-redondo-beach-tustobgu8h.md";
   slug: "tustin-recruiting-regional-sales-manager-redondo-beach-tustobgu8h";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-retail-property-analyst-bellevue-tustctcjya.md": {
-	id: "tustin-recruiting-retail-property-analyst-bellevue-tustctcjya.md";
-  slug: "tustin-recruiting-retail-property-analyst-bellevue-tustctcjya";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-retail-property-analyst-blair-tustw4vtmy.md": {
-	id: "tustin-recruiting-retail-property-analyst-blair-tustw4vtmy.md";
-  slug: "tustin-recruiting-retail-property-analyst-blair-tustw4vtmy";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-retail-property-analyst-papillion-tustzluu98.md": {
-	id: "tustin-recruiting-retail-property-analyst-papillion-tustzluu98.md";
-  slug: "tustin-recruiting-retail-property-analyst-papillion-tustzluu98";
-  body: string;
-  collection: "jobs";
-  data: any
-} & { render(): Render[".md"] };
-"tustin-recruiting-retail-property-analyst-waterloo-tustzwzxuy.md": {
-	id: "tustin-recruiting-retail-property-analyst-waterloo-tustzwzxuy.md";
-  slug: "tustin-recruiting-retail-property-analyst-waterloo-tustzwzxuy";
   body: string;
   collection: "jobs";
   data: any

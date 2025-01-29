@@ -32,8 +32,8 @@ description: >-
   shaping the future of cloud infrastructure!
 location: 'San Marcos, CA'
 team: Software
-datePosted: '2024-12-28T20:06:54.028Z'
-validThrough: '2025-02-05T20:06:54.028Z'
+datePosted: '2025-01-29T08:06:53.543Z'
+validThrough: '2025-03-03T08:06:53.543Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

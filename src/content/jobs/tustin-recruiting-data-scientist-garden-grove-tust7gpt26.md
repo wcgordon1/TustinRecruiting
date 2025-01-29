@@ -45,8 +45,8 @@ description: >-
   amazing together.
 location: 'Garden Grove, CA'
 team: Analytics
-datePosted: '2024-12-28T17:12:37.790Z'
-validThrough: '2025-02-08T17:12:37.790Z'
+datePosted: '2025-01-29T16:28:58.946Z'
+validThrough: '2025-03-14T15:28:58.946Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

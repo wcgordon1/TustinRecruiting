@@ -30,8 +30,8 @@ description: >-
   plans, paid time off, and more.
 location: 'El Segundo, CA'
 team: Logistics
-datePosted: '2024-12-28T13:28:07.231Z'
-validThrough: '2025-01-31T13:28:07.231Z'
+datePosted: '2025-01-29T15:37:38.564Z'
+validThrough: '2025-03-02T15:37:38.564Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -24,7 +24,9 @@
     "list-jobs": "node scripts/list-jobs.js",
     "fix-team-name": "node scripts/fix-team-name.js",
     "remove-description-markdown": "node scripts/remove-description-markdown.js",
-    "update-full-description": "node scripts/update-full-description.js"
+    "update-full-description": "node scripts/update-full-description.js",
+    "delete-premier": "node scripts/delete-premier-jobs.js",
+    "notify-deleted": "node scripts/notify-deleted-jobs.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",

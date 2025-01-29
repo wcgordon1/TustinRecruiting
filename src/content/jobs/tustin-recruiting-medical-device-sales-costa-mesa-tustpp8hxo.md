@@ -48,8 +48,8 @@ description: >-
   ready to take on this rewarding challenge, we can't wait to hear from you!
 location: 'Costa Mesa, CA'
 team: Medical Device
-datePosted: '2024-12-29T01:18:04.518Z'
-validThrough: '2025-01-29T01:18:04.518Z'
+datePosted: '2025-01-29T08:23:57.878Z'
+validThrough: '2025-03-02T08:23:57.878Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

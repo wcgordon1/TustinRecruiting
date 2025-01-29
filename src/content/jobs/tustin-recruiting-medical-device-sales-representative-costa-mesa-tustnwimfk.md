@@ -24,8 +24,8 @@ description: >-
   $79,408$114,408 per year  Comprehensive benefits package
 location: 'Costa Mesa, CA'
 team: Medical Device
-datePosted: '2024-12-28T15:38:00.438Z'
-validThrough: '2025-02-06T15:38:00.438Z'
+datePosted: '2025-01-29T14:50:38.069Z'
+validThrough: '2025-03-15T13:50:38.069Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

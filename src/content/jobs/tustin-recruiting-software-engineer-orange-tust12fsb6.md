@@ -40,8 +40,8 @@ description: >-
   and certifications to support professional development.
 location: 'Orange, CA'
 team: Software
-datePosted: '2024-12-28T18:54:29.980Z'
-validThrough: '2025-01-30T18:54:29.980Z'
+datePosted: '2025-01-29T16:24:12.830Z'
+validThrough: '2025-03-02T16:24:12.830Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

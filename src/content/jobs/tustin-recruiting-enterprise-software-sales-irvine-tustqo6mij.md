@@ -39,8 +39,8 @@ description: >-
   rapidly evolving industry.
 location: 'Irvine, CA'
 team: Software
-datePosted: '2024-12-29T03:15:32.252Z'
-validThrough: '2025-02-06T03:15:32.252Z'
+datePosted: '2025-01-29T13:40:42.779Z'
+validThrough: '2025-03-15T12:40:42.779Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

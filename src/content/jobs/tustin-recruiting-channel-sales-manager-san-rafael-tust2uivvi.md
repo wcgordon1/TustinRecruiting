@@ -22,8 +22,8 @@ description: >-
   $119,488 per year, with additional benefits offered.
 location: 'San Rafael, CA'
 team: Software
-datePosted: '2024-12-28T16:46:34.723Z'
-validThrough: '2025-02-11T16:46:34.723Z'
+datePosted: '2025-01-29T14:26:34.798Z'
+validThrough: '2025-03-05T14:26:34.798Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

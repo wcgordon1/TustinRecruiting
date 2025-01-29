@@ -41,8 +41,8 @@ description: >-
   us in Fullerton and be part of a team that’s making a difference with data!
 location: 'Fullerton, CA'
 team: Analytics
-datePosted: '2024-12-28T21:04:53.957Z'
-validThrough: '2025-02-01T21:04:53.957Z'
+datePosted: '2025-01-29T14:36:27.955Z'
+validThrough: '2025-03-07T14:36:27.955Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

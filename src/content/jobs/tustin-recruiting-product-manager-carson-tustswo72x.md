@@ -46,8 +46,8 @@ description: >-
   to apply and join our client's team in Carson, CA.
 location: 'Carson, CA'
 team: Software
-datePosted: '2024-12-28T18:14:18.060Z'
-validThrough: '2025-02-10T18:14:18.060Z'
+datePosted: '2025-01-29T14:43:47.638Z'
+validThrough: '2025-03-11T13:43:47.638Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

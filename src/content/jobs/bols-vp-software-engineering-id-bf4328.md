@@ -44,8 +44,8 @@ description: >-
   professional development.  A supportive and inclusive workplace culture.
 location: 'Huntington Beach, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-28T14:49:45.626Z'
-validThrough: '2025-02-10T14:49:45.626Z'
+datePosted: '2025-01-29T16:10:22.910Z'
+validThrough: '2025-03-05T16:10:22.910Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

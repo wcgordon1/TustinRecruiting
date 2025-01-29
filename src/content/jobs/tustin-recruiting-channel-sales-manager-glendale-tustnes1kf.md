@@ -25,8 +25,8 @@ description: >-
   applicants from all backgrounds to apply.
 location: 'Glendale, CA'
 team: Software
-datePosted: '2024-12-28T14:29:37.559Z'
-validThrough: '2025-01-28T14:29:37.559Z'
+datePosted: '2025-01-29T12:22:22.953Z'
+validThrough: '2025-03-09T11:22:22.953Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

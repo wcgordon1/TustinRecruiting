@@ -45,8 +45,8 @@ description: >-
   the charge and be a part of something extraordinary, we want to hear from you!
 location: 'Costa Mesa, CA'
 team: Software
-datePosted: '2024-12-28T20:11:13.025Z'
-validThrough: '2025-01-28T20:11:13.025Z'
+datePosted: '2025-01-29T16:05:20.752Z'
+validThrough: '2025-03-06T16:05:20.752Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -45,8 +45,8 @@ description: >-
   redefine the future of enterprise software solutions!
 location: 'Yorba Linda, CA'
 team: Engineering
-datePosted: '2024-12-28T18:36:31.703Z'
-validThrough: '2025-01-30T18:36:31.703Z'
+datePosted: '2025-01-29T11:04:52.128Z'
+validThrough: '2025-03-02T11:04:52.128Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

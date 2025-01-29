@@ -34,8 +34,8 @@ description: >-
   Access to ongoing training and certifications to grow your skill set.
 location: 'West Covina, CA'
 team: Analytics
-datePosted: '2024-12-29T07:38:25.958Z'
-validThrough: '2025-02-07T07:38:25.958Z'
+datePosted: '2025-01-29T11:21:20.475Z'
+validThrough: '2025-03-10T10:21:20.475Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

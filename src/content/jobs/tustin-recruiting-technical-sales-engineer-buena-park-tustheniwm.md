@@ -39,8 +39,8 @@ description: >-
   to support continuous professional development.
 location: 'Buena Park, CA'
 team: Engineering
-datePosted: '2024-12-28T23:04:53.075Z'
-validThrough: '2025-01-31T23:04:53.075Z'
+datePosted: '2025-01-29T08:19:30.916Z'
+validThrough: '2025-03-12T07:19:30.916Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -28,8 +28,8 @@ description: >-
   Ongoing training and certifications
 location: 'Glendale, CA'
 team: Software
-datePosted: '2024-12-29T03:24:50.663Z'
-validThrough: '2025-02-05T03:24:50.663Z'
+datePosted: '2025-01-29T13:43:38.942Z'
+validThrough: '2025-03-02T13:43:38.942Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

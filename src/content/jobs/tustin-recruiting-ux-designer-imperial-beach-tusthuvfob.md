@@ -37,8 +37,8 @@ description: >-
   awesome user experiences? We’d love to hear from you!
 location: 'Imperial Beach, CA'
 team: Software
-datePosted: '2024-12-28T16:29:55.739Z'
-validThrough: '2025-01-28T16:29:55.739Z'
+datePosted: '2025-01-29T08:05:32.393Z'
+validThrough: '2025-03-07T08:05:32.393Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

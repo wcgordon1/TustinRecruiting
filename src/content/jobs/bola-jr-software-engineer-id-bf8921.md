@@ -34,8 +34,8 @@ description: >-
   in the healthcare industry.
 location: 'Irvine, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-28T14:58:05.874Z'
-validThrough: '2025-01-27T14:58:05.874Z'
+datePosted: '2025-01-29T08:52:12.022Z'
+validThrough: '2025-03-06T08:52:12.022Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

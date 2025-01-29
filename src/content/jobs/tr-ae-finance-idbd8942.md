@@ -33,8 +33,8 @@ description: >-
   and additional performance incentives.
 location: 'Anaheim, CA'
 team: Equipment Finance
-datePosted: '2024-12-28T15:56:42.476Z'
-validThrough: '2025-02-05T15:56:42.476Z'
+datePosted: '2025-01-29T16:11:32.193Z'
+validThrough: '2025-03-06T16:11:32.193Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

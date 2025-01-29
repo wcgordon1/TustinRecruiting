@@ -30,8 +30,8 @@ description: >-
   provided during the interview process.
 location: 'Sacramento, CA'
 team: Logistics
-datePosted: '2024-12-28T12:43:57.501Z'
-validThrough: '2025-01-29T12:43:57.501Z'
+datePosted: '2025-01-29T08:48:51.856Z'
+validThrough: '2025-03-05T08:48:51.856Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

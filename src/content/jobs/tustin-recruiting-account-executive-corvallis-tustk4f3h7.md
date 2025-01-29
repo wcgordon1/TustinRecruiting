@@ -28,8 +28,8 @@ description: >-
   status, or disability status.
 location: 'Corvallis, OR'
 team: Logistics
-datePosted: '2024-12-28T15:35:37.164Z'
-validThrough: '2025-02-06T15:35:37.164Z'
+datePosted: '2025-01-29T13:50:46.926Z'
+validThrough: '2025-03-13T12:50:46.926Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

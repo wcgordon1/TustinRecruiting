@@ -37,8 +37,8 @@ description: >-
   to hear from you!
 location: 'Torrance, CA'
 team: Software
-datePosted: '2024-12-29T07:11:17.505Z'
-validThrough: '2025-01-29T07:11:17.505Z'
+datePosted: '2025-01-29T15:36:07.616Z'
+validThrough: '2025-03-10T14:36:07.616Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

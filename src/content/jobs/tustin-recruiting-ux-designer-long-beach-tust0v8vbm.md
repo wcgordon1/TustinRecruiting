@@ -55,8 +55,8 @@ description: >-
   elevating your career to new heights!
 location: 'Long Beach, CA'
 team: Software
-datePosted: '2024-12-28T12:32:23.804Z'
-validThrough: '2025-02-07T12:32:23.804Z'
+datePosted: '2025-01-29T12:19:35.313Z'
+validThrough: '2025-03-09T11:19:35.313Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

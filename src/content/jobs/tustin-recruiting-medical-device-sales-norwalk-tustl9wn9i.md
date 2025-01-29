@@ -56,8 +56,8 @@ description: >-
   training and certifications to enhance skills and stay ahead in the industry.
 location: 'Norwalk, CA'
 team: Medical Device
-datePosted: '2024-12-29T02:46:11.677Z'
-validThrough: '2025-02-10T02:46:11.677Z'
+datePosted: '2025-01-29T10:48:22.881Z'
+validThrough: '2025-03-14T09:48:22.881Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

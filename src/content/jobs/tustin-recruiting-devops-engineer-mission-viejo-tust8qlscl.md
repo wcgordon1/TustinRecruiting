@@ -34,8 +34,8 @@ description: >-
   we'd love to hear from you!
 location: 'Mission Viejo, CA'
 team: Software
-datePosted: '2024-12-28T23:34:09.428Z'
-validThrough: '2025-02-06T23:34:09.428Z'
+datePosted: '2025-01-29T13:22:58.402Z'
+validThrough: '2025-03-13T12:22:58.402Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -47,8 +47,8 @@ description: >-
   to enhance your skills and career trajectory.
 location: 'Lake Forest, CA'
 team: Software
-datePosted: '2024-12-29T08:40:04.934Z'
-validThrough: '2025-02-01T08:40:04.934Z'
+datePosted: '2025-01-29T17:38:06.110Z'
+validThrough: '2025-03-12T16:38:06.110Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

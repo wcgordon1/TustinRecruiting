@@ -34,8 +34,8 @@ description: >-
   products and thrive in a startup environment, we're eager to connect with you!
 location: 'San Francisco, CA'
 team: Mobile
-datePosted: '2024-12-28T13:31:54.481Z'
-validThrough: '2025-01-31T13:31:54.481Z'
+datePosted: '2025-01-29T09:46:24.115Z'
+validThrough: '2025-03-12T08:46:24.115Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: RTRO

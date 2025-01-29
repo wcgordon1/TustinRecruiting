@@ -35,8 +35,8 @@ description: >-
   development.
 location: 'Houston, TX'
 team: Equipment Finance
-datePosted: '2024-12-28T13:44:58.155Z'
-validThrough: '2025-02-01T13:44:58.155Z'
+datePosted: '2025-01-29T12:14:12.077Z'
+validThrough: '2025-03-03T12:14:12.077Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

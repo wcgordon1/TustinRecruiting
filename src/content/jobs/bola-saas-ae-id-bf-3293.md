@@ -27,8 +27,8 @@ description: >-
   salary plus uncapped commission, health benefits, and more.
 location: 'Newport Beach, CA'
 team: Artificial Intelligence
-datePosted: '2024-12-28T17:01:24.917Z'
-validThrough: '2025-01-28T17:01:24.917Z'
+datePosted: '2025-01-29T12:48:10.150Z'
+validThrough: '2025-03-04T12:48:10.150Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Bola AI

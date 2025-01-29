@@ -27,8 +27,8 @@ description: >-
   professional development programs to support career growth.
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2024-12-28T15:38:03.242Z'
-validThrough: '2025-02-05T15:38:03.242Z'
+datePosted: '2025-01-29T17:38:51.776Z'
+validThrough: '2025-03-01T17:38:51.776Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting

@@ -30,8 +30,8 @@ description: >-
   gender identity, national origin, disability or veteran status.
 location: 'Burbank, CA'
 team: Logistics
-datePosted: '2024-12-28T15:57:20.903Z'
-validThrough: '2025-02-07T15:57:20.903Z'
+datePosted: '2025-01-29T08:44:49.822Z'
+validThrough: '2025-03-04T08:44:49.822Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting
