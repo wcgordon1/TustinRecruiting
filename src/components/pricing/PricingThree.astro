@@ -54,14 +54,14 @@ const extended = [
         class="grid grid-cols-1 lg:grid-cols-5 border rounded-xl overflow-clip">
         <div class="flex flex-col flex-shrink-0 mb-6 md:mb-0 lg:col-span-2 p-4">
           <span class="font-semibold text-purple-900 text-xl"
-            >Pay-as-you-go
+            >Recruiting Services
           </span>
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-3 lg:col-span-3">
           <div
             class="lg:col-span-2 p-4 border-t border-l-0 lg:border-l lg:border-t-0">
             <p class="font-semibold text-purple-900">
-              Instant bank account verifications
+              Sourcing as a Service
             </p>
             <p class="mt-2 text-slate-500 text-sm">
               Obtain bank names and tokenized account numbers to connect a
@@ -70,28 +70,8 @@ const extended = [
           </div>
           <div class="bg-slate-50 border-l-2 border-blue-500">
             <div class="p-4 border-t lg:border-t-0">
-              <p class="font-semibold text-purple-900">$1.50</p>
-              <p class="mt-2 text-slate-500 text-sm">Per verified account</p>
-            </div>
-          </div>
-        </div>
-        <div class="lg:col-span-3 lg:col-start-3">
-          <div class="grid grid-cols-1 lg:grid-cols-3">
-            <div class="lg:col-span-2 p-4 border-t lg:border-l border-l-0">
-              <p class="font-semibold text-purple-900">Balances</p>
-              <p class="mt-2 text-slate-500 text-sm">
-                Retrieve account balances for underwriting, financial
-                management, or preventing payment failures due to insufficient
-                funds.
-              </p>
-            </div>
-            <div class="bg-slate-50 border-l-2 border-blue-500">
-              <div class="p-4 border-t">
-                <p class="font-semibold text-purple-900">10¢</p>
-                <p class="mt-2 text-slate-500 text-sm">
-                  Per successful API call
-                </p>
-              </div>
+              <p class="font-semibold text-purple-900">Pricing</p>
+              <p class="mt-2 text-slate-500 text-sm">Depends on the amount of roles per month</p>
             </div>
           </div>
         </div>
@@ -106,9 +86,9 @@ const extended = [
             </div>
             <div class="bg-slate-50 border-l-2 border-blue-500">
               <div class="p-4 border-t">
-                <p class="font-semibold text-purple-900">$4.50</p>
+                <p class="font-semibold text-purple-900">Pricing</p>
                 <p class="mt-2 text-slate-500 text-sm">
-                  Per successful API call
+                  Roughly 25% of the first year's base salary depending on the role
                 </p>
               </div>
             </div>
@@ -118,20 +98,20 @@ const extended = [
       <div class="grid grid-cols-1 lg:grid-cols-5 pt-6 border-t">
         <div class="flex flex-col flex-shrink-0 mb-6 md:mb-0 lg:col-span-2">
           <span class="font-semibold text-purple-900 text-xl"
-            >Custom pricing
+            >Custom Plans
           </span>
         </div>
         <div class="lg:col-span-3">
           <div class="lg:col-span-2">
             <p class="mt-2 text-slate-500 text-sm">
-              Custom pricing is available for companies with a high volume of
-              API calls or unique business models.
+              If you need more job posts or recruiting services, let's find a time to see how we can help
+              you hire your next great employee. 
             </p>
             <p>
               <a
                 title="link to your page"
                 aria-label="your label"
-                href="/submit"
+                href="mailto:will@tustinrecruiting.com"
                 class="text-blue-600 font-semibold hover:text-purple-900 text-sm inline-flex items-center group">
                 Contact sales
               </a>
@@ -140,56 +120,6 @@ const extended = [
         </div>
       </div>
     </div>
-    <div class="mt-12">
-      <span class="text-sm uppercase font-medium tracking-wide text-blue-600"
-        >EXPLANATION</span
-      >
-      <h2
-        class="text-purple-900 font-semibold tracking-tight lg:text-5xl mt-6 text-3xl">
-        What's in the box
-      </h2>
-    </div>
-    <div
-      class="gap-x-2 gap-y-14 lg:gap-12 grid sm:grid-cols-2 lg:grid-cols-4 mt-12">
-      {
-        extended.map((feature) => (
-          <div>
-            <p class="font-semibold text-purple-900 text-base">
-              {feature.title}
-            </p>
-            <div class="mt-6">
-              <ul
-                role="list"
-                class="flex flex-col gap-y-2 text-slate-500 text-sm">
-                {feature.benefits.map((benefit) => (
-                  <li class="flex items-start">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      class="icon icon-tabler icon-tabler-circle-check"
-                      width="20"
-                      height="20"
-                      viewBox="0 0 24 24"
-                      stroke-width="2"
-                      stroke="currentColor"
-                      fill="none"
-                      stroke-linecap="round"
-                      stroke-linejoin="round">
-                      <path
-                        stroke="none"
-                        d="M0 0h24v24H0z"
-                        fill="none"
-                      />
-                      <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
-                      <path d="M9 12l2 2l4 -4" />
-                    </svg>
-                    <span class="ml-4">{benefit}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          </div>
-        ))
-      }
-    </div>
+
   </div>
 </section>

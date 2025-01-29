@@ -1,66 +1,67 @@
 ---
 const pricingPlans = [
   {
-    name: "Basic",
-    monthlyPrice: "199",
-    annualPrice: "149",
+    name: "Free",
+    monthlyPrice: "0",
+    annualPrice: "0",
     description:
-      "Perfect for small businesses looking to hire their first electrician",
+      "Perfect for those needing just 1 job posting",
     cardBgClass: "bg-white", 
     descriptionColor: "text-slate-500",
     buttonClass: "bg-blue-100 hover:bg-blue-50 text-blue-600",
+    link: "mailto:will@tustinrecruiting.com",
     features: [
       "1 job posting",
       "30-day listing",
-      "Basic candidate dashboard",
-      "Email support"
+      "Candidates emailed directly to you"
     ],
     unavailableFeatures: [
       "Featured job listing",
+      "Additional sourcing support",
       "Resume database access",
       "Applicant tracking system",
       "Dedicated account manager"
     ],
   },
   {
-    name: "Growth",
-    monthlyPrice: "399",
-    annualPrice: "349",
-    description: "Ideal for growing electrical contractors and mid-size companies",
+    name: "Starter",
+    monthlyPrice: "299",
+    annualPrice: "249",
+    description: "Ideal for growing and mid-size companies",
     cardBgClass: "bg-white",
     descriptionColor: "text-slate-500", 
     buttonClass: "bg-blue-500 hover:bg-blue-600 text-white",
+    link: "https://yahoo.com",
     features: [
       "5 active job postings",
-      "60-day listings",
+      "30-day listings",
       "Featured job listings",
-      "Resume database access",
-      "Basic applicant tracking",
+      "Email blasts to candidates",
+      "Dedicated account manager",
       "Phone & email support"
     ],
     unavailableFeatures: [
-      "Dedicated account manager",
       "Custom hiring workflows"
     ],
   },
   {
-    name: "Enterprise",
-    monthlyPrice: "1,299",
-    annualPrice: "1,000", 
+    name: "Growth",
+    monthlyPrice: "899",
+    annualPrice: "699", 
     description:
-      "For large electrical companies with ongoing hiring needs",
+      "For larger companies with ongoing hiring needs",
     cardBgClass: "bg-white",
     descriptionColor: "text-slate-500",
     buttonClass: "bg-blue-100 hover:bg-blue-50 text-blue-600",
+    link: "https://espn.com",
     features: [
-      "Unlimited job postings",
-      "90-day listings",
+      "25 job postings",
+      "30-day listings",
       "Premium featured placement",
-      "Unlimited resume downloads",
-      "Advanced ATS integration",
-      "Custom hiring workflows",
+      "ATS integration to your parsing email",
+      "Email blasts to candidates",
       "Dedicated account manager",
-      "Priority support 24/7"
+      "Priority support"
     ],
     unavailableFeatures: [],
   },
@@ -126,10 +127,10 @@ const extended = [
       >
       <h1
           class="text-purple-900 font-semibold mt-6 text-4xl lg:text-5xl tracking-tight">
-          Simple Pricing
+          Post a Job
         </h1>
       <p class="text-slate-500 mt-5 md:text-balance md:w-1/2 mx-auto">
-        Post jobs and find qualified electricians faster. Choose the plan that works best for you.
+        Post jobs and find qualified applicants faster. Choose the plan that works best for you.
       </p>
       <div class="md:max-w-sm mx-auto mt-12">
         <div
@@ -186,7 +187,9 @@ const extended = [
               </div>
               <div class="flex mt-6">
                 <a
-                  href="mailto:hello@tustinrecruiting.com"
+                  href={plan.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class={`inline-flex items-center justify-center px-6 py-3.5 rounded-full w-full font-medium ${plan.buttonClass}`}
                   title={plan.name}
                   aria-label="get started">
@@ -258,11 +261,11 @@ const extended = [
       >
       <h2
         class="text-purple-900 font-semibold tracking-tight lg:text-5xl mt-6 text-3xl">
-        Everything you need to hire 
+        Why post with us?
       </h2>
       <div class="max-w-xl mt-6">
         <p class="text-slate-500">
-          Best Electrician Jobs gives you all the tools to find, evaluate, and hire.
+          Our job postings are published to Google Jobs and integrate with other job boards including ZipRecruiter. Plus, nobody knows Orange County better than we do.
         </p>
       </div>
     </div>
