@@ -609,6 +609,20 @@ declare module 'astro:content' {
   collection: "jobs";
   data: InferEntrySchema<"jobs">
 } & { render(): Render[".md"] };
+"tr-ef-ae-anaheim-hills-id-fd9402.md": {
+	id: "tr-ef-ae-anaheim-hills-id-fd9402.md";
+  slug: "tr-ef-ae-anaheim-hills-id-fd9402";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
+"tr-ef-ae-irvine-id-hh3891.md": {
+	id: "tr-ef-ae-irvine-id-hh3891.md";
+  slug: "tr-ef-ae-irvine-id-hh3891";
+  body: string;
+  collection: "jobs";
+  data: InferEntrySchema<"jobs">
+} & { render(): Render[".md"] };
 "tr-ef-funding-manager-idbg0882.md": {
 	id: "tr-ef-funding-manager-idbg0882.md";
   slug: "tr-ef-funding-manager-idbg0882";
