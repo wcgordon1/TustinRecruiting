@@ -9,7 +9,10 @@ const pricingPlans = [
     cardBgClass: "bg-white", 
     descriptionColor: "text-slate-500",
     buttonClass: "bg-blue-100 hover:bg-blue-50 text-blue-600",
-    link: "mailto:will@tustinrecruiting.com",
+    links: {
+      monthly: "mailto:will@tustinrecruiting.com",
+      annual: "https://cnn.com"
+    },
     features: [
       "1 job posting",
       "30-day listing",
@@ -31,7 +34,10 @@ const pricingPlans = [
     cardBgClass: "bg-white",
     descriptionColor: "text-slate-500", 
     buttonClass: "bg-blue-500 hover:bg-blue-600 text-white",
-    link: "https://yahoo.com",
+    links: {
+      monthly: "https://buy.stripe.com/fZe17Xb14aiCcec8wy",
+      annual: "https://buy.stripe.com/3cs8Apc584Yiemk003"
+    },
     features: [
       "5 active job postings",
       "30-day listings",
@@ -53,7 +59,10 @@ const pricingPlans = [
     cardBgClass: "bg-white",
     descriptionColor: "text-slate-500",
     buttonClass: "bg-blue-100 hover:bg-blue-50 text-blue-600",
-    link: "https://espn.com",
+    links: {
+      monthly: "https://buy.stripe.com/aEU2c1glo2Qaba86os",
+      annual: "https://buy.stripe.com/eVa5od9X09ey1zy8wB"
+    },
     features: [
       "25 job postings",
       "30-day listings",
@@ -119,7 +128,12 @@ const extended = [
 ];
 ---
 
-<section x-data="{annual: false}">
+<section x-data="{ 
+  annual: false,
+  openLink(monthlyLink, annualLink) {
+    window.open(this.annual ? annualLink : monthlyLink, '_blank');
+  }
+}">
   <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 pb-12 pt-24">
     <div class="text-center">
       <span class="text-sm uppercase font-medium tracking-wide text-blue-600"
@@ -186,15 +200,25 @@ const extended = [
                 </div>
               </div>
               <div class="flex mt-6">
-                <a
-                  href={plan.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class={`inline-flex items-center justify-center px-6 py-3.5 rounded-full w-full font-medium ${plan.buttonClass}`}
-                  title={plan.name}
-                  aria-label="get started">
-                  Get started
-                </a>
+                <template x-if="!annual">
+                  <a
+                    href={plan.links.monthly}
+                    target="_blank"
+                    class={`inline-flex items-center justify-center px-6 py-3.5 rounded-full w-full font-medium ${plan.buttonClass}`}
+                  >
+                    Get started
+                  </a>
+                </template>
+                
+                <template x-if="annual">
+                  <a
+                    href={plan.links.annual}
+                    target="_blank"
+                    class={`inline-flex items-center justify-center px-6 py-3.5 rounded-full w-full font-medium ${plan.buttonClass}`}
+                  >
+                    Get started
+                  </a>
+                </template>
               </div>
               <ul
                 class={`flex flex-col order-last mt-8 text-sm ${plan.descriptionColor} gap-y-3`}>
