@@ -35,7 +35,7 @@ function processJobFile(filePath) {
       company: data.hiringOrganization?.name,
       location: `${data.jobLocation?.addressLocality}, ${data.jobLocation?.addressRegion}`,
       dateDeleted: new Date().toISOString(),
-      url: `https://bestelectricianjobs.com/jobs/${path.basename(filePath, '.md')}`
+      url: `https://tustinrecruiting.com/jobs/${path.basename(filePath, '.md')}`
     };
 
     // Delete the file
