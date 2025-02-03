@@ -49,7 +49,6 @@ email:
 featured: true
 ---
 
-# **Sales Executive – Equipment Financing**  
 📍 **Location:** Irvine, CA *(Corporate Office)*  
 💰 **Compensation:** $65K+ base salary **(uncapped commissions, first-year earnings over $100K)**  
 🛠 **Industry:** Equipment Financing & Leasing  

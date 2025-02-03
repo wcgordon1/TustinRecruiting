@@ -48,7 +48,6 @@ email:
 featured: true
 ---
 
-# **Sales Executive – Equipment Financing**  
 📍 **Location:** Anaheim Hills, CA *(Satellite Office in Anaheim Hills)*  
 💰 **Compensation:** $65K+ base salary **(uncapped commissions, first-year earnings over $100K)**  
 🛠 **Industry:** Equipment Financing & Leasing  
