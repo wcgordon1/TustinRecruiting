@@ -26,7 +26,8 @@
     "remove-description-markdown": "node scripts/remove-description-markdown.js",
     "update-full-description": "node scripts/update-full-description.js",
     "delete-premier": "node scripts/delete-premier-jobs.js",
-    "notify-deleted": "node scripts/notify-deleted-jobs.js"
+    "notify-deleted": "node scripts/notify-deleted-jobs.js",
+    "create-glossary": "node scripts/create-glossary-entries.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",
@@ -41,7 +42,9 @@
     "@astrojs/rss": "^4.0.9",
     "@astrojs/sitemap": "^3.2.1",
     "@astrojs/vercel": "^7.8.2",
+    "@iconify-json/mdi": "^1.2.3",
     "astro-devtool-breakpoints": "^0.3.0",
+    "astro-icon": "^1.1.5",
     "astro-scroll-observer": "^0.5.3",
     "dotenv": "^16.4.7",
     "google-auth-library": "^9.15.0",

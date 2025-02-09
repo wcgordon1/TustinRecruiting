@@ -3,6 +3,7 @@ import vercel from '@astrojs/vercel/serverless';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
+import icon from "astro-icon";
 
 export default defineConfig({
   output: 'hybrid',
@@ -27,5 +28,9 @@ export default defineConfig({
   },
   site: 'https://www.tustinrecruiting.com',
   trailingSlash: 'never', // Enforce no trailing slash
-  integrations: [tailwind(), sitemap(), mdx()]
+  integrations: [tailwind(), sitemap(), mdx(), icon({
+    include: {
+      mdi: ['*'] // This includes all MDI icons
+    }
+  })]
 });
