@@ -1,9 +1,8 @@
 ---
-import CtaThree from "@/components/cta/CtaThree.astro";
+import CtaGloss from "@/components/cta/CtaGloss.astro";
 import BaseLayout from "./BaseLayout.astro";
 import { Icon } from 'astro-icon/components';
 import CtaWack from "@/components/cta/CtaWack.astro";
-
 const { frontmatter } = Astro.props;
 console.log('GlossaryLayout frontmatter:', frontmatter); // Debug log
 
@@ -19,7 +18,7 @@ type Frontmatter = {
 console.log('Frontmatter:', frontmatter);
 
 // SEO
-const seoTitle = `${frontmatter.term} - Electrical Industry Glossary`;
+const seoTitle = `${frontmatter.term} - ${frontmatter.vertical} Glossary`;
 const seoDescription = frontmatter.description.slice(0, 160) + (frontmatter.description.length > 160 ? '...' : '');
 
 // Enhanced JSON-LD
@@ -36,16 +35,16 @@ const jsonLd = {
   },
   "author": {
     "@type": "Organization",
-    "name": "Best Electrician Jobs",
-    "url": "https://www.bestelectricianjobs.com"
+    "name": "Tustin Recruiting",
+    "url": "https://www.tustinrecruiting.com"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Best Electrician Jobs",
-    "url": "https://www.bestelectricianjobs.com",
+    "name": "Tustin Recruiting",
+    "url": "https://www.tustinrecruiting.com",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://www.bestelectricianjobs.com/images/eleclog.png"
+      "url": "https://www.tustinrecruiting.com/images/LOGO1.png"
     }
   }
 };
@@ -82,7 +81,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
 
           <div>
             <div class="sticky top-8">
-              <div class="bg-slate-50 rounded-lg p-8">
+              <div class="bg-slate-50 rounded-3xl p-8">
                 {frontmatter?.icon && (
                   <div class="flex justify-start mb-6">
                     <Icon 
@@ -100,7 +99,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
                 <div class="mt-8 space-y-6">
                   {frontmatter.details.map(detail => (
                     <div>
-                      <h3 class="text-sm font-medium text-purple-900">
+                      <h3 class="text-lg font-medium text-purple-900">
                         {detail.title}
                       </h3>
                       <p class="mt-2 text-sm text-slate-500">
@@ -131,6 +130,6 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
       </div>
     </section>
   </main>
-  <CtaThree />
+  <CtaGloss />
   <CtaWack />
 </BaseLayout> 

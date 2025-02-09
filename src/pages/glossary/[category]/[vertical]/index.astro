@@ -1,19 +1,36 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
 
-const glossaryEntries = await getCollection('glossary');
-
-// Get unique categories with their entry counts
-const categories = [...new Set(glossaryEntries.map(entry => entry.data.category))]
-  .map(category => ({
-    name: category,
-    slug: category.toLowerCase().replace(/\s+/g, '-'),
-    count: glossaryEntries.filter(entry => entry.data.category === category).length
+export async function getStaticPaths() {
+  const glossaryEntries = await getCollection('glossary');
+  
+  // Get unique category/vertical combinations
+  const paths = [...new Set(glossaryEntries.map(entry => ({
+    category: entry.data.category,
+    vertical: entry.data.vertical
+  })))];
+  
+  return paths.map(({ category, vertical }) => ({
+    params: { 
+      category: category.toLowerCase().replace(/\s+/g, '-'),
+      vertical: vertical.toLowerCase().replace(/\s+/g, '-')
+    },
+    props: { 
+      category,
+      vertical,
+      entries: glossaryEntries.filter(entry => 
+        entry.data.category === category && 
+        entry.data.vertical === vertical
+      )
+    },
   }));
+}
+
+const { category, vertical, entries } = Astro.props;
 ---
 
-<BaseLayout title="Glossary" description="Industry Terms and Definitions">
+<BaseLayout title={`${vertical} ${category} Terms`} description={`${vertical} glossary terms related to ${category}`}>
   <Fragment slot="head">
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
   </Fragment>
@@ -21,36 +38,14 @@ const categories = [...new Set(glossaryEntries.map(entry => entry.data.category)
     <section class="bg-white">
       <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-24">
         <h1 class="text-4xl font-bold tracking-tight text-gray-900 mb-4">
-          Tustin Recruiting Glossary
+          Tustin Recruiting - {vertical} {category} Terms
         </h1>
         <p class="text-xl text-gray-600 mb-12">
-          Browse terms by category or view all terms below.
+          Glossary terms related to {vertical} in {category}.
         </p>
 
-        <!-- Categories -->
-        <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mb-16">
-          {categories.map(category => (
-            <a 
-              href={`/glossary/${category.slug}`}
-              class="block p-6 bg-white rounded-2xl border border-gray-200 hover:border-blue-100 transition-all duration-200"
-            >
-              <h2 class="text-lg font-semibold text-gray-900">
-                {category.name}
-              </h2>
-              <p class="text-sm text-gray-600">
-                {category.count} terms
-              </p>
-            </a>
-          ))}
-        </div>
-
-        <h2 class="text-3xl font-bold tracking-tight text-gray-900 mb-8">
-          All Terms
-        </h2>
-
-        <!-- All terms grid -->
         <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {glossaryEntries.map(entry => (
+          {entries.map(entry => (
             <div class="relative group">
               <a 
                 href={`/glossary/${entry.data.category.toLowerCase().replace(/\s+/g, '-')}/${entry.data.vertical.toLowerCase().replace(/\s+/g, '-')}/${entry.slug}`}

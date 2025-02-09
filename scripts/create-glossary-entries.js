@@ -16,171 +16,131 @@ const openai = new OpenAI({
 });
 
 const GLOSSARY_TERMS = [
-    {
-      "term": "GPO Contract",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "A Group Purchasing Organization (GPO) contract allows hospitals to negotiate bulk pricing for medical devices and equipment."
-    },
-    {
-      "term": "Hospital Buy-In",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "The process of securing stakeholder approval within a hospital for purchasing a medical device."
-    },
-    {
-      "term": "Procurement Cycle",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "The timeline hospitals or clinics follow when evaluating, approving, and purchasing medical devices."
-    },
-    {
-      "term": "Value Analysis Committee (VAC)",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "A hospital committee responsible for assessing medical devices based on cost, clinical need, and outcomes."
-    },
-    {
-      "term": "Formulary Approval",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "The process of getting a medical device included in a hospital's approved product list for purchasing."
-    },
-    {
-      "term": "Clinical Adoption",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "The rate at which physicians and healthcare providers integrate a new medical device into their practice."
-    },
-    {
-      "term": "Per-Procedure Pricing",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "A pricing model where hospitals pay for medical devices based on usage in individual procedures."
-    },
-    {
-      "term": "Capital Equipment Sales",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "High-cost, long-term medical devices that require large hospital investments, such as MRI machines or robotic surgery systems."
-    },
-    {
-      "term": "Consumables Revenue",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "Ongoing revenue generated from disposable or limited-use components of medical devices, such as catheters or electrodes."
-    },
-    {
-      "term": "Surgeon Preference Item (SPI)",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "A medical device specifically chosen by a surgeon based on personal preference rather than hospital standardization."
-    },
-    {
-      "term": "Hospital Capital Budgeting",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "The financial planning hospitals use to allocate funds for high-cost medical equipment."
-    },
-    {
-      "term": "Charge Capture",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "The process of ensuring that hospitals properly bill for medical devices used in procedures."
-    },
-    {
-      "term": "Reimbursement Coding",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "The use of CPT and HCPCS codes to ensure medical devices are eligible for insurance reimbursement."
-    },
-    {
-      "term": "Distributor Margin",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "The profit percentage medical device distributors earn when selling products to hospitals or clinics."
-    },
-    {
-      "term": "In-Service Training",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "Hands-on training provided to hospital staff and surgeons on how to use new medical devices."
-    },
-    {
-      "term": "Service-Level Agreement (SLA)",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "A contract defining maintenance and support commitments for medical devices sold to hospitals."
-    },
-    {
-      "term": "Device Utilization Rate",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "A measure of how often a medical device is used in clinical procedures after purchase."
-    },
-    {
-      "term": "Rep-Driven Sale",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "A sales process heavily reliant on a sales rep's relationship with surgeons or hospital decision-makers."
-    },
-    {
-      "term": "Break-Even Analysis",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "A calculation that determines how many procedures need to be performed before a hospital recoups the cost of a medical device."
-    },
-    {
-      "term": "Hospital Standardization Initiative",
-      "icon": "mdi:medical-bag",
-      "category": "Sales",
-      "vertical": "Medical Device",
-      "description": "An effort by hospitals to limit device options and lower costs by purchasing from a select group of vendors."
-    }  
+  {
+    "term": "Absorption Rate",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "The rate at which available homes are sold in a specific real estate market over a given time period."
+  },
+  {
+    "term": "Cap Rate",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "Capitalization rate, a metric used to evaluate the return on investment for income-producing properties."
+  },
+  {
+    "term": "Escalation Clause",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "A clause in a purchase contract that allows the buyer to automatically increase their offer if competing bids arise."
+  },
+  {
+    "term": "Pocket Listing",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "A property for sale that is not publicly listed on the MLS, often marketed privately by real estate agents."
+  },
+  {
+    "term": "Debt-Service Coverage Ratio (DSCR)",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "A financial metric used by lenders to determine if a property’s income is sufficient to cover its loan payments."
+  },
+  {
+    "term": "Earnest Money Deposit",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "A deposit made by a buyer to demonstrate serious intent to purchase a property, typically held in escrow."
+  },
+  {
+    "term": "Underwriting Approval",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "A process where a lender evaluates a buyer’s financial status to approve a mortgage loan."
+  },
+  {
+    "term": "Dual Agency",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "When a real estate agent or brokerage represents both the buyer and seller in a transaction."
+  },
+  {
+    "term": "Title Contingency",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "A clause that allows a buyer to back out of a real estate deal if there are title-related issues."
+  },
+  {
+    "term": "Escrow Holdback",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "Funds held in escrow after closing to cover outstanding repairs or contractual obligations."
+  },
+  {
+    "term": "Loan-to-Value Ratio (LTV)",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "A financial term that compares the amount of a mortgage loan to the appraised value of the property."
+  },
+  {
+    "term": "Conforming Loan Limit",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "The maximum loan amount that can be backed by Fannie Mae or Freddie Mac under federal lending guidelines."
+  },
+  {
+    "term": "Leaseback Agreement",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "An arrangement where the seller of a property leases it back from the buyer after closing."
+  },
+  {
+    "term": "Shadow Inventory",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "Homes that are in foreclosure or owned by lenders but not yet listed for sale."
+  },
+  {
+    "term": "Wholesaling",
+    "icon": "mdi:home-city",
+    "category": "Sales",
+    "vertical": "Real Estate",
+    "description": "A real estate investment strategy where a buyer contracts a property at a lower price and assigns it to another buyer for a profit."
+  }
   // ... more terms
 ];
 
 // Add related terms mapping
 const RELATED_TERMS = {
-  "GPO Contract": ["Procurement Cycle", "Hospital Buy-In", "Formulary Approval", "Distributor Margin", "Hospital Standardization Initiative"],
-  "Hospital Buy-In": ["Value Analysis Committee (VAC)", "Clinical Adoption", "Hospital Capital Budgeting", "Per-Procedure Pricing", "Charge Capture"],
-  "Procurement Cycle": ["GPO Contract", "Formulary Approval", "Device Utilization Rate", "Capital Equipment Sales", "Break-Even Analysis"],
-  "Value Analysis Committee (VAC)": ["Formulary Approval", "Hospital Buy-In", "GPO Contract", "Clinical Adoption", "Charge Capture"],
-  "Formulary Approval": ["Procurement Cycle", "Value Analysis Committee (VAC)", "Reimbursement Coding", "Surgeon Preference Item (SPI)", "Distributor Margin"],
-  "Clinical Adoption": ["In-Service Training", "Rep-Driven Sale", "Hospital Buy-In", "Surgeon Preference Item (SPI)", "Device Utilization Rate"],
-  "Per-Procedure Pricing": ["Charge Capture", "Break-Even Analysis", "Capital Equipment Sales", "Hospital Standardization Initiative", "Consumables Revenue"],
-  "Capital Equipment Sales": ["Procurement Cycle", "Hospital Capital Budgeting", "Service-Level Agreement (SLA)", "Break-Even Analysis", "Rep-Driven Sale"],
-  "Consumables Revenue": ["Per-Procedure Pricing", "Distributor Margin", "Device Utilization Rate", "Service-Level Agreement (SLA)", "Charge Capture"],
-  "Surgeon Preference Item (SPI)": ["Clinical Adoption", "Formulary Approval", "Rep-Driven Sale", "Distributor Margin", "Hospital Standardization Initiative"],
-  "Hospital Capital Budgeting": ["Capital Equipment Sales", "Procurement Cycle", "Break-Even Analysis", "Service-Level Agreement (SLA)", "GPO Contract"],
-  "Charge Capture": ["Per-Procedure Pricing", "Reimbursement Coding", "Consumables Revenue", "Break-Even Analysis", "Formulary Approval"],
-  "Reimbursement Coding": ["Charge Capture", "Formulary Approval", "Break-Even Analysis", "Device Utilization Rate", "Clinical Adoption"],
-  "Distributor Margin": ["Consumables Revenue", "GPO Contract", "Surgeon Preference Item (SPI)", "Per-Procedure Pricing", "Service-Level Agreement (SLA)"],
-  "In-Service Training": ["Clinical Adoption", "Rep-Driven Sale", "Service-Level Agreement (SLA)", "Device Utilization Rate", "Surgeon Preference Item (SPI)"],
-  "Service-Level Agreement (SLA)": ["Capital Equipment Sales", "Hospital Capital Budgeting", "Consumables Revenue", "Rep-Driven Sale", "Hospital Standardization Initiative"],
-  "Device Utilization Rate": ["Clinical Adoption", "Consumables Revenue", "Reimbursement Coding", "Break-Even Analysis", "Hospital Standardization Initiative"],
-  "Rep-Driven Sale": ["Surgeon Preference Item (SPI)", "Clinical Adoption", "Capital Equipment Sales", "In-Service Training", "Service-Level Agreement (SLA)"],
-  "Break-Even Analysis": ["Capital Equipment Sales", "Charge Capture", "Per-Procedure Pricing", "Procurement Cycle", "Hospital Capital Budgeting"],
-  "Hospital Standardization Initiative": ["GPO Contract", "Surgeon Preference Item (SPI)", "Service-Level Agreement (SLA)", "Device Utilization Rate", "Per-Procedure Pricing"]
+  "Absorption Rate": ["Cap Rate", "Shadow Inventory", "Loan-to-Value Ratio (LTV)", "Underwriting Approval", "Pocket Listing"],
+  "Cap Rate": ["Absorption Rate", "Debt-Service Coverage Ratio (DSCR)", "Loan-to-Value Ratio (LTV)", "Leaseback Agreement", "Wholesaling"],
+  "Escalation Clause": ["Earnest Money Deposit", "Pocket Listing", "Underwriting Approval", "Dual Agency", "Title Contingency"],
+  "Pocket Listing": ["Escalation Clause", "Absorption Rate", "Shadow Inventory", "Title Contingency", "Loan-to-Value Ratio (LTV)"],
+  "Debt-Service Coverage Ratio (DSCR)": ["Cap Rate", "Loan-to-Value Ratio (LTV)", "Underwriting Approval", "Leaseback Agreement", "Escrow Holdback"],
+  "Earnest Money Deposit": ["Escalation Clause", "Underwriting Approval", "Title Contingency", "Escrow Holdback", "Loan-to-Value Ratio (LTV)"],
+  "Underwriting Approval": ["Debt-Service Coverage Ratio (DSCR)", "Escalation Clause", "Loan-to-Value Ratio (LTV)", "Conforming Loan Limit", "Title Contingency"],
+  "Dual Agency": ["Escalation Clause", "Pocket Listing", "Leaseback Agreement", "Title Contingency", "Wholesaling"],
+  "Title Contingency": ["Escrow Holdback", "Earnest Money Deposit", "Pocket Listing", "Loan-to-Value Ratio (LTV)", "Shadow Inventory"],
+  "Escrow Holdback": ["Earnest Money Deposit", "Debt-Service Coverage Ratio (DSCR)", "Title Contingency", "Cap Rate", "Underwriting Approval"],
+  "Loan-to-Value Ratio (LTV)": ["Absorption Rate", "Cap Rate", "Debt-Service Coverage Ratio (DSCR)", "Underwriting Approval", "Escalation Clause"],
+  "Conforming Loan Limit": ["Loan-to-Value Ratio (LTV)", "Underwriting Approval", "Debt-Service Coverage Ratio (DSCR)", "Leaseback Agreement", "Wholesaling"],
+  "Leaseback Agreement": ["Cap Rate", "Debt-Service Coverage Ratio (DSCR)", "Conforming Loan Limit", "Dual Agency", "Escrow Holdback"],
+  "Shadow Inventory": ["Absorption Rate", "Pocket Listing", "Title Contingency", "Wholesaling", "Loan-to-Value Ratio (LTV)"],
+  "Wholesaling": ["Cap Rate", "Dual Agency", "Shadow Inventory", "Loan-to-Value Ratio (LTV)", "Conforming Loan Limit"]
 };
 
 async function createGlossaryEntry(term, icon, category, vertical, description) {
