@@ -27,7 +27,8 @@
     "update-full-description": "node scripts/update-full-description.js",
     "delete-premier": "node scripts/delete-premier-jobs.js",
     "notify-deleted": "node scripts/notify-deleted-jobs.js",
-    "create-glossary": "node scripts/create-glossary-entries.js"
+    "create-glossary": "node scripts/create-glossary-entries.js",
+    "delete-cyber": "node scripts/delete-cybersecurity-terms.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",

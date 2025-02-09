@@ -17,46 +17,49 @@ details:
       Architecture, Data Loss Prevention (DLP), Security Orchestration,
       Automation, and Response (SOAR)
 ---
-Public Key Infrastructure (PKI) is a comprehensive framework designed to manage, distribute, and authenticate digital certificates and public keys that are used to secure electronic communications. It plays a crucial role in ensuring the confidentiality, integrity, authenticity, and non-repudiation of digital communications and transactions. PKI involves a set of hardware, software, policies, and standards that work together to provide a secure method for exchanging information over untrusted networks, such as the internet. At its core, PKI uses a pair of cryptographic keys—a public key and a private key—to encrypt and decrypt data. The public key is openly distributed, while the private key is kept secure by the owner. Digital certificates, which are issued by trusted Certificate Authorities (CAs), bind public keys to the identities of their owners, ensuring that each party in a communication can be verified.
+Public Key Infrastructure (PKI) is a comprehensive framework designed to manage digital identities and facilitate secure electronic communication by utilizing cryptographic keys and digital certificates. PKI is founded on the principles of asymmetric cryptography, which involves the use of a pair of cryptographic keys: a public key and a private key. The public key is accessible to anyone and is used to encrypt data, while the private key is kept confidential and is used to decrypt data. Digital certificates, issued by trusted Certificate Authorities (CAs), bind public keys to entities, ensuring the authenticity and integrity of the keys. PKI encompasses a range of components and processes including the generation, distribution, storage, and revocation of keys and certificates, all aimed at establishing a secure environment for digital transactions.
 
 ## Common Applications
 
-### Secure Email
-PKI is used to encrypt emails and authenticate the identity of the sender, ensuring that the messages remain confidential and unaltered.
-
 ### Secure Web Browsing
-PKI enables HTTPS, which is used to secure communications between web browsers and servers, protecting data from eavesdropping and tampering.
+PKI is the backbone of secure web browsing, enabling HTTPS connections. Digital certificates are used to verify the identity of websites, ensuring that users are communicating with legitimate entities.
 
-### Digital Signatures
-Digital signatures, powered by PKI, provide a way to verify the authenticity and integrity of digital documents, ensuring they have not been altered after signing.
+### Email Security
+PKI facilitates secure email communication through protocols such as S/MIME, which encrypt emails and authenticate the sender's identity using digital signatures.
 
-### VPNs and Network Security
-PKI is instrumental in establishing secure Virtual Private Network (VPN) connections, ensuring that data transmitted over the network remains private and secure.
+### Virtual Private Networks (VPNs)
+PKI is utilized in VPNs to authenticate users and devices, ensuring that only authorized entities can access the network securely.
+
+### Software Signing
+PKI ensures the integrity and authenticity of software through code signing, which uses digital signatures to verify that software has not been tampered with.
 
 ## Safety Considerations
 
 ### Key Management
-Proper management of cryptographic keys is crucial. Loss or compromise of a private key can lead to unauthorized access or data breaches.
+Proper management of cryptographic keys is crucial. Unauthorized access to private keys can compromise security, making it essential to implement robust key storage and access controls.
 
-### Certificate Authority Trust
-The security of PKI-based systems relies heavily on the trustworthiness of Certificate Authorities. A compromised or malicious CA can issue fraudulent certificates.
+### Certificate Revocation
+Certificates may need to be revoked if compromised or no longer valid. Implementing a reliable certificate revocation process, such as using Certificate Revocation Lists (CRLs) or Online Certificate Status Protocol (OCSP), is vital for maintaining security.
 
-### Revocation and Expiry
-Digital certificates need to be revoked if compromised and renewed upon expiry. Failure to manage certificates properly can lead to security vulnerabilities.
+### Trust Hierarchy
+The trustworthiness of PKI relies on the integrity of CAs. Organizations should carefully select trusted CAs and regularly audit their practices to prevent security breaches.
 
 ## Related Terms or Concepts
 
+### Cryptographic Keys
+Fundamental components of PKI that include public and private keys used for encryption and decryption.
+
 ### Certificate Authority (CA)
-An entity responsible for issuing and managing digital certificates within a PKI. CAs validate the identity of certificate requestors before issuing certificates.
+An entity that issues digital certificates, verifying the identity of organizations and individuals.
 
-### Digital Certificate
-An electronic document used to prove the ownership of a public key, containing information about the key, the identity of its owner, and the digital signature of a CA.
+### Digital Signature
+A cryptographic technique used to authenticate the identity of the sender and ensure the integrity of the message.
 
-### Public and Private Keys
-A pair of cryptographic keys used in PKI. The public key encrypts data, while the private key decrypts it, or vice versa, depending on the operation.
+### Asymmetric Cryptography
+A cryptographic method using a pair of keys (public and private) for secure communication, forming the basis of PKI.
 
-### SSL/TLS
-Protocols that use PKI to secure communications over computer networks, particularly the internet, by encrypting data transmitted between web servers and clients.
+### Certificate Revocation List (CRL)
+A list of certificates that have been revoked before their expiration date and should no longer be trusted.
 
-### Cryptography
-The practice and study of techniques for securing communication and information, forming the foundation upon which PKI is built.
+### Online Certificate Status Protocol (OCSP)
+A protocol used for obtaining the revocation status of a digital certificate in real-time.

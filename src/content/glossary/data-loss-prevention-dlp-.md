@@ -17,40 +17,40 @@ details:
       Threat Detection, Security Orchestration, Automation, and Response (SOAR),
       Privilege Escalation
 ---
-Data Loss Prevention (DLP) refers to a comprehensive security strategy aimed at ensuring that sensitive or critical information is not misused, accessed by unauthorized users, or lost due to cyber threats or human error. This approach involves the implementation of processes and technologies designed to detect and prevent data breaches, leaks, or losses. DLP systems monitor and control data flow across networks, devices, and storage facilities, providing organizations with the capability to protect their intellectual property, personal information, and other confidential data from both internal and external threats. By enforcing data protection policies, DLP helps organizations comply with regulatory requirements and maintain their reputations by safeguarding against data breaches.
+Data Loss Prevention (DLP) refers to a comprehensive security strategy aimed at ensuring that sensitive or critical information does not leave the corporate network or fall into the hands of unauthorized users. This involves the use of software tools and processes to monitor, detect, and respond to potential data breaches or data exfiltration transmissions. DLP solutions identify confidential data, track its movement across and outside the organization, and enforce policies to prevent unauthorized access or actions. This is crucial for protecting intellectual property, maintaining privacy, and ensuring compliance with regulatory requirements like GDPR, HIPAA, or PCI DSS.
 
 ## Common Applications
 
-### Network-Based DLP
-Network-based DLP solutions monitor data as it moves across the network. These solutions can prevent sensitive data from being sent outside the organization via email, instant messaging, or other communication channels. They ensure that sensitive data remains within the organization's secure perimeter.
-
 ### Endpoint DLP
-Endpoint DLP solutions focus on monitoring and protecting data at endpoints such as laptops, desktops, and mobile devices. They prevent unauthorized data transfers to external devices like USB drives or CD/DVD burners, ensuring data remains secure even at user endpoints.
+Endpoint DLP solutions are installed directly on devices such as laptops and desktops. They help monitor and control data transfers to external devices, block unauthorized applications, and prevent data from being copied or transmitted inappropriately.
+
+### Network DLP
+Network DLP monitors and manages data in motion across the organization's network. It inspects data being transmitted over email, web applications, or other network protocols, and blocks or flags any activity that violates predefined security policies.
 
 ### Cloud DLP
-With the increasing adoption of cloud services, Cloud DLP solutions have become essential. These solutions help organizations protect sensitive data stored in cloud environments by monitoring and controlling access, ensuring that cloud-stored data complies with security policies and regulations.
+With the increasing adoption of cloud services, Cloud DLP solutions help protect data stored and processed in cloud environments. They provide visibility into data usage, enforce security policies, and prevent unauthorized sharing or access in cloud-based applications and storage.
 
 ## Safety Considerations
 
+### Policy Configuration
+Effective DLP requires careful configuration of policies to ensure legitimate business processes are not disrupted. Overly restrictive policies can lead to false positives, causing unnecessary alerts and blocking legitimate data transfers.
+
+### Privacy Concerns
+Monitoring and inspecting data can raise privacy concerns among employees. Organizations must balance DLP efforts with respect for individuals' privacy rights and ensure compliance with applicable privacy laws.
+
 ### Data Classification
-A critical component of DLP is accurately classifying data to determine what is considered sensitive or confidential. Proper data classification is essential to ensure that DLP policies are effectively applied and that protection mechanisms are accurately targeted.
-
-### Policy Management
-Organizations must carefully define and manage DLP policies to balance security and usability. Overly restrictive policies may hinder business operations, while lenient policies may leave data vulnerable. Regular policy reviews and updates are essential to maintaining an effective DLP strategy.
-
-### Insider Threats
-DLP solutions must be capable of detecting and preventing insider threats. Employees with access to sensitive data may inadvertently or maliciously cause data loss. DLP systems need to monitor user activities and enforce policies to mitigate these risks.
+For DLP to be effective, organizations must accurately classify their data according to sensitivity and importance. Inaccurate classification can lead to inadequate protection or unnecessary restrictions.
 
 ## Related Terms or Concepts
 
-### Information Rights Management (IRM)
-IRM is a technology used to protect sensitive information from unauthorized access by controlling how data is used and shared. IRM works in conjunction with DLP to ensure that only authorized individuals can access and manipulate sensitive data.
-
 ### Data Encryption
-Data encryption is a security method that converts data into a coded format, making it unreadable without the correct decryption key. Encryption is often used alongside DLP to protect data both at rest and in transit, adding an additional layer of security.
+Data encryption involves converting data into a coded format to prevent unauthorized access. While DLP focuses on preventing data loss, encryption ensures that even if data is intercepted, it cannot be read without the decryption key.
 
-### Access Control
-Access control is a security technique that regulates who can view or use resources within an organization. DLP systems often incorporate access control measures to ensure that only authorized users can access sensitive data.
+### Information Rights Management (IRM)
+IRM is a technology that protects sensitive information from unauthorized access by managing permissions and imposing restrictions on access, editing, or sharing at the document level.
 
-### Security Information and Event Management (SIEM)
-SIEM systems aggregate and analyze security data from across an organization to provide real-time monitoring and alerts. DLP solutions often integrate with SIEM systems to enhance threat detection and incident response capabilities.
+### Data Masking
+Data masking involves hiding original data with modified content (characters or other data) to protect sensitive information in non-production environments like testing or training.
+
+### Insider Threat
+An insider threat involves risks posed by individuals within the organization, such as employees or contractors, who may intentionally or unintentionally leak or misuse sensitive data. DLP solutions help mitigate such risks by monitoring and controlling internal data movements.

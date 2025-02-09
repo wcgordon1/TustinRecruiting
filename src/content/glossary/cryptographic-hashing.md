@@ -14,43 +14,46 @@ details:
   - title: Related Terms
     value: None
 ---
-Cryptographic Hashing is a fundamental process in cybersecurity that involves transforming input data of any size into a fixed-size string of characters, which is typically a hexadecimal number. This transformation is performed using a hash function, a mathematical algorithm that ensures the output (known as the hash value or hash code) is unique to each unique input. This means that even the slightest change in the input data results in a significantly different hash value. The primary purpose of cryptographic hashing is to verify data integrity, ensuring that data has not been altered or tampered with. Hash functions are designed to be one-way functions, meaning that it is computationally infeasible to reverse the process and reconstruct the original input data from its hash value.
+Cryptographic hashing is a fundamental process in cybersecurity, involving the transformation of input data, known as a message, into a fixed-size string of bytes, typically represented as a hexadecimal number. This transformation is governed by a hash function, which is designed to be a one-way function, meaning it is computationally infeasible to reverse the process to retrieve the original input data from the hash value. The hash value, also referred to as a "digest," serves as a unique fingerprint of the input data, ensuring data integrity by allowing any changes to the data to be easily detected. Cryptographic hash functions are characterized by properties such as determinism, pre-image resistance, small changes in input producing significant changes in output (avalanche effect), and collision resistance.
 
 ## Common Applications
 
 ### Data Integrity Verification
-Cryptographic hashing is widely used to verify the integrity of files and data transmissions. By comparing hash values before and after data transfer, users can ensure that the data has not been corrupted or altered.
+Cryptographic hashes are widely used to verify the integrity of data files and messages. By comparing the hash value generated from the original data to that of a received or stored version, one can determine if the data has been altered.
 
 ### Password Storage
-Instead of storing passwords in plaintext, systems use hash functions to store hashed versions of passwords. This ensures that even if the data is breached, the actual passwords remain protected, as reversing hash values to obtain the original passwords is nearly impossible.
+Hashes are used to securely store passwords. Instead of storing plain text passwords, systems store the hash values, making it difficult for attackers to retrieve the original passwords even if they access the hash values.
 
 ### Digital Signatures
-Hash functions play a crucial role in digital signatures, where they are used to generate a hash of a message. This hash is then encrypted with a private key to create a signature, ensuring the authenticity and integrity of the message.
+Digital signatures employ cryptographic hashing to verify the authenticity and integrity of a message or document. The hash of the message is encrypted with a private key to create the signature, which can be decrypted by the recipient using the corresponding public key.
 
 ### Blockchain Technology
-In blockchain, cryptographic hashing is used to link blocks of data together securely. Each block contains a hash of the previous block, forming a chain that is resistant to tampering.
+In blockchain systems, cryptographic hashing ensures the integrity of transaction data. Each block in a blockchain contains the hash of the previous block, creating a chain that is resistant to tampering.
 
 ## Safety Considerations
 
-### Collision Resistance
-A crucial safety consideration in cryptographic hashing is collision resistance, which is the ability of a hash function to avoid generating the same hash value for different inputs. A good hash function minimizes the possibility of collisions to ensure data integrity.
+### Collision Attacks
+A collision occurs when two different inputs produce the same hash value. Cryptographic hash functions are designed to minimize the risk of collisions, but they are not impossible. Using a hash function that is known to be collision-resistant is crucial for maintaining security.
 
-### Preimage and Second Preimage Resistance
-Hash functions should be designed to be preimage resistant, meaning it should be infeasible to find an input that corresponds to a specific hash value. Second preimage resistance ensures it is difficult to find a second input that hashes to the same value as a given input.
+### Length Extension Attacks
+Certain hash functions are vulnerable to length extension attacks, where an attacker can append data to the end of a hashed message without knowing the original message, and still produce a valid hash. Choosing a hash function resistant to such attacks, like those based on the SHA-3 standard, can mitigate this risk.
 
-### Use of Secure Algorithms
-It's essential to use secure and widely accepted hash algorithms, such as SHA-256 or SHA-3, as older algorithms like MD5 and SHA-1 have vulnerabilities that can be exploited.
+### Obsolescence of Hash Functions
+Some older cryptographic hash functions, such as MD5 and SHA-1, have been found to be insecure due to vulnerabilities that facilitate collision attacks. It is important to use modern hash functions like SHA-256 or SHA-3 to ensure robust security.
 
 ## Related Terms or Concepts
 
 ### Hash Function
-A mathematical algorithm that transforms input data into a fixed-size string of characters, forming the basis of cryptographic hashing.
-
-### Message Digest
-Another term for the hash value or hash code, representing the output of a hash function.
+A mathematical algorithm that transforms input data of variable length into a fixed-size string of text, serving as the basis for cryptographic hashing.
 
 ### Salt
-A random value added to input data before hashing, commonly used in password hashing to prevent attacks that use precomputed hash tables, such as rainbow tables.
+A random value added to input data before hashing, used to enhance security by preventing attacks such as rainbow table attacks on stored hash values.
 
 ### Hash Collision
-An event where two different inputs produce the same hash value, which a secure hash function aims to minimize.
+An event where two different inputs produce the same hash output, which cryptographic hash functions aim to minimize.
+
+### Pre-image Resistance
+A property of hash functions that makes it computationally infeasible to reverse-engineer the original input data from its hash value.
+
+### Digital Certificate
+An electronic document used to prove the ownership of a public key, often containing a hash of the document to ensure its integrity during transmission.

@@ -4,6 +4,8 @@ import CtaGlossary from "@/components/cta/CtaGlossary.astro";
 import BaseLayout from "./BaseLayout.astro";
 import { Icon } from 'astro-icon/components';
 import CtaWack from "@/components/cta/CtaWack.astro";
+import { getCollection } from 'astro:content';
+
 const { frontmatter } = Astro.props;
 console.log('GlossaryLayout frontmatter:', frontmatter); // Debug log
 
@@ -17,6 +19,12 @@ type Frontmatter = {
 
 // Debug log to verify data
 console.log('Frontmatter:', frontmatter);
+
+// Get all glossary entries for related terms linking
+const glossaryEntries = await getCollection('glossary');
+
+// Helper function to create URL-safe slugs
+const createSlug = (text: string) => text.toLowerCase().replace(/\s+/g, '-');
 
 // SEO
 const seoTitle = `${frontmatter.term} - ${frontmatter.vertical} Glossary`;
@@ -103,15 +111,54 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
                       <h3 class="text-lg font-medium text-purple-900">
                         {detail.title}
                       </h3>
-                      <h4 class="mt-2 text-sm text-slate-500">
-                        {detail.url ? (
-                          <a href={detail.url} class="text-blue-600 hover:text-blue-800">
+                      {detail.title === "Category" ? (
+                        <h4 class="mt-2 text-sm text-slate-500">
+                          <a 
+                            href={`/glossary/${createSlug(detail.value)}`}
+                            class="text-blue-600 hover:underline"
+                          >
                             {detail.value}
                           </a>
-                        ) : (
-                          detail.value
-                        )}
-                      </h4>
+                        </h4>
+                      ) : detail.title === "Industry" || detail.title === "Vertical" ? (
+                        <h4 class="mt-2 text-sm text-slate-500">
+                          <a 
+                            href={`/glossary/${createSlug(frontmatter.category)}/${createSlug(detail.value)}`}
+                            class="text-blue-600 hover:underline"
+                          >
+                            {detail.value}
+                          </a>
+                        </h4>
+                      ) : detail.title === "Related Terms" ? (
+                        <div class="mt-2 space-y-2">
+                          {detail.value.split(',').map(term => {
+                            const relatedEntry = glossaryEntries.find(entry => 
+                              entry.data.term.trim() === term.trim()
+                            );
+                            if (relatedEntry) {
+                              return (
+                                <a 
+                                  href={`/glossary/${createSlug(relatedEntry.data.category)}/${createSlug(relatedEntry.data.vertical)}/${relatedEntry.slug}`}
+                                  class="block text-blue-600 hover:underline text-sm"
+                                >
+                                  {term.trim()}
+                                </a>
+                              );
+                            }
+                            return <span class="text-sm text-slate-500">{term.trim()}</span>;
+                          })}
+                        </div>
+                      ) : (
+                        <h4 class="mt-2 text-sm text-slate-500">
+                          {detail.url ? (
+                            <a href={detail.url} class="text-blue-600 hover:underline">
+                              {detail.value}
+                            </a>
+                          ) : (
+                            detail.value
+                          )}
+                        </h4>
+                      )}
                     </div>
                   ))}
                 </div>
