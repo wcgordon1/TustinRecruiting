@@ -1,19 +1,30 @@
 ---
+interface Props {
+  frontmatter: {
+    term: string;
+    category: string;
+    vertical: string;
+    description: string;
+  };
+}
+
+const { frontmatter } = Astro.props;
+
 const featuresOne = [
   {
-    title: "Experience",
+    title: `${frontmatter.vertical} Recruiting Expertise`,
     description:
-      "20+ years of combined proven success in Orange County, connecting top talent with leading companies through our specialized direct hire recruiting services.",
+      `20+ years of combined proven success in Orange County, specializing in ${frontmatter.vertical} recruitment within the ${frontmatter.category} sector.`,
   },
   {
-    title: "Local",
+    title: "Local Market Knowledge",
     description:
-      "Deep roots in Orange County's business community, offering personalized recruitment solutions that understand the unique needs of our local market.",
+      `Deep understanding of Orange County's ${frontmatter.vertical} talent landscape, offering personalized recruitment solutions for ${frontmatter.category} teams.`,
   },
   {
-    title: "Results",
+    title: `${frontmatter.category} Recruiting Results`,
     description:
-      "95% first-year retention rate with over 2,500 successful placements, demonstrating our commitment to making lasting professional connections.",
+      `95% first-year retention rate with successful ${frontmatter.vertical} placements, demonstrating our expertise in ${frontmatter.category} recruitment.`,
   },
 ];
 ---
@@ -23,16 +34,16 @@ const featuresOne = [
     class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-24">
     <div>
       <span class="text-sm uppercase font-medium tracking-wide text-blue-600"
-        >Get Help Finding Top Talent</span
+        >Hire Top {frontmatter.vertical} Talent</span
       >
       <h2
         class="text-purple-900 font-semibold tracking-tight lg:text-5xl mt-6 text-3xl">
-        Direct Hire Success with Tustin Recruiting
+        {frontmatter.category} Recruiting
       </h2>
       <div class="max-w-xl mt-6">
         <p class="text-slate-500">
-          Looking for exceptional talent in Orange County? Our proven direct hire recruiting 
-          process connects you with pre-screened, qualified professionals ready to contribute 
+          Looking for exceptional {frontmatter.vertical} talent in Orange County? Our proven direct hire recruiting 
+          process connects you with pre-screened, qualified {frontmatter.category} professionals ready to contribute 
           to your company's success from day one.
         </p>
       </div>
@@ -42,7 +53,7 @@ const featuresOne = [
           title="Contact Us"
           aria-label="Contact Us"
           href="/contact">
-          Let's Talk!
+          Hire {frontmatter.vertical} Talent
         </a>
       </div>
     </div>
@@ -56,9 +67,9 @@ const featuresOne = [
                 <div class="flex items-center justify-center size-8 text-blue-500 rounded-full bg-slate-100">
                   {index + 1}
                 </div>
-                <p class="mt-5 font-semibold text-purple-900 lg:mt-0 ">
+                <h3 class="mt-5 font-semibold text-purple-900 lg:mt-0 ">
                   {item.title}
-                </p>
+                </h3>
               </div>
               <p class="text-sm text-slate-500  lg:text-pretty">
                 {item.description}

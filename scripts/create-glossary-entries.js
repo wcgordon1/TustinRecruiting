@@ -17,130 +17,163 @@ const openai = new OpenAI({
 
 const GLOSSARY_TERMS = [
   {
-    "term": "Absorption Rate",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "The rate at which available homes are sold in a specific real estate market over a given time period."
+    "term": "Penetration Testing",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A simulated cyberattack used to identify vulnerabilities in networks, applications, or systems."
   },
   {
-    "term": "Cap Rate",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "Capitalization rate, a metric used to evaluate the return on investment for income-producing properties."
+    "term": "Zero Trust Architecture",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A security model that requires continuous verification for every access request, regardless of location."
   },
   {
-    "term": "Escalation Clause",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "A clause in a purchase contract that allows the buyer to automatically increase their offer if competing bids arise."
+    "term": "Endpoint Detection and Response (EDR)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A security solution that monitors and responds to threats on endpoints like laptops and mobile devices."
   },
   {
-    "term": "Pocket Listing",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "A property for sale that is not publicly listed on the MLS, often marketed privately by real estate agents."
+    "term": "Security Information and Event Management (SIEM)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A system that aggregates and analyzes security logs from multiple sources to detect potential threats."
   },
   {
-    "term": "Debt-Service Coverage Ratio (DSCR)",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "A financial metric used by lenders to determine if a property’s income is sufficient to cover its loan payments."
+    "term": "Threat Intelligence",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "The collection and analysis of data to identify emerging cybersecurity threats and vulnerabilities."
   },
   {
-    "term": "Earnest Money Deposit",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "A deposit made by a buyer to demonstrate serious intent to purchase a property, typically held in escrow."
+    "term": "Multi-Factor Authentication (MFA)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A security method requiring users to provide two or more verification factors to gain access."
   },
   {
-    "term": "Underwriting Approval",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "A process where a lender evaluates a buyer’s financial status to approve a mortgage loan."
+    "term": "Public Key Infrastructure (PKI)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A framework that uses cryptographic keys and digital certificates to secure communications."
   },
   {
-    "term": "Dual Agency",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "When a real estate agent or brokerage represents both the buyer and seller in a transaction."
+    "term": "Data Loss Prevention (DLP)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A security strategy to prevent sensitive data from being leaked, lost, or accessed by unauthorized users."
   },
   {
-    "term": "Title Contingency",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "A clause that allows a buyer to back out of a real estate deal if there are title-related issues."
+    "term": "Cloud Security Posture Management (CSPM)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A system that continuously monitors cloud infrastructure for security risks and compliance violations."
   },
   {
-    "term": "Escrow Holdback",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "Funds held in escrow after closing to cover outstanding repairs or contractual obligations."
+    "term": "Red Teaming",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A security exercise where ethical hackers simulate real-world attacks to test an organization's defenses."
   },
   {
-    "term": "Loan-to-Value Ratio (LTV)",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "A financial term that compares the amount of a mortgage loan to the appraised value of the property."
+    "term": "Secure Software Development Lifecycle (SSDLC)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A development process that integrates security at every stage of the software lifecycle."
   },
   {
-    "term": "Conforming Loan Limit",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "The maximum loan amount that can be backed by Fannie Mae or Freddie Mac under federal lending guidelines."
+    "term": "Identity and Access Management (IAM)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A framework for ensuring that the right individuals have the right access to IT resources."
   },
   {
-    "term": "Leaseback Agreement",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "An arrangement where the seller of a property leases it back from the buyer after closing."
+    "term": "Privilege Escalation",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A security exploit where attackers gain higher access levels than originally permitted."
   },
   {
-    "term": "Shadow Inventory",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "Homes that are in foreclosure or owned by lenders but not yet listed for sale."
+    "term": "Ransomware Mitigation",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "Techniques and strategies used to prevent or minimize damage from ransomware attacks."
   },
   {
-    "term": "Wholesaling",
-    "icon": "mdi:home-city",
-    "category": "Sales",
-    "vertical": "Real Estate",
-    "description": "A real estate investment strategy where a buyer contracts a property at a lower price and assigns it to another buyer for a profit."
+    "term": "Bug Bounty Programs",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "Programs where ethical hackers are rewarded for finding and reporting security vulnerabilities."
+  },
+  {
+    "term": "Web Application Firewall (WAF)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A security solution that filters and monitors HTTP traffic to prevent web-based attacks."
+  },
+  {
+    "term": "Insider Threat Detection",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "Monitoring and analyzing employee behavior to detect potential security risks from within an organization."
+  },
+  {
+    "term": "Cryptographic Hashing",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A process that converts data into a fixed-size hash value to ensure data integrity."
+  },
+  {
+    "term": "Container Security",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "Protecting containerized applications from security threats at runtime and during deployment."
+  },
+  {
+    "term": "Security Orchestration, Automation, and Response (SOAR)",
+    "icon": "mdi:security",
+    "category": "Software Engineering",
+    "vertical": "Cybersecurity",
+    "description": "A system that automates security workflows, threat detection, and response actions."
   }
   // ... more terms
 ];
 
 // Add related terms mapping
 const RELATED_TERMS = {
-  "Absorption Rate": ["Cap Rate", "Shadow Inventory", "Loan-to-Value Ratio (LTV)", "Underwriting Approval", "Pocket Listing"],
-  "Cap Rate": ["Absorption Rate", "Debt-Service Coverage Ratio (DSCR)", "Loan-to-Value Ratio (LTV)", "Leaseback Agreement", "Wholesaling"],
-  "Escalation Clause": ["Earnest Money Deposit", "Pocket Listing", "Underwriting Approval", "Dual Agency", "Title Contingency"],
-  "Pocket Listing": ["Escalation Clause", "Absorption Rate", "Shadow Inventory", "Title Contingency", "Loan-to-Value Ratio (LTV)"],
-  "Debt-Service Coverage Ratio (DSCR)": ["Cap Rate", "Loan-to-Value Ratio (LTV)", "Underwriting Approval", "Leaseback Agreement", "Escrow Holdback"],
-  "Earnest Money Deposit": ["Escalation Clause", "Underwriting Approval", "Title Contingency", "Escrow Holdback", "Loan-to-Value Ratio (LTV)"],
-  "Underwriting Approval": ["Debt-Service Coverage Ratio (DSCR)", "Escalation Clause", "Loan-to-Value Ratio (LTV)", "Conforming Loan Limit", "Title Contingency"],
-  "Dual Agency": ["Escalation Clause", "Pocket Listing", "Leaseback Agreement", "Title Contingency", "Wholesaling"],
-  "Title Contingency": ["Escrow Holdback", "Earnest Money Deposit", "Pocket Listing", "Loan-to-Value Ratio (LTV)", "Shadow Inventory"],
-  "Escrow Holdback": ["Earnest Money Deposit", "Debt-Service Coverage Ratio (DSCR)", "Title Contingency", "Cap Rate", "Underwriting Approval"],
-  "Loan-to-Value Ratio (LTV)": ["Absorption Rate", "Cap Rate", "Debt-Service Coverage Ratio (DSCR)", "Underwriting Approval", "Escalation Clause"],
-  "Conforming Loan Limit": ["Loan-to-Value Ratio (LTV)", "Underwriting Approval", "Debt-Service Coverage Ratio (DSCR)", "Leaseback Agreement", "Wholesaling"],
-  "Leaseback Agreement": ["Cap Rate", "Debt-Service Coverage Ratio (DSCR)", "Conforming Loan Limit", "Dual Agency", "Escrow Holdback"],
-  "Shadow Inventory": ["Absorption Rate", "Pocket Listing", "Title Contingency", "Wholesaling", "Loan-to-Value Ratio (LTV)"],
-  "Wholesaling": ["Cap Rate", "Dual Agency", "Shadow Inventory", "Loan-to-Value Ratio (LTV)", "Conforming Loan Limit"]
+  "Penetration Testing": ["Red Teaming", "Bug Bounty Programs", "Threat Intelligence", "Privilege Escalation", "Web Application Firewall (WAF)"],
+  "Zero Trust Architecture": ["Multi-Factor Authentication (MFA)", "Identity and Access Management (IAM)", "Cloud Security Posture Management (CSPM)", "Privilege Escalation", "Data Loss Prevention (DLP)"],
+  "Endpoint Detection and Response (EDR)": ["Security Information and Event Management (SIEM)", "Threat Intelligence", "Insider Threat Detection", "Ransomware Mitigation", "Container Security"],
+  "Security Information and Event Management (SIEM)": ["Threat Intelligence", "Data Loss Prevention (DLP)", "Security Orchestration, Automation, and Response (SOAR)", "Web Application Firewall (WAF)", "Penetration Testing"],
+  "Threat Intelligence": ["Penetration Testing", "SIEM", "Insider Threat Detection", "Cloud Security Posture Management (CSPM)", "Zero Trust Architecture"],
+  "Multi-Factor Authentication (MFA)": ["Identity and Access Management (IAM)", "Zero Trust Architecture", "Privilege Escalation", "Secure Software Development Lifecycle (SSDLC)", "Data Loss Prevention (DLP)"],
+  "Public Key Infrastructure (PKI)": ["Cryptographic Hashing", "Identity and Access Management (IAM)", "Zero Trust Architecture", "Data Loss Prevention (DLP)", "Security Orchestration, Automation, and Response (SOAR)"],
+  "Data Loss Prevention (DLP)": ["Zero Trust Architecture", "Cloud Security Posture Management (CSPM)", "Insider Threat Detection", "Security Orchestration, Automation, and Response (SOAR)", "Privilege Escalation"],
+  "Cloud Security Posture Management (CSPM)": ["Data Loss Prevention (DLP)", "Identity and Access Management (IAM)", "Zero Trust Architecture", "Threat Intelligence", "Privilege Escalation"],
+  "Red Teaming": ["Penetration Testing", "Bug Bounty Programs", "Privilege Escalation", "Insider Threat Detection", "Web Application Firewall (WAF)"],
+  "Secure Software Development Lifecycle (SSDLC)": ["Multi-Factor Authentication (MFA)", "Identity and Access Management (IAM)", "Privilege Escalation", "Threat Intelligence", "Cryptographic Hashing"],
+  "Privilege Escalation": ["Zero Trust Architecture", "Red Teaming", "Penetration Testing", "Bug Bounty Programs", "Insider Threat Detection"],
+  "Ransomware Mitigation": ["Endpoint Detection and Response (EDR)", "Threat Intelligence", "Security Information and Event Management (SIEM)", "Data Loss Prevention (DLP)", "Cloud Security Posture Management (CSPM)"]
 };
 
 async function createGlossaryEntry(term, icon, category, vertical, description) {

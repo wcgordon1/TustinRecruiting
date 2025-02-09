@@ -1,0 +1,61 @@
+---
+import { getCollection } from 'astro:content';
+
+// Get all blog posts and sort by date
+const allPosts = await getCollection('posts');
+const recentPosts = allPosts
+    .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+    .slice(0, 5);
+---
+
+<section>
+  <div class="mx-auto max-w-4xl lg:px-16 md:px-12 px-8 xl:px-24 py-12">
+    <div class="bg-white p-8 rounded-3xl shadow-2xl shadow-slate-200/20 ring-1 ring-slate-200">
+        <h2 class="text-2xl font-semibold mb-4">Recent Articles</h2>
+        <p class="text-gray-600 mb-6">
+            Check out more articles from <span class="text-blue-600 font-bold">Tustin Recruiting</span> on all things hiring.
+        </p>
+
+        <div class="grid gap-4">
+            {recentPosts.map(post => (
+                <a 
+                    href={`/posts/${post.slug}`}
+                    class="block bg-gray-50 p-4 rounded-xl hover:bg-blue-50 transition-colors group"
+                >
+                    <div class="flex items-start gap-4">
+                        <div class="text-gray-400 group-hover:text-blue-600 mt-1">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="size-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
+                            </svg>
+                        </div>
+                        <div class="flex-1">
+                            <div class="flex items-center justify-between">
+                                <h3 class="font-semibold text-gray-900 group-hover:text-blue-600">
+                                    {post.data.title}
+                                </h3>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="size-5 text-gray-400 group-hover:text-blue-600" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none">
+                                    <path d="M4 12h16m-7-7 7 7-7 7" />
+                                </svg>
+                            </div>
+                            <p class="text-sm text-gray-600 mt-1">
+                                {post.data.description.length > 120 
+                                    ? post.data.description.substring(0, 117) + '...'
+                                    : post.data.description}
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            ))}
+        </div>
+
+        <div class="flex justify-center mt-8">
+            <a 
+                href="/articles" 
+                class="text-white items-center font-medium gap-3 inline-flex focus-visible:outline-2 focus-visible:outline-offset-2 focus:outline-none justify-center px-6 lg:px-8 ring-2 ring-transparent focus:ring-offset-2 focus:ring-blue-500 duration-200 py-3.5 rounded-full active:bg-blue-800 active:text-white bg-blue-500 hover:bg-blue-600 w-auto"
+                >
+                All Articles
+            </a>
+        </div>
+    </div>
+  </div>
+</section> 
