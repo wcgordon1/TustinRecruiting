@@ -8,7 +8,7 @@ export async function GET(context) {
   
   return rss({
     title: 'Tustin Recruiting Jobs',
-    description: 'Find the best jobs in Orange County, CA!',
+    description: 'RSS Feed for Tustin Recruiting Jobs',
     site: context.site,
     items: jobs.map((job) => ({
       title: job.data.position,
@@ -20,17 +20,30 @@ export async function GET(context) {
       `,
       link: `${context.site}jobs/${job.slug}`,
       customData: `
-        <company>${job.data.hiringOrganization.name}</company>
-        <companyLogo>https://www.tustinrecruiting.com/${job.data.hiringOrganization.logo}</companyLogo>
+         <company>
+        <name>${job.data.hiringOrganization.name}</name>
+        <logo>${job.data.hiringOrganization.logo}</logo>
+        <url>${job.data.hiringOrganization.sameAs}</url>
+      </company>
         <datePosted>${job.data.datePosted}</datePosted>
         <validThrough>${job.data.validThrough}</validThrough>
         <location>${job.data.location}</location>
+        <streetAddress>${job.data.jobLocation.streetAddress}</streetAddress>
+        <city>${job.data.jobLocation.addressLocality}</city>
+        <state>${job.data.jobLocation.addressRegion}</state>
+        <country>${job.data.jobLocation.addressCountry}</country>
+        <postalCode>${job.data.jobLocation.postalCode}</postalCode>
         <salary>
           <currency>${job.data.baseSalary.currency}</currency>
           <minimum>${job.data.baseSalary.minValue}</minimum>
           <maximum>${job.data.baseSalary.maxValue}</maximum>
-          <unit>${job.data.baseSalary.unitText}</unit>
+          <monetaryAmount>${job.data.baseSalary.unitText}</monetaryAmount>
         </salary>
+        <category>${job.data.occupationalCategory}</category>
+        <team>${job.data.team}</team>
+        <directApply>true</directApply>
+        <guid>${job.data.identifier.value}</guid>
+        <setting>
         <remote>false</remote>
         <employmentType>${job.data.employmentType}</employmentType>
       `,

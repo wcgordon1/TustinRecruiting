@@ -19,8 +19,8 @@ description: >-
   Work within a team-oriented, fast-paced environment focused on growth and revenue generation.
 location: 'Irvine, CA'
 team: Equipment Finance
-datePosted: '2025-01-29T18:24:37.130Z'
-validThrough: '2025-02-28T15:51:50.525Z'
+datePosted: '2025-02-09T18:24:37.130Z'
+validThrough: '2025-03-09T18:24:37.130Z'
 employmentType: FULL_TIME
 hiringOrganization:
   name: Tustin Recruiting
