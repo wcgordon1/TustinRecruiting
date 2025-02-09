@@ -1,0 +1,130 @@
+---
+import { getCollection } from "astro:content";
+
+// Get jobs and sort by date, filter featured, and limit to 6
+const allJobs = await getCollection("jobs");
+const recentFeaturedJobs = allJobs
+  .filter(job => job.data.featured)
+  .sort((a, b) => new Date(b.data.datePosted).getTime() - new Date(a.data.datePosted).getTime())
+  .slice(0, 6);
+
+// Helper function to format salary with commas
+const formatSalary = (num: number) => num.toLocaleString('en-US');
+---
+
+<section>
+  <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-24">
+    <h2 class="text-purple-900 font-semibold tracking-tighter text-4xl mb-12">Featured Jobs</h2>
+    
+    <ul role="list" class="grid gap-4">
+      {recentFeaturedJobs.map(job => (
+        <li class="job-item featured">
+          <a 
+            href={`/jobs/skill/${job.data.occupationalCategory?.toLowerCase().replace(/\s+/g, '-')}-jobs`}
+            class="group block hover:bg-[rgb(246,249,253)] p-4 sm:p-6 rounded-2xl transition-colors"
+          >
+            <div class="relative flex items-center w-full">
+              <!-- Company Logo -->
+              <div class="relative size-12 sm:size-14 flex-none">
+                <img
+                  class="absolute inset-0 size-full object-contain"
+                  src={job.data.hiringOrganization.logo}
+                  alt={`${job.data.hiringOrganization.name} logo`}
+                />
+                <div class="absolute inset-0 rounded-full ring-1 ring-inset ring-slate-200/10">
+                </div>
+              </div>
+
+              <!-- Text Content -->
+              <dl class="ml-4 flex-1 flex flex-col gap-y-2 sm:ml-6">
+                <!-- Company Name -->
+                <div>
+                  <dt class="sr-only">Company</dt>
+                  <dd class="text-sm font-medium text-blue-600">
+                    {job.data.hiringOrganization.name}
+                  </dd>
+                </div>
+
+                <!-- Title and Location -->
+                <div class="flex items-center justify-between">
+                  <dt class="sr-only">Title and Location</dt>
+                  <dd class="text-base font-semibold text-purple-900 flex-1">
+                    {job.data.position}
+                  </dd>
+                  <dd class="text-sm text-slate-500 text-right">
+                    {job.data.location}
+                  </dd>
+                </div>
+
+                <!-- Employment Type and Salary -->
+                <div class="flex items-center gap-x-4">
+                  <dt class="sr-only">Employment Type</dt>
+                  <dd class="text-xs text-slate-500">
+                    {job.data.employmentType}
+                  </dd>
+                  <dt class="sr-only">Salary</dt>
+                  <dd class="flex items-center text-xs text-slate-500">
+                    ${formatSalary(job.data.baseSalary.minValue)}-${formatSalary(job.data.baseSalary.maxValue)}/{job.data.baseSalary.unitText}
+                  </dd>
+                </div>
+
+                <!-- Team and Date -->
+                <div class="flex items-center gap-x-4">
+                  <dt class="sr-only">Team and Date</dt>
+                  <dd class="text-xs font-medium tracking-wide text-blue-600">
+                    {job.data.team}
+                  </dd>
+                  <dd class="text-xs text-slate-500">
+                    Posted: 
+                    {new Date(job.data.datePosted).toLocaleDateString('en-US', {
+                      month: '2-digit',
+                      day: '2-digit',
+                      year: 'numeric'
+                    })}
+                  </dd>
+                </div>
+              </dl>
+            </div>
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    <!-- View All Jobs Button -->
+    <div class="mt-12 text-center">
+      <a
+        href="/open-positions"
+        class="text-white items-center font-medium gap-3 inline-flex focus-visible:outline-2 focus-visible:outline-offset-2 focus:outline-none justify-center px-6 lg:px-8 ring-2 ring-transparent focus:ring-offset-2 focus:ring-blue-500 duration-200 py-3.5 rounded-full active:bg-blue-800 active:text-white bg-blue-500 hover:bg-blue-600"
+      >
+        View All Jobs
+      </a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .featured {
+    position: relative;
+    background-color: rgb(243 244 246 / 0.2);
+    border-radius: 1rem;
+  }
+  
+  .featured::before {
+    content: "Featured";
+    position: absolute;
+    top: 1rem;
+    right: 0.9rem;
+    z-index: 10;
+    background-color: rgb(59 130 246);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    pointer-events: none;
+  }
+
+  .featured .group:hover::before {
+    z-index: 1;
+  }
+</style> 

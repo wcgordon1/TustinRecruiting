@@ -6,7 +6,7 @@ import { Icon } from 'astro-icon/components';
 import CtaWack from "@/components/cta/CtaWack.astro";
 import { getCollection } from 'astro:content';
 import MoreEntries from "@/components/blog/MoreEntries.astro";
-
+import IndexJobs from "@/components/jobs/IndexJobs.astro";
 const { frontmatter } = Astro.props;
 console.log('GlossaryLayout frontmatter:', frontmatter); // Debug log
 
@@ -186,5 +186,6 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
     </div>
   </div>
   <CtaGlossary />
+  <IndexJobs />
   <CtaWack />
 </BaseLayout> 

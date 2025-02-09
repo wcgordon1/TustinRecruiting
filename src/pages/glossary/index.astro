@@ -1,7 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-
 const glossaryEntries = await getCollection('glossary');
 
 // Get unique categories with their entry counts
