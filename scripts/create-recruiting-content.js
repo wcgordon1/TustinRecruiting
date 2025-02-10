@@ -234,7 +234,7 @@ async function generateMarkdown(position, city, state) {
       role: "user", 
       content: position === 'Direct Hire Recruiting' 
         ? `Create content for Tustin Recruiting's direct hire recruiting services in ${city}, ${state}, focusing on our expertise in placing Sales, Engineering, and AI professionals. Include specific details about ${city}'s unique business environment, major employers, local industry trends, and mention significant neighboring cities that contribute to the talent pool. Format using only h3, h4, and bold text (no h1 or h2).`
-        : `Create content for Tustin Recruiting's ${position} direct hire recruiting services in ${city}, ${state}. Reference specific local companies, business districts, economic initiatives, and unique market characteristics of ${city}. Format using only h3, h4, and bold text (no h1 or h2).`
+        : `Create content for Tustin Recruiting's ${position} direct hire recruiting services in ${city}, ${state}. Reference specific local companies, business districts, economic initiatives, and unique market characteristics of ${city}. Include common ${position} roles hired for in this market. Format using only h3, h4, and bold text (no h1 or h2).`
     }],
     functions: [{
       name: "get_markdown_content",
@@ -269,9 +269,15 @@ async function generateMarkdown(position, city, state) {
           neighboringCities: {
             type: "string",
             description: `1-2 sentences about significant neighboring cities within commuting distance of ${city} that contribute to the available talent pool. Name specific cities and their approximate distance/drive time.`
+          },
+          commonRoles: {
+            type: "string",
+            description: position === 'Direct Hire Recruiting'
+              ? `Leave empty for overview page`
+              : `List 4-6 common ${position} roles frequently hired for in ${city}, with brief context about local demand.`
           }
         },
-        required: ["marketOverview", "criticalRole", "hiringChallenges", "ourProcess", "successMetrics", "neighboringCities"]
+        required: ["marketOverview", "criticalRole", "hiringChallenges", "ourProcess", "successMetrics", "neighboringCities", "commonRoles"]
       }
     }],
     function_call: { name: "get_markdown_content" }
@@ -283,13 +289,16 @@ async function generateMarkdown(position, city, state) {
     ? position 
     : `${position} Professionals`;
 
-  // Only include neighboring cities section for city overview pages
   const neighboringCitiesSection = position === 'Direct Hire Recruiting'
     ? `\n### Neighboring Cities\n${content.neighboringCities}\n`
     : '';
 
+  const commonRolesSection = position !== 'Direct Hire Recruiting'
+    ? `\n### Common ${position} Roles in ${city}\n${content.commonRoles}\n`
+    : '';
+
   return `### Market Overview
-${content.marketOverview}${neighboringCitiesSection}
+${content.marketOverview}${neighboringCitiesSection}${commonRolesSection}
 ### Critical Role for ${headingPosition} in ${city}
 ${content.criticalRole}
 

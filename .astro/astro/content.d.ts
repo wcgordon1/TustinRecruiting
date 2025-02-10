@@ -4206,6 +4206,272 @@ declare module 'astro:content' {
   collection: "recruiting";
   data: any
 } & { render(): Render[".md"] };
+"colorado/denver/artificial-intelligence-recruiting-in-denver.md": {
+	id: "colorado/denver/artificial-intelligence-recruiting-in-denver.md";
+  slug: "colorado/denver/artificial-intelligence-recruiting-in-denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/denver/customer-success-recruiting-in-denver.md": {
+	id: "colorado/denver/customer-success-recruiting-in-denver.md";
+  slug: "colorado/denver/customer-success-recruiting-in-denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/denver/cybersecurity-recruiting-in-denver.md": {
+	id: "colorado/denver/cybersecurity-recruiting-in-denver.md";
+  slug: "colorado/denver/cybersecurity-recruiting-in-denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/denver/equipment-finance-recruiting-in-denver.md": {
+	id: "colorado/denver/equipment-finance-recruiting-in-denver.md";
+  slug: "colorado/denver/equipment-finance-recruiting-in-denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/denver/index.md": {
+	id: "colorado/denver/index.md";
+  slug: "colorado/denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/denver/logistics-recruiting-in-denver.md": {
+	id: "colorado/denver/logistics-recruiting-in-denver.md";
+  slug: "colorado/denver/logistics-recruiting-in-denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/denver/saas-recruiting-in-denver.md": {
+	id: "colorado/denver/saas-recruiting-in-denver.md";
+  slug: "colorado/denver/saas-recruiting-in-denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/denver/sales-recruiting-in-denver.md": {
+	id: "colorado/denver/sales-recruiting-in-denver.md";
+  slug: "colorado/denver/sales-recruiting-in-denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/denver/software-engineering-recruiting-in-denver.md": {
+	id: "colorado/denver/software-engineering-recruiting-in-denver.md";
+  slug: "colorado/denver/software-engineering-recruiting-in-denver";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"colorado/index.md": {
+	id: "colorado/index.md";
+  slug: "colorado";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/index.md": {
+	id: "oregon/index.md";
+  slug: "oregon";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/artificial-intelligence-recruiting-in-portland.md": {
+	id: "oregon/portland/artificial-intelligence-recruiting-in-portland.md";
+  slug: "oregon/portland/artificial-intelligence-recruiting-in-portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/customer-success-recruiting-in-portland.md": {
+	id: "oregon/portland/customer-success-recruiting-in-portland.md";
+  slug: "oregon/portland/customer-success-recruiting-in-portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/cybersecurity-recruiting-in-portland.md": {
+	id: "oregon/portland/cybersecurity-recruiting-in-portland.md";
+  slug: "oregon/portland/cybersecurity-recruiting-in-portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/equipment-finance-recruiting-in-portland.md": {
+	id: "oregon/portland/equipment-finance-recruiting-in-portland.md";
+  slug: "oregon/portland/equipment-finance-recruiting-in-portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/index.md": {
+	id: "oregon/portland/index.md";
+  slug: "oregon/portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/logistics-recruiting-in-portland.md": {
+	id: "oregon/portland/logistics-recruiting-in-portland.md";
+  slug: "oregon/portland/logistics-recruiting-in-portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/saas-recruiting-in-portland.md": {
+	id: "oregon/portland/saas-recruiting-in-portland.md";
+  slug: "oregon/portland/saas-recruiting-in-portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/sales-recruiting-in-portland.md": {
+	id: "oregon/portland/sales-recruiting-in-portland.md";
+  slug: "oregon/portland/sales-recruiting-in-portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"oregon/portland/software-engineering-recruiting-in-portland.md": {
+	id: "oregon/portland/software-engineering-recruiting-in-portland.md";
+  slug: "oregon/portland/software-engineering-recruiting-in-portland";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/artificial-intelligence-recruiting-in-austin.md": {
+	id: "texas/austin/artificial-intelligence-recruiting-in-austin.md";
+  slug: "texas/austin/artificial-intelligence-recruiting-in-austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/customer-success-recruiting-in-austin.md": {
+	id: "texas/austin/customer-success-recruiting-in-austin.md";
+  slug: "texas/austin/customer-success-recruiting-in-austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/cybersecurity-recruiting-in-austin.md": {
+	id: "texas/austin/cybersecurity-recruiting-in-austin.md";
+  slug: "texas/austin/cybersecurity-recruiting-in-austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/equipment-finance-recruiting-in-austin.md": {
+	id: "texas/austin/equipment-finance-recruiting-in-austin.md";
+  slug: "texas/austin/equipment-finance-recruiting-in-austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/index.md": {
+	id: "texas/austin/index.md";
+  slug: "texas/austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/logistics-recruiting-in-austin.md": {
+	id: "texas/austin/logistics-recruiting-in-austin.md";
+  slug: "texas/austin/logistics-recruiting-in-austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/saas-recruiting-in-austin.md": {
+	id: "texas/austin/saas-recruiting-in-austin.md";
+  slug: "texas/austin/saas-recruiting-in-austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/sales-recruiting-in-austin.md": {
+	id: "texas/austin/sales-recruiting-in-austin.md";
+  slug: "texas/austin/sales-recruiting-in-austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/austin/software-engineering-recruiting-in-austin.md": {
+	id: "texas/austin/software-engineering-recruiting-in-austin.md";
+  slug: "texas/austin/software-engineering-recruiting-in-austin";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/artificial-intelligence-recruiting-in-dallas.md": {
+	id: "texas/dallas/artificial-intelligence-recruiting-in-dallas.md";
+  slug: "texas/dallas/artificial-intelligence-recruiting-in-dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/customer-success-recruiting-in-dallas.md": {
+	id: "texas/dallas/customer-success-recruiting-in-dallas.md";
+  slug: "texas/dallas/customer-success-recruiting-in-dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/cybersecurity-recruiting-in-dallas.md": {
+	id: "texas/dallas/cybersecurity-recruiting-in-dallas.md";
+  slug: "texas/dallas/cybersecurity-recruiting-in-dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/equipment-finance-recruiting-in-dallas.md": {
+	id: "texas/dallas/equipment-finance-recruiting-in-dallas.md";
+  slug: "texas/dallas/equipment-finance-recruiting-in-dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/index.md": {
+	id: "texas/dallas/index.md";
+  slug: "texas/dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/logistics-recruiting-in-dallas.md": {
+	id: "texas/dallas/logistics-recruiting-in-dallas.md";
+  slug: "texas/dallas/logistics-recruiting-in-dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/saas-recruiting-in-dallas.md": {
+	id: "texas/dallas/saas-recruiting-in-dallas.md";
+  slug: "texas/dallas/saas-recruiting-in-dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/sales-recruiting-in-dallas.md": {
+	id: "texas/dallas/sales-recruiting-in-dallas.md";
+  slug: "texas/dallas/sales-recruiting-in-dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/dallas/software-engineering-recruiting-in-dallas.md": {
+	id: "texas/dallas/software-engineering-recruiting-in-dallas.md";
+  slug: "texas/dallas/software-engineering-recruiting-in-dallas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
 "texas/houston/artificial-intelligence-recruiting-in-houston.md": {
 	id: "texas/houston/artificial-intelligence-recruiting-in-houston.md";
   slug: "texas/houston/artificial-intelligence-recruiting-in-houston";
@@ -4272,6 +4538,139 @@ declare module 'astro:content' {
 "texas/index.md": {
 	id: "texas/index.md";
   slug: "texas";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/artificial-intelligence-recruiting-in-san-antonio.md": {
+	id: "texas/san-antonio/artificial-intelligence-recruiting-in-san-antonio.md";
+  slug: "texas/san-antonio/artificial-intelligence-recruiting-in-san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/customer-success-recruiting-in-san-antonio.md": {
+	id: "texas/san-antonio/customer-success-recruiting-in-san-antonio.md";
+  slug: "texas/san-antonio/customer-success-recruiting-in-san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/cybersecurity-recruiting-in-san-antonio.md": {
+	id: "texas/san-antonio/cybersecurity-recruiting-in-san-antonio.md";
+  slug: "texas/san-antonio/cybersecurity-recruiting-in-san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/equipment-finance-recruiting-in-san-antonio.md": {
+	id: "texas/san-antonio/equipment-finance-recruiting-in-san-antonio.md";
+  slug: "texas/san-antonio/equipment-finance-recruiting-in-san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/index.md": {
+	id: "texas/san-antonio/index.md";
+  slug: "texas/san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/logistics-recruiting-in-san-antonio.md": {
+	id: "texas/san-antonio/logistics-recruiting-in-san-antonio.md";
+  slug: "texas/san-antonio/logistics-recruiting-in-san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/saas-recruiting-in-san-antonio.md": {
+	id: "texas/san-antonio/saas-recruiting-in-san-antonio.md";
+  slug: "texas/san-antonio/saas-recruiting-in-san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/sales-recruiting-in-san-antonio.md": {
+	id: "texas/san-antonio/sales-recruiting-in-san-antonio.md";
+  slug: "texas/san-antonio/sales-recruiting-in-san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"texas/san-antonio/software-engineering-recruiting-in-san-antonio.md": {
+	id: "texas/san-antonio/software-engineering-recruiting-in-san-antonio.md";
+  slug: "texas/san-antonio/software-engineering-recruiting-in-san-antonio";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/index.md": {
+	id: "washington/index.md";
+  slug: "washington";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/artificial-intelligence-recruiting-in-seattle.md": {
+	id: "washington/seattle/artificial-intelligence-recruiting-in-seattle.md";
+  slug: "washington/seattle/artificial-intelligence-recruiting-in-seattle";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/customer-success-recruiting-in-seattle.md": {
+	id: "washington/seattle/customer-success-recruiting-in-seattle.md";
+  slug: "washington/seattle/customer-success-recruiting-in-seattle";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/cybersecurity-recruiting-in-seattle.md": {
+	id: "washington/seattle/cybersecurity-recruiting-in-seattle.md";
+  slug: "washington/seattle/cybersecurity-recruiting-in-seattle";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/equipment-finance-recruiting-in-seattle.md": {
+	id: "washington/seattle/equipment-finance-recruiting-in-seattle.md";
+  slug: "washington/seattle/equipment-finance-recruiting-in-seattle";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/index.md": {
+	id: "washington/seattle/index.md";
+  slug: "washington/seattle";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/logistics-recruiting-in-seattle.md": {
+	id: "washington/seattle/logistics-recruiting-in-seattle.md";
+  slug: "washington/seattle/logistics-recruiting-in-seattle";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/saas-recruiting-in-seattle.md": {
+	id: "washington/seattle/saas-recruiting-in-seattle.md";
+  slug: "washington/seattle/saas-recruiting-in-seattle";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/sales-recruiting-in-seattle.md": {
+	id: "washington/seattle/sales-recruiting-in-seattle.md";
+  slug: "washington/seattle/sales-recruiting-in-seattle";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"washington/seattle/software-engineering-recruiting-in-seattle.md": {
+	id: "washington/seattle/software-engineering-recruiting-in-seattle.md";
+  slug: "washington/seattle/software-engineering-recruiting-in-seattle";
   body: string;
   collection: "recruiting";
   data: any
