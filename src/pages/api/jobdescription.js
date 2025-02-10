@@ -25,8 +25,8 @@ export async function POST({ request }) {
 
     // Base email config
     const emailConfig = {
-      from: 'jobs@bestelectricianmail.com',
-      to: ['will@bestelectricianjobs.com'],
+      from: 'no-reply@tustinjobalert.com',
+      to: ['will@tustinrecruiting.com'],
       subject: `New Job Posting: ${jobTitle} at ${companyName}`,
       text: `
 New Job Posting Details:

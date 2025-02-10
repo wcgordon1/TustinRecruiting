@@ -67,35 +67,35 @@ async function generateCityData(city, state) {
     model: "gpt-4o",
     messages: [{ 
       role: "user", 
-      content: `Create market data for hiring companies in ${city}, ${state}.` 
+      content: `Create market data for professional direct hire recruiting in ${city}, ${state}, focusing on Sales, Engineering, and AI roles.` 
     }],
     functions: [{
       name: "get_city_data",
-      description: `Get market data for ${city}, ${state} hiring companies`,
+      description: `Get market data for ${city}, ${state} professional hiring landscape`,
       parameters: {
         type: "object",
         properties: {
           averageSalary: {
             type: "integer",
-            description: "Average electrical industry salary in this area"
+            description: "Average professional salary in this area across Sales, Engineering, and AI roles"
           },
           salaryRange: {
             type: "object",
             properties: {
               min: {
                 type: "integer",
-                description: "Minimum typical salary"
+                description: "Minimum typical professional salary"
               },
               max: {
                 type: "integer",
-                description: "Maximum typical salary"
+                description: "Maximum typical professional salary"
               }
             },
             required: ["min", "max"]
           },
           growthRate: {
             type: "string",
-            description: "Growth rate as percentage with % symbol",
+            description: "Professional job market growth rate as percentage with % symbol",
             pattern: "^[0-9]+%$"
           },
           employmentStats: {
@@ -103,18 +103,18 @@ async function generateCityData(city, state) {
             properties: {
               totalJobs: {
                 type: "integer",
-                description: "Total electrical jobs in the area"
+                description: "Total professional jobs in Sales, Engineering, and AI"
               },
               projectedGrowth: {
                 type: "string",
-                description: "Growth projection with timeframe"
+                description: "Professional job market growth projection"
               }
             },
             required: ["totalJobs", "projectedGrowth"]
           },
           description: {
             type: "string",
-            description: "One sentence about the market"
+            description: "One sentence about the professional hiring market"
           },
           metropolitanArea: {
             type: "string",
@@ -123,14 +123,14 @@ async function generateCityData(city, state) {
           majorProjects: {
             type: "array",
             items: { type: "string" },
-            description: `Current hiring initiatives and tech investments in ${city}, ${state}`,
+            description: `Current hiring initiatives and tech investments driving professional recruitment in ${city}, ${state}`,
             minItems: 4,
             maxItems: 6
           },
           topEmployers: {
             type: "array",
             items: { type: "string" },
-            description: "Major Sales, Software Engineering, and Artificial Intelligence employers in the area",
+            description: "Major employers hiring Sales, Engineering, and AI professionals",
             minItems: 4,
             maxItems: 6
           }
@@ -232,7 +232,9 @@ async function generateMarkdown(position, city, state) {
     model: "gpt-4o",
     messages: [{ 
       role: "user", 
-      content: `Create content for a ${position} direct hire recruiting firm page in ${city}, ${state}. Format using only h3, h4, and bold text (no h1 or h2).` 
+      content: position === 'Direct Hire Recruiting' 
+        ? `Create content for Tustin Recruiting's direct hire recruiting services in ${city}, ${state}, focusing on our expertise in placing Sales, Engineering, and AI professionals. Include specific details about ${city}'s unique business environment, major employers, local industry trends, and mention significant neighboring cities that contribute to the talent pool. Format using only h3, h4, and bold text (no h1 or h2).`
+        : `Create content for Tustin Recruiting's ${position} direct hire recruiting services in ${city}, ${state}. Reference specific local companies, business districts, economic initiatives, and unique market characteristics of ${city}. Format using only h3, h4, and bold text (no h1 or h2).`
     }],
     functions: [{
       name: "get_markdown_content",
@@ -242,51 +244,62 @@ async function generateMarkdown(position, city, state) {
         properties: {
           marketOverview: {
             type: "string",
-            description: `2-3 sentences about local market conditions for ${position} professionals in ${city}, ${state}`
+            description: position === 'Direct Hire Recruiting'
+              ? `2-3 sentences about the professional hiring landscape in ${city}, ${state}, focusing on Sales, Engineering, and AI roles. Include specific local market trends and name major employers or business districts.`
+              : `2-3 sentences about local market conditions for ${position} professionals in ${city}, ${state}. Reference specific companies, industries, or business areas in ${city} where these professionals are in demand.`
           },
           criticalRole: {
             type: "string",
-            description: `2-3 sentences about why this position is vital to ${city}, discuss and specifically name large construction projects in or near ${city}`
+            description: position === 'Direct Hire Recruiting'
+              ? `2-3 sentences about why Tustin Recruiting's direct hire services are vital to ${city}'s growing professional job market. Mention specific local development projects or business initiatives.`
+              : `2-3 sentences about why ${position} professionals are vital to ${city}'s business landscape. Reference specific local companies or industries that rely on these roles.`
           },
           hiringChallenges: {
             type: "string",
-            description: `2-3 sentences about specific challenges recruiting ${position} professionals in ${city}, ${state}, content that is unique to ${city}, ${state}`
+            description: `2-3 sentences about specific challenges recruiting ${position} professionals in ${city}, ${state}. Include unique local market factors, competition from specific companies, and any regional economic influences.`
           },
           ourProcess: {
             type: "string",
-            description: `2-3 sentences about the recruiting process for ${position} professionals in ${city}, ${state}, content that is unique to ${city}, ${state}`
+            description: `2-3 sentences about how Tustin Recruiting's process is adapted for ${city}'s ${position} market. Include specific local networking events, industry associations, or business communities we engage with.`
           },
           successMetrics: {
             type: "string",
-            description: `2-3 sentences about success metrics for hiring ${position} professionals in ${city}, ${state}, content that is unique to ${city}, ${state}`
+            description: `2-3 sentences about success metrics for hiring ${position} professionals in ${city}, ${state}. Reference specific local retention rates, salary trends, or placement successes with named companies when possible.`
+          },
+          neighboringCities: {
+            type: "string",
+            description: `1-2 sentences about significant neighboring cities within commuting distance of ${city} that contribute to the available talent pool. Name specific cities and their approximate distance/drive time.`
           }
         },
-        required: [
-          "marketOverview",
-          "criticalRole",
-          "hiringChallenges",
-          "ourProcess",
-          "successMetrics"
-        ]
+        required: ["marketOverview", "criticalRole", "hiringChallenges", "ourProcess", "successMetrics", "neighboringCities"]
       }
     }],
     function_call: { name: "get_markdown_content" }
   });
 
   const content = JSON.parse(completion.choices[0].message.function_call.arguments);
-  return `### Market Overview
-${content.marketOverview}
+  
+  const headingPosition = position === 'Direct Hire Recruiting' 
+    ? position 
+    : `${position} Professionals`;
 
-### Critical Role for ${position} in ${city}
+  // Only include neighboring cities section for city overview pages
+  const neighboringCitiesSection = position === 'Direct Hire Recruiting'
+    ? `\n### Neighboring Cities\n${content.neighboringCities}\n`
+    : '';
+
+  return `### Market Overview
+${content.marketOverview}${neighboringCitiesSection}
+### Critical Role for ${headingPosition} in ${city}
 ${content.criticalRole}
 
-### Hiring Challenges for ${position} in ${city}
+### Hiring Challenges for ${headingPosition} in ${city}
 ${content.hiringChallenges}
 
 ### Our Process
 ${content.ourProcess}
 
-### Success Metrics for ${position} in ${city}
+### Success Metrics for ${headingPosition} in ${city}
 ${content.successMetrics}`;
 }
 

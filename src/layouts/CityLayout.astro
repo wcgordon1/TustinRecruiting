@@ -26,7 +26,7 @@ const {
 } = city.data;
 
 // Default meta description if none provided
-const defaultMetaDescription = `Electricial, Fire Alarm, Controls, Security, Solar, Voice/Data, and Audio/Visual Staffing in ${name}, ${state}.`;
+const defaultMetaDescription = `Recruiting for Sales, Software Engineering, Logistics, and Artificial Intelligence Roles with Tustin Recruiting in ${name}, ${state}.`;
 
 console.log('CityLayout Debug:', {
   cityName: name,
@@ -44,7 +44,7 @@ const breadcrumbs = [
 const schema = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": `Electrical Recruiting Services in ${name}, ${state}`,
+  "name": `Direct Hire Recruiting in ${name}, ${state}`,
   "description": description,
   "areaServed": {
     "@type": "City",
@@ -64,7 +64,7 @@ const schema = {
 ---
 
 <BaseLayout 
-  title={`Electrical Recruiting Services in ${name}, ${state}`}
+  title={`Direct Hire Recruiting in ${name}, ${state}`}
   description={metaDescription || defaultMetaDescription}
   schema={schema}
 >
