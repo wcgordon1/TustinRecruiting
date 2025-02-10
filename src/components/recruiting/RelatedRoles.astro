@@ -1,0 +1,69 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentPath: string;
+  city: string;
+  state: string;
+}
+
+const { currentPath, city, state } = Astro.props;
+
+// Get all recruiting entries
+const allRoles = await getCollection('recruiting');
+
+// Get the parent folder path (state/city)
+const parentPath = `${state.toLowerCase()}/${city.toLowerCase().replace(/\s+/g, '-')}`;
+
+// Filter to get only role pages from the same parent folder, excluding the current one and index files
+const relatedRoles = allRoles.filter(role => {
+  // Check if this role is in the same parent folder
+  const isInSameFolder = role.slug.startsWith(parentPath);
+  // Exclude index files and current page
+  const isNotIndex = !role.slug.includes('index');
+  const isNotCurrentPage = role.slug !== currentPath;
+  // Make sure it's a role page (has position data)
+  const isRolePage = !!role.data.position;
+
+  return isInSameFolder && isNotIndex && isNotCurrentPage && isRolePage;
+});
+
+// Sort roles by position name
+relatedRoles.sort((a, b) => {
+  const posA = a.data.position.toString();
+  const posB = b.data.position.toString();
+  return posA.localeCompare(posB);
+});
+---
+
+{relatedRoles.length > 0 && (
+  <div class="bg-white p-8 rounded-3xl shadow-2xl shadow-slate-200/20 ring-1 ring-slate-200 mt-12">
+    <h2 class="text-2xl font-semibold mb-4">Other Recruiting Services in {city}</h2>
+    <p class="text-gray-600 mb-6">
+      Discover our specialized recruiting services for different electrical and low voltage roles in {city}, {state}.
+    </p>
+
+    <div class="grid gap-4">
+      {relatedRoles.map(role => (
+        <a 
+          href={`/recruiting/${role.slug}`}
+          class="block bg-gray-50 p-4 rounded-xl hover:bg-blue-50 transition-colors group"
+        >
+          <div class="flex items-center justify-between">
+            <div>
+              <h3 class="font-medium text-gray-900 group-hover:text-blue-600">
+                {role.data.position} Staffing
+              </h3>
+              <p class="text-sm text-gray-600 mt-1">
+                Specialized recruiting for {role.data.position} positions
+              </p>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg" class="size-5 text-gray-400 group-hover:text-blue-600" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none">
+              <path d="M4 12h16m-7-7 7 7-7 7" />
+            </svg>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+)} 

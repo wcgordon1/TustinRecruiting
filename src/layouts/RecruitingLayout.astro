@@ -1,0 +1,49 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import ContactForm from "../components/recruiting/ContactForm.astro";
+import Breadcrumbs from "../components/recruiting/Breadcrumbs.astro";
+import CtaThree from "../components/cta/CtaThree.astro";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { 
+  title = "Direct Hire Recruiting Nationwide",
+  description = "Expert Recruiting Services for Sales, Engineering, and Artificial Intelligence Roles Nationwide."
+} = Astro.props;
+
+const paths = [
+  { text: "Home", href: "/" },
+  { text: "Recruiting", href: "/recruiting", current: true }
+];
+---
+
+<BaseLayout title={title} description={description}>
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
+  <div class="w-full mx-auto">
+    <div class="max-w-7xl mx-auto lg:px-16 md:px-12 px-8 xl:px-24">
+      <Breadcrumbs paths={paths} />
+    </div>
+  </div>
+  
+  <main class="w-full mx-auto">
+    <div class="max-w-7xl mx-auto lg:px-16 md:px-12 px-8 xl:px-24 py-12">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <div class="lg:col-span-2">
+          <slot />
+        </div>
+
+        <div class="lg:col-span-1">
+          <div class="sticky top-8">
+            <ContactForm />
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <CtaThree />
+</BaseLayout> 

@@ -83,3 +83,5 @@ npm run index-recent-jobs -- -limit=100
 npm run list-jobs
 
 npm run update-llms
+
+npm run create:recruiting "Georgia" "Atlanta"

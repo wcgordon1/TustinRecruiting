@@ -1,0 +1,30 @@
+---
+import RecruitingLayout from "../../layouts/RecruitingLayout.astro";
+import RecruitingStats from "../../components/recruiting/RecruitingStats.astro";
+import StateList from "../../components/recruiting/StateList.astro";
+import { getCollection } from "astro:content";
+
+const title = "Electrical & Low Voltage Recruiting Services | Best Electrician Jobs";
+const description = "Electrical staffing for Fire Alarm, Controls, Security, Solar, Voice/Data, and Audio/Visual positions.";
+---
+
+<RecruitingLayout title={title} description={description}>
+  <h1 class="text-purple-900 font-semibold tracking-tight lg:text-4xl mb-8 text-3xl">
+    Direct Hire Recruiting Nationwide
+  </h1>
+  
+  <p class="text-lg mb-8">
+    Expert Recruiting Services for Sales, Engineering, and Artificial Intelligence Roles Nationwide.
+  </p>
+
+  <section class="mb-12">
+    <h2 class="text-2xl font-semibold mb-4">Why Partner with Tustin Recruiting?</h2>
+    <p class="text-gray-600">
+      Partnering with Tustin Recruiting for direct hire recruiting ensures you access a pool of top talent tailored to your company's needs. Our expertise enables us to pinpoint and engage candidates who possess the necessary technical expertise and cultural fit for your organization.
+    </p>
+  </section>
+
+  <RecruitingStats />
+
+  <StateList />
+</RecruitingLayout>
