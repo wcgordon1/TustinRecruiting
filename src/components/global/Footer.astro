@@ -2,11 +2,22 @@
 import { getCollection } from "astro:content";
 
 const allJobs = await getCollection("jobs");
+const allRecruiting = await getCollection("recruiting");
 
 // Get unique values
 const teams = [...new Set(allJobs.map(job => job.data.team))].sort();
 const categories = [...new Set(allJobs.map(job => job.data.occupationalCategory))].sort();
 const locations = [...new Set(allJobs.map(job => job.data.location))].sort();
+
+// Get unique cities from recruiting content
+const recruitingCities = [...new Set(allRecruiting
+  .filter(entry => entry.id.endsWith('index.md'))
+  .filter(entry => entry.data.name && entry.data.state)
+  .map(entry => ({
+    city: entry.data.name,
+    state: entry.data.state,
+    url: `/recruiting/${entry.data.state.toLowerCase().replace(/\s+/g, '-')}/${entry.data.name.toLowerCase().replace(/\s+/g, '-')}`
+  })))].sort((a, b) => a.city.localeCompare(b.city));
 
 // Format URLs
 const formatUrl = (value: string, type: string) => {
@@ -179,7 +190,7 @@ const footerSections = [
         </div>
 
         <!-- Skills -->
-        <div class="mb-4">
+        <div class="mb-6">
           <h4 class="text-white/60 text-sm mb-2">Categories:</h4>
           <div class="flex flex-wrap gap-4">
             {categories.map(category => (
@@ -194,7 +205,7 @@ const footerSections = [
         </div>
 
         <!-- Locations -->
-        <div class="mb-4">
+        <div class="mb-6">
           <h4 class="text-white/60 text-sm mb-2">Locations:</h4>
           <div class="flex flex-wrap gap-4">
             {locations.map(location => (
@@ -203,6 +214,21 @@ const footerSections = [
                 class="text-white/40 hover:text-white font-normal text-xs whitespace-nowrap"
               >
                 {location} Jobs
+              </a>
+            ))}
+          </div>
+        </div>
+
+        <!-- Direct Hire Cities -->
+        <div class="mb-6">
+          <h4 class="text-white/60 text-sm mb-2">Recruiting Locations:</h4>
+          <div class="flex flex-wrap gap-4">
+            {recruitingCities.map(({ city, state, url }) => (
+              <a 
+                href={url}
+                class="text-white/40 hover:text-white font-normal text-xs whitespace-nowrap"
+              >
+                {city}, {state} Recruiting
               </a>
             ))}
           </div>
