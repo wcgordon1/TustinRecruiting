@@ -1,0 +1,21 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import HeaderRss from "@/components/rss/HeaderRss.astro";
+import RssFeeds from "@/components/rss/RssFeeds.astro";
+import CtaOne from "@/components/cta/CtaOne.astro";
+import CtaWack from "@/components/cta/CtaWack.astro";
+
+const pageTitle = "Job RSS Feeds";
+const pageDescription = "Subscribe to our specialized RSS feeds for all Tustin Recruiting job postings. Get real-time job updates via our Jobs RSS Feeds.";
+---
+
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
+
+  <HeaderRss />
+  <RssFeeds />
+  <CtaOne />
+  <CtaWack />
+</BaseLayout> 
