@@ -4,7 +4,10 @@ import BaseLayout from "./BaseLayout.astro";
 import CtaWack from "@/components/cta/CtaWack.astro";
 import MoreEntries from "@/components/blog/MoreEntries.astro";
 import IndexJobs from "@/components/jobs/IndexJobs.astro";
-const { frontmatter } = Astro.props;
+const { frontmatter, collection } = Astro.props;
+
+// Determine if this is an interview guide or blog post
+const isInterviewGuide = collection === 'interview';
 
 // Create dynamic SEO title and description
 const seoTitle = frontmatter.title;
@@ -22,7 +25,7 @@ const plainTextContent = articleBody.replace(/<[^>]*>/g, '');
 // Create the JSON-LD data
 const jsonLd = {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": isInterviewGuide ? "HowTo" : "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": currentUrl
@@ -53,10 +56,6 @@ const jsonLd = {
     "url": frontmatter.image.url,
     "height": "800",
     "width": "1200"
-  },
-  "mainEntity": {
-    "@type": "Thing",
-    "name": frontmatter.title
   }
 };
 ---
@@ -118,7 +117,7 @@ const jsonLd = {
           {
             frontmatter.tags.map((tag) => (
               <a
-                href={`/tags/${tag}`}
+                href={`/${isInterviewGuide ? 'interview-tags' : 'tags'}/${tag}`}
                 class="px-4 py-1.5 rounded-full text-sm font-medium bg-blue-50 text-blue-600 hover:bg-blue-100 transition-colors"
               >
                 {tag}

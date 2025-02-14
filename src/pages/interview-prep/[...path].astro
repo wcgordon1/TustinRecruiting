@@ -1,0 +1,29 @@
+---
+import { getCollection } from "astro:content";
+import BlogLayout from "../../layouts/BlogLayout.astro";
+
+export async function getStaticPaths() {
+  const interviewEntries = await getCollection("interview");
+  
+  return interviewEntries.map(entry => ({
+    params: { 
+      path: `${entry.data.category.toLowerCase().replace(/\s+/g, '-')}/${entry.data.vertical.toLowerCase().replace(/\s+/g, '-')}/${entry.slug}`
+    },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+// Get rendered content and convert to plain text
+const renderedContent = await Astro.slots.render('default');
+const plainTextContent = renderedContent ? renderedContent.replace(/<[^>]*>/g, '') : entry.body;
+---
+
+<BlogLayout frontmatter={entry.data} collection="interview">
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
+  <Content />
+</BlogLayout> 

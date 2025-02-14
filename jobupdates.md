@@ -105,4 +105,6 @@ npm run create:recruiting "New York" "New York City"
 
 npm run create:recruiting "Illinois" "Chicago"
 
+npm run create:recruiting "Idaho" "Boise"
+
 

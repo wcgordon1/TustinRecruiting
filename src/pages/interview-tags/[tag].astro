@@ -1,0 +1,54 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import BlogPost from "@/components/blog/TagLink.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const allInterviews = await getCollection("interview");
+  const uniqueTags = [
+    ...new Set(allInterviews.map((post) => post.data.tags).flat()),
+  ];
+
+  return uniqueTags.map((tag) => {
+    const filteredPosts = allInterviews.filter((post) =>
+      post.data.tags.includes(tag)
+    );
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+---
+
+<BaseLayout pageTitle={tag}>
+  <section>
+    <div
+      class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-12 lg:py-36 items-start">
+      <h1 class="font-semibold text-purple-900 mt-6 text-3xl lg:mx-auto">
+        Interview Guides tagged with {tag}
+      </h1>
+      <ol role="list" class="mt-16 space-y-10 sm:space-y-16">
+        <li>
+          <ol
+            role="list"
+            class="rounded-2xl bg-slate-50 py-3 px-6 sm:py-7 sm:px-8">
+            {
+              posts.map((post) => (
+                <li aria-label="tag">
+                  <BlogPost
+                    url={`/interview-prep/${post.data.category.toLowerCase().replace(/\s+/g, '-')}/${post.data.vertical.toLowerCase().replace(/\s+/g, '-')}/${post.slug}`}
+                    title={post.data.title}
+                  />
+                </li>
+              ))
+            }
+          </ol>
+        </li>
+      </ol>
+    </div>
+  </section>
+</BaseLayout> 

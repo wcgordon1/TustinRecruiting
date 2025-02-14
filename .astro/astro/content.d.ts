@@ -1548,6 +1548,15 @@ declare module 'astro:content' {
   data: InferEntrySchema<"integrations">
 } & { render(): Render[".md"] };
 };
+"interview": {
+"sample-interview-guide.md": {
+	id: "sample-interview-guide.md";
+  slug: "sample-interview-guide";
+  body: string;
+  collection: "interview";
+  data: InferEntrySchema<"interview">
+} & { render(): Render[".md"] };
+};
 "jobs": {
 "bol-saas-bdr-id-bf0938.md": {
 	id: "bol-saas-bdr-id-bf0938.md";
