@@ -84,4 +84,25 @@ npm run list-jobs
 
 npm run update-llms
 
+
+
+npm run create:recruiting "California" "San Francisco"
+npm run create:recruiting "California" "San Jose"
+npm run create:recruiting "California" "Sacramento"
+npm run create:recruiting "California" "San Ramon"
+npm run create:recruiting "California" "Los Angeles"
+npm run create:recruiting "California" "Long Beach"
+npm run create:recruiting "California" "Irvine"
+npm run create:recruiting "California" "San Diego"
+
+
+
 npm run create:recruiting "Georgia" "Atlanta"
+
+
+npm run create:recruiting "New York" "New York City"
+
+
+npm run create:recruiting "Illinois" "Chicago"
+
+

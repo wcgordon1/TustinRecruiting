@@ -4416,6 +4416,76 @@ declare module 'astro:content' {
   collection: "recruiting";
   data: any
 } & { render(): Render[".md"] };
+"idaho/boise/artificial-intelligence-recruiting-in-boise.md": {
+	id: "idaho/boise/artificial-intelligence-recruiting-in-boise.md";
+  slug: "idaho/boise/artificial-intelligence-recruiting-in-boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/boise/customer-success-recruiting-in-boise.md": {
+	id: "idaho/boise/customer-success-recruiting-in-boise.md";
+  slug: "idaho/boise/customer-success-recruiting-in-boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/boise/cybersecurity-recruiting-in-boise.md": {
+	id: "idaho/boise/cybersecurity-recruiting-in-boise.md";
+  slug: "idaho/boise/cybersecurity-recruiting-in-boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/boise/equipment-finance-recruiting-in-boise.md": {
+	id: "idaho/boise/equipment-finance-recruiting-in-boise.md";
+  slug: "idaho/boise/equipment-finance-recruiting-in-boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/boise/index.md": {
+	id: "idaho/boise/index.md";
+  slug: "idaho/boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/boise/logistics-recruiting-in-boise.md": {
+	id: "idaho/boise/logistics-recruiting-in-boise.md";
+  slug: "idaho/boise/logistics-recruiting-in-boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/boise/saas-recruiting-in-boise.md": {
+	id: "idaho/boise/saas-recruiting-in-boise.md";
+  slug: "idaho/boise/saas-recruiting-in-boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/boise/sales-recruiting-in-boise.md": {
+	id: "idaho/boise/sales-recruiting-in-boise.md";
+  slug: "idaho/boise/sales-recruiting-in-boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/boise/software-engineering-recruiting-in-boise.md": {
+	id: "idaho/boise/software-engineering-recruiting-in-boise.md";
+  slug: "idaho/boise/software-engineering-recruiting-in-boise";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
+"idaho/index.md": {
+	id: "idaho/index.md";
+  slug: "idaho";
+  body: string;
+  collection: "recruiting";
+  data: any
+} & { render(): Render[".md"] };
 "illinois/chicago/artificial-intelligence-recruiting-in-chicago.md": {
 	id: "illinois/chicago/artificial-intelligence-recruiting-in-chicago.md";
   slug: "illinois/chicago/artificial-intelligence-recruiting-in-chicago";
