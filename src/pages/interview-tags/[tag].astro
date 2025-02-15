@@ -4,7 +4,7 @@ import BlogPost from "@/components/blog/TagLink.astro";
 import { getCollection } from "astro:content";
 
 // Function to format tag display
-const formatTagDisplay = (tag: string) => {
+const formatTagDisplay = (tag) => {
   return tag
     .replace(/-/g, ' ')
     .split(' ')
