@@ -1,6 +1,8 @@
 ---
-title: "Common Interview Questions for Software Engineers"
+term: "Software Engineer Interview Guide"
 description: "Prepare for your software engineering interview with these common questions and expert answers"
+category: "Technical"
+vertical: "Software Engineering"
 pubDate: 2024-03-14
 modDate: "2024-03-14"
 author: "Will Gordon"
@@ -10,12 +12,10 @@ avatar:
 image:
   url: "/images/software-engineering-interview.jpg"
   alt: "Software Engineering Interview"
-category: "Technical"
-vertical: "Software Engineering"
 tags: ["interview-prep", "software-engineering", "technical-interview"]
 ---
 
-# Common Interview Questions for Software Engineers
+# Software Engineer Interview Guide
 
 Here's a comprehensive guide to help you prepare for your software engineering interview...
 

@@ -1,0 +1,111 @@
+---
+import CtaTwo from "@/components/cta/CtaTwo.astro";
+import BaseLayout from "./BaseLayout.astro";
+import CtaWack from "@/components/cta/CtaWack.astro";
+import MoreEntries from "@/components/blog/MoreEntries.astro";
+import IndexJobs from "@/components/jobs/IndexJobs.astro";
+
+const { frontmatter } = Astro.props;
+
+// Create dynamic SEO title and description
+const seoTitle = frontmatter.term;
+const seoDescription = frontmatter.description.length > 160 
+  ? `${frontmatter.description.substring(0, 157)}...`
+  : frontmatter.description;
+
+// Get the current URL for mainEntityOfPage
+const currentUrl = Astro.url;
+---
+
+<BaseLayout title={seoTitle} description={seoDescription}>
+  <main>
+    <section>
+      <div class="mx-auto max-w-9xl lg:px-16 md:px-12 px-8 xl:px-16 py-12 items-center lg:pt-28">
+        <!-- Vertical Title -->
+        <div class="text-sm font-medium text-slate-500 mb-4">
+          {frontmatter.vertical}
+        </div>
+
+        <!-- Author Info and Dates -->
+        <div class="text-center">
+          <img
+            class="size-20 rounded-full mx-auto object-cover"
+            src={frontmatter.avatar.url}
+            alt={frontmatter.avatar.alt}
+          />
+          <div class="mt-4 flex items-center justify-center gap-2 text-sm">
+            <a href="https://www.linkedin.com/in/will-gordon1/" target="_blank" class="font-medium text-purple-900 hover:underline">{frontmatter.author}</a>
+            <span class="text-slate-400">·</span>
+            <time class="text-slate-500" datetime={frontmatter.pubDate}>
+              {frontmatter.pubDate.toString().slice(0, 10)}
+            </time>
+            <span class="text-slate-400">·</span>
+            <time class="text-slate-500" datetime={frontmatter.modDate}>
+              Updated: {frontmatter.modDate.slice(0, 10)}
+            </time>
+          </div>
+        </div>
+
+        <div class="max-w-3xl mx-auto">
+          <h1 class="text-purple-900 font-semibold tracking-tight text-3xl lg:text-4xl mt-8">
+            {frontmatter.term}
+          </h1>
+          <div class="mt-6 text-lg text-gray-600">
+            {frontmatter.description}
+          </div>
+          <div class="mt-8 flex flex-wrap gap-2">
+            {frontmatter.tags.map((tag) => (
+              <a
+                href={`/interview-tags/${tag}`}
+                class="px-4 py-1.5 rounded-full text-sm font-medium bg-blue-50 text-blue-600 hover:bg-blue-100 transition-colors"
+              >
+                {tag}
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+        <div class="mx-auto max-w-3xl">
+          <div class="prose prose-lg mt-8">
+            <slot />
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+    <div class="pt-24">
+      <MoreEntries />
+    </div>
+  </div>
+  <IndexJobs />
+  <CtaTwo />
+  <CtaWack />
+</BaseLayout>
+
+<style>
+  .prose {
+    --tw-prose-body: theme(colors.slate.600);
+    --tw-prose-headings: theme(colors.slate.900);
+    --tw-prose-links: theme(colors.blue.500);
+    --tw-prose-links-hover: theme(colors.blue.600);
+    --tw-prose-underline: theme(colors.blue.500/0.2);
+    --tw-prose-underline-hover: theme(colors.blue.500);
+    --tw-prose-bold: theme(colors.slate.900);
+    --tw-prose-counters: theme(colors.slate.900);
+    --tw-prose-bullets: theme(colors.slate.900);
+    --tw-prose-hr: theme(colors.slate.200);
+    --tw-prose-quote-borders: theme(colors.slate.200);
+    --tw-prose-captions: theme(colors.slate.500);
+    --tw-prose-code: theme(colors.slate.900);
+    --tw-prose-pre-code: theme(colors.slate.200);
+    --tw-prose-pre-bg: theme(colors.slate.800);
+    --tw-prose-th-borders: theme(colors.slate.300);
+    --tw-prose-td-borders: theme(colors.slate.200);
+  }
+</style> 

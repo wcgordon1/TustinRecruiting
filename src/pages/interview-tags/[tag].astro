@@ -3,6 +3,15 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import BlogPost from "@/components/blog/TagLink.astro";
 import { getCollection } from "astro:content";
 
+// Function to format tag display
+const formatTagDisplay = (tag: string) => {
+  return tag
+    .replace(/-/g, ' ')
+    .split(' ')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+};
+
 export async function getStaticPaths() {
   const allInterviews = await getCollection("interview");
   const uniqueTags = [
@@ -15,21 +24,21 @@ export async function getStaticPaths() {
     );
     return {
       params: { tag },
-      props: { posts: filteredPosts },
+      props: { posts: filteredPosts, tag },
     };
   });
 }
 
-const { tag } = Astro.params;
-const { posts } = Astro.props;
+const { tag, posts } = Astro.props;
+const formattedTag = formatTagDisplay(tag);
 ---
 
-<BaseLayout pageTitle={tag}>
+<BaseLayout pageTitle={formattedTag}>
   <section>
     <div
       class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-12 lg:py-36 items-start">
       <h1 class="font-semibold text-purple-900 mt-6 text-3xl lg:mx-auto">
-        Interview Guides tagged with {tag}
+        Interview Guides tagged with {formattedTag}
       </h1>
       <ol role="list" class="mt-16 space-y-10 sm:space-y-16">
         <li>
@@ -41,7 +50,7 @@ const { posts } = Astro.props;
                 <li aria-label="tag">
                   <BlogPost
                     url={`/interview-prep/${post.data.category.toLowerCase().replace(/\s+/g, '-')}/${post.data.vertical.toLowerCase().replace(/\s+/g, '-')}/${post.slug}`}
-                    title={post.data.title}
+                    title={post.data.term}
                   />
                 </li>
               ))

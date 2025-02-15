@@ -29,7 +29,8 @@
     "notify-deleted": "node scripts/notify-deleted-jobs.js",
     "create-glossary": "node scripts/create-glossary-entries.js",
     "delete-cyber": "node scripts/delete-cybersecurity-terms.js",
-    "create:recruiting": "node scripts/create-recruiting-content.js"
+    "create:recruiting": "node scripts/create-recruiting-content.js",
+    "create:interview": "node scripts/create-interview-content.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",

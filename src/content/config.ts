@@ -126,8 +126,10 @@ export const collections = {
   company: companyCollection,
   interview: defineCollection({
     schema: z.object({
-      title: z.string(),
+      term: z.string(),
       description: z.string(),
+      category: z.string(),
+      vertical: z.string(),
       pubDate: z.date(),
       modDate: z.string(),
       author: z.string(),
@@ -139,8 +141,6 @@ export const collections = {
         url: z.string(),
         alt: z.string()
       }),
-      category: z.string(),
-      vertical: z.string(),
       tags: z.array(z.string())
     })
   })

@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import BlogLayout from "../../layouts/BlogLayout.astro";
+import InterviewLayout from "../../layouts/InterviewLayout.astro";
 
 export async function getStaticPaths() {
   const interviewEntries = await getCollection("interview");
@@ -21,9 +21,9 @@ const renderedContent = await Astro.slots.render('default');
 const plainTextContent = renderedContent ? renderedContent.replace(/<[^>]*>/g, '') : entry.body;
 ---
 
-<BlogLayout frontmatter={entry.data} collection="interview">
+<InterviewLayout frontmatter={entry.data}>
   <Fragment slot="head">
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
   </Fragment>
   <Content />
-</BlogLayout> 
+</InterviewLayout> 

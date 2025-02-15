@@ -2,6 +2,15 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 
+// Function to format tag display
+const formatTagDisplay = (tag: string) => {
+  return tag
+    .replace(/-/g, ' ')
+    .split(' ')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+};
+
 const allInterviews = await getCollection("interview");
 const tags = [...new Set(allInterviews.map((post) => post.data.tags).flat())].sort((a, b) => a.localeCompare(b));
 const pageTitle = "Interview Guide Tags";
@@ -11,15 +20,6 @@ const tagCounts = tags.reduce((acc, tag) => {
   acc[tag] = allInterviews.filter(post => post.data.tags.includes(tag)).length;
   return acc;
 }, {} as Record<string, number>);
-
-// Function to format tag display text
-const formatTagDisplay = (tag: string) => {
-  return tag
-    .replace(/-/g, ' ')
-    .split(' ')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
-};
 ---
 
 <BaseLayout pageTitle={pageTitle}>
