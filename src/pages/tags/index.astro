@@ -3,10 +3,14 @@ import { getCollection } from "astro:content";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 const allPosts = await getCollection("posts");
 const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())].sort((a, b) => a.localeCompare(b));
-const pageTitle = "Tag Index";
+const pageTitle = "Tags for Blog Articles";
+const pageDescription = "Tags for blog articles. Find expert tips and insights for your next interview with Tustin Recruiting.";
 ---
 
-<BaseLayout pageTitle={pageTitle}>
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
   <section>
     <div
     class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-12 lg:py-24 items-center relative">

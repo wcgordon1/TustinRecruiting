@@ -40,9 +40,14 @@ export async function getStaticPaths() {
 const { tag } = Astro.params;
 const { posts, originalTag } = Astro.props;
 const formattedTag = formatTagDisplay(originalTag);
+const pageTitle = `${formattedTag} Interview Guides`;
+const pageDescription = `Interview guides and questions for ${formattedTag} positions. Find expert tips and insights for your next interview.`;
 ---
 
-<BaseLayout pageTitle={formattedTag}>
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
   <section>
     <div
     class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-12 lg:py-24 items-center relative">
