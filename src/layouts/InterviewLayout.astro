@@ -19,6 +19,9 @@ const currentUrl = Astro.url;
 ---
 
 <BaseLayout title={seoTitle} description={seoDescription}>
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
   <main>
     <section>
       <div class="mx-auto max-w-9xl lg:px-16 md:px-12 px-8 xl:px-16 py-12 items-center lg:pt-28">
