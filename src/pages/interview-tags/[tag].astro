@@ -14,37 +14,25 @@ const formatTagDisplay = (tag) => {
 
 export async function getStaticPaths() {
   const allInterviews = await getCollection("interview");
-  // Sanitize tags to replace problematic characters
-  const sanitizeTag = (tag) => {
-    return tag
-      .replace(/\//g, '-') // Replace forward slashes with hyphens
-      .replace(/\s+/g, '-') // Replace spaces with hyphens
-      .toLowerCase();
-  };
 
   const uniqueTags = [
     ...new Set(allInterviews.map((post) => post.data.tags).flat()),
   ];
-  // Make sure we have tags to return
-  if (uniqueTags.length === 0) {
-    return [{ params: { tag: 'default' }, props: { posts: [] } }];
-  }
 
   return uniqueTags.map((tag) => {
-    if (!tag) return null; // Skip if tag is undefined
     const filteredPosts = allInterviews.filter((post) =>
       post.data.tags.includes(tag)
     );
     return {
-      params: { tag: sanitizeTag(tag) },
-      props: { posts: filteredPosts, originalTag: tag },
+      params: { tag },
+      props: { posts: filteredPosts },
     };
-  }).filter(Boolean); // Remove any null entries
+  });
 }
 
+const { tag } = Astro.params;
 const { posts } = Astro.props;
-const { originalTag } = Astro.props;
-const formattedTag = formatTagDisplay(originalTag);
+const formattedTag = formatTagDisplay(tag);
 ---
 
 <BaseLayout pageTitle={formattedTag}>
