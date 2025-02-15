@@ -12,7 +12,7 @@ avatar:
 image:
   url: "/images/software-engineering-interview.jpg"
   alt: "Software Engineering Interview"
-tags: ["Interview Prep","C/C++","Bare Metal Programming","Microcontrollers","RTOS"]
+tags: ["Interview Prep","C++","Bare Metal Programming","Microcontrollers","RTOS"]
 ---
 
 ## Overview of Certifications, Educational Background, and Industry Qualifications
