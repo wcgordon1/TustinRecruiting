@@ -18,294 +18,344 @@ const openai = new OpenAI({
 // Interview guide metadata
 const INTERVIEW_GUIDES = [
     {
-        "position": "Investment Banking Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Financial Modeling", "M&A", "Valuation"]
+        "position": "Enterprise Account Executive",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "B2B Sales", "Large Accounts", "Solution Selling"]
       },
       {
-        "position": "Investment Banking Associate",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Capital Markets", "Deal Structuring", "LBO Modeling"]
+        "position": "Enterprise Business Development Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Lead Generation", "Prospecting", "Consultative Sales"]
       },
       {
-        "position": "Managing Director - Investment Banking",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Corporate Finance", "Strategic Advisory", "IPO"]
+        "position": "Enterprise Sales Engineer",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Technical Sales", "Pre-Sales Support", "Solutions Architecture"]
       },
       {
-        "position": "Mergers & Acquisitions Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Due Diligence", "Deal Execution", "Valuation"]
+        "position": "Enterprise Sales Director",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Sales Leadership", "Revenue Growth", "Strategic Partnerships"]
       },
       {
-        "position": "Mergers & Acquisitions Associate",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Financial Strategy", "DCF Modeling", "LBO"]
+        "position": "Manufacturing Sales Executive",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Industrial Sales", "Machinery & Equipment", "B2B Negotiation"]
       },
       {
-        "position": "Private Equity Associate",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Fundraising", "Investment Analysis", "Portfolio Management"]
+        "position": "Healthcare Enterprise Sales Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Healthcare Partnerships", "Regulatory Compliance", "Solution Selling"]
       },
       {
-        "position": "Private Equity Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Market Research", "Financial Due Diligence", "Valuation"]
+        "position": "Enterprise Channel Sales Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Partnerships", "Reseller Sales", "Channel Strategy"]
       },
       {
-        "position": "Leveraged Finance Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Debt Financing", "High-Yield Bonds", "LBO"]
+        "position": "Enterprise Key Account Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Account Management", "Customer Retention", "Renewals"]
       },
       {
-        "position": "Capital Markets Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Debt & Equity Offerings", "Securities Pricing", "Underwriting"]
+        "position": "Government Enterprise Sales Representative",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Government Contracts", "RFPs", "Public Sector Sales"]
       },
       {
-        "position": "Equity Research Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Stock Analysis", "Earnings Forecasting", "Industry Trends"]
+        "position": "Enterprise Inside Sales Representative",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Lead Qualification", "B2B Inside Sales", "Pipeline Management"]
       },
       {
-        "position": "Hedge Fund Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Risk Analysis", "Portfolio Management", "Alternative Investments"]
+        "position": "Enterprise Sales Operations Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "CRM Management", "Sales Enablement", "Process Optimization"]
       },
       {
-        "position": "Fixed Income Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Bond Markets", "Interest Rate Modeling", "Credit Analysis"]
+        "position": "Enterprise Partner Development Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Strategic Partnerships", "Joint Ventures", "Reseller Networks"]
       },
       {
-        "position": "Risk Arbitrage Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Event-Driven Trading", "M&A Strategy", "Market Trends"]
+        "position": "Enterprise Solutions Consultant",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Consultative Selling", "Product Demos", "Customer Education"]
       },
       {
-        "position": "Debt Capital Markets Associate",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Debt Issuance", "Bond Structuring", "Corporate Finance"]
+        "position": "Enterprise National Account Executive",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Corporate Sales", "National Accounts", "Contract Negotiation"]
       },
       {
-        "position": "Investment Banking Vice President",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Deal Origination", "Corporate Finance", "M&A Advisory"]
+        "position": "Enterprise Sales Development Representative (SDR)",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Prospecting", "Cold Outreach", "Pipeline Development"]
       },
       {
-        "position": "Sell-Side Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Stock Recommendations", "Market Research", "Valuation"]
+        "position": "Enterprise Field Sales Representative",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Outside Sales", "Client Visits", "Business Networking"]
       },
       {
-        "position": "Buy-Side Analyst",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Asset Management", "Investment Research", "Portfolio Strategy"]
+        "position": "Enterprise Territory Sales Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Regional Sales", "Market Expansion", "Quota Management"]
       },
       {
-        "position": "Securities Trader",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Market Execution", "Options Trading", "Risk Hedging"]
+        "position": "Enterprise Customer Success Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Retention Strategies", "Upselling", "Customer Experience"]
       },
       {
-        "position": "Corporate Finance Associate",
-        "category": "Finance",
-        "vertical": "Investment Banking",
-        "tags": ["Interview Prep", "Capital Budgeting", "Financial Planning", "Corporate Strategy"]
-      },
-    
-      {
-        "position": "Wealth Manager",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Asset Allocation", "Client Advisory", "Estate Planning"]
-      },
-      {
-        "position": "Financial Advisor",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Investment Planning", "Retirement Strategy", "Portfolio Management"]
-      },
-      {
-        "position": "Private Wealth Advisor",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "HNW Clients", "Tax Planning", "Financial Strategy"]
-      },
-      {
-        "position": "Portfolio Manager",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Asset Management", "Risk Analysis", "Investment Research"]
-      },
-      {
-        "position": "Estate Planner",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Trusts & Wills", "Tax Minimization", "Asset Protection"]
+        "position": "Enterprise Sales Training Manager",
+        "category": "Sales",
+        "industry": "Enterprise",
+        "tags": ["Interview Prep", "Sales Enablement", "Training Programs", "Team Coaching"]
       },
     
+      // SAAS SALES (20)
       {
-        "position": "Equipment Finance Analyst",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Credit Analysis", "Loan Structuring", "Equipment Leasing"]
+        "position": "SaaS Account Executive",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "B2B Software Sales", "Demo Presentations", "Quota Attainment"]
       },
       {
-        "position": "Equipment Leasing Specialist",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Commercial Lending", "Contract Negotiation", "Asset-Based Financing"]
+        "position": "SaaS Business Development Representative (BDR)",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Prospecting", "Cold Calling", "Lead Generation"]
       },
       {
-        "position": "Senior Equipment Finance Manager",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Risk Assessment", "Lease Structuring", "Corporate Clients"]
+        "position": "SaaS Sales Engineer",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Technical Sales", "API Integrations", "Solution Architecture"]
+      },
+    
+      // MEDICAL DEVICE SALES (20)
+      {
+        "position": "Medical Device Sales Representative",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Hospital Sales", "Surgical Equipment", "Regulatory Compliance"]
       },
       {
-        "position": "Equipment Loan Underwriter",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Credit Risk", "Asset Valuation", "Financial Statements"]
+        "position": "Medical Equipment Account Manager",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Client Management", "Hospital Procurement", "B2B Sales"]
       },
       {
-        "position": "Commercial Equipment Finance Officer",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Sales & Leasing", "Loan Portfolio", "Client Management"]
+        "position": "Orthopedic Device Sales Representative",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Orthopedics", "Physician Relationships", "Surgical Sales"]
       },
       {
-        "position": "Account Executive",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Client Acquisition", "Sales", "Leasing", "Commercial Lending"]
+        "position": "Medical Device Territory Manager",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Regional Sales", "Product Training", "Surgeon Support"]
       },
       {
-        "position": "Territory Manager",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Regional Sales", "Business Development", "Asset Financing"]
+        "position": "Cardiovascular Device Sales Specialist",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Cardiology Sales", "Hospital Accounts", "Medical Compliance"]
       },
       {
-        "position": "Syndication Manager",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Loan Syndication", "Portfolio Management", "Risk Analysis"]
+        "position": "Medical Device Product Specialist",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Product Knowledge", "Technical Sales", "Surgeon Training"]
       },
       {
-        "position": "Vice President of Sales",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Executive Leadership", "Revenue Growth", "Strategic Partnerships"]
+        "position": "Medical Robotics Sales Executive",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Robotic Surgery", "Hospital Sales", "Technology Adoption"]
       },
       {
-        "position": "Middle-Market Sales Representative",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Commercial Lending", "Client Management", "Mid-Sized Businesses"]
+        "position": "Surgical Equipment Sales Representative",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Operating Room Sales", "Surgeon Engagement", "Equipment Demos"]
       },
       {
-        "position": "Small-Ticket Sales Representative",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Vendor Financing", "Fast-Approval Loans", "Retail Equipment"]
+        "position": "Medical Device Distributor Sales Representative",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Distributor Management", "Supply Chain", "Wholesale Medical Sales"]
       },
       {
-        "position": "Director",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Leadership", "Corporate Finance", "Market Expansion"]
+        "position": "SaaS Enterprise Account Executive",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Enterprise SaaS Sales", "B2B Software", "Quota Management"]
       },
       {
-        "position": "Credit Risk Manager",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Risk Assessment", "Loan Underwriting", "Asset-Based Lending"]
+        "position": "SaaS Channel Sales Manager",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Reseller Sales", "Partner Relationships", "Channel Growth"]
       },
       {
-        "position": "Funding Coordinator",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Loan Processing", "Funding Disbursement", "Compliance"]
+        "position": "SaaS Mid-Market Account Executive",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "SMB & Mid-Market", "Quota Attainment", "Consultative Selling"]
       },
       {
-        "position": "Vendor Finance Relationship Manager",
-        "category": "Finance",
-        "vertical": "Equipment Financing",
-        "tags": ["Interview Prep", "Vendor Partnerships", "Leasing Programs", "Business Development"]
+        "position": "SaaS Outbound Sales Representative",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Cold Calling", "Prospecting", "Lead Generation"]
       },
       {
-        "position": "Ultra High Net Worth Wealth Manager",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "UHNW Clients", "Tax Strategies", "Alternative Investments"]
+        "position": "SaaS Partner Sales Manager",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Partnership Development", "Reseller Programs", "B2B Alliances"]
       },
       {
-        "position": "Trust & Fiduciary Advisor",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Trusts & Wills", "Legal Compliance", "Wealth Protection"]
+        "position": "SaaS SDR Manager",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Sales Development", "Pipeline Growth", "Team Leadership"]
       },
       {
-        "position": "Private Banking Relationship Manager",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Private Banking", "Lending Solutions", "HNW Client Services"]
+        "position": "SaaS Renewal Sales Specialist",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Customer Retention", "Subscription Renewals", "Upselling"]
       },
       {
-        "position": "Financial Planning Specialist",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Retirement Planning", "Tax Optimization", "Risk Management"]
+        "position": "SaaS Customer Success Executive",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Post-Sales Support", "Account Expansion", "Churn Prevention"]
       },
       {
-        "position": "Investment Consultant",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Portfolio Management", "Risk Assessment", "Client Advisory"]
+        "position": "SaaS Sales Enablement Manager",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Sales Training", "Onboarding", "Process Optimization"]
       },
       {
-        "position": "Wealth Technology Advisor",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Fintech", "Robo-Advisory", "Digital Wealth Solutions"]
+        "position": "SaaS Solutions Consultant",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Technical Demos", "Solution Selling", "Pre-Sales Strategy"]
       },
       {
-        "position": "ESG Investment Advisor",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Sustainable Investing", "Impact Funds", "Socially Responsible Portfolios"]
+        "position": "SaaS Regional Sales Director",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Regional Growth", "Revenue Forecasting", "Territory Expansion"]
       },
       {
-        "position": "Philanthropy Advisor",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Charitable Giving", "Donor-Advised Funds", "Estate Strategy"]
+        "position": "SaaS VP of Sales",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Sales Strategy", "Leadership", "Revenue Growth"]
       },
       {
-        "position": "Multi-Family Office Advisor",
-        "category": "Finance",
-        "vertical": "Wealth Management",
-        "tags": ["Interview Prep", "Family Offices", "Wealth Transfer", "Tax & Estate Planning"]
+        "position": "SaaS Freemium Conversion Specialist",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Trial Conversions", "User Engagement", "Pricing Strategy"]
+      },
+      {
+        "position": "SaaS Expansion Sales Representative",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Upselling", "Cross-Selling", "Customer Growth"]
+      },
+      {
+        "position": "SaaS Vertical Sales Specialist",
+        "category": "Sales",
+        "industry": "SaaS",
+        "tags": ["Interview Prep", "Industry-Specific SaaS", "Custom Solutions", "B2B SaaS Sales"]
+      },
+      {
+        "position": "Surgical Sales Specialist",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Operating Room Sales", "Surgeon Engagement", "Medical Equipment"]
+      },
+      {
+        "position": "Diagnostic Equipment Sales Representative",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Diagnostic Imaging", "Hospital Sales", "Regulatory Compliance"]
+      },
+      {
+        "position": "Medical Capital Equipment Sales Manager",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Capital Equipment", "Hospital Procurement", "Budgeting"]
+      },
+      {
+        "position": "Medical Device Market Development Manager",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Market Expansion", "Product Launches", "Territory Growth"]
+      },
+      {
+        "position": "Veterinary Medical Device Sales Representative",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Veterinary Clinics", "Animal Health Equipment", "B2B Sales"]
+      },
+      {
+        "position": "Medical Device National Sales Director",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Sales Leadership", "Revenue Growth", "Strategic Planning"]
+      },
+      {
+        "position": "Medical Device Reimbursement Specialist",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Insurance Billing", "Healthcare Providers", "Product Pricing"]
+      },
+      {
+        "position": "Medical Device Inside Sales Representative",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Lead Qualification", "Cold Calling", "Medical Technology"]
+      },
+      {
+        "position": "Medical Device Clinical Liaison",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Clinical Support", "Medical Training", "Hospital Engagement"]
+      },
+      {
+        "position": "Medical Wearable Technology Sales Representative",
+        "category": "Sales",
+        "industry": "Medical Device",
+        "tags": ["Interview Prep", "Wearable Devices", "Patient Monitoring", "Remote Healthcare"]
       }
   // Add more positions here
 ];

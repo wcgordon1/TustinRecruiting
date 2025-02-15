@@ -1,10 +1,10 @@
 ---
-import CtaTwo from "@/components/cta/CtaTwo.astro";
+import CtaTwo from "../components/cta/CtaTwo.astro";
 import BaseLayout from "./BaseLayout.astro";
-import CtaWack from "@/components/cta/CtaWack.astro";
-import MoreEntries from "@/components/blog/MoreEntries.astro";
-import IndexJobs from "@/components/jobs/IndexJobs.astro";
-import CopyButton from "@/components/CopyButton.astro";
+import CtaWack from "../components/cta/CtaWack.astro";
+import MoreEntries from "../components/blog/MoreEntries.astro";
+import MoreInterviewGuides from "../components/interview/MoreEntries.astro";
+import IndexJobs from "../components/jobs/IndexJobs.astro";
 
 const { frontmatter } = Astro.props;
 
@@ -19,7 +19,6 @@ const currentUrl = Astro.url;
 ---
 
 <BaseLayout title={seoTitle} description={seoDescription}>
-  <CopyButton client:load />
   <main>
     <section>
       <div class="mx-auto max-w-9xl lg:px-16 md:px-12 px-8 xl:px-16 py-12 items-center lg:pt-28">
@@ -78,6 +77,10 @@ const currentUrl = Astro.url;
 
   <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
     <div class="pt-24">
+      <MoreInterviewGuides 
+        category={frontmatter.category}
+        vertical={frontmatter.vertical}
+      />
       <MoreEntries />
     </div>
   </div>

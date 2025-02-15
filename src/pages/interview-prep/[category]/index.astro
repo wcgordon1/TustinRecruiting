@@ -96,7 +96,7 @@ const { category, entries, verticals } = Astro.props;
             <h2 class="text-2xl font-bold tracking-tight text-gray-900 mb-8">
               {vertical}
             </h2>
-            <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
               {entries
                 .filter(entry => entry.data.vertical === vertical)
                 .map(entry => (
