@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import GlossaryLayout from "../../layouts/GlossaryLayout.astro";
+import Breadcrumbs from '@/components/recruiting/Breadcrumbs.astro';
 
 export async function getStaticPaths() {
   const glossaryEntries = await getCollection("glossary");
@@ -61,6 +62,21 @@ const techArticleSchema = {
   "dateModified": new Date().toISOString(),
   "image": "https://www.tustinrecruiting.com/images/LOGO1.png"
 };
+
+const breadcrumbs = [
+  { text: 'Home', href: '/' },
+  { text: 'Glossary', href: '/glossary' },
+  { text: entry.data.category, href: `/glossary/${entry.data.category.toLowerCase().replace(/\s+/g, '-')}` },
+  { 
+    text: entry.data.vertical, 
+    href: `/glossary/${entry.data.category.toLowerCase().replace(/\s+/g, '-')}/${entry.data.vertical.toLowerCase().replace(/\s+/g, '-')}` 
+  },
+  {
+    text: entry.data.term,
+    href: `/glossary/${entry.data.category.toLowerCase().replace(/\s+/g, '-')}/${entry.data.vertical.toLowerCase().replace(/\s+/g, '-')}/${entry.slug}`,
+    current: true
+  }
+];
 ---
 
 <GlossaryLayout frontmatter={entry.data}>

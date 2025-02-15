@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/recruiting/Breadcrumbs.astro';
 
 export async function getStaticPaths() {
   const glossaryEntries = await getCollection('glossary');
@@ -26,6 +27,12 @@ export async function getStaticPaths() {
 }
 
 const { category, entries, verticals } = Astro.props;
+
+const breadcrumbs = [
+  { text: 'Home', href: '/' },
+  { text: 'Glossary', href: '/glossary' },
+  { text: category, href: `/glossary/${category.toLowerCase().replace(/\s+/g, '-')}`, current: true }
+];
 ---
 
 <BaseLayout title={`${category} Glossary Terms`} description={`Glossary of terms related to ${category}`}>
@@ -33,6 +40,9 @@ const { category, entries, verticals } = Astro.props;
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
   </Fragment>
   <main>
+    <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+      <Breadcrumbs paths={breadcrumbs} />
+    </div>
     <section class="bg-white">
       <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-24">
         <h1 class="text-4xl font-bold tracking-tight text-gray-900 mb-4">
