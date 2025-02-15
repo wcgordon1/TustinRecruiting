@@ -4,6 +4,7 @@ import BaseLayout from "./BaseLayout.astro";
 import CtaWack from "@/components/cta/CtaWack.astro";
 import MoreEntries from "@/components/blog/MoreEntries.astro";
 import IndexJobs from "@/components/jobs/IndexJobs.astro";
+import CopyButton from "@/components/CopyButton.astro";
 
 const { frontmatter } = Astro.props;
 
@@ -18,13 +19,10 @@ const currentUrl = Astro.url;
 ---
 
 <BaseLayout title={seoTitle} description={seoDescription}>
+  <CopyButton client:load />
   <main>
     <section>
       <div class="mx-auto max-w-9xl lg:px-16 md:px-12 px-8 xl:px-16 py-12 items-center lg:pt-28">
-        <!-- Vertical Title -->
-        <div class="text-sm font-medium text-slate-500 mb-4">
-          {frontmatter.vertical}
-        </div>
 
         <!-- Author Info and Dates -->
         <div class="text-center">

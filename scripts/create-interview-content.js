@@ -18,125 +18,295 @@ const openai = new OpenAI({
 // Interview guide metadata
 const INTERVIEW_GUIDES = [
     {
-    "position": "Full-Stack Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Front-End", "Back-End", "JavaScript", "Node.js"]
-  },
-  {
-    "position": "Front-End Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "React", "Vue.js", "CSS", "JavaScript"]
-  },
-  {
-    "position": "Back-End Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "APIs", "Databases", "Node.js", "Java"]
-  },
-  {
-    "position": "Python Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Django", "Flask", "Data Structures", "Python"]
-  },
-  {
-    "position": "Java Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Spring Boot", "Multithreading", "OOP", "Java"]
-  },
-  {
-    "position": "C++ Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Memory Management", "STL", "Multithreading", "C++"]
-  },
-  {
-    "position": "DevOps Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "CI/CD", "Kubernetes", "AWS", "Infrastructure"]
-  },
-  {
-    "position": "Cloud Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "AWS", "Azure", "GCP", "Cloud Computing"]
-  },
-  {
-    "position": "Data Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "ETL", "Big Data", "SQL", "Python"]
-  },
-  {
-    "position": "Machine Learning Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Neural Networks", "Deep Learning", "TensorFlow", "Python"]
-  },
-  {
-    "position": "AI Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Natural Language Processing", "LLMs", "AI Algorithms", "Python"]
-  },
-  {
-    "position": "Cybersecurity Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Penetration Testing", "Network Security", "Encryption", "C"]
-  },
-  {
-    "position": "Embedded Systems Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Microcontrollers", "RTOS", "C", "Assembly"]
-  },
-  {
-    "position": "Mobile App Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "iOS", "Android", "Swift", "Kotlin"]
-  },
-  {
-    "position": "Game Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Unity", "Unreal Engine", "C#", "Game Physics"]
-  },
-  {
-    "position": "Blockchain Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Smart Contracts", "Solidity", "Ethereum", "Cryptography"]
-  },
-  {
-    "position": "Site Reliability Engineer (SRE)",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Observability", "Monitoring", "Automation", "Cloud"]
-  },
-  {
-    "position": "Software Architect",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "System Design", "Scalability", "Microservices", "Architecture"]
-  },
-  {
-    "position": "Test Automation Engineer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Selenium", "JUnit", "Integration Testing", "QA"]
-  },
-  {
-    "position": "Low-Code/No-Code Developer",
-    "category": "Technical",
-    "vertical": "Software Engineering",
-    "tags": ["Interview Prep", "Bubble.io", "Webflow", "Automation", "No-Code"]
-  }
+        "position": "Investment Banking Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Financial Modeling", "M&A", "Valuation"]
+      },
+      {
+        "position": "Investment Banking Associate",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Capital Markets", "Deal Structuring", "LBO Modeling"]
+      },
+      {
+        "position": "Managing Director - Investment Banking",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Corporate Finance", "Strategic Advisory", "IPO"]
+      },
+      {
+        "position": "Mergers & Acquisitions Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Due Diligence", "Deal Execution", "Valuation"]
+      },
+      {
+        "position": "Mergers & Acquisitions Associate",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Financial Strategy", "DCF Modeling", "LBO"]
+      },
+      {
+        "position": "Private Equity Associate",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Fundraising", "Investment Analysis", "Portfolio Management"]
+      },
+      {
+        "position": "Private Equity Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Market Research", "Financial Due Diligence", "Valuation"]
+      },
+      {
+        "position": "Leveraged Finance Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Debt Financing", "High-Yield Bonds", "LBO"]
+      },
+      {
+        "position": "Capital Markets Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Debt & Equity Offerings", "Securities Pricing", "Underwriting"]
+      },
+      {
+        "position": "Equity Research Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Stock Analysis", "Earnings Forecasting", "Industry Trends"]
+      },
+      {
+        "position": "Hedge Fund Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Risk Analysis", "Portfolio Management", "Alternative Investments"]
+      },
+      {
+        "position": "Fixed Income Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Bond Markets", "Interest Rate Modeling", "Credit Analysis"]
+      },
+      {
+        "position": "Risk Arbitrage Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Event-Driven Trading", "M&A Strategy", "Market Trends"]
+      },
+      {
+        "position": "Debt Capital Markets Associate",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Debt Issuance", "Bond Structuring", "Corporate Finance"]
+      },
+      {
+        "position": "Investment Banking Vice President",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Deal Origination", "Corporate Finance", "M&A Advisory"]
+      },
+      {
+        "position": "Sell-Side Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Stock Recommendations", "Market Research", "Valuation"]
+      },
+      {
+        "position": "Buy-Side Analyst",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Asset Management", "Investment Research", "Portfolio Strategy"]
+      },
+      {
+        "position": "Securities Trader",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Market Execution", "Options Trading", "Risk Hedging"]
+      },
+      {
+        "position": "Corporate Finance Associate",
+        "category": "Finance",
+        "vertical": "Investment Banking",
+        "tags": ["Interview Prep", "Capital Budgeting", "Financial Planning", "Corporate Strategy"]
+      },
+    
+      {
+        "position": "Wealth Manager",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Asset Allocation", "Client Advisory", "Estate Planning"]
+      },
+      {
+        "position": "Financial Advisor",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Investment Planning", "Retirement Strategy", "Portfolio Management"]
+      },
+      {
+        "position": "Private Wealth Advisor",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "HNW Clients", "Tax Planning", "Financial Strategy"]
+      },
+      {
+        "position": "Portfolio Manager",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Asset Management", "Risk Analysis", "Investment Research"]
+      },
+      {
+        "position": "Estate Planner",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Trusts & Wills", "Tax Minimization", "Asset Protection"]
+      },
+    
+      {
+        "position": "Equipment Finance Analyst",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Credit Analysis", "Loan Structuring", "Equipment Leasing"]
+      },
+      {
+        "position": "Equipment Leasing Specialist",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Commercial Lending", "Contract Negotiation", "Asset-Based Financing"]
+      },
+      {
+        "position": "Senior Equipment Finance Manager",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Risk Assessment", "Lease Structuring", "Corporate Clients"]
+      },
+      {
+        "position": "Equipment Loan Underwriter",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Credit Risk", "Asset Valuation", "Financial Statements"]
+      },
+      {
+        "position": "Commercial Equipment Finance Officer",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Sales & Leasing", "Loan Portfolio", "Client Management"]
+      },
+      {
+        "position": "Account Executive",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Client Acquisition", "Sales", "Leasing", "Commercial Lending"]
+      },
+      {
+        "position": "Territory Manager",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Regional Sales", "Business Development", "Asset Financing"]
+      },
+      {
+        "position": "Syndication Manager",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Loan Syndication", "Portfolio Management", "Risk Analysis"]
+      },
+      {
+        "position": "Vice President of Sales",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Executive Leadership", "Revenue Growth", "Strategic Partnerships"]
+      },
+      {
+        "position": "Middle-Market Sales Representative",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Commercial Lending", "Client Management", "Mid-Sized Businesses"]
+      },
+      {
+        "position": "Small-Ticket Sales Representative",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Vendor Financing", "Fast-Approval Loans", "Retail Equipment"]
+      },
+      {
+        "position": "Director",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Leadership", "Corporate Finance", "Market Expansion"]
+      },
+      {
+        "position": "Credit Risk Manager",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Risk Assessment", "Loan Underwriting", "Asset-Based Lending"]
+      },
+      {
+        "position": "Funding Coordinator",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Loan Processing", "Funding Disbursement", "Compliance"]
+      },
+      {
+        "position": "Vendor Finance Relationship Manager",
+        "category": "Finance",
+        "vertical": "Equipment Financing",
+        "tags": ["Interview Prep", "Vendor Partnerships", "Leasing Programs", "Business Development"]
+      },
+      {
+        "position": "Ultra High Net Worth Wealth Manager",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "UHNW Clients", "Tax Strategies", "Alternative Investments"]
+      },
+      {
+        "position": "Trust & Fiduciary Advisor",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Trusts & Wills", "Legal Compliance", "Wealth Protection"]
+      },
+      {
+        "position": "Private Banking Relationship Manager",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Private Banking", "Lending Solutions", "HNW Client Services"]
+      },
+      {
+        "position": "Financial Planning Specialist",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Retirement Planning", "Tax Optimization", "Risk Management"]
+      },
+      {
+        "position": "Investment Consultant",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Portfolio Management", "Risk Assessment", "Client Advisory"]
+      },
+      {
+        "position": "Wealth Technology Advisor",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Fintech", "Robo-Advisory", "Digital Wealth Solutions"]
+      },
+      {
+        "position": "ESG Investment Advisor",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Sustainable Investing", "Impact Funds", "Socially Responsible Portfolios"]
+      },
+      {
+        "position": "Philanthropy Advisor",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Charitable Giving", "Donor-Advised Funds", "Estate Strategy"]
+      },
+      {
+        "position": "Multi-Family Office Advisor",
+        "category": "Finance",
+        "vertical": "Wealth Management",
+        "tags": ["Interview Prep", "Family Offices", "Wealth Transfer", "Tax & Estate Planning"]
+      }
   // Add more positions here
 ];
 
@@ -155,8 +325,10 @@ function generateRandomDate() {
 }
 
 async function generateInterviewGuide(position, titleFormat, category, vertical, tags) {
+  console.log(`\n🔄 Starting generation for: ${position} ${titleFormat}`);
   const term = `${position} ${titleFormat}`;
   
+  console.log('📝 Generating main content...');
   const prompt = `Create a comprehensive interview preparation guide for ${position} position.
 
 The guide should include:
@@ -192,11 +364,13 @@ Make it comprehensive and detailed, with long-form answers that cover multiple s
     messages: [{ role: "user", content: prompt }],
     temperature: 0.7,
   });
+  console.log('✅ Main content generated successfully');
 
   const content = completion.choices[0].message.content;
   const date = generateRandomDate();
+  console.log(`📅 Generated publish date: ${date}`);
 
-  // Generate description
+  console.log('📝 Generating description...');
   const descPrompt = `Write a concise description (under 500 characters) for a ${position} ${titleFormat}. Focus on what job seekers will learn from this guide.`;
   
   const descCompletion = await openai.chat.completions.create({
@@ -204,8 +378,10 @@ Make it comprehensive and detailed, with long-form answers that cover multiple s
     messages: [{ role: "user", content: descPrompt }],
     temperature: 0.7,
   });
+  console.log('✅ Description generated successfully');
 
   const description = descCompletion.choices[0].message.content;
+  console.log(`📊 Description length: ${description.length} characters`);
 
   const frontmatter = `---
 term: "${term}"
@@ -229,13 +405,20 @@ ${content.trim()}`;
   const slug = term.toLowerCase().replace(/\s+/g, '-');
   const filePath = path.join(process.cwd(), 'src', 'content', 'interview', `${slug}.md`);
   fs.writeFileSync(filePath, frontmatter);
-  console.log(`Created interview guide: ${filePath}`);
+  console.log(`💾 File saved: ${filePath}`);
+  console.log('✨ Guide generation complete!\n');
 }
 
 async function createAllGuides() {
+  console.log('\n🚀 Starting interview guide generation process');
+  console.log(`📚 Total positions to process: ${INTERVIEW_GUIDES.length}\n`);
+
   for (const guide of INTERVIEW_GUIDES) {
-    // Randomly select one title format for each position
     const randomFormat = TITLE_FORMATS[Math.floor(Math.random() * TITLE_FORMATS.length)];
+    console.log(`\n📌 Processing position: ${guide.position}`);
+    console.log(`🎯 Selected format: ${randomFormat}`);
+    console.log(`🏷️  Tags: ${guide.tags.join(', ')}`);
+
     await generateInterviewGuide(
       guide.position,
       randomFormat,
@@ -243,7 +426,20 @@ async function createAllGuides() {
       guide.vertical,
       guide.tags
     );
+
+    console.log(`✅ Completed guide for: ${guide.position}\n`);
+    console.log('⏳ Waiting before next guide...\n');
+    await new Promise(resolve => setTimeout(resolve, 2000));
   }
+
+  console.log('\n🎉 All interview guides generated successfully!');
+  console.log(`📊 Total guides created: ${INTERVIEW_GUIDES.length}`);
 }
 
-createAllGuides().catch(console.error); 
+console.log('🔑 OpenAI API Key found');
+console.log('⚡ Starting script execution...\n');
+createAllGuides().catch(error => {
+  console.error('\n❌ Error during execution:');
+  console.error(error);
+  console.error(error)
+}); 

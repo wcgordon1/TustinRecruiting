@@ -4,6 +4,7 @@ import BaseLayout from "./BaseLayout.astro";
 import CtaWack from "@/components/cta/CtaWack.astro";
 import MoreEntries from "@/components/blog/MoreEntries.astro";
 import IndexJobs from "@/components/jobs/IndexJobs.astro";
+import CopyButton from "@/components/CopyButton.astro";
 const { frontmatter, collection } = Astro.props;
 
 // Determine if this is an interview guide or blog post
@@ -61,6 +62,7 @@ const jsonLd = {
 ---
 
 <BaseLayout title={seoTitle} description={seoDescription}>
+  <CopyButton client:load />
   <div class="fixed top-0 left-0 right-0 h-1 bg-slate-100 z-50">
     <div id="progress-bar" class="h-1 bg-blue-500 w-0 transition-all duration-150"></div>
   </div>
