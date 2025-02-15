@@ -4,7 +4,7 @@ import IndexJobs from "@/components/jobs/IndexJobs.astro";
 import CtaOne from "@/components/cta/CtaOne.astro";
 import MoreEntries from "@/components/blog/MoreEntries.astro";
 import Breadcrumbs from "@/components/calculator/Breadcrumbs.astro";
-
+import CtaWack from "@/components/cta/CtaWack.astro";
 const title = "Commute Expenses Calculator - Calculate Your Daily & Annual Commute Costs";
 const description = "Calculate your total commuting costs including fuel, tolls, and parking with Tustin Recruiting's Commute Expenses Calculator. Set expenses for your work commute.";
 
@@ -280,8 +280,11 @@ const jsonLd = {
                 </p>
             </div>
         </div>
+        <div class="mt-24">
+            <MoreEntries />
+        </div>
+        <IndexJobs />
     </div>
-    <MoreEntries />
-    <IndexJobs />
     <CtaOne />
+    <CtaWack />
 </BaseLayout> 

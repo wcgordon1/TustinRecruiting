@@ -5,7 +5,7 @@ import IndexJobs from "@/components/jobs/IndexJobs.astro";
 import CtaOne from "@/components/cta/CtaOne.astro";
 import MoreEntries from "@/components/blog/MoreEntries.astro";
 import Breadcrumbs from "@/components/calculator/Breadcrumbs.astro";
-
+import CtaWack from "@/components/cta/CtaWack.astro";
 const title = "Salary Converter Calculator - Convert Between Pay Periods";
 const description = "Convert salary between hourly, weekly, bi-weekly, monthly, quarterly, and annual pay periods. Free calculator with tax estimates by Tustin Recruiting.";
 
@@ -109,8 +109,11 @@ const jsonLd = {
                 </p>
             </div>
         </div>
+        <div class="mt-24">
+            <MoreEntries />
+        </div>
+        <IndexJobs />
     </div>
-    <MoreEntries />
-    <IndexJobs />
     <CtaOne />
+    <CtaWack />
 </BaseLayout> 
