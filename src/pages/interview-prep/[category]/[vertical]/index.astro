@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/recruiting/Breadcrumbs.astro';
 
 export async function getStaticPaths() {
   const interviewEntries = await getCollection('interview');
@@ -28,6 +29,17 @@ export async function getStaticPaths() {
 }
 
 const { category, vertical, entries } = Astro.props;
+
+const breadcrumbs = [
+  { text: 'Home', href: '/' },
+  { text: 'Interview Prep', href: '/interview-prep' },
+  { text: category, href: `/interview-prep/${category.toLowerCase().replace(/\s+/g, '-')}` },
+  { 
+    text: vertical, 
+    href: `/interview-prep/${category.toLowerCase().replace(/\s+/g, '-')}/${vertical.toLowerCase().replace(/\s+/g, '-')}`,
+    current: true 
+  }
+];
 ---
 
 <BaseLayout title={`${vertical} ${category} Interview Guides`} description={`Interview preparation guides for ${vertical} ${category} positions`}>
@@ -35,6 +47,9 @@ const { category, vertical, entries } = Astro.props;
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
   </Fragment>
   <main>
+    <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+      <Breadcrumbs paths={breadcrumbs} />
+    </div>
     <section class="bg-white">
       <div
       class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-12 lg:py-24 items-center relative">

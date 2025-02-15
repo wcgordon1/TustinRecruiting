@@ -5,6 +5,7 @@ import CtaWack from "@/components/cta/CtaWack.astro";
 import MoreEntries from "@/components/blog/MoreEntries.astro";
 import MoreInterviewGuides from "@/components/interview/MoreEntries.astro";
 import IndexJobs from "@/components/jobs/IndexJobs.astro";
+import Breadcrumbs from "@/components/recruiting/Breadcrumbs.astro";
 
 const { frontmatter } = Astro.props;
 
@@ -16,6 +17,22 @@ const seoDescription = frontmatter.description.length > 160
 
 // Get the current URL for mainEntityOfPage
 const currentUrl = Astro.url;
+
+// Add breadcrumb paths
+const breadcrumbs = [
+  { text: 'Home', href: '/' },
+  { text: 'Interview Prep', href: '/interview-prep' },
+  { text: frontmatter.category, href: `/interview-prep/${frontmatter.category.toLowerCase().replace(/\s+/g, '-')}` },
+  { 
+    text: frontmatter.vertical, 
+    href: `/interview-prep/${frontmatter.category.toLowerCase().replace(/\s+/g, '-')}/${frontmatter.vertical.toLowerCase().replace(/\s+/g, '-')}` 
+  },
+  {
+    text: frontmatter.term,
+    href: `/interview-prep/${frontmatter.category.toLowerCase().replace(/\s+/g, '-')}/${frontmatter.vertical.toLowerCase().replace(/\s+/g, '-')}/${frontmatter.term.toLowerCase().replace(/\s+/g, '-')}`,
+    current: true
+  }
+];
 ---
 
 <BaseLayout title={seoTitle} description={seoDescription}>
@@ -23,6 +40,9 @@ const currentUrl = Astro.url;
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
   </Fragment>
   <main>
+    <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+      <Breadcrumbs paths={breadcrumbs} />
+    </div>
     <section>
       <div class="mx-auto max-w-9xl lg:px-16 md:px-12 px-8 xl:px-16 py-12 items-center lg:pt-28">
 

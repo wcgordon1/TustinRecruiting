@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/recruiting/Breadcrumbs.astro';
 
 const interviewEntries = await getCollection('interview');
 
@@ -11,6 +12,11 @@ const categories = [...new Set(interviewEntries.map(entry => entry.data.category
     slug: category.toLowerCase().replace(/\s+/g, '-'),
     count: interviewEntries.filter(entry => entry.data.category === category).length
   }));
+
+const breadcrumbs = [
+  { text: 'Home', href: '/' },
+  { text: 'Interview Prep', href: '/interview-prep', current: true }
+];
 ---
 
 <BaseLayout title="Interview Preparation Guides" description="Comprehensive interview guides for various technical positions">
@@ -18,6 +24,9 @@ const categories = [...new Set(interviewEntries.map(entry => entry.data.category
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
   </Fragment>
   <main>
+    <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+      <Breadcrumbs paths={breadcrumbs} />
+    </div>
     <section class="bg-white">
       <div
     class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24 py-12 lg:py-24 items-center relative">
