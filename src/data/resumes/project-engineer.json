@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Project Engineer Resume Template",
+    "description": "A professional resume template tailored for Project Engineer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Project Engineer",
+    "slug": "project-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "construction",
+      "engineering management",
+      "project optimization"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Project Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6+ years of experience in managing technical aspects of construction projects. Proven track record of delivering high-quality solutions and optimizing performance within budget and time constraints.",
+    "skills": {
+      "languages": [
+        "AutoCAD",
+        "Revit"
+      ],
+      "frameworks": [
+        "LEAN Construction",
+        "PMP methodologies"
+      ],
+      "tools": [
+        "Primavera P6",
+        "MS Project",
+        "Bluebeam"
+      ],
+      "concepts": [
+        "Project Lifecycle Management",
+        "Sustainability Practices"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Project Engineer",
+        "company": "Innovative Constructions LLC",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 10 engineers on a $15 million commercial construction project, delivering on-time and 8% under budget.",
+          "Implemented a new project tracking system which improved on-site decision-making processes, reducing delays by 15%.",
+          "Collaborated with cross-functional teams to enhance safety standards resulting in zero accidents during project tenure."
+        ]
+      },
+      {
+        "title": "Project Engineer",
+        "company": "Progressive Builders Inc.",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully executed the electrical and mechanical designs of a $10 million healthcare facility, ensuring compliance with state regulations.",
+          "Optimized project schedules using Gantt charts, reducing project lead times by 20%.",
+          "Mentored 5 junior engineers, improving team-wide productivity and project management skills."
+        ]
+      },
+      {
+        "title": "Junior Project Engineer",
+        "company": "Constructive Solutions Ltd.",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development and integration of structural designs for a high-profile residential skyscraper.",
+          "Coordinated with architects and contractors, contributing to the successful completion of projects ahead of schedule.",
+          "Conducted site inspections to ensure compliance with safety regulations and project specifications."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Civil Engineering",
+      "school": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Green Roof Development",
+        "description": "Designed and implemented eco-friendly green roof systems in urban buildings to promote sustainability.",
+        "technologies": [
+          "Green Roof Software",
+          "Revit",
+          "AutoCAD"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Site Superintendent Resume Template",
+    "description": "A professional resume template tailored for Site Superintendent positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Site Superintendent",
+    "slug": "site-superintendent",
+    "experience_level": "senior",
+    "keywords": [
+      "construction management",
+      "site supervision"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Site Superintendent",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over six years of experience in overseeing daily construction site operations. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "Microsoft Project",
+        "Primavera P6"
+      ],
+      "concepts": [
+        "Project Scheduling",
+        "Site Safety Management",
+        "Quality Assurance",
+        "Cost Control"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Site Superintendent",
+        "company": "Delta Construction LLC",
+        "location": "Los Angeles, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully managed a $15M residential development project, completing it three months ahead of schedule while reducing costs by 5%.",
+          "Implemented a new project management software that improved team communication and increased productivity by 20%.",
+          "Led a team of 50+ subcontractors ensuring zero safety incidents on-site through rigorous adherence to safety protocols."
+        ]
+      },
+      {
+        "title": "Assistant Site Superintendent",
+        "company": "Urban Builders Group",
+        "location": "San Diego, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the management of a commercial building project valued at $10M, facilitating a 10% cost saving through effective resource allocation.",
+          "Coordinated the daily operations of 30 trade professionals ensuring timely project milestones met.",
+          "Developed site-specific safety plans and conducted weekly safety meetings that resulted in a 100% incident-free project timeline."
+        ]
+      },
+      {
+        "title": "Junior Construction Supervisor",
+        "company": "GreenBuild Inc.",
+        "location": "Phoenix, AZ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported the delivery of a $5M multi-family residential project through effective day-to-day oversight.",
+          "Collaborated with engineers and architects to resolve design challenges, improving project efficiency.",
+          "Managed workflow and logistics for construction materials, significantly reducing delays and material shortages."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Construction Management",
+      "school": "Arizona State University",
+      "location": "Tempe, AZ",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Riverfront Apartment Complex",
+        "description": "Managed the construction of a high-density urban apartment complex, including overseeing timeline, budget, and safety measures.",
+        "technologies": [
+          "AutoCAD",
+          "Primavera P6",
+          "MS Project"
+        ]
+      }
+    ]
+  }
+}

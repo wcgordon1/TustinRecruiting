@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "title": "Glazier Resume Template",
+    "description": "A professional resume template tailored for Glazier positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Glazier",
+    "slug": "glazier",
+    "experience_level": "mid-level",
+    "keywords": [
+      "glass installation",
+      "repair",
+      "construction"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Glazier",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Installing and repairing glass in buildings. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": []
+    },
+    "experience": [
+      {
+        "title": "Lead Glazier",
+        "company": "Precision Glassworks",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully led a team of 5 glaziers to complete high-profile projects, ensuring timely and quality installations.",
+          "Reduced installation time by 20% by implementing streamlined procedures and leveraging new glass handling technologies.",
+          "Managed safety protocols resulting in a 100% incident-free record across all projects in 2022."
+        ]
+      },
+      {
+        "title": "Senior Glazier",
+        "company": "Clear Vision Glass Installations",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Played a key role in 50+ major commercial glass installations, consistently receiving positive client feedback.",
+          "Introduced a new sealing technique that improved durability and finish quality, increasing customer satisfaction by 15%.",
+          "Mentored junior glaziers, enhancing team skills and productivity through hands-on training sessions."
+        ]
+      },
+      {
+        "title": "Junior Glazier",
+        "company": "City Glass & Mirror",
+        "location": "Oakland, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the installation and repair of glass panes and windows in residential buildings.",
+          "Developed a keen understanding of safety standards and compliance in all glass handling and installations.",
+          "Consistently exceeded performance targets and received recognition for craftsmanship and attention to detail."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Construction Management",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Skyline Residential Towers Project",
+        "description": "Oversaw glass installation operations for a high-rise residential complex, improving project delivery times by implementing new scheduling techniques.",
+        "technologies": [
+          "Spectacular Glass Software",
+          "AutoCAD",
+          "Safety Management Systems"
+        ]
+      }
+    ]
+  }
+}

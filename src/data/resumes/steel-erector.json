@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Steel Erector Resume Template",
+    "description": "A professional resume template tailored for Steel Erector positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Steel Erector",
+    "slug": "steel-erector",
+    "experience_level": "mid-level",
+    "keywords": [
+      "steel erection",
+      "construction",
+      "structural installation",
+      "safety protocols"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Steel Erector",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in assembling steel structures and frameworks. Proven track record of delivering high-quality solutions and optimizing performance in the construction industry.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Crane Operation",
+        "Welding",
+        "Blueprint Reading",
+        "Rigging"
+      ],
+      "concepts": [
+        "Safety Compliance",
+        "Team Coordination",
+        "Problem Solving",
+        "Quality Assurance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Lead Steel Erector",
+        "company": "IronWorks Construction Co.",
+        "location": "Houston, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully led a team of 10 in the erection of a 500,000 sq ft commercial structure, ensuring all project deadlines were met.",
+          "Implemented safety protocols that resulted in a 20% reduction in on-site accidents.",
+          "Optimized the alignment process, reducing errors by 15% and increasing overall project efficiency."
+        ]
+      },
+      {
+        "title": "Steel Erector",
+        "company": "Skyline Structures Ltd.",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Erected steel frameworks for 10+ multi-story residential buildings, ensuring compliance with industry standards.",
+          "Trained and mentored junior team members, improving team productivity by 30%.",
+          "Facilitated the integration of new equipment, reducing project completion time by 10%."
+        ]
+      },
+      {
+        "title": "Junior Steel Erector",
+        "company": "BuildRight Inc.",
+        "location": "Denver, CO",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the erection of structural steelwork for a major urban redevelopment project.",
+          "Achieved a high rate of accuracy and precision in assembling structural components.",
+          "Consistently received positive feedback from supervisors for adherence to safety practices."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Construction Management",
+      "school": "University of Illinois at Chicago",
+      "location": "Chicago, IL",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Downtown High-Rise Steel Framework Installation",
+        "description": "Oversaw and executed the steel framework installation for a landmark 35-story building in the city's downtown area.",
+        "technologies": [
+          "Crane Operation",
+          "Metal Fabrication",
+          "CAD Software"
+        ]
+      }
+    ]
+  }
+}

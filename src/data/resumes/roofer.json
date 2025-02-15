@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Roofer Resume Template",
+    "description": "A professional resume template tailored for Roofer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Roofer",
+    "slug": "roofer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "roofing",
+      "installation",
+      "repair"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Roofer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in installing and repairing roofs on buildings. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "RoofTop Roof Estimator",
+        "AutoCAD",
+        "Microsoft Project"
+      ],
+      "concepts": [
+        "Roofing Installation",
+        "Maintenance and Inspections",
+        "Safety Regulations",
+        "Team Coordination"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Roofer",
+        "company": "SkyHigh Roofing Solutions",
+        "location": "Dallas, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 roofers to complete a commercial roofing project six weeks ahead of schedule, resulting in a cost saving of 15%.",
+          "Implemented a safety training program that improved compliance with OSHA standards, reducing on-site incidents by 30%.",
+          "Developed a new installation technique that reduced material waste by 20%."
+        ]
+      },
+      {
+        "title": "Roofer",
+        "company": "TopTier Roofing Inc.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully installed over 50 residential roofs, maintaining a 98% customer satisfaction rate.",
+          "Assisted in the design and implementation of an innovative project management system, increasing efficiency by 25%.",
+          "Trained and mentored junior roofers, fostering a collaborative and productive work environment."
+        ]
+      },
+      {
+        "title": "Junior Roofer",
+        "company": "Premiere Roofing Co.",
+        "location": "San Antonio, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Gained hands-on experience in various roofing materials and techniques, expanding skill set in roof repair and maintenance.",
+          "Participated in over 30 projects, developing expertise in problem-solving and on-site troubleshooting.",
+          "Contributed to maintaining a safe work site, earning recognition for attention to detail and adherence to safety protocols."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Diploma in Building and Construction",
+      "school": "Texas Building and Construction Institute",
+      "location": "Houston, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Green Roof Initiative",
+        "description": "Designed and installed a green roof system for a commercial building, promoting energy efficiency and sustainability.",
+        "technologies": [
+          "AutoCAD",
+          "RoofTop Estimator",
+          "Sustainable Materials"
+        ]
+      }
+    ]
+  }
+}

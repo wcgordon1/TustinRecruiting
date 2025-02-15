@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Plumber Resume Template",
+    "description": "A professional resume template tailored for Plumber positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Plumber",
+    "slug": "plumber",
+    "experience_level": "mid-level",
+    "keywords": [
+      "plumbing systems",
+      "pipe installation",
+      "water system maintenance",
+      "customer service",
+      "problem-solving"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Plumber",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in installing and maintaining plumbing systems. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Pipe wrenches",
+        "Augers",
+        "Cutting torches",
+        "Video inspection equipment"
+      ],
+      "concepts": [
+        "Plumbing codes",
+        "Blueprint reading",
+        "Drainage systems",
+        "Customer service"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Lead Plumber",
+        "company": "RapidFlow Plumbing Solutions",
+        "location": "Dallas, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 plumbers in the successful completion of plumbing installations for a new 100-unit apartment complex, ensuring compliance with state codes.",
+          "Implemented a preventive maintenance program that reduced emergency repair requests by 30%.",
+          "Enhanced customer satisfaction scores by 20% through effective problem-solving and communication."
+        ]
+      },
+      {
+        "title": "Journeyman Plumber",
+        "company": "PipeFix Services",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Executed over 200 residential plumbing repairs and installations with a 95% first-time fix rate.",
+          "Trained 3 plumbing apprentices, leading to significant improvements in team productivity.",
+          "Installed energy-efficient water heaters and fixtures in commercial facilities, contributing to an annual 15% reduction in utility costs."
+        ]
+      },
+      {
+        "title": "Plumbing Apprentice",
+        "company": "Hometown Plumbing Co.",
+        "location": "Houston, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the installation of piping systems for multiple high-rise commercial buildings.",
+          "Managed inventory and tracked supplies, leading to a 10% reduction in materials waste.",
+          "Gained hands-on experience by participating in over 100 service calls, resolving diverse plumbing issues under expert supervision."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Diploma in Plumbing Technology",
+      "school": "Houston Community College",
+      "location": "Houston, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Community Center Plumbing Upgrade",
+        "description": "Led a project to replace the outdated plumbing system with sustainable fixtures, enhancing water efficiency and compliance with environmental standards.",
+        "technologies": [
+          "Copper pipes",
+          "PPR pipes",
+          "Eco-friendly fixtures"
+        ]
+      }
+    ]
+  }
+}

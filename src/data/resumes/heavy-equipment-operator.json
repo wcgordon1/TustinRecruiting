@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Heavy Equipment Operator Resume Template",
+    "description": "A professional resume template tailored for Heavy Equipment Operator positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Heavy Equipment Operator",
+    "slug": "heavy-equipment-operator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "heavy equipment operation",
+      "construction machinery",
+      "bulldozer operator",
+      "excavator skills"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Heavy Equipment Operator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in operating machinery such as bulldozers and excavators. Proven track record of delivering high-quality solutions and optimizing performance in construction projects.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Bulldozer",
+        "Excavator",
+        "Loaders",
+        "Grader"
+      ],
+      "concepts": [
+        "Blueprint Reading",
+        "Equipment Maintenance",
+        "Safety Regulations",
+        "Site Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Heavy Equipment Operator",
+        "company": "Jensen Construction",
+        "location": "Seattle, WA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 operators in completing a high-profile urban development project ahead of schedule, improving productivity by 15%.",
+          "Implemented new maintenance protocols, reducing machinery downtime by 25% and cutting operational costs.",
+          "Trained junior operators, increasing team efficiency and reducing operator error rates by 30%."
+        ]
+      },
+      {
+        "title": "Heavy Equipment Operator",
+        "company": "Atlas Earthworks",
+        "location": "Portland, OR",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Operated bulldozers, excavators, and other heavy equipment for a variety of construction projects, maintaining a safety record without incidents over three years.",
+          "Enhanced the company's project completion rate by 20% through improved equipment handling and efficiency.",
+          "Awarded Operator of the Year in 2020 for exemplary performance and dedication to quality and safety."
+        ]
+      },
+      {
+        "title": "Junior Heavy Equipment Operator",
+        "company": "Midwest Builders Inc.",
+        "location": "Boise, ID",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the construction of five major infrastructure projects, acquiring skills in diverse equipment usage.",
+          "Recognized for exceptional adherence to safety standards, contributing to the company's excellent safety record.",
+          "Quickly adapted to new technologies and machinery, reducing training time for new hires by 40%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "A.A.S. in Heavy Equipment Operations",
+      "school": "Boise State University",
+      "location": "Boise, ID",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Downtown Commercial Center",
+        "description": "Successfully operated heavy machinery for the development of a 50-acre commercial center, ensuring timely and safe project completion.",
+        "technologies": [
+          "Bulldozer",
+          "Excavator",
+          "GPS-guided Machinery"
+        ]
+      }
+    ]
+  }
+}

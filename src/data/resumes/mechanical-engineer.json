@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Mechanical Engineer Resume Template",
+    "description": "A professional resume template tailored for Mechanical Engineer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Mechanical Engineer",
+    "slug": "mechanical-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "mechanical systems",
+      "building design",
+      "HVAC",
+      "AutoCAD",
+      "project management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Mechanical Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in designing mechanical systems for buildings. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "MATLAB",
+        "Python"
+      ],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "Revit",
+        "SolidWorks",
+        "HVAC design software"
+      ],
+      "concepts": [
+        "Thermodynamics",
+        "Fluid Dynamics",
+        "Heat Transfer",
+        "Project Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Mechanical Engineer",
+        "company": "Innovative Building Solutions, Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Leading a team of 5 engineers in designing and optimizing HVAC systems for commercial buildings, resulting in a 15% increase in energy efficiency.",
+          "Spearheaded the implementation of a new mechanical design software, reducing project turnaround time by 20%.",
+          "Conducted comprehensive reviews of building mechanical systems, identifying potential savings of $100,000 annually through improved system efficiency."
+        ]
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Green Tech Development",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed mechanical systems for a high-profile LEED Platinum-certified office building, achieving 30% energy savings over traditional designs.",
+          "Collaborated with cross-functional teams to integrate innovative green technologies into building designs, enhancing sustainability.",
+          "Assisted in the redesign of a mechanical ventilation system, reducing noise levels by 40%."
+        ]
+      },
+      {
+        "title": "Junior Mechanical Engineer",
+        "company": "EcoBuild Systems",
+        "location": "Houston, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Contributed to the design and implementation of HVAC systems for residential projects, receiving high client satisfaction ratings.",
+          "Conducted detailed inspections of mechanical installations to ensure compliance with industry standards.",
+          "Assisted senior engineers with simulations and modeling tasks, gaining foundational knowledge in building mechanical systems."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Mechanical Engineering",
+      "school": "State University",
+      "location": "Springfield, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Sustainable Urban Housing Initiative",
+        "description": "Led the mechanical design of sustainable housing units, integrating renewable energy solutions.",
+        "technologies": [
+          "AutoCAD",
+          "MATLAB",
+          "Solar Energy Systems"
+        ]
+      }
+    ]
+  }
+}

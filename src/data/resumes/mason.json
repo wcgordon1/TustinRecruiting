@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Mason Resume Template",
+    "description": "A professional resume template tailored for Mason positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Mason",
+    "slug": "mason",
+    "experience_level": "mid-level",
+    "keywords": [
+      "masonry",
+      "bricklaying",
+      "stonework",
+      "construction",
+      "craftsmanship"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Mason",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in building structures with brick, stone, and concrete. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Trowel",
+        "Level",
+        "Masonry saw",
+        "Mortar mixer"
+      ],
+      "concepts": [
+        "Structural integrity",
+        "Quality control",
+        "Blueprint reading",
+        "Safety protocols"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Mason",
+        "company": "Pinnacle Construction Ltd.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 masons in the completion of a $2.5M residential apartment complex, maintaining strict adherence to project timelines and safety standards.",
+          "Implemented a new quality control process that reduced material waste by 15% and improved structural precision.",
+          "Developed custom masonry designs that enhanced the architectural aesthetics of commercial projects, increasing client satisfaction ratings by 20%."
+        ]
+      },
+      {
+        "title": "Mason",
+        "company": "BuildRight Contractors",
+        "location": "Denver, CO",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully completed over 30 residential projects, employing a variety of techniques including bricklaying, stone setting, and concrete finishing.",
+          "Trained 3 junior masons, improving team productivity and workmanship quality.",
+          "Reduced project completion times by 10% through efficient resource allocation and on-site problem-solving."
+        ]
+      },
+      {
+        "title": "Junior Mason",
+        "company": "StoneCraft Enterprises",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in large-scale construction projects, focusing on brickwork and stone installation under senior mason supervision.",
+          "Maintained a perfect safety record by adhering to OSHA standards and site-specific protocols.",
+          "Contributed to the successful completion of a stone facade restoration, resulting in a pleased client and an extended contract."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Diploma in Masonry",
+      "school": "Dallas Vocational Institute",
+      "location": "Dallas, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Urban Loft Building",
+        "description": "Led the masonry work for a modern urban loft building involving complex brick patterns and eco-friendly materials.",
+        "technologies": [
+          "Sustainable bricks",
+          "Eco-friendly mortar",
+          "Laser-level tech"
+        ]
+      }
+    ]
+  }
+}

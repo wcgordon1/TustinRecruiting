@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Structural Engineer Resume Template",
+    "description": "A professional resume template tailored for Structural Engineer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Structural Engineer",
+    "slug": "structural-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "structural integrity",
+      "building construction",
+      "bridge design"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Structural Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in ensuring the structural integrity of buildings and bridges. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "AutoCAD",
+        "Revit",
+        "SAP2000"
+      ],
+      "frameworks": [
+        "Finite Element Analysis",
+        "Building Information Modeling"
+      ],
+      "tools": [
+        "STAAD.Pro",
+        "ETABS",
+        "ARCGIS"
+      ],
+      "concepts": [
+        "Structural Analysis",
+        "Load Calculations",
+        "Risk Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Structural Engineer",
+        "company": "Brockton Engineering",
+        "location": "Atlanta, GA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the design and analysis of a $5 million commercial building project, reducing costs by 10% through innovative use of materials.",
+          "Implemented advanced structural health monitoring systems for three major bridge projects, enhancing durability and safety inspection processes.",
+          "Mentored junior engineers, improving team productivity by 15%."
+        ]
+      },
+      {
+        "title": "Structural Engineer",
+        "company": "ConstructTech Solutions",
+        "location": "Charlotte, NC",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Designed and oversaw construction of a series of residential complexes with a focus on sustainable building practices, reducing carbon footprint by 20%.",
+          "Developed a new load-testing protocol that decreased evaluation time by 30% while maintaining accuracy standards.",
+          "Received the Employee of the Year award for outstanding performance and contribution to the company's strategic goals."
+        ]
+      },
+      {
+        "title": "Junior Structural Engineer",
+        "company": "CityStruct Design Group",
+        "location": "Raleigh, NC",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the structural analysis of a major urban bridge renovation project, completing the project 2 months ahead of schedule.",
+          "Developed 3D models for proposed structures, increasing client approval rates by 25%.",
+          "Collaborated on the development of safety guidelines for structural assessments, resulting in a 40% improvement in compliance."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Civil Engineering",
+      "school": "North Carolina State University",
+      "location": "Raleigh, NC",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Green Bridge Initiative",
+        "description": "Designed and implemented eco-friendly solutions for urban bridge maintenance and construction, resulting in a 50% reduction in lifecycle emissions.",
+        "technologies": [
+          "Solar Paneling",
+          "Sustainable Materials",
+          "Advanced Sealants"
+        ]
+      }
+    ]
+  }
+}

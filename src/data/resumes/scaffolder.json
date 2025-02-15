@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "title": "Scaffolder Resume Template",
+    "description": "A professional resume template tailored for Scaffolder positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Scaffolder",
+    "slug": "scaffolder",
+    "experience_level": "mid-level",
+    "keywords": [
+      "scaffolding",
+      "construction",
+      "safety"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Scaffolder",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Erecting and dismantling scaffolding for workers. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Scaffold Hoist",
+        "Leveling Tool"
+      ],
+      "concepts": [
+        "Safety Protocols",
+        "Blueprint Interpretation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Lead Scaffolder",
+        "company": "Urban Construction Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 8 scaffolders, successfully erecting and dismantling over 50 scaffolding structures for high-rise projects.",
+          "Reduced setup time by 20% through improved planning and resource allocation, enhancing overall project efficiency.",
+          "Implemented safety measures resulting in zero accidents over the course of the projects."
+        ]
+      },
+      {
+        "title": "Senior Scaffolder",
+        "company": "Skyline Erectors Inc.",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Supervised the scaffolding setup for 100+ residential and commercial projects, ensuring compliance with all safety regulations.",
+          "Trained junior team members on best practices and safety standards, enhancing team productivity by 15%.",
+          "Collaborated with engineers to align scaffolding design with project specifications, minimizing structural adjustments by 10%."
+        ]
+      },
+      {
+        "title": "Junior Scaffolder",
+        "company": "Peak Construction",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the erection and dismantling of scaffolding structures, gaining skills in safety protocols and equipment handling.",
+          "Contributed to the successful completion of 30+ projects by providing reliable support in scaffolding operations.",
+          "Received recognition for commitment to safety and punctuality, boosting team morale and deadlines adherence."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Diploma in Construction Technology",
+      "school": "Construction Institute of America",
+      "location": "San Francisco, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Downtown High-Rise Project",
+        "description": "Managed scaffolding operations for a 40-story building, implementing innovative solutions to streamline processes.",
+        "technologies": [
+          "Scaffold Design Software",
+          "Safety Management Systems"
+        ]
+      }
+    ]
+  }
+}

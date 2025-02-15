@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "General Contractor Resume Template",
+    "description": "A professional resume template tailored for General Contractor positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "General Contractor",
+    "slug": "general-contractor",
+    "experience_level": "senior",
+    "keywords": [
+      "construction management",
+      "project coordination",
+      "budgeting",
+      "contract negotiation"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "General Contractor",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing and coordinating construction projects. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "Primavera P6",
+        "Procore",
+        "MS Project"
+      ],
+      "concepts": [
+        "Project Management",
+        "Budgeting & Cost Control",
+        "Team Leadership",
+        "Quality Assurance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior General Contractor",
+        "company": "Blue Ridge Construction Corp.",
+        "location": "Denver, CO",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully managed a $15M commercial construction project, delivering ahead of schedule and under budget by 10%",
+          "Led a team of 50+ subcontractors and tradespeople to achieve project milestones with zero safety incidents",
+          "Implemented cost-saving measures that reduced material expenses by 12% while maintaining quality standards"
+        ]
+      },
+      {
+        "title": "Project Manager",
+        "company": "Summit Builders Group",
+        "location": "Atlanta, GA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated the construction of a $10M residential development, completing 20 units within 18 months",
+          "Enhanced client satisfaction by improving communication processes, resulting in a 15% increase in repeat business",
+          "Supervised a cross-functional team, facilitating professional development that led to two team members earning promotions"
+        ]
+      },
+      {
+        "title": "Assistant Project Manager",
+        "company": "Ridgeway Contracting",
+        "location": "Phoenix, AZ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the planning and execution of multiple commercial projects valued at $5M+, ensuring compliance with building codes and standards",
+          "Streamlined procurement processes that reduced lead times for materials by 25%",
+          "Supported senior project managers in daily operations, contributing to a 20% improvement in project delivery times"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Construction Management",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Ivy Tower Development",
+        "description": "Oversaw the construction of a 12-story commercial tower, coordinating with architects, engineers, and city officials to ensure timely completion.",
+        "technologies": [
+          "AutoCAD",
+          "Procore",
+          "MS Project"
+        ]
+      }
+    ]
+  }
+}

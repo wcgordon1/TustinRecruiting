@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "Electrical Engineer Resume Template",
+    "description": "A professional resume template tailored for Electrical Engineer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Electrical Engineer",
+    "slug": "electrical-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Electrical Systems Design",
+      "Construction",
+      "Project Management",
+      "AutoCAD",
+      "Electrical Engineering"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Electrical Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in designing and maintaining electrical systems in construction. Proven track record of delivering high-quality solutions and optimizing performance in complex projects.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [
+        "MATLAB",
+        "AutoCAD Electrical"
+      ],
+      "tools": [
+        "ETAP",
+        "PLC Programming",
+        "SCADA"
+      ],
+      "concepts": [
+        "Power Systems",
+        "Circuit Design",
+        "Project Management",
+        "Building Electrical Codes"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Electrical Engineer",
+        "company": "GreenTech Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Lead a team of 5 engineers in the design and implementation of electrical systems for a new 20-story office building, resulting in a 10% reduction in energy consumption.",
+          "Overhauled the electrical design process to improve project timelines by 15% and reduce costs by $150,000 annually.",
+          "Implemented an automated reporting system, reducing manual reporting time by 40%."
+        ]
+      },
+      {
+        "title": "Electrical Project Engineer",
+        "company": "Urban Wire Electrical",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed electrical components of a $5 million renewable energy project which resulted in a 25% increase in efficiency.",
+          "Developed detailed schematics and project diagrams, reducing errors by 20%.",
+          "Collaborated with cross-functional teams to deliver projects on schedule, receiving excellent reviews from clients."
+        ]
+      },
+      {
+        "title": "Junior Electrical Engineer",
+        "company": "BrightSpark Construction",
+        "location": "Denver, CO",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the design and integration of electrical systems in commercial buildings, ensuring compliance with safety codes.",
+          "Conducted performance analysis leading to improved reliability and safety standards by 10%.",
+          "Participated in site inspections and reported potential electrical hazards, enhancing site safety awareness."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Electrical Engineering",
+      "school": "University of Colorado Boulder",
+      "location": "Boulder, CO",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Smart Grid Optimization Project",
+        "description": "Led a team to design and implement a smart grid system aimed at enhancing grid reliability and efficiency.",
+        "technologies": [
+          "MATLAB",
+          "Python",
+          "SCADA"
+        ]
+      }
+    ]
+  }
+}

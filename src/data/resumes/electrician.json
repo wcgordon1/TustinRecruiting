@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Electrician Resume Template",
+    "description": "A professional resume template tailored for Electrician positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Electrician",
+    "slug": "electrician",
+    "experience_level": "mid-level",
+    "keywords": [
+      "electrician",
+      "electrical systems",
+      "installation",
+      "repair"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Electrician",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in installing and repairing electrical systems in buildings. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Multimeter",
+        "Conduit Bender",
+        "Cable Puller",
+        "Circuit Analyzer"
+      ],
+      "concepts": [
+        "Blueprint Reading",
+        "Electrical Installations",
+        "System Troubleshooting",
+        "Safety Procedures"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Electrician",
+        "company": "Bright Energy Corp",
+        "location": "Dallas, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 electricians to complete a commercial electrical system installation 20% ahead of schedule.",
+          "Reduced electrical system downtime by 30% through regular maintenance and predictive inspections.",
+          "Trained junior electricians on safety procedures, improving team-wide compliance by 25%."
+        ]
+      },
+      {
+        "title": "Electrician",
+        "company": "Citywide Electric Services",
+        "location": "Houston, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully installed electrical systems for two high-rise buildings with zero safety incidents.",
+          "Integrated energy-efficient lighting systems, achieving a 15% reduction in energy consumption.",
+          "Collaborated with engineers to troubleshoot and resolve complex installation issues, improving system reliability."
+        ]
+      },
+      {
+        "title": "Junior Electrician",
+        "company": "Powersmith Electrical Co.",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the wiring of 50+ residential units, maintaining high quality and safety standards.",
+          "Developed expertise in reading blueprints and schematics, facilitating smoother project executions.",
+          "Contributed to a project that upgraded electrical systems in a school building, enhancing learning conditions."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Associate of Applied Science in Electrical Technology",
+      "school": "Technical College of Austin",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Green Energy Building Upgrade",
+        "description": "Overhauled the electrical infrastructure of a mid-sized office building to support green energy solutions and reduce carbon footprint.",
+        "technologies": [
+          "LED Lighting",
+          "Solar Panels",
+          "Energy Monitoring Software"
+        ]
+      }
+    ]
+  }
+}

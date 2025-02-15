@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Master Electrician Resume Template",
+    "description": "A professional resume template tailored for Master Electrician positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Master Electrician",
+    "slug": "master-electrician",
+    "experience_level": "senior",
+    "keywords": [
+      "Master Electrician",
+      "Electrical Projects",
+      "Code Compliance"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Master Electrician",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in leading electrical projects and ensuring code compliance. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "MS Project",
+        "PLC Programming"
+      ],
+      "concepts": [
+        "Project management",
+        "Team leadership",
+        "Code compliance",
+        "Safety standards"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Lead Master Electrician",
+        "company": "Bright Future Electrical Solutions",
+        "location": "Phoenix, AZ",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 10 electricians on a $2M commercial project, completing it 15% under budget and 3 weeks ahead of schedule.",
+          "Implemented a new safety protocol, reducing onsite incidents by 40%.",
+          "Coordinated with architects and engineers to ensure full code compliance and quality standards."
+        ]
+      },
+      {
+        "title": "Senior Electrician",
+        "company": "PowerHouse Electrical Corp",
+        "location": "Phoenix, AZ",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed electrical installations and upgrades for a 100,000 sq ft manufacturing facility, enhancing productivity by 25%.",
+          "Trained and mentored five junior electricians, resulting in a 30% increase in team efficiency.",
+          "Developed and implemented an in-house electrical safety training program."
+        ]
+      },
+      {
+        "title": "Junior Electrician",
+        "company": "Metro Electric Co.",
+        "location": "Scottsdale, AZ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the installation of complex electrical systems for residential and commercial clients, maintaining a 95% customer satisfaction rate.",
+          "Diagnosed and repaired electrical malfunctions, reducing service call-backs by 20%.",
+          "Conducted routine inspections and maintenance to ensure compliance with national electrical codes."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Electrical Engineering",
+      "school": "Arizona State University",
+      "location": "Tempe, AZ",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Renewable Energy Installation",
+        "description": "Led the installation and integration of a solar energy system for a new residential development, reducing energy costs by 30%.",
+        "technologies": [
+          "Solar PV Systems",
+          "Battery Storage",
+          "Energy Management Software"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "title": "Landscaper Resume Template",
+    "description": "A professional resume template tailored for Landscaper positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Landscaper",
+    "slug": "landscaper",
+    "experience_level": "entry-level",
+    "keywords": [
+      "landscape design",
+      "outdoor maintenance"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Landscaper",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Designing and maintaining outdoor spaces. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "SketchUp",
+        "MS Office Suite"
+      ],
+      "concepts": [
+        "Sustainable design",
+        "Plant identification",
+        "Soil health management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Landscape Designer",
+        "company": "GreenScape Innovations",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Designed and implemented over 15 unique residential landscaping projects, increasing curb appeal and property value.",
+          "Coordinated with a team to develop sustainable garden designs that reduced water usage by 20%.",
+          "Managed a project budget exceeding $100,000, ensuring completion within financial and timeline constraints."
+        ]
+      },
+      {
+        "title": "Junior Landscaper",
+        "company": "Nature's Touch Landscaping",
+        "location": "Houston, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the development and maintenance of public parks, contributing to a 25% increase in visitor satisfaction.",
+          "Executed detailed planting plans for commercial and residential projects.",
+          "Received recognition for creative problem-solving during complex terrain management tasks."
+        ]
+      },
+      {
+        "title": "Landscape Assistant",
+        "company": "EcoVision Gardens",
+        "location": "San Antonio, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Provided support in the installation of rain gardens, aiding in stormwater management.",
+          "Regularly maintained and enhanced the aesthetic quality of outdoor spaces for clients.",
+          "Learned key horticultural practices which improved efficiencies in garden maintenance."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Landscape Architecture",
+      "school": "Texas A&M University",
+      "location": "College Station, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Community Park Revitalization",
+        "description": "Led a team to transform a neglected park into a vibrant community space, incorporating eco-friendly designs and local flora.",
+        "technologies": [
+          "AutoCAD",
+          "SketchUp",
+          "ArcGIS"
+        ]
+      }
+    ]
+  }
+}

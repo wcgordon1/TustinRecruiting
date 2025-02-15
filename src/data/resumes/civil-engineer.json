@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Civil Engineer Resume Template",
+    "description": "A professional resume template tailored for Civil Engineer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Civil Engineer",
+    "slug": "civil-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "infrastructure design",
+      "project management",
+      "civil engineering"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Civil Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Designing and overseeing infrastructure projects. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "AutoCAD",
+        "Civil 3D",
+        "Revit"
+      ],
+      "frameworks": [
+        "Project management principles"
+      ],
+      "tools": [
+        "STAAD Pro",
+        "SAP2000",
+        "MS Project"
+      ],
+      "concepts": [
+        "Structural analysis",
+        "Geotechnical engineering",
+        "Hydrology"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Civil Engineer",
+        "company": "Greenfield Design Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the design and execution of a $30 million urban infrastructure project, enhancing city traffic flow by 25%.",
+          "Developed innovative drainage systems that improved sustainability and reduced costs by 15%.",
+          "Coordinated cross-functional teams of architects, planners, and government officials to ensure project compliance and efficiency."
+        ]
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "UrbanTech Engineering Group",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed multiple highway and bridge construction projects with budgets totaling $50 million.",
+          "Implemented advanced surveying techniques that reduced time to project delivery by 10%.",
+          "Collaborated with environmental scientists to achieve efficient waste management practices on-site."
+        ]
+      },
+      {
+        "title": "Junior Civil Engineer",
+        "company": "TerraBuild Corporation",
+        "location": "Denver, CO",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the preparation of design specifications for residential and commercial builds.",
+          "Gained proficiency in AutoCAD and STAAD Pro, contributing to a 20% reduction in design time.",
+          "Conducted field surveys and inspections, ensuring adherence to safety standards and protocols."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Civil Engineering",
+      "school": "University of Colorado Boulder",
+      "location": "Boulder, CO",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "City Park Redevelopment",
+        "description": "Led the civil engineering team in redesigning a 50-acre city park to incorporate sustainable features and improve accessibility.",
+        "technologies": [
+          "AutoCAD",
+          "Revit",
+          "Civil 3D"
+        ]
+      }
+    ]
+  }
+}

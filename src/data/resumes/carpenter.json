@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Carpenter Resume Template",
+    "description": "A professional resume template tailored for Carpenter positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Carpenter",
+    "slug": "carpenter",
+    "experience_level": "mid-level",
+    "keywords": [
+      "construction",
+      "woodworking",
+      "carpentry",
+      "structures",
+      "repairs"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Carpenter",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6+ years of experience in constructing and repairing wooden structures. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Woodworking Tools",
+        "Power Tools",
+        "Blueprint Reading",
+        "Measurement Tools"
+      ],
+      "concepts": [
+        "Project Management",
+        "Safety Protocols",
+        "Team Collaboration",
+        "Problem Solving"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Carpenter",
+        "company": "Greenwood Homes",
+        "location": "Seattle, WA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 carpenters in the construction of over 20 custom homes, improving efficiency by 15%",
+          "Implemented safety protocols that reduced on-site accidents by 30%",
+          "Recognized for delivering projects ahead of schedule by leveraging innovative building techniques"
+        ]
+      },
+      {
+        "title": "Journeyman Carpenter",
+        "company": "CraftBuild Contractors",
+        "location": "Portland, OR",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Contributed to the successful renovation of historic buildings, preserving architectural integrity",
+          "Streamlined processes to reduce material waste by 20%",
+          "Trained and mentored 2 apprentice carpenters, enhancing their skills and career growth"
+        ]
+      },
+      {
+        "title": "Apprentice Carpenter",
+        "company": "Timberline Construction",
+        "location": "Portland, OR",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in various carpentry projects, supporting senior carpenters in constructing residential structures",
+          "Gained proficiency in using a range of power tools and woodworking equipment",
+          "Completed training programs in blueprint reading and safety regulations"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Associate of Applied Science in Carpentry",
+      "school": "Oregon State University",
+      "location": "Corvallis, OR",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Eco-Friendly Tiny Home Construction",
+        "description": "Led the construction of a series of eco-friendly tiny homes utilizing sustainable materials and energy-efficient designs.",
+        "technologies": [
+          "Renewable Materials",
+          "Solar Panel Integration",
+          "Energy Efficiency Solutions"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Surveyor Resume Template",
+    "description": "A professional resume template tailored for Surveyor positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Surveyor",
+    "slug": "surveyor",
+    "experience_level": "mid-level",
+    "keywords": [
+      "surveying",
+      "land measurement",
+      "construction boundaries",
+      "GPS",
+      "GIS"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Surveyor",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 5+ years of experience in measuring land and defining construction boundaries. Proven track record of delivering high-quality solutions and optimizing performance using advanced surveying tools and technologies.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "Total Station",
+        "GPS",
+        "GIS"
+      ],
+      "concepts": [
+        "Land Surveying",
+        "Boundary Definition",
+        "Topographic Surveying"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Surveyor",
+        "company": "Precision Land Surveying Inc.",
+        "location": "Los Angeles, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 3 junior surveyors in a project redefining boundaries for a 500-acre industrial park, increasing land accessibility by 15%.",
+          "Implemented new GPS-based surveying techniques, reducing field work time by 20%.",
+          "Coordinated with civil engineers to ensure compliance with zoning and planning regulations during project lifecycle."
+        ]
+      },
+      {
+        "title": "Assistant Surveyor",
+        "company": "Accurate Mapping Services",
+        "location": "San Diego, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in topographic and boundary surveys for municipal projects covering over 1500 acres and ensured data accuracy.",
+          "Streamlined data collection processes by integrating new GIS software, enhancing analysis precision by 10%.",
+          "Trained junior team members on the use of Total Station instruments."
+        ]
+      },
+      {
+        "title": "Junior Surveyor",
+        "company": "GeoTech Solutions",
+        "location": "Fresno, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Executed field surveys for residential and commercial properties, ensuring accurate plot measurements.",
+          "Collaborated with team on implementing AutoCAD solutions for improved survey presentations.",
+          "Contributed to project documentation, leading to a 5% reduction in processing errors."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Civil Engineering",
+      "school": "California State University",
+      "location": "Sacramento, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "City Center Redevelopment",
+        "description": "Comprehensive survey and redevelopment plan for the downtown area, focusing on optimizing public amenities and infrastructure.",
+        "technologies": [
+          "AutoCAD",
+          "GIS",
+          "GPS"
+        ]
+      }
+    ]
+  }
+}

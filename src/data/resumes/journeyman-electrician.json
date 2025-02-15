@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Journeyman Electrician Resume Template",
+    "description": "A professional resume template tailored for Journeyman Electrician positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Journeyman Electrician",
+    "slug": "journeyman-electrician",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Electrician",
+      "Installation",
+      "Repair",
+      "Electrical Systems",
+      "Troubleshooting"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Journeyman Electrician",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Performing advanced electrical installations and repairs. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Multimeter",
+        "Megger",
+        "Oscilloscope",
+        "Wire Strippers"
+      ],
+      "concepts": [
+        "Circuit Analysis",
+        "Electrical Codes",
+        "Troubleshooting",
+        "Safety Procedures"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Journeyman Electrician",
+        "company": "Bright Spark Electrical Solutions",
+        "location": "Seattle, WA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 electricians in rewiring Seattle Central Hospital, completing the project two weeks ahead of schedule and with zero safety incidents.",
+          "Implemented a new maintenance schedule, reducing unscheduled downtime by 30%.",
+          "Received company award for Excellence in Safety Performance for maintaining a zero-accident record over an 18-month period."
+        ]
+      },
+      {
+        "title": "Electrician",
+        "company": "Volt Masters Inc.",
+        "location": "Portland, OR",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed electrical installations in over 40 commercial new-builds, adhering to all safety and quality standards.",
+          "Trained 3 apprentices who successfully achieved journeyman status.",
+          "Developed and implemented energy-efficient upgrades, increasing the energy savings by 15% on average per project."
+        ]
+      },
+      {
+        "title": "Apprentice Electrician",
+        "company": "Safe Current Electrical Contractors",
+        "location": "Boise, ID",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted journeymen with complex troubleshooting tasks, resulting in a 20% faster resolution rate.",
+          "Earned a reputation for meticulous wiring and safe practice, recognized as Apprentice of the Quarter twice.",
+          "Helped reduce installation time by optimizing tool organization on job sites."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Associate of Applied Science in Electrical Technology",
+      "school": "Boise State University",
+      "location": "Boise, ID",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Solar Power Installation Project",
+        "description": "Spearheaded a project to install and configure a solar power system at a new residential development, integrating battery storage solutions.",
+        "technologies": [
+          "Solar Panels",
+          "Inverters",
+          "Battery Storage Systems"
+        ]
+      }
+    ]
+  }
+}

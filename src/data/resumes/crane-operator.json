@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Crane Operator Resume Template",
+    "description": "A professional resume template tailored for Crane Operator positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Crane Operator",
+    "slug": "crane-operator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Crane Operation",
+      "Heavy Machinery",
+      "Construction Safety"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Crane Operator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in operating heavy cranes for lifting materials. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Mobile Cranes",
+        "Tower Cranes",
+        "Hydraulic Cranes"
+      ],
+      "concepts": [
+        "Load Management",
+        "Safety Protocols",
+        "Site Inspection"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Crane Operator",
+        "company": "Skyline Construction",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully managed crane operations for multiple high-rise projects, ensuring zero incidents.",
+          "Implemented a new maintenance schedule that reduced downtime by 15%.",
+          "Trained 5 junior crane operators on safety and operational efficiency."
+        ]
+      },
+      {
+        "title": "Crane Operator",
+        "company": "Pinnacle Builders",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Operated tower cranes for a variety of projects including commercial and infrastructure developments.",
+          "Enhanced safety protocols, resulting in a 10% decrease in safety incidents.",
+          "Collaborated with site managers to improve material loading efficiency by 20%."
+        ]
+      },
+      {
+        "title": "Junior Crane Operator",
+        "company": "Blue Ridge Construction",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the operation of mobile and tower cranes under the guidance of senior operators.",
+          "Played a key role in the successful completion of a large-scale bridge project.",
+          "Achieved a perfect safety record throughout the training period."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Certificate in Heavy Equipment Operations",
+      "school": "Central Technical College",
+      "location": "Portland, OR",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Downtown High-Rise Construction",
+        "description": "Managed crane operations for a 50-story building project, contributing to timely project completion and zero accidents.",
+        "technologies": [
+          "Mobile Cranes",
+          "Safety Software",
+          "Load Management Systems"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Construction Laborer Resume Template",
+    "description": "A professional resume template tailored for Construction Laborer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Construction Laborer",
+    "slug": "construction-laborer",
+    "experience_level": "entry-level",
+    "keywords": [
+      "construction",
+      "laborer",
+      "construction site",
+      "project support"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Construction Laborer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Performing general tasks on construction sites. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Power Tools",
+        "Heavy Machinery"
+      ],
+      "concepts": [
+        "Safety Protocols",
+        "Team Collaboration",
+        "Building Codes"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Lead Construction Laborer",
+        "company": "BuildRight Construction",
+        "location": "Springfield, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 laborers in the development of a large-scale commercial property, completed 4 weeks ahead of schedule.",
+          "Implemented a new safety protocol that reduced on-site injuries by 30%.",
+          "Managed inventory and equipment maintenance, ensuring all tools were in optimal condition."
+        ]
+      },
+      {
+        "title": "Construction Laborer",
+        "company": "Skyline Builders",
+        "location": "Peoria, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the construction of residential housing, improving framework assembly speed by 15%.",
+          "Received Employee of the Month award three times for exemplary performance and dedication.",
+          "Trained junior laborers on equipment operation and safety standards."
+        ]
+      },
+      {
+        "title": "Junior Construction Laborer",
+        "company": "FutureBuild Inc.",
+        "location": "Normal, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Participated in the setup and breakdown of temporary structures, enhancing efficiency by 20%.",
+          "Completed on-the-job training to achieve proficiency in the use of power tools and machinery.",
+          "Assisted in the delivery of construction materials, consistently meeting project deadlines."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "High School Diploma",
+      "school": "Normal High School",
+      "location": "Normal, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Community Park Development",
+        "description": "Contributed to the construction of a community park, focusing on sustainable building practices.",
+        "technologies": [
+          "Excavators",
+          "Dump Trucks",
+          "Concrete Mixers"
+        ]
+      }
+    ]
+  }
+}

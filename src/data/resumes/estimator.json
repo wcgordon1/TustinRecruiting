@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Estimator Resume Template",
+    "description": "A professional resume template tailored for Estimator positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Estimator",
+    "slug": "estimator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Construction Estimating",
+      "Cost Analysis",
+      "Project Budgeting"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Estimator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in calculating costs and budgets for construction projects. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "Bluebeam",
+        "Microsoft Excel"
+      ],
+      "concepts": [
+        "Cost Estimation",
+        "Budget Management",
+        "Project Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Estimator",
+        "company": "Precision Construction Co.",
+        "location": "Denver, CO",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully estimated over $50 million in project costs, leading to a 95% project approval rate.",
+          "Implemented innovative estimating techniques, reducing bid preparation time by 20%.",
+          "Collaborated with project managers to optimize costing strategies, achieving cost savings of up to 15%."
+        ]
+      },
+      {
+        "title": "Estimator",
+        "company": "Pacific Builders Group",
+        "location": "Boise, ID",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed and developed estimates for both commercial and residential projects ranging from $500k to $10 million.",
+          "Enhanced accuracy of estimates by incorporating historical cost data and current market trends.",
+          "Recognized for minimizing post-project budget variances by up to 10% through detailed analysis."
+        ]
+      },
+      {
+        "title": "Junior Estimator",
+        "company": "EverGreen Development",
+        "location": "Salt Lake City, UT",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in preparing detailed cost estimates for over 25 projects, achieving 100% accuracy in projections.",
+          "Streamlined the bid comparison process, leading to a 30% increase in efficiency.",
+          "Coordinated with suppliers and subcontractors to ensure cost-effectiveness and timely delivery of materials."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Civil Engineering",
+      "school": "University of Utah",
+      "location": "Salt Lake City, UT",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "City Central Apartment Complex",
+        "description": "Responsible for estimating project costs and budget for a 200-unit residential complex, ensuring alignment with financial constraints.",
+        "technologies": [
+          "Bluebeam",
+          "AutoCAD",
+          "Microsoft Excel"
+        ]
+      }
+    ]
+  }
+}

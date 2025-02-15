@@ -13,184 +13,184 @@ dotenv.config({ path: join(__dirname, 'config', '.env.local') });
 
 const RESUMES_TO_BUILD = [
     {
-        "role": "Chief Executive Officer (CEO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Overseeing overall business strategy and operations"
-      },
-      {
-        "role": "Chief Operating Officer (COO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Managing daily business operations and efficiency"
-      },
-      {
-        "role": "Chief Financial Officer (CFO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Overseeing financial planning, reporting, and strategy"
-      },
-      {
-        "role": "Chief Technology Officer (CTO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Driving technology strategy and innovation"
-      },
-      {
-        "role": "Chief Information Officer (CIO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Managing IT infrastructure and digital transformation"
-      },
-      {
-        "role": "Chief Marketing Officer (CMO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Leading marketing, branding, and customer engagement"
-      },
-      {
-        "role": "Chief Revenue Officer (CRO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Maximizing revenue generation across all sales channels"
-      },
-      {
-        "role": "Chief Human Resources Officer (CHRO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Managing talent acquisition, employee relations, and culture"
-      },
-      {
-        "role": "Chief Product Officer (CPO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Overseeing product development and innovation"
-      },
-      {
-        "role": "Chief Customer Officer (CCO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Ensuring customer satisfaction and loyalty"
-      },
-      {
-        "role": "Chief Data Officer (CDO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Managing data strategy, governance, and analytics"
-      },
-      {
-        "role": "Chief Risk Officer (CRO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Overseeing risk management and regulatory compliance"
-      },
-      {
-        "role": "Chief Innovation Officer (CINO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Driving innovation and new business opportunities"
-      },
-      {
-        "role": "Chief Legal Officer (CLO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Managing legal strategy and corporate compliance"
-      },
-      {
-        "role": "Chief Strategy Officer (CSO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Developing and executing long-term corporate strategy"
-      },
-      {
-        "role": "Chief Communications Officer (CCO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Managing corporate communication and public relations"
-      },
-      {
-        "role": "Chief Experience Officer (CXO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Enhancing customer and employee experience strategies"
-      },
-      {
-        "role": "Chief Supply Chain Officer (CSCO)",
-        "category": "Executive Leadership",
-        "level": "executive",
-        "focus": "Overseeing logistics, procurement, and supply chain strategy"
-      },
-      {
-        "role": "General Manager",
-        "category": "Executive Leadership",
+        "role": "Construction Manager",
+        "category": "Construction",
         "level": "senior",
-        "focus": "Managing business unit operations and profitability"
+        "focus": "Overseeing construction projects from planning to completion"
       },
       {
-        "role": "Vice President of Sales",
-        "category": "Executive Leadership",
-        "level": "senior",
-        "focus": "Leading sales teams and revenue growth strategies"
+        "role": "Project Engineer",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Managing technical aspects of construction projects"
       },
       {
-        "role": "Vice President of Marketing",
-        "category": "Executive Leadership",
-        "level": "senior",
-        "focus": "Overseeing marketing campaigns and brand strategy"
+        "role": "Civil Engineer",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Designing and overseeing infrastructure projects"
       },
       {
-        "role": "Vice President of Operations",
-        "category": "Executive Leadership",
-        "level": "senior",
-        "focus": "Managing and optimizing business operations"
+        "role": "Structural Engineer",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Ensuring structural integrity of buildings and bridges"
       },
       {
-        "role": "Vice President of Finance",
-        "category": "Executive Leadership",
-        "level": "senior",
-        "focus": "Leading financial strategy and budget planning"
+        "role": "Mechanical Engineer",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Designing mechanical systems for buildings"
       },
       {
-        "role": "Vice President of Engineering",
-        "category": "Executive Leadership",
-        "level": "senior",
-        "focus": "Overseeing engineering teams and product development"
+        "role": "Electrical Engineer",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Designing and maintaining electrical systems in construction"
       },
       {
-        "role": "Vice President of Customer Success",
-        "category": "Executive Leadership",
+        "role": "General Contractor",
+        "category": "Construction",
         "level": "senior",
-        "focus": "Ensuring customer satisfaction and retention"
+        "focus": "Managing and coordinating construction projects"
       },
       {
-        "role": "Director of Business Development",
-        "category": "Executive Leadership",
+        "role": "Site Superintendent",
+        "category": "Construction",
         "level": "senior",
-        "focus": "Driving strategic partnerships and market expansion"
+        "focus": "Overseeing daily construction site operations"
       },
       {
-        "role": "Director of Product Management",
-        "category": "Executive Leadership",
-        "level": "senior",
-        "focus": "Overseeing product lifecycle and innovation"
+        "role": "Estimator",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Calculating costs and budgets for construction projects"
       },
       {
-        "role": "Director of IT",
-        "category": "Executive Leadership",
-        "level": "senior",
-        "focus": "Managing IT operations and security infrastructure"
+        "role": "Surveyor",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Measuring land and defining construction boundaries"
       },
       {
-        "role": "Director of Human Resources",
-        "category": "Executive Leadership",
-        "level": "senior",
-        "focus": "Leading talent management and company culture initiatives"
+        "role": "Electrician",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Installing and repairing electrical systems in buildings"
       },
       {
-        "role": "Director of Finance",
-        "category": "Executive Leadership",
+        "role": "Journeyman Electrician",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Performing advanced electrical installations and repairs"
+      },
+      {
+        "role": "Master Electrician",
+        "category": "Construction",
         "level": "senior",
-        "focus": "Overseeing financial operations and risk management"
+        "focus": "Leading electrical projects and ensuring code compliance"
+      },
+      {
+        "role": "Plumber",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Installing and maintaining plumbing systems"
+      },
+      {
+        "role": "HVAC Technician",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Installing and servicing heating and cooling systems"
+      },
+      {
+        "role": "Welder",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Joining metal parts in construction projects"
+      },
+      {
+        "role": "Crane Operator",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Operating heavy cranes for lifting materials"
+      },
+      {
+        "role": "Heavy Equipment Operator",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Operating machinery like bulldozers and excavators"
+      },
+      {
+        "role": "Mason",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Building structures with brick, stone, and concrete"
+      },
+      {
+        "role": "Carpenter",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Constructing and repairing wooden structures"
+      },
+      {
+        "role": "Roofer",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Installing and repairing roofs on buildings"
+      },
+      {
+        "role": "Drywall Installer",
+        "category": "Construction",
+        "level": "entry-level",
+        "focus": "Installing drywall panels in buildings"
+      },
+      {
+        "role": "Concrete Finisher",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Smoothing and finishing concrete surfaces"
+      },
+      {
+        "role": "Demolition Worker",
+        "category": "Construction",
+        "level": "entry-level",
+        "focus": "Safely tearing down buildings and structures"
+      },
+      {
+        "role": "Glazier",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Installing and repairing glass in buildings"
+      },
+      {
+        "role": "Steel Erector",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Assembling steel structures and frameworks"
+      },
+      {
+        "role": "Construction Laborer",
+        "category": "Construction",
+        "level": "entry-level",
+        "focus": "Performing general tasks on construction sites"
+      },
+      {
+        "role": "Landscaper",
+        "category": "Construction",
+        "level": "entry-level",
+        "focus": "Designing and maintaining outdoor spaces"
+      },
+      {
+        "role": "Scaffolder",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Erecting and dismantling scaffolding for workers"
+      },
+      {
+        "role": "Tiler",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Installing ceramic and stone tiles on surfaces"
       }
 ];
 

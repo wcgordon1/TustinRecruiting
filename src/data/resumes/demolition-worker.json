@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Demolition Worker Resume Template",
+    "description": "A professional resume template tailored for Demolition Worker positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Demolition Worker",
+    "slug": "demolition-worker",
+    "experience_level": "entry-level",
+    "keywords": [
+      "demolition",
+      "construction safety"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Demolition Worker",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in safely tearing down buildings and structures. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Excavators",
+        "Jackhammers",
+        "Bulldozers",
+        "Safety harness systems"
+      ],
+      "concepts": [
+        "Structural analysis",
+        "Safety compliance",
+        "Site preparation",
+        "Team collaboration"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Demolition Specialist",
+        "company": "Urban Wrecking Solutions",
+        "location": "Phoenix, AZ",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 in the successful demolition of high-rise structures, ensuring zero safety incidents during operations.",
+          "Implemented new safety protocols that reduced onsite accidents by 30%.",
+          "Coordinated with city officials to meet all regulatory compliance on large-scale demolition projects."
+        ]
+      },
+      {
+        "title": "Senior Demolition Operator",
+        "company": "Precision Demo Services",
+        "location": "Las Vegas, NV",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Facilitated the demolition of over 50 residential properties in compliance with safety standards.",
+          "Collaborated with engineers to develop effective demolition plans, reducing project timelines by 15%.",
+          "Trained and mentored junior operators on machinery safety and effective demolition techniques."
+        ]
+      },
+      {
+        "title": "Junior Demolition Worker",
+        "company": "Safe Demo Inc.",
+        "location": "Reno, NV",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the dismantling of old commercial structures, adhering strictly to safety procedures.",
+          "Operated heavy machinery and tools under supervision, gaining hands-on experience.",
+          "Contributed to the cleanup and recycling of materials, supporting company sustainability efforts."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Certificate in Construction and Demolition",
+      "school": "Nevada Technical Institute",
+      "location": "Reno, NV",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Urban Renewal Demolition Project",
+        "description": "Participated in a large-scale urban renewal project involving the demolition of outdated structures for new developments.",
+        "technologies": [
+          "Excavators",
+          "Cranes",
+          "Advanced safety gear"
+        ]
+      }
+    ]
+  }
+}

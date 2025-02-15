@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Tiler Resume Template",
+    "description": "A professional resume template tailored for Tiler positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Tiler",
+    "slug": "tiler",
+    "experience_level": "mid-level",
+    "keywords": [
+      "tiling",
+      "ceramic tiles",
+      "stone tiles",
+      "surface preparation",
+      "construction"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Tiler",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in installing ceramic and stone tiles on surfaces. Proven track record of delivering high-quality solutions and optimizing performance within the construction industry.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Tile cutters",
+        "Grout floats",
+        "Tile saws",
+        "Laser levels"
+      ],
+      "concepts": [
+        "Surface preparation",
+        "Tile alignment",
+        "Moisture sealing",
+        "Pattern designing",
+        "Safety compliance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Tiler",
+        "company": "Precision Tiling Co.",
+        "location": "Miami, FL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 tilers to complete a 10,000 sq. ft. commercial tiling project ahead of schedule, enhancing efficiency by 15%",
+          "Implemented a new quality assurance process that reduced tile installation errors by 20%",
+          "Designed and executed custom tile patterns for high-profile clients, increasing customer satisfaction rates by 30%"
+        ]
+      },
+      {
+        "title": "Intermediate Tiler",
+        "company": "Elite Stone & Tile",
+        "location": "Orlando, FL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully completed over 50 residential and commercial tiling projects, receiving consistent client praise for attention to detail",
+          "Trained junior tilers on advanced tile laying techniques and tools, improving team productivity by 25%",
+          "Collaborated with architects and interior designers to select the best tile materials and layouts for each project"
+        ]
+      },
+      {
+        "title": "Junior Tiler",
+        "company": "Every Tile Matters LLC",
+        "location": "Tampa, FL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the installation of ceramic tiles for 100+ bathrooms and kitchens, maintaining strict quality standards",
+          "Developed skills in mixing, matching, and installing tiles while adhering to project timelines",
+          "Contributed to the company's best monthly safety record by adhering to all safety protocols and procedures"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Certificate in Tiling Techniques",
+      "school": "Florida Construction Institute",
+      "location": "Miami, FL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Luxury Resort Pool Area Tiling",
+        "description": "Oversaw the tiling of a 5,000 sq. ft. luxury resort pool area, including innovative design implementation and waterproofing techniques.",
+        "technologies": [
+          "Waterproof membranes",
+          "Laser alignment technology",
+          "Custom tile design software"
+        ]
+      }
+    ]
+  }
+}

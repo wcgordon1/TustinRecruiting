@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "HVAC Technician Resume Template",
+    "description": "A professional resume template tailored for HVAC Technician positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "HVAC Technician",
+    "slug": "hvac-technician",
+    "experience_level": "mid-level",
+    "keywords": [
+      "HVAC Technician",
+      "Heating and Cooling Systems",
+      "Maintenance"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "HVAC Technician",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in installing and servicing heating and cooling systems. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "HVAC Blueprinting",
+        "Diagnostics Equipment",
+        "Preventive Maintenance"
+      ],
+      "concepts": [
+        "Thermodynamics",
+        "System Optimization",
+        "Customer Service"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior HVAC Technician",
+        "company": "CoolTech Services",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Lead a team of 5 technicians in the installation of HVAC systems in commercial buildings, resulting in a 20% increase in overall efficiency.",
+          "Implemented preventive maintenance schedules, reducing emergency repair calls by 35%.",
+          "Trained junior technicians, improving team productivity by 25%."
+        ]
+      },
+      {
+        "title": "HVAC Technician",
+        "company": "Climate Control Corp.",
+        "location": "Oakland, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully completed over 300 installation and repair projects with a customer satisfaction rate of 95%.",
+          "Pioneered a toolkit approach that accelerated the diagnostic process by 15%.",
+          "Collaborated with senior engineers in developing an energy-efficient solution for residential clients."
+        ]
+      },
+      {
+        "title": "Junior HVAC Technician",
+        "company": "AirFlow Solutions",
+        "location": "Berkeley, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the installation of over 150 HVAC units with a focus on quality and efficiency.",
+          "Developed a quick-reference guide for troubleshooting common HVAC issues, adopted by the entire team.",
+          "Awarded 'Rookie of the Year' for outstanding dedication and performance."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Mechanical Engineering",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Energy Efficiency Optimization",
+        "description": "Led a project to optimize energy usage in HVAC systems across a commercial fleet, resulting in a 15% reduction in energy consumption.",
+        "technologies": [
+          "HVAC Systems",
+          "Energy Auditing Tools",
+          "Data Analysis Software"
+        ]
+      }
+    ]
+  }
+}

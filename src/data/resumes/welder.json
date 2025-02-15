@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "title": "Welder Resume Template",
+    "description": "A professional resume template tailored for Welder positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Welder",
+    "slug": "welder",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Welding",
+      "Metal Fabrication"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Welder",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in joining metal parts in construction projects. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "MIG, TIG, and Stick Welding",
+        "Plasma Cutting",
+        "Arc Welding"
+      ],
+      "concepts": [
+        "Blueprint Interpretation",
+        "Safety Protocols",
+        "Quality Assurance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Welder",
+        "company": "MetalWorks Solutions",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of six welders to complete a high-profile project ahead of schedule, saving the company $50,000 in labor costs.",
+          "Enhanced welding efficiency by 15% through the implementation of a new MIG welding technique.",
+          "Recognized for maintaining a perfect safety record with no incidents over the past three years."
+        ]
+      },
+      {
+        "title": "Welder",
+        "company": "City Fabrications Co.",
+        "location": "St. Louis, MO",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed new welding methods that reduced overall project time by 20%.",
+          "Significantly lowered defect rates by introducing quality assurance checks, leading to a 30% improvement in weld integrity.",
+          "Earned Employee of the Month twice for exceptional performance and dedication to safety."
+        ]
+      },
+      {
+        "title": "Junior Welder",
+        "company": "SteelCraft Inc.",
+        "location": "Kansas City, MO",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the welding of over 100 structural beams for a major bridge project, contributing to its successful completion.",
+          "Completed a comprehensive training program in MIG and TIG welding, enhancing personal skill set.",
+          "Consistently praised for attention to detail and high-quality welds."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "A.A.S. Welding Technology",
+      "school": "Metropolitan Community College",
+      "location": "Kansas City, MO",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Skybridge Construction",
+        "description": "Collaborated in the welding of structural components for the Skybridge, enhancing durability and structural integrity.",
+        "technologies": [
+          "MIG Welding",
+          "Blueprints",
+          "Safety Protocols"
+        ]
+      }
+    ]
+  }
+}

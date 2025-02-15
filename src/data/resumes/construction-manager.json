@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Construction Manager Resume Template",
+    "description": "A professional resume template tailored for Construction Manager positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Construction Manager",
+    "slug": "construction-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "construction management",
+      "project oversight",
+      "team leadership",
+      "budget management",
+      "safety compliance"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Construction Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing construction projects from planning to completion. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "MS Project",
+        "Primavera P6",
+        "Procore"
+      ],
+      "concepts": [
+        "Project Management",
+        "Risk Assessment",
+        "Resource Allocation",
+        "Budgeting",
+        "Contract Negotiation",
+        "Safety Compliance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Construction Manager",
+        "company": "Harbor Builders Inc.",
+        "location": "Seattle, WA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 15 in the successful completion of a $50 million commercial building project, delivered one month ahead of schedule and under budget.",
+          "Improved project timeline efficiency by 20% by implementing agile methodologies in construction management.",
+          "Achieved a 98% safety compliance rate across all ongoing projects by revamping safety protocols and conducting regular training sessions."
+        ]
+      },
+      {
+        "title": "Construction Project Manager",
+        "company": "Skyline Developments",
+        "location": "Portland, OR",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed multiple residential and commercial construction projects with budgets up to $30 million, consistently meeting or exceeding project forecasts.",
+          "Reduced material costs by 15% through strategic supplier negotiations and innovative resource allocation.",
+          "Coordinated with architects and engineers to ensure design specifications were met, resulting in a 10% reduction in rework."
+        ]
+      },
+      {
+        "title": "Assistant Construction Manager",
+        "company": "Metro Construction Group",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in managing large-scale urban development projects, contributing to a 25% increase in project delivery efficiency.",
+          "Played a key role in implementing an updated project tracking system, improving reporting accuracy by 30%.",
+          "Developed strong working relationships with subcontractors, enhancing team cohesion and project collaboration."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Construction Management",
+      "school": "California State University, Long Beach",
+      "location": "Long Beach, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Downtown Commercial Complex",
+        "description": "Managed the construction of a large-scale downtown commercial complex, integrating sustainable building practices and achieving LEED certification.",
+        "technologies": [
+          "AutoCAD",
+          "LEED Standards",
+          "Primavera P6"
+        ]
+      }
+    ]
+  }
+}

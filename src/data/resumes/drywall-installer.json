@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "title": "Drywall Installer Resume Template",
+    "description": "A professional resume template tailored for Drywall Installer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Drywall Installer",
+    "slug": "drywall-installer",
+    "experience_level": "entry-level",
+    "keywords": [
+      "drywall installation",
+      "construction",
+      "teamwork"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Drywall Installer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in installing drywall panels in buildings. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Drywall taping tools",
+        "Power drills",
+        "Screw guns"
+      ],
+      "concepts": [
+        "Drywall installation",
+        "Safety compliance",
+        "Blueprint interpretation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Drywall Installer",
+        "company": "BuildRite Construction Co.",
+        "location": "Los Angeles, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 installers to complete a 50,000 sq. ft. commercial project two weeks ahead of schedule, saving the company $15,000 in labor costs.",
+          "Trained junior installers on the efficient use of new tools and techniques, resulting in a 10% increase in team productivity."
+        ]
+      },
+      {
+        "title": "Drywall Installer",
+        "company": "Perfect Walls Inc.",
+        "location": "San Diego, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully installed over 100,000 sq. ft. of drywall in residential projects, consistently receiving positive feedback from clients.",
+          "Implemented a new inventory system that reduced material waste by 20%."
+        ]
+      },
+      {
+        "title": "Junior Drywall Installer",
+        "company": "Home Renovation Experts",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the installation of 40,000 sq. ft. of drywall in various residential projects.",
+          "Received 'Employee of the Month' recognition for exceptional teamwork and reliability."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Certificate in Construction Technology",
+      "school": "City Technical Institute",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Green Building Drywall Installation",
+        "description": "Led the drywall installation in an eco-friendly corporate office, implementing sustainable practices that cut down material usage by 30%.",
+        "technologies": [
+          "EcoSmart Sheetrock",
+          "Laser levels",
+          "Dust control tools"
+        ]
+      }
+    ]
+  }
+}
