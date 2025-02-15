@@ -43,7 +43,7 @@
       :class="{'flex': open, 'hidden': !open}"
       class="flex-col flex-grow hidden py-4 md:py-0 md:flex md:justify-end md:flex-row">
       <ul
-        class="gap-2 list-none  items-center md:flex-row flex-col flex">
+        class="gap-2 list-none items-center md:flex-row flex-col flex">
         <li>
           <a
             title="About Tustin Recruiting"
@@ -59,6 +59,41 @@
             class="px-2 lg:px-6 py-2.5 md:px-3 text-sm font-semibold text-slate-600 hover:text-purple-900">
             Recruiting
           </a>
+        </li>
+        <li x-data="{ isOpen: false }" class="relative">
+          <button
+            @click="isOpen = !isOpen"
+            @click.away="isOpen = false"
+            class="px-2 lg:px-6 py-2.5 md:px-3 text-sm font-semibold text-slate-600 hover:text-purple-900 inline-flex items-center gap-1">
+            <span>Helpful</span>
+            <svg 
+              :class="{ 'rotate-180': isOpen }"
+              class="w-4 h-4 transition-transform duration-200"
+              fill="none" 
+              viewBox="0 0 24 24" 
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          <div
+            x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="absolute left-0 mt-2 w-48 bg-white rounded-lg shadow-lg py-2 z-50">
+            <a href="/articles" class="block px-4 py-2 text-sm text-slate-600 hover:text-purple-900 hover:bg-slate-50">
+              Blog Articles
+            </a>
+            <a href="/interview-prep" class="block px-4 py-2 text-sm text-slate-600 hover:text-purple-900 hover:bg-slate-50">
+              Interview Guides
+            </a>
+            <a href="/glossary" class="block px-4 py-2 text-sm text-slate-600 hover:text-purple-900 hover:bg-slate-50">
+              Glossary of Terms
+            </a>
+          </div>
         </li>
         <li>
           <a
