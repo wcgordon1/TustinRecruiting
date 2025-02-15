@@ -1,0 +1,109 @@
+---
+interface Props {
+    currentPage: string;
+    state?: string;
+}
+
+const { currentPage, state } = Astro.props;
+
+// Get current URL path segments
+const pathSegments = Astro.url.pathname.split('/').filter(Boolean);
+
+// Build breadcrumb items based on URL structure
+const breadcrumbs = [
+    { text: "Home", href: "/" }
+];
+
+if (pathSegments.includes('calculator')) {
+    breadcrumbs.push({ text: "Calculators", href: "/calculator" });
+}
+
+// Handle different calculator types
+if (pathSegments.length > 1) {
+    const calculatorType = pathSegments[1];
+    let calculatorTitle = '';
+    
+    // Map URL segments to readable titles
+    switch (calculatorType) {
+        case 'overtime-pay':
+            calculatorTitle = 'Overtime Pay Calculator';
+            break;
+        case 'side-job':
+            calculatorTitle = 'Side Job Calculator';
+            break;
+        case 'salary-converter':
+            calculatorTitle = 'Salary Converter';
+            break;
+        case 'commute-expenses':
+            calculatorTitle = 'Commute Expenses';
+            break;
+        default:
+            calculatorTitle = calculatorType.split('-').map(word => 
+                word.charAt(0).toUpperCase() + word.slice(1)
+            ).join(' ');
+    }
+    
+    // Add calculator type to breadcrumbs
+    if (pathSegments.length === 2) {
+        breadcrumbs.push({ 
+            text: calculatorTitle, 
+            href: `/calculator/${calculatorType}`,
+            current: true 
+        });
+    } else {
+        breadcrumbs.push({ 
+            text: calculatorTitle, 
+            href: `/calculator/${calculatorType}` 
+        });
+        
+        // Handle state/type pages
+        if (pathSegments.length === 3) {
+            const lastSegment = pathSegments[2];
+            breadcrumbs.push({ 
+                text: state || lastSegment.charAt(0).toUpperCase() + lastSegment.slice(1), 
+                href: `${Astro.url.pathname}`,
+                current: true 
+            });
+        }
+    }
+}
+
+// Generate schema.org breadcrumb data
+const schema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": breadcrumbs.map((item, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "item": {
+            "@id": `https://www.bestelectricianjobs.com${item.href}`,
+            "name": item.text
+        }
+    }))
+};
+---
+
+<nav class="py-4 mt-4" aria-label="Breadcrumb">
+    <ol class="flex flex-wrap items-center text-sm text-gray-600">
+        {breadcrumbs.map((item, index) => (
+            <li class="flex items-center whitespace-nowrap">
+                {index > 0 && <span class="mx-2 text-gray-400">/</span>}
+                {item.current ? (
+                    <span class="text-blue-600 font-medium truncate" aria-current="page">
+                        {item.text}
+                    </span>
+                ) : (
+                    <a
+                        href={item.href}
+                        class="text-gray-600 hover:text-blue-600 hover:underline transition-colors truncate"
+                    >
+                        {item.text}
+                    </a>
+                )}
+            </li>
+        ))}
+    </ol>
+</nav>
+
+<!-- Inject schema.org JSON-LD -->
+<script type="application/ld+json" set:html={JSON.stringify(schema)} /> 

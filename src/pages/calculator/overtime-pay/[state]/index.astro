@@ -1,0 +1,460 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import { overtimeRules } from "../../../../data/overtime-rules.mjs";
+import IndexJobs from "@/components/jobs/IndexJobs.astro";
+import CtaOne from "@/components/cta/CtaOne.astro";
+import MoreEntries from "@/components/blog/MoreEntries.astro";
+import Breadcrumbs from "@/components/calculator/Breadcrumbs.astro";
+
+export function getStaticPaths() {
+    const paths = Object.keys(overtimeRules).map(state => {
+        return {
+            params: { state: state.toLowerCase() },
+            props: { stateData: overtimeRules[state], stateName: state }
+        };
+    });
+    return paths;
+}
+
+const { state } = Astro.params;
+const { stateData, stateName } = Astro.props;
+
+// If state doesn't exist in our rules, use Federal rules
+const rules = stateData || overtimeRules.Federal;
+const title = `${stateName} Overtime Pay Calculator`;
+const description = `Calculate overtime pay for ${stateName} based on ${rules.description}.`;
+
+// Prepare rules for client-side
+const clientRules = {
+    daily_limit: rules.daily_limit,
+    weekly_limit: rules.weekly_limit,
+    "2x": rules['2x'] || 0
+};
+
+// Structured Data for SEO
+const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": `${stateName} Overtime Calculator`,
+    "description": description,
+    "applicationCategory": "CalculatorApplication",
+    "operatingSystem": "Web Browser",
+    "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+    }
+};
+
+// Update the state groups to be more grid-friendly
+const stateGroups = {
+    "States with Special Rules": ["California", "Alaska", "Nevada", "Colorado"],
+    "States Following Federal Rules": Object.keys(overtimeRules)
+        .filter(state => !["Federal", "California", "Alaska", "Nevada", "Colorado"].includes(state))
+        .sort()
+};
+---
+
+<BaseLayout {title} {description}>
+    <Fragment slot="head">
+        <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+        <script define:vars={{ clientRules }}>
+            // Make rules available to client-side JavaScript
+            window.overtimeRules = clientRules;
+            console.log('Overtime rules:', window.overtimeRules);
+        </script>
+        <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+    </Fragment>
+
+    <div class="max-w-4xl mx-auto p-6">
+        <Breadcrumbs currentPage="Overtime Pay Calculator" state={stateName} />
+        <h1 class="tracking-tighter text-4xl font-bold mb-6">{stateName} Overtime Pay Calculator</h1>
+        
+        <div class="bg-white rounded-lg shadow p-6 mb-8">
+            <div class="mb-6">
+                <label class="block text-sm font-medium text-gray-700 mb-2">
+                    Change State
+                </label>
+                <div x-data="{ open: false }" class="relative">
+                    <button 
+                        @click="open = !open"
+                        @click.away="open = false"
+                        type="button"
+                        class="w-full p-3 border rounded-lg bg-white text-left flex justify-between items-center hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                    >
+                        <span>{stateName}</span>
+                        <svg class="h-5 w-5 text-gray-700" fill="currentColor" viewBox="0 0 20 20">
+                            <path clip-rule="evenodd" fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" />
+                        </svg>
+                    </button>
+                    
+                    <div 
+                        x-show="open"
+                        x-transition:enter="transition ease-out duration-100"
+                        x-transition:enter-start="transform opacity-0 scale-95"
+                        x-transition:enter-end="transform opacity-100 scale-100"
+                        x-transition:leave="transition ease-in duration-75"
+                        x-transition:leave-start="transform opacity-100 scale-100"
+                        x-transition:leave-end="transform opacity-0 scale-95"
+                        class="absolute z-50 mt-2 w-full bg-white rounded-lg shadow-lg border border-gray-200 max-h-[80vh] overflow-y-auto"
+                    >
+                        <div class="p-4">
+                            <div class="mb-4">
+                                <h3 class="text-sm font-semibold text-gray-900 mb-3">States with Special Rules</h3>
+                                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
+                                    {stateGroups["States with Special Rules"].map(s => (
+                                        <a
+                                            href={`/calculator/overtime-pay/${s.toLowerCase()}`}
+                                            class={`px-3 py-2 text-sm rounded-md text-center transition-colors ${
+                                                s === stateName 
+                                                    ? 'bg-blue-100 text-blue-700 font-medium' 
+                                                    : 'hover:bg-gray-100 text-gray-700'
+                                            }`}
+                                        >
+                                            {s}
+                                        </a>
+                                    ))}
+                                </div>
+                            </div>
+                            
+                            <div>
+                                <h3 class="text-sm font-semibold text-gray-900 mb-3">States Following Federal Rules</h3>
+                                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
+                                    {stateGroups["States Following Federal Rules"].map(s => (
+                                        <a
+                                            href={`/calculator/overtime-pay/${s.toLowerCase()}`}
+                                            class={`px-3 py-2 text-sm rounded-md text-center transition-colors ${
+                                                s === stateName 
+                                                    ? 'bg-blue-100 text-blue-700 font-medium' 
+                                                    : 'hover:bg-gray-100 text-gray-700'
+                                            }`}
+                                        >
+                                            {s}
+                                        </a>
+                                    ))}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p class="mt-2 text-sm text-gray-500">
+                    {stateName === "Federal" ? (
+                        "Select a state to see state-specific overtime rules"
+                    ) : stateGroups["States with Special Rules"].includes(stateName) ? (
+                        `${stateName} has special overtime rules that differ from federal law`
+                    ) : (
+                        `${stateName} follows federal overtime rules under the FLSA`
+                    )}
+                </p>
+            </div>
+
+            <div x-data="{
+                dailyHours: Array(7).fill(''),
+                hourlyRate: '',
+                rules: null,
+                init() {
+                    this.rules = window.overtimeRules;
+                    // Move watchers to init
+                    this.$watch('hourlyRate', (value) => console.log('Rate changed:', value));
+                    this.$watch('dailyHours', (value) => console.log('Hours changed:', value), { deep: true });
+                },
+                calculatePay() {
+                    console.log('calculatePay called with hourlyRate:', this.hourlyRate);
+                    if (!this.rules) return { 
+                        regular: '0.00', 
+                        overtime: '0.00', 
+                        doubletime: '0.00', 
+                        total: '0.00',
+                        regularHours: 0,
+                        overtimeHours: 0,
+                        doubletimeHours: 0
+                    };
+                    
+                    const rate = Number(this.hourlyRate) || 0;
+                    let regularPay = 0;
+                    let overtimePay = 0;
+                    let doubletimePay = 0;
+                    let regularHoursTotal = 0;
+                    let overtimeHoursTotal = 0;
+                    let doubletimeHoursTotal = 0;
+
+                    // Process each day's hours
+                    this.dailyHours.forEach((hours, index) => {
+                        const dailyHours = Number(hours) || 0;
+                        if (dailyHours === 0) return;
+
+                        // California rules
+                        if (this.rules['2x']) {
+                            // Regular hours (first 8)
+                            const regularHours = Math.min(dailyHours, 8);
+                            regularHoursTotal += regularHours;
+                            regularPay += regularHours * rate;
+
+                            // Overtime hours (8-12)
+                            const overtimeHours = Math.min(Math.max(0, dailyHours - 8), 4);
+                            overtimeHoursTotal += overtimeHours;
+                            overtimePay += overtimeHours * (rate * 1.5);
+
+                            // Double time hours (beyond 12)
+                            const doubletimeHours = Math.max(0, dailyHours - 12);
+                            doubletimeHoursTotal += doubletimeHours;
+                            doubletimePay += doubletimeHours * (rate * 2);
+
+                            console.log(`Day ${index + 1}:`, {
+                                dailyHours,
+                                regularHours,
+                                overtimeHours,
+                                doubletimeHours,
+                                regularPay: regularHours * rate,
+                                overtimePay: overtimeHours * (rate * 1.5),
+                                doubletimePay: doubletimeHours * (rate * 2)
+                            });
+                        }
+                        // Other states with daily overtime
+                        else if (this.rules.daily_limit) {
+                            const regularHours = Math.min(dailyHours, this.rules.daily_limit);
+                            const overtimeHours = Math.max(0, dailyHours - this.rules.daily_limit);
+
+                            regularHoursTotal += regularHours;
+                            overtimeHoursTotal += overtimeHours;
+
+                            regularPay += regularHours * rate;
+                            overtimePay += overtimeHours * (rate * 1.5);
+
+                            console.log(`Day ${index + 1}:`, {
+                                dailyHours,
+                                regularHours,
+                                overtimeHours,
+                                regularPay: regularHours * rate,
+                                overtimePay: overtimeHours * (rate * 1.5)
+                            });
+                        }
+                        // Federal rules (weekly only)
+                        else {
+                            regularHoursTotal += dailyHours;
+                            regularPay += dailyHours * rate;
+                        }
+                    });
+
+                    // Weekly overtime check
+                    const totalHours = regularHoursTotal + overtimeHoursTotal + doubletimeHoursTotal;
+                    if (!this.rules.daily_limit && totalHours > this.rules.weekly_limit) {
+                        const weeklyOvertimeHours = Math.max(0, totalHours - this.rules.weekly_limit);
+                        regularHoursTotal = this.rules.weekly_limit;
+                        overtimeHoursTotal = weeklyOvertimeHours;
+                        
+                        regularPay = regularHoursTotal * rate;
+                        overtimePay = weeklyOvertimeHours * (rate * 1.5);
+                    }
+
+                    console.log('Final totals:', {
+                        regularHours: regularHoursTotal,
+                        overtimeHours: overtimeHoursTotal,
+                        doubletimeHours: doubletimeHoursTotal,
+                        regularPay,
+                        overtimePay,
+                        doubletimePay,
+                        total: regularPay + overtimePay + doubletimePay
+                    });
+
+                    return {
+                        regular: regularPay.toFixed(2),
+                        overtime: overtimePay.toFixed(2),
+                        doubletime: doubletimePay.toFixed(2),
+                        total: (regularPay + overtimePay + doubletimePay).toFixed(2),
+                        regularHours: regularHoursTotal,
+                        overtimeHours: overtimeHoursTotal,
+                        doubletimeHours: doubletimeHoursTotal
+                    };
+                }
+            }"
+            x-init="init"
+            >
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div class="space-y-4">
+                        <h3 class="text-xl font-bold text-gray-900">Daily Hours</h3>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                            <template x-for="(day, i) in dailyHours" :key="i">
+                                <div class="relative">
+                                    <label class="block text-sm font-medium text-gray-700 mb-1">
+                                        Day <span x-text="i + 1"></span>
+                                    </label>
+                                    <div class="relative">
+                                        <input 
+                                            type="number" 
+                                            x-model="dailyHours[i]"
+                                            placeholder="0"
+                                            class="w-full p-3 border rounded-lg transition-colors focus:ring-2 focus:ring-blue-500 focus:border-blue-500 hover:border-blue-300"
+                                            min="0"
+                                            max="24"
+                                            step="0.5"
+                                        >
+                                        <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                                            <span class="text-gray-500">hrs</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </template>
+                        </div>
+                    </div>
+
+                    <div class="space-y-4">
+                        <div class="relative">
+                            <label for="rate" class="block text-xl font-bold text-gray-900 mb-1">
+                                Hourly Rate
+                            </label>
+                            <div class="relative">
+                                <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+                                    <span class="text-gray-500">$</span>
+                                </div>
+                                <input 
+                                    type="number" 
+                                    id="rate"
+                                    x-model="hourlyRate"
+                                    placeholder="0"
+                                    class="w-full pl-8 p-3 border rounded-lg transition-colors focus:ring-2 focus:ring-blue-500 focus:border-blue-500 hover:border-blue-300"
+                                    min="0"
+                                    step="0.01"
+                                >
+                                <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                                    <span class="text-gray-500">/hr</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mt-8 p-6 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200">
+                            <h3 class="text-lg font-semibold text-blue-900 mb-4">Weekly Pay Results</h3>
+                            <div class="space-y-3">
+                                <div class="flex justify-between items-center text-sm">
+                                    <span class="text-gray-600">Regular Hours:</span>
+                                    <span class="font-medium" x-text="calculatePay().regularHours + ' hrs'">0 hrs</span>
+                                </div>
+                                <div class="flex justify-between items-center text-sm">
+                                    <span class="text-gray-600">Regular Pay:</span>
+                                    <span class="font-medium">$<span x-text="Number(calculatePay().regular).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                                </div>
+                                <div class="flex justify-between items-center text-sm">
+                                    <span class="text-gray-600">Overtime Hours (1.5×):</span>
+                                    <span class="font-medium" x-text="calculatePay().overtimeHours + ' hrs'">0 hrs</span>
+                                </div>
+                                <div class="flex justify-between items-center text-sm">
+                                    <span class="text-gray-600">Overtime Pay (1.5×):</span>
+                                    <span class="font-medium">$<span x-text="Number(calculatePay().overtime).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                                </div>
+                                <template x-if="rules && rules['2x']">
+                                    <div class="flex justify-between items-center text-sm">
+                                        <span class="text-gray-600">Double Time Hours (2×):</span>
+                                        <span class="font-medium" x-text="calculatePay().doubletimeHours + ' hrs'">0 hrs</span>
+                                    </div>
+                                </template>
+                                <template x-if="rules && rules['2x']">
+                                    <div class="flex justify-between items-center text-sm">
+                                        <span class="text-gray-600">Double Time Pay (2×):</span>
+                                        <span class="font-medium">$<span x-text="Number(calculatePay().doubletime).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                                    </div>
+                                </template>
+                                <div class="h-px bg-blue-200 my-2"></div>
+                                <div class="flex justify-between items-center text-blue-900">
+                                    <span class="font-semibold">Total Weekly Pay:</span>
+                                    <span class="text-lg font-bold">$<span x-text="Number(calculatePay().total).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Annual Salary Breakdowns -->
+                <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <!-- Regular Hours Annual Breakdown -->
+                    <div class="p-6 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200">
+                        <h3 class="text-lg font-semibold text-green-900 mb-4">Annual Salary (Regular 40hr Week)</h3>
+                        <div class="space-y-3">
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-gray-600">Annual Gross Pay:</span>
+                                <span class="font-medium">$<span x-text="(Number(hourlyRate) * 2080).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-gray-600">Monthly Gross Pay:</span>
+                                <span class="font-medium">$<span x-text="(Number(hourlyRate) * 2080 / 12).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="h-px bg-green-200 my-2"></div>
+                            <div class="text-sm font-bold text-gray-700 mb-2">Annual Net Pay (After Taxes):</div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-green-600">10% Tax Rate:</span>
+                                <span class="font-medium text-green-600">$<span x-text="(Number(hourlyRate) * 2080 * 0.9).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-yellow-600">20% Tax Rate:</span>
+                                <span class="font-medium text-yellow-600">$<span x-text="(Number(hourlyRate) * 2080 * 0.8).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-orange-600">30% Tax Rate:</span>
+                                <span class="font-medium text-orange-600">$<span x-text="(Number(hourlyRate) * 2080 * 0.7).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-red-600">40% Tax Rate:</span>
+                                <span class="font-medium text-red-600">$<span x-text="(Number(hourlyRate) * 2080 * 0.6).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Overtime Pattern Annual Breakdown -->
+                    <div class="p-6 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg border border-purple-200">
+                        <h3 class="text-lg font-semibold text-purple-900 mb-4">Annual Salary (Current Hours Pattern)</h3>
+                        <div class="space-y-3">
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-gray-600">Annual Gross Pay:</span>
+                                <span class="font-medium">$<span x-text="(Number(calculatePay().total) * 52).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-gray-600">Monthly Gross Pay:</span>
+                                <span class="font-medium">$<span x-text="(Number(calculatePay().total) * 52 / 12).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="h-px bg-purple-200 my-2"></div>
+                            <div class="text-sm font-bold text-gray-700 mb-2">Annual Net Pay (After Taxes):</div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-green-600">10% Tax Rate:</span>
+                                <span class="font-medium text-green-600">$<span x-text="(Number(calculatePay().total) * 52 * 0.9).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-yellow-600">20% Tax Rate:</span>
+                                <span class="font-medium text-yellow-600">$<span x-text="(Number(calculatePay().total) * 52 * 0.8).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-orange-600">30% Tax Rate:</span>
+                                <span class="font-medium text-orange-600">$<span x-text="(Number(calculatePay().total) * 52 * 0.7).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                            <div class="flex justify-between items-center text-sm">
+                                <span class="text-red-600">40% Tax Rate:</span>
+                                <span class="font-medium text-red-600">$<span x-text="(Number(calculatePay().total) * 52 * 0.6).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})">0.00</span></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="prose max-w-none">
+            <h2>{stateName} Overtime Rules</h2>
+            <p>{rules.description}</p>
+            
+            <h3>Key Points:</h3>
+            <ul>
+                {rules.daily_limit && (
+                    <li>Daily overtime (1.5×) after {rules.daily_limit} hours</li>
+                )}
+                {rules['2x'] && (
+                    <li>Double time (2×) after {rules['2x']} hours per day</li>
+                )}
+                <li>Weekly overtime (1.5×) after {rules.weekly_limit} hours</li>
+            </ul>
+            
+            <p class="text-sm text-gray-600 mt-4">
+                Note: This calculator provides estimates based on standard overtime rules. Actual overtime pay may vary based on specific employment agreements, collective bargaining agreements, or other factors.
+            </p>
+        </div>
+    </div>
+    <MoreEntries />
+    <IndexJobs />
+    <CtaOne />
+</BaseLayout>
