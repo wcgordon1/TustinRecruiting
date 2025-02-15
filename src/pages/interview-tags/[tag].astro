@@ -15,6 +15,13 @@ const formatTagDisplay = (tag) => {
 export async function getStaticPaths() {
   const allInterviews = await getCollection("interview");
 
+  // Helper function to make tag URL-safe
+  const makeTagUrlSafe = (tag) => {
+    return tag.replace(/\//g, '-slash-')
+             .replace(/\s+/g, '-')
+             .toLowerCase();
+  };
+
   const uniqueTags = [
     ...new Set(allInterviews.map((post) => post.data.tags).flat()),
   ];
@@ -24,15 +31,15 @@ export async function getStaticPaths() {
       post.data.tags.includes(tag)
     );
     return {
-      params: { tag },
-      props: { posts: filteredPosts },
+      params: { tag: makeTagUrlSafe(tag) },
+      props: { posts: filteredPosts, originalTag: tag },
     };
   });
 }
 
 const { tag } = Astro.params;
-const { posts } = Astro.props;
-const formattedTag = formatTagDisplay(tag);
+const { posts, originalTag } = Astro.props;
+const formattedTag = formatTagDisplay(originalTag);
 ---
 
 <BaseLayout pageTitle={formattedTag}>
