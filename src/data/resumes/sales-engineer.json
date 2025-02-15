@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Sales Engineer Resume Template",
+    "description": "A professional resume template tailored for Sales Engineer positions, highlighting technical skills and project experience",
+    "category": "sales",
+    "role": "Sales Engineer",
+    "slug": "sales-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "technical sales",
+      "solution architecture"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Sales Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Technical sales and solution architecture. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript",
+        "SQL"
+      ],
+      "frameworks": [
+        "Django",
+        "React"
+      ],
+      "tools": [
+        "Salesforce",
+        "AWS",
+        "Docker"
+      ],
+      "concepts": [
+        "Cloud Computing",
+        "Networking",
+        "DevOps"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Sales Engineer",
+        "company": "Tech Solutions Inc.",
+        "location": "City, State",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the technical sales team to a 20% increase in annual revenue by developing innovative customer solutions.",
+          "Implemented a new sales process that reduced lead time by 30%, improving customer acquisition efficiency.",
+          "Provided technical consultancy resulting in a key client win, yielding an additional $500K in annual revenue."
+        ]
+      },
+      {
+        "title": "Sales Engineer",
+        "company": "Innovatech Corp.",
+        "location": "City, State",
+        "dates": "Jun 2019 - Dec 2021",
+        "achievements": [
+          "Developed customized architecture solutions for over 50 enterprise clients, enhancing service delivery.",
+          "Trained and mentored a team of 5 junior engineers, improving overall team technical expertise.",
+          "Participated in cross-functional teams for major product launches, contributing to a 15% increase in client adoption rates."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Engineering",
+      "school": "University Name",
+      "location": "City, State",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Cloud-Based CRM Integration",
+        "description": "Led the integration of a cloud-based Customer Relationship Management system to improve the client data management process.",
+        "technologies": [
+          "AWS",
+          "Salesforce",
+          "RESTful APIs"
+        ]
+      },
+      {
+        "name": "Network Optimization Tool",
+        "description": "Developed a tool for optimizing network configurations to enhance performance across large-scale infrastructures.",
+        "technologies": [
+          "Python",
+          "Docker",
+          "Flask"
+        ]
+      }
+    ]
+  }
+}

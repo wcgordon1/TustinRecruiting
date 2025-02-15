@@ -2,6 +2,7 @@
   "name": "@tustin-recruiting/website",
   "version": "0.0.1",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -30,12 +31,14 @@
     "create-glossary": "node scripts/create-glossary-entries.js",
     "delete-cyber": "node scripts/delete-cybersecurity-terms.js",
     "create:recruiting": "node scripts/create-recruiting-content.js",
-    "create-interview": "node scripts/create-interview-content.js"
+    "create-interview": "node scripts/create-interview-content.js",
+    "create-resumes": "node scripts/create-resume.js"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",
     "@tailwindcss/typography": "^0.5.12",
     "@types/alpinejs": "^3.13.10",
+    "@types/node": "^22.13.4",
     "astro": "^4.5.16"
   },
   "dependencies": {

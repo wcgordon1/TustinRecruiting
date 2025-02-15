@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "UX Designer Resume Template",
+    "description": "A professional resume template tailored for UX Designer positions, highlighting technical skills and project experience",
+    "category": "creative",
+    "role": "UX Designer",
+    "slug": "ux-designer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "UX Design",
+      "User Research"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "UX Designer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in User research and interface design. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "React",
+        "Vue.js"
+      ],
+      "tools": [
+        "Sketch",
+        "Figma",
+        "Adobe XD",
+        "InVision"
+      ],
+      "concepts": [
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Usability Testing"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior UX Designer",
+        "company": "Innovate Tech Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the design overhaul of the company's flagship product, increasing user engagement by 30%.",
+          "Conducted comprehensive user research and usability testing with over 200 participants to improve overall user satisfaction.",
+          "Collaborated with cross-functional teams to deliver 5 successful product launches within set timelines."
+        ]
+      },
+      {
+        "title": "UX Designer",
+        "company": "Creative Minds Inc.",
+        "location": "Austin, TX",
+        "dates": "Jun 2019 - Dec 2021",
+        "achievements": [
+          "Played a key role in designing an award-winning mobile application used by over 500,000 users.",
+          "Streamlined the interaction design process, reducing design delivery time by 15% while maintaining quality.",
+          "Facilitated workshops for both internal teams and clients to foster better understanding of user-centric design."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Human-Computer Interaction",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "E-commerce Platform Redesign",
+        "description": "Led the user experience redesign of a major e-commerce platform, resulting in a 25% increase in conversion rate.",
+        "technologies": [
+          "Figma",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Mobile Health App",
+        "description": "Developed and tested prototypes for a mobile health app, focusing on accessibility and user-friendly interfaces for elder users.",
+        "technologies": [
+          "Sketch",
+          "InVision",
+          "React Native"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getResumes } from '../../../utils/getResumes';
+import Breadcrumbs from '@/components/recruiting/Breadcrumbs.astro';
+
+export async function getStaticPaths() {
+  const resumes = await getResumes();
+  const categories = [...new Set(resumes.map(resume => resume.metadata.category))];
+  
+  return categories.map(category => ({
+    params: { category },
+    props: { 
+      category,
+      resumes: resumes.filter(resume => resume.metadata.category === category)
+    },
+  }));
+}
+
+const { category, resumes } = Astro.props;
+
+const breadcrumbs = [
+  { text: 'Home', href: '/' },
+  { text: 'Resume Templates', href: '/resume-templates' },
+  { text: category.charAt(0).toUpperCase() + category.slice(1), href: `/resume-templates/${category}`, current: true }
+];
+
+const categoryTitle = category ? category.split(' ')
+  .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+  .join(' ') : '';
+---
+
+<BaseLayout title={`${categoryTitle} Resume Templates`} description={`Professional resume templates for ${category} positions`}>
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
+  <main>
+    <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+      <Breadcrumbs paths={breadcrumbs} />
+
+      <div class="lg:mx-auto lg:max-w-7xl mt-12">
+        <div class="lg:pr-24 md:pr-12">
+          <span class="text-sm uppercase font-medium tracking-wide text-blue-600">
+            Tustin Recruiting
+          </span>
+          <h1 class="text-purple-900 font-semibold mt-6 text-4xl lg:text-5xl tracking-tight">
+            {categoryTitle} Resume Templates     
+          </h1>
+          <p class="text-slate-500 mt-5 lg:text-pretty">
+            Professional resume templates tailored for {category} positions.
+          </p>
+          <div class="mt-10 flex gap-4">
+            <a
+              class="text-white items-center font-medium gap-3 inline-flex focus-visible:outline-2 focus-visible:outline-offset-2 focus:outline-none justify-center px-6 lg:px-8 ring-2 ring-transparent focus:ring-offset-2 focus:ring-blue-500 duration-200 py-3.5 rounded-full active:bg-blue-800 active:text-white bg-blue-500 hover:bg-blue-600 w-auto"
+              title="Tustin Recruiting Resume Template"
+              target="_blank"
+              aria-label="Tustin Recruiting Resume Template"
+              href="https://docs.google.com/document/d/1VbumjzLEgn6LevFsH2G42Jr1aQ2nis_p/edit?usp=sharing&ouid=103033496457028938643&rtpof=true&sd=true">
+              Tustin Template
+            </a>
+            <a
+              class="text-blue-600 items-center font-medium gap-3 inline-flex focus-visible:outline-2 focus-visible:outline-offset-2 focus:outline-none justify-center px-6 lg:px-8 ring-2 ring-transparent focus:ring-offset-2 focus:ring-blue-500 duration-200 py-3.5 rounded-full active:bg-blue-800 active:text-white bg-blue-50 hover:bg-blue-100 w-auto"
+              title="All Templates" 
+              aria-label="All Templates"
+              href="/resume-templates">
+              All Templates
+            </a>
+          </div>
+        </div>
+      
+        <!-- Resume Template Cards-->
+        <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 mt-8">
+          {resumes.map(resume => (
+            <a 
+              href={`/resume-templates/${resume.metadata.category}/${resume.metadata.slug}`}
+              class="block p-6 bg-white rounded-2xl border border-gray-200 hover:border-blue-100 transition-all duration-200"
+            >
+              <h2 class="text-lg font-semibold text-gray-900 mb-3">
+                {resume.metadata.role}
+              </h2>
+              <p class="text-gray-600 text-sm line-clamp-3">
+                {resume.metadata.description}
+              </p>
+              <div class="mt-4 text-blue-500 font-medium inline-flex items-center group-hover:translate-x-1 transition-transform duration-200">
+                View Template →
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout> 

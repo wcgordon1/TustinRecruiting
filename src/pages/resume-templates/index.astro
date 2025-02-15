@@ -1,0 +1,89 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getResumes } from '../../utils/getResumes';
+import Breadcrumbs from '@/components/recruiting/Breadcrumbs.astro';
+
+let resumes = [];
+let categories: string[] = [];
+
+try {
+  resumes = await getResumes();
+  categories = [...new Set(resumes.map(resume => resume.metadata.category))];
+} catch (error) {
+  console.error('Error loading resumes:', error);
+}
+
+const breadcrumbs = [
+  { text: 'Home', href: '/' },
+  { text: 'Resume Templates', href: '/resume-templates', current: true }
+];
+---
+
+<BaseLayout title="Resume Templates" description="Professional resume templates for various roles brought to you by resume experts at Tustin Recruiting.">
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
+  <main>
+    <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+      <Breadcrumbs paths={breadcrumbs} />
+
+      <div class="lg:mx-auto lg:max-w-7xl mt-12">
+      <div class="lg:pr-24 md:pr-12">
+        <span class="text-sm uppercase font-medium tracking-wide text-blue-600 "
+          >Tustin Recruiting</span
+        >
+        <h1
+          class="text-purple-900 font-semibold mt-6 text-4xl lg:text-5xl tracking-tight">
+          Resume Templates        
+        </h1>
+        <p class="text-slate-500 mt-5 lg:text-pretty">
+          Choose from our collection of professional resume templates. We reccomend making a copy of the Tustin Recruiting template and tailoring it to your specific needs. Check out all jobs <a href="/open-positions" class="text-blue-600 hover:underline">here</a>.
+        </p>
+        <div class="mt-10 flex gap-4">
+          <a
+            class="text-white items-center font-medium gap-3 inline-flex focus-visible:outline-2 focus-visible:outline-offset-2 focus:outline-none justify-center px-6 lg:px-8 ring-2 ring-transparent focus:ring-offset-2 focus:ring-blue-500 duration-200 py-3.5 rounded-full active:bg-blue-800 active:text-white bg-blue-500 hover:bg-blue-600 w-auto"
+            title="Tustin Recruiting Resume Template"
+            target="_blank"
+            aria-label="Tustin Recruiting Resume Template"
+            href="https://docs.google.com/document/d/1VbumjzLEgn6LevFsH2G42Jr1aQ2nis_p/edit?usp=sharing&ouid=103033496457028938643&rtpof=true&sd=true">
+            Tustin Template
+          </a>
+          <a
+            class="text-blue-600 items-center font-medium gap-3 inline-flex focus-visible:outline-2 focus-visible:outline-offset-2 focus:outline-none justify-center px-6 lg:px-8 ring-2 ring-transparent focus:ring-offset-2 focus:ring-blue-500 duration-200 py-3.5 rounded-full active:bg-blue-800 active:text-white bg-blue-50 hover:bg-blue-100 w-auto"
+            title="About Us" 
+            aria-label="About Us"
+            target="_blank"
+            href="https://chatgpt.com/g/g-67ab5ec27998819190f32c3ee4e7d72d-job-interview-question-and-answer-bot">
+            Interviw Prep AI
+          </a>
+        </div>
+      </div>
+
+      <!-- Resume Template Cards-->
+      
+      {categories.length > 0 ? (
+        categories.map(category => (
+          <section class="mb-12">
+            <h2 class="text-2xl font-semibold mb-4 capitalize">{category}</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {resumes
+                .filter(resume => resume.metadata.category === category)
+                .map(resume => (
+                  <a 
+                    href={`/resume-templates/${resume.metadata.category}/${resume.metadata.slug}`}
+                    class="block p-6 border rounded-lg hover:shadow-lg transition-shadow"
+                  >
+                    <h3 class="text-xl font-semibold mb-2">{resume.metadata.title}</h3>
+                    <p class="text-gray-600">{resume.metadata.description}</p>
+                    <span class="inline-block mt-4 text-blue-600">View Template →</span>
+                  </a>
+                ))}
+            </div>
+          </section>
+        ))
+      ) : (
+        <p class="text-gray-600">No resume templates found.</p>
+      )}
+    </div>
+  </main>
+</BaseLayout>

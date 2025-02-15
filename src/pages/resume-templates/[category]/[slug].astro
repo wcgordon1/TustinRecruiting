@@ -1,0 +1,139 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getResumes } from '../../../utils/getResumes';
+import Breadcrumbs from '@/components/recruiting/Breadcrumbs.astro';
+
+export async function getStaticPaths() {
+  const resumes = await getResumes();
+  
+  if (!resumes || resumes.length === 0) {
+    console.error('No resume data found');
+    return [];
+  }
+
+  return resumes.map(resume => ({
+    params: { 
+      category: resume.metadata.category,
+      slug: resume.metadata.slug
+    },
+    props: { resume },
+  }));
+}
+
+const { resume } = Astro.props;
+const { category, slug } = Astro.params;
+
+if (!resume || !resume.metadata || !resume.template_tips || !resume.resume_content) {
+  return Astro.redirect('/resume-templates');
+}
+
+const { metadata, template_tips, resume_content } = resume;
+
+const breadcrumbs = [
+  { text: 'Home', href: '/' },
+  { text: 'Resume Templates', href: '/resume-templates' },
+  { text: category.charAt(0).toUpperCase() + category.slice(1), href: `/resume-templates/${category}` },
+  { text: metadata.role, href: `/resume-templates/${category}/${slug}`, current: true }
+];
+---
+
+<BaseLayout title={metadata.title} description={metadata.description}>
+  <Fragment slot="head">
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).toString()} />
+  </Fragment>
+  <main>
+    <div class="mx-auto max-w-7xl lg:px-16 md:px-12 px-8 xl:px-24">
+      <Breadcrumbs paths={breadcrumbs} />
+      <header class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{metadata.title}</h1>
+        <p class="text-xl text-gray-600">{metadata.description}</p>
+      </header>
+
+      <section class="mb-8">
+        <h2 class="text-2xl font-semibold mb-4">Template Tips</h2>
+        <ul class="list-disc pl-6">
+          {template_tips.map(tip => (
+            <li class="mb-2">{tip}</li>
+          ))}
+        </ul>
+      </section>
+
+      <section class="bg-white p-8 border rounded-lg shadow-lg mb-8">
+        <div class="mb-8 text-center">
+          <h2 class="text-2xl font-bold">{resume_content.header.name}</h2>
+          <p class="text-lg">{resume_content.header.title}</p>
+          <div class="flex justify-center gap-4 mt-2 text-sm">
+            <span>{resume_content.header.contact.email}</span>
+            <span>{resume_content.header.contact.phone}</span>
+            <span>{resume_content.header.contact.location}</span>
+            <a 
+              href={`https://${resume_content.header.contact.linkedin}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-blue-600 hover:underline"
+            >
+              LinkedIn Profile
+            </a>
+          </div>
+        </div>
+
+        <div class="mb-6">
+          <h3 class="text-lg font-semibold border-b mb-2">Summary</h3>
+          <p>{resume_content.summary}</p>
+        </div>
+
+        <div class="mb-6">
+          <h3 class="text-lg font-semibold border-b mb-2">Skills</h3>
+          {Object.entries(resume_content.skills).map(([category, skills]) => (
+            <div class="mb-2">
+              <span class="font-medium capitalize">{category}: </span>
+              <span>{(skills as string[]).join(', ')}</span>
+            </div>
+          ))}
+        </div>
+
+        <div class="mb-6">
+          <h3 class="text-lg font-semibold border-b mb-2">Experience</h3>
+          {resume_content.experience.map(exp => (
+            <div class="mb-4">
+              <div class="flex justify-between">
+                <div>
+                  <h4 class="font-medium">{exp.title}</h4>
+                  <p class="text-gray-600">{exp.company}</p>
+                </div>
+                <div class="text-gray-600">{exp.dates}</div>
+              </div>
+              <ul class="list-disc pl-6 mt-2">
+                {exp.achievements.map(achievement => (
+                  <li>{achievement}</li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+
+        <div class="mb-6">
+          <h3 class="text-lg font-semibold border-b mb-2">Education</h3>
+          <div>
+            <h4 class="font-medium">{resume_content.education.degree}</h4>
+            <p>{resume_content.education.school}, {resume_content.education.location}</p>
+            <p class="text-gray-600">Graduated: {resume_content.education.graduation}</p>
+          </div>
+        </div>
+
+        <div>
+          <h3 class="text-lg font-semibold border-b mb-2">Projects</h3>
+          {resume_content.projects.map(project => (
+            <div class="mb-4">
+              <h4 class="font-medium">{project.name}</h4>
+              <p>{project.description}</p>
+              <p class="text-sm text-gray-600 mt-1">
+                Technologies: {project.technologies.join(', ')}
+              </p>
+            </div>
+          ))}
+        </div>
+      </section>
+    </div>
+  </main>
+</BaseLayout> 
