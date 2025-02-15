@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Advertising Sales Executive Resume Template",
+    "description": "A professional resume template tailored for Advertising Sales Executive positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Advertising Sales Executive",
+    "slug": "advertising-sales-executive",
+    "experience_level": "mid-level",
+    "keywords": [
+      "advertising",
+      "sales",
+      "digital media",
+      "print media"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Advertising Sales Executive",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Selling ad space in digital and print media. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "Google Analytics",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Digital Advertising",
+        "Print Advertising",
+        "Negotiation",
+        "Client Relationship Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Advertising Sales Executive",
+        "company": "Blue Sky Media",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased digital ad sales by 30% within the first year, generating additional revenue of $500,000.",
+          "Developed strong relationships with key clients, resulting in a 20% increase in contract renewals.",
+          "Implemented strategic sales initiatives that improved team performance by 15%."
+        ]
+      },
+      {
+        "title": "Advertising Sales Executive",
+        "company": "Creative Vision Publishing",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Consistently exceeded quarterly sales targets by an average of 18%.",
+          "Launched a successful cross-media ad campaign that boosted client brand awareness by 25%.",
+          "Led a project to optimize the sales pipeline, reducing closing times by 10%."
+        ]
+      },
+      {
+        "title": "Junior Advertising Sales Associate",
+        "company": "West Coast Ads & Media",
+        "location": "San Diego, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in closing over $1 million in new business revenue within the first 18 months.",
+          "Established a new client outreach strategy, contributing to a 15% increase in new leads.",
+          "Received 'Associate of the Month' award three times for exceptional sales performance."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Marketing",
+      "school": "University of California, San Diego",
+      "location": "San Diego, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Cross-Platform Ad Campaign",
+        "description": "Led a cross-functional team to create a cohesive advertising campaign across digital and print media, resulting in a 20% engagement increase.",
+        "technologies": [
+          "Salesforce",
+          "Adobe Creative Suite",
+          "Google Ads"
+        ]
+      }
+    ]
+  }
+}

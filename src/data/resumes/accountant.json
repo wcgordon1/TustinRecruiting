@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Accountant Resume Template",
+    "description": "A professional resume template tailored for Accountant positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Accountant",
+    "slug": "accountant",
+    "experience_level": "mid-level",
+    "keywords": [
+      "accounting",
+      "financial management",
+      "compliance",
+      "financial reporting",
+      "account reconciliation"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Accountant",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6+ years experience in managing financial records and ensuring compliance. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [],
+      "tools": [
+        "QuickBooks",
+        "SAP",
+        "Excel"
+      ],
+      "concepts": [
+        "Financial Analysis",
+        "Budgeting",
+        "Tax Compliance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Accountant",
+        "company": "Horizon Financial Services",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Managed a team of 3 junior accountants, leading to a 30% increase in team productivity.",
+          "Implemented a new financial reporting system that reduced the monthly closing process by 3 days.",
+          "Ensured 100% compliance with GAAP and improved audit scores by 20%."
+        ]
+      },
+      {
+        "title": "Staff Accountant",
+        "company": "Brightway Solutions",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Enhanced the company's accounts receivable processes, reducing outstanding invoices by 15%.",
+          "Prepared and analyzed financial statements, contributing to a 10% reduction in annual budget variance.",
+          "Facilitated the successful transition to a new accounting software, resulting in 25% time savings in financial reporting."
+        ]
+      },
+      {
+        "title": "Junior Accountant",
+        "company": "Greenfield Enterprises",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Performed account reconciliations, reducing discrepancies by 40%.",
+          "Assisted in the preparation of tax returns, leading to a 5% decrease in tax liabilities.",
+          "Collaborated with senior accountants to improve financial accuracy and streamline budgeting processes."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Accounting",
+      "school": "University of Illinois",
+      "location": "Chicago, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Financial System Upgrade",
+        "description": "Led a project to upgrade the company's financial management software, improving data integrity and reporting accuracy.",
+        "technologies": [
+          "SAP",
+          "QuickBooks",
+          "MS Excel"
+        ]
+      }
+    ]
+  }
+}

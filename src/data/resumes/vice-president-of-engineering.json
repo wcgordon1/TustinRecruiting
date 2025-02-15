@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Vice President of Engineering Resume Template",
+    "description": "A professional resume template tailored for Vice President of Engineering positions, highlighting technical skills and project experience",
+    "category": "Executive Leadership",
+    "role": "Vice President of Engineering",
+    "slug": "vice-president-of-engineering",
+    "experience_level": "senior",
+    "keywords": [
+      "engineering leadership",
+      "product development",
+      "team management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Vice President of Engineering",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Overseeing engineering teams and product development. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Java",
+        "Python",
+        "C++"
+      ],
+      "frameworks": [
+        "React",
+        "Node.js",
+        "Spring"
+      ],
+      "tools": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "concepts": [
+        "Agile Methodologies",
+        "DevOps",
+        "Data Analytics"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Vice President of Engineering",
+        "company": "TechForward Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 120+ engineers to develop a next-gen SaaS platform, increasing client satisfaction scores by 35% within the first year.",
+          "Implemented a new agile workflow process that improved project delivery timelines by 25%.",
+          "Collaborated with C-suite executives to define and implement strategic product roadmaps, resulting in a 50% increase in revenue."
+        ]
+      },
+      {
+        "title": "Director of Engineering",
+        "company": "Innovatech Corp",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Spearheaded the development of a cloud-based analytics tool that captured a 60% market share within six months.",
+          "Reduced system downtime by 40% through the creation of an automated monitoring and alerts system.",
+          "Mentored and developed a team of 40 engineers, four of whom were promoted to senior positions."
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "PioneerTech",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Developed a microservices architecture for the company's flagship application, reducing processing time by 45%.",
+          "Led cross-functional teams in executing technical projects, increasing external user base by 20%.",
+          "Recognized by management for exceptional leadership and technical skills, receiving the Employee of the Year award in 2018."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Real-time Analytics Dashboard",
+        "description": "Developed an interactive dashboard providing real-time data analytics to enhance decision-making for enterprise clients.",
+        "technologies": [
+          "React",
+          "Node.js",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}

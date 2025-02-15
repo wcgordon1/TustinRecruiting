@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Actuary Resume Template",
+    "description": "A professional resume template tailored for Actuary positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Actuary",
+    "slug": "actuary",
+    "experience_level": "senior",
+    "keywords": [
+      "actuarial modeling",
+      "financial risk assessment"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Actuary",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in using statistical models to assess financial risks. Proven track record of delivering high-quality solutions and optimizing performance in complex environments.",
+    "skills": {
+      "languages": [
+        "R",
+        "Python",
+        "SQL"
+      ],
+      "frameworks": [
+        "Actuarial Control Cycle"
+      ],
+      "tools": [
+        "SAS",
+        "Excel",
+        "Tableau"
+      ],
+      "concepts": [
+        "Risk Assessment",
+        "Predictive Modeling",
+        "Financial Forecasting"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Actuary",
+        "company": "Pinnacle Assurance Group",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of actuaries in developing complex risk models that improved prediction accuracy by 25%.",
+          "Implemented a new forecasting methodology that reduced financial risk by 15%.",
+          "Collaborated with cross-functional teams to provide strategic insights that boosted company market share by 10%."
+        ]
+      },
+      {
+        "title": "Actuary",
+        "company": "Synergy Financial Solutions",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Designed and implemented statistical models that decreased client risk exposure by 20%.",
+          "Conducted comprehensive risk assessments influencing executive decision-making for a $200M portfolio.",
+          "Streamlined data analysis processes, cutting processing time by 30%."
+        ]
+      },
+      {
+        "title": "Junior Actuarial Analyst",
+        "company": "Avalon Insurance Co.",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of actuarial models for property and casualty insurance lines resulting in a 5% increase in profitability.",
+          "Performed data analysis and statistical testing to support pricing strategy adjustments.",
+          "Contributed to monthly risk assessment reports, aiding in risk management strategy refinement."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Actuarial Science",
+      "school": "Boston University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Predictive Risk Modeling System",
+        "description": "Developed a predictive risk modeling system to enhance underwriting processes using Python, improving decision-making by accurately forecasting risk levels.",
+        "technologies": [
+          "Python",
+          "SAS",
+          "Excel"
+        ]
+      }
+    ]
+  }
+}

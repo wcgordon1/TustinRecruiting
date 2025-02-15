@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Automotive Sales Consultant Resume Template",
+    "description": "A professional resume template tailored for Automotive Sales Consultant positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Automotive Sales Consultant",
+    "slug": "automotive-sales-consultant",
+    "experience_level": "mid-level",
+    "keywords": [
+      "sales",
+      "automotive",
+      "customer service",
+      "negotiation"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Automotive Sales Consultant",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in selling new and used cars at dealerships. Proven track record of exceeding sales targets and providing exceptional customer service.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Negotiation",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Product Knowledge"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Automotive Sales Consultant",
+        "company": "Global Cars Dealership",
+        "location": "Los Angeles, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased sales by 25% in the first year by implementing new customer engagement strategies.",
+          "Awarded 'Top Sales Performer' of the year in 2022 and 2023.",
+          "Developed a customer referral program that boosted repeat sales by 15%."
+        ]
+      },
+      {
+        "title": "Automotive Sales Consultant",
+        "company": "Metro Motors Inc.",
+        "location": "San Diego, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Consistently exceeded monthly sales targets by an average of 20%.",
+          "Built and maintained long-term relationships with more than 50 loyal customers.",
+          "Conducted vehicle test drives exceeding the dealership's conversion rate by 30%."
+        ]
+      },
+      {
+        "title": "Junior Sales Associate",
+        "company": "Prime Auto Sales",
+        "location": "San Diego, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in achieving the dealership's sales goals by supporting senior consultants.",
+          "Actively participated in team workshops that improved the sales team's product knowledge.",
+          "Recognized for achieving the highest customer satisfaction scores among the junior sales staff."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Marketing",
+      "school": "University of California, San Diego",
+      "location": "San Diego, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Customer Engagement System",
+        "description": "Developed a CRM tool to track and boost customer interactions and follow-ups, enhancing customer retention.",
+        "technologies": [
+          "CRM Software",
+          "Data Analysis",
+          "Sales Strategy"
+        ]
+      }
+    ]
+  }
+}

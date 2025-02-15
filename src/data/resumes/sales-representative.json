@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sales Representative Resume Template",
+    "description": "A professional resume template tailored for Sales Representative positions, highlighting prospecting and closing new customer deals.",
+    "category": "Sales",
+    "role": "Sales Representative",
+    "slug": "sales-representative",
+    "experience_level": "entry-level",
+    "keywords": [
+      "Sales",
+      "Prospecting",
+      "Customer Acquisition",
+      "Lead Generation",
+      "Closing Deals"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Sales Representative",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in prospecting and closing new customer deals. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "Microsoft Excel",
+        "Salesforce"
+      ],
+      "concepts": [
+        "Customer Relationship Management",
+        "Negotiation",
+        "Lead Generation",
+        "Customer Acquisition"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Sales Representative",
+        "company": "Tech Innovators Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased client base by 30% within first year through targeted prospecting and personalized outreach.",
+          "Exceeded quarterly sales targets by 20% for four consecutive quarters by leveraging customer feedback to improve service offerings.",
+          "Developed and maintained relationships with key accounts, leading to a 15% increase in revenue from repeat customers."
+        ]
+      },
+      {
+        "title": "Junior Sales Representative",
+        "company": "Market Leaders Co.",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Achieved a 25% increase in new client acquisition through enhanced market analysis and lead generation strategies.",
+          "Spearheaded a cross-functional team initiative that improved customer feedback loop, resulting in a 10% improvement in customer satisfaction scores.",
+          "Assisted in the development of a new sales training program that decreased onboarding time by 15%."
+        ]
+      },
+      {
+        "title": "Sales Associate",
+        "company": "Retail Solutions Group",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Generated $600K in sales revenue within first year by implementing effective upselling techniques.",
+          "Recognized as 'Employee of the Month' for six months for consistently exceeding sales targets.",
+          "Participated in marketing events that expanded brand awareness and facilitated key partnerships."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Customer Relationship Enhancement Program",
+        "description": "Developed a CRM strategy that improved tracking of customer interactions, leading to increased engagement and sales conversion.",
+        "technologies": [
+          "Salesforce",
+          "Excel",
+          "Power BI"
+        ]
+      }
+    ]
+  }
+}

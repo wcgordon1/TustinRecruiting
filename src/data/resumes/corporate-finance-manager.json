@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Corporate Finance Manager Resume Template",
+    "description": "A professional resume template tailored for Corporate Finance Manager positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Corporate Finance Manager",
+    "slug": "corporate-finance-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "financial planning",
+      "capital allocation",
+      "corporate finance",
+      "budgeting",
+      "risk management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Corporate Finance Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing financial planning and capital allocation. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Microsoft Excel",
+        "SAP",
+        "Oracle Financials"
+      ],
+      "concepts": [
+        "Financial Analysis",
+        "Budgeting & Forecasting",
+        "Risk Management",
+        "Cross-functional Leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Corporate Finance Manager",
+        "company": "Global Tech Innovations",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the financial planning initiative, resulting in a 15% reduction in operational costs.",
+          "Managed capital allocation processes, optimizing resource distribution to achieve 10% profit growth.",
+          "Developed and executed risk management strategies, reducing potential financial risks by 12%."
+        ]
+      },
+      {
+        "title": "Senior Financial Analyst",
+        "company": "Innovative Solutions Inc.",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Contributed to the development of a new financial model that improved forecasting accuracy by 20%.",
+          "Analyzed financial data to identify inefficiencies, resulting in a cost saving of $500K annually.",
+          "Collaborated with various departments to streamline budget planning processes."
+        ]
+      },
+      {
+        "title": "Financial Analyst",
+        "company": "Pioneer Financials",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the preparation of quarterly and annual financial statements, ensuring compliance with GAAP.",
+          "Conducted market analysis to support strategic investment decisions, leading to 8% revenue growth.",
+          "Supported senior management in financial decision-making through in-depth financial analysis and reporting."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Corporate Financial Restructuring",
+        "description": "Led a project to restructure corporate finances, improving liquidity and reducing debt by 30%.",
+        "technologies": [
+          "Microsoft Excel",
+          "SAP",
+          "Oracle Financials"
+        ]
+      }
+    ]
+  }
+}

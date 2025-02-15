@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "VP of Sales Resume Template",
+    "description": "A professional resume template tailored for VP of Sales positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "VP of Sales",
+    "slug": "vp-of-sales",
+    "experience_level": "executive",
+    "keywords": [
+      "sales leadership",
+      "revenue growth",
+      "strategic planning",
+      "team management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "VP of Sales",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing company-wide sales and revenue growth. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Strategic Sales Planning",
+        "Revenue Growth Strategies",
+        "Team Leadership",
+        "Market Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "VP of Sales",
+        "company": "Innovative Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Directed sales strategies leading to a 30% increase in annual revenue.",
+          "Implemented CRM system improvements, enhancing customer retention by 20%.",
+          "Led a team of 50+ sales professionals, fostering a collaborative environment and exceeding targets by 15% consistently."
+        ]
+      },
+      {
+        "title": "Sales Director",
+        "company": "Growth Dynamics Corp.",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and executed sales plans that boosted company-wide revenue by 25% over two years.",
+          "Streamlined sales processes, reducing sales cycle length by 10%.",
+          "Mentored and developed junior sales staff, resulting in 5 promotions to higher roles."
+        ]
+      },
+      {
+        "title": "Sales Manager",
+        "company": "Pioneer Sales Group",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Increased regional sales by 30% within the first year.",
+          "Successfully launched a new product line, achieving 120% of the sales goal within six months.",
+          "Collaborated on marketing initiatives that resulted in a 15% increase in brand awareness."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Global Sales Expansion Initiative",
+        "description": "Led a project to expand sales into EMEA markets, increasing international sales revenue by 40%.",
+        "technologies": [
+          "Salesforce",
+          "MS Excel",
+          "Power BI"
+        ]
+      }
+    ]
+  }
+}

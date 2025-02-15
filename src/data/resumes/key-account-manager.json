@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Key Account Manager Resume Template",
+    "description": "A professional resume template tailored for Key Account Manager positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Key Account Manager",
+    "slug": "key-account-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "high-value accounts",
+      "client relationship",
+      "sales strategy",
+      "B2B sales",
+      "client retention"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Key Account Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 5 years of experience in managing high-value client accounts. Proven track record of delivering high-quality solutions and optimizing performance through strategic relationship building and sales expertise.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "Microsoft Excel",
+        "CRM Systems"
+      ],
+      "concepts": [
+        "Client Relationship Management",
+        "Negotiation",
+        "Strategic Planning",
+        "Problem Solving"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Key Account Manager",
+        "company": "Tech Solutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased key account revenue by 25% through targeted sales strategies and upselling.",
+          "Developed and maintained strong client relationships, achieving a 95% client retention rate.",
+          "Led cross-functional teams in delivering customized solutions, resulting in a 30% improvement in client satisfaction scores."
+        ]
+      },
+      {
+        "title": "Account Executive",
+        "company": "Innovate Corp.",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed a portfolio of 50+ accounts, consistently exceeding quarterly sales targets by 15-20%.",
+          "Collaborated in developing client-specific promotional plans, achieving a 10% increase in client engagement.",
+          "Recognized for outstanding performance and awarded 'Employee of the Quarter' in Q2 2021."
+        ]
+      },
+      {
+        "title": "Junior Account Manager",
+        "company": "Global Enterprise Co.",
+        "location": "Los Angeles, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior account managers in client onboarding process, contributing to a 10% reduction in onboarding time.",
+          "Conducted market research and analysis to assist in the development of sales proposals.",
+          "Assisted in the execution of marketing campaigns, resulting in a 5% growth in client acquisition."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Client Retention Strategy Development",
+        "description": "Designed and implemented a comprehensive retention strategy that improved client loyalty and reduced churn by 15%.",
+        "technologies": [
+          "CRM Software",
+          "Data Analytics",
+          "Project Management Tools"
+        ]
+      }
+    ]
+  }
+}

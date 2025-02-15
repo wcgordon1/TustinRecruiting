@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Real Estate Sales Agent Resume Template",
+    "description": "A professional resume template tailored for Real Estate Sales Agent positions, highlighting sales skills and significant achievements.",
+    "category": "Sales",
+    "role": "Real Estate Sales Agent",
+    "slug": "real-estate-sales-agent",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Sales",
+      "Real Estate",
+      "Residential",
+      "Commercial Properties"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Real Estate Sales Agent",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6+ years of experience in selling residential and commercial properties. Proven track record of delivering high-quality service and optimizing client satisfaction.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "MLS Listings"
+      ],
+      "concepts": [
+        "Property Valuation",
+        "Client Negotiation",
+        "Market Analysis",
+        "Contract Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Real Estate Sales Agent",
+        "company": "Urban Habitat Realty",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully closed over 50 residential and commercial properties, resulting in $15M+ in annual sales.",
+          "Implemented a client-focused approach that improved customer satisfaction scores by 30%.",
+          "Developed a property marketing strategy that increased listings visibility by 40%."
+        ]
+      },
+      {
+        "title": "Real Estate Sales Agent",
+        "company": "Cityscape Properties",
+        "location": "San Diego, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Facilitated the sale of 35 properties exceeding a total valuation of $10M.",
+          "Established a network of local real estate investors, increasing referral business by 25%.",
+          "Consistently rated as a top performer, ranking in the top 5% of sales agents for 3 consecutive years."
+        ]
+      },
+      {
+        "title": "Junior Real Estate Sales Agent",
+        "company": "Pacific Homes",
+        "location": "Los Angeles, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in over 20 property sales, supporting senior agents in all phases of home buying and selling.",
+          "Coordinated open houses and property tours, leading to increased client interest and engagement.",
+          "Gained proficiency in handling real estate software and databases to streamline property management tasks."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of California, Los Angeles (UCLA)",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Residential Market Growth Study",
+        "description": "Conducted an extensive study on emerging residential market trends and forecasted growth opportunities in the greater Los Angeles area.",
+        "technologies": [
+          "Excel",
+          "SPSS",
+          "R"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Enterprise Sales Executive Resume Template",
+    "description": "A professional resume template tailored for Enterprise Sales Executive positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Enterprise Sales Executive",
+    "slug": "enterprise-sales-executive",
+    "experience_level": "senior",
+    "keywords": [
+      "Enterprise Sales",
+      "Solution Selling",
+      "Large Enterprises"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Enterprise Sales Executive",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in selling high-value solutions to large enterprises. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "HubSpot CRM",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Solution Selling",
+        "Key Account Management",
+        "Negotiation",
+        "Strategic Planning"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Enterprise Sales Executive",
+        "company": "InnovateTech Solutions Inc.",
+        "location": "Boston, MA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team to achieve 150% of quarterly sales targets, generating over $15 million in new business annually.",
+          "Developed strategic partnerships with Fortune 500 companies, enhancing brand visibility and market penetration.",
+          "Successfully closed a single contract worth $5 million, the largest in the company's history."
+        ]
+      },
+      {
+        "title": "Enterprise Sales Executive",
+        "company": "NextGen Dynamics",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Achieved a 120% increase in sales year-over-year, contributing to company growth and expansion.",
+          "Pioneered a customer feedback system that improved client retention rates by 25%.",
+          "Awarded 'Top Performer' for exceeding quarterly sales goals by an average of 30%."
+        ]
+      },
+      {
+        "title": "Sales Representative",
+        "company": "Tech World Enterprises",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Surpassed sales quotas by 35% through targeted outreach and solution-oriented pitching.",
+          "Identified new market opportunities, resulting in a 20% increase in lead generation.",
+          "Collaborated with the marketing team to develop effective campaigns that enhanced awareness and engagement."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Enterprise CRM Optimization",
+        "description": "Led a project to streamline CRM processes, enhancing data accuracy and sales tracking for an enterprise-level client.",
+        "technologies": [
+          "Salesforce",
+          "Data Analytics",
+          "Process Automation"
+        ]
+      }
+    ]
+  }
+}

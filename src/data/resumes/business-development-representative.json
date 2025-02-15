@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "title": "Business Development Representative Resume Template",
+    "description": "A professional resume template tailored for Business Development Representative positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Business Development Representative",
+    "slug": "business-development-representative",
+    "experience_level": "entry-level",
+    "keywords": [
+      "lead generation",
+      "prospect qualification",
+      "business development"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Business Development Representative",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in generating leads and qualifying prospects. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "HubSpot",
+        "LinkedIn Sales Navigator"
+      ],
+      "concepts": [
+        "Lead Generation",
+        "Prospect Qualification",
+        "Sales Enablement"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Business Development Representative",
+        "company": "Pinnacle Corp.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased qualified leads by 30% in the first year through strategic use of data and targeted outreach campaigns.",
+          "Collaborated with the marketing team to develop a lead scoring system, enhancing lead quality classification by 25%."
+        ]
+      },
+      {
+        "title": "Sales Associate",
+        "company": "Evergreen Sales Solutions",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Contributed to a 15% increase in sales pipeline by streamlining outreach processes and implementing new CRM strategies.",
+          "Recognized with the 'Top Performer Award' for consistently surpassing monthly sales targets."
+        ]
+      },
+      {
+        "title": "Junior Sales Associate",
+        "company": "Bright Futures LLC",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in overhauling the lead management process, reducing response time to inquiries by 40%.",
+          "Played a key role in increasing customer retention by 18% through enriched prospect follow-up protocols."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Lead Acquisition Automation Project",
+        "description": "Implemented a new automated lead acquisition system using CRM tools to enhance lead generation effectiveness.",
+        "technologies": [
+          "Salesforce",
+          "Zapier",
+          "Mailchimp"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Investment Banker Resume Template",
+    "description": "A professional resume template tailored for Investment Banker positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Investment Banker",
+    "slug": "investment-banker",
+    "experience_level": "senior",
+    "keywords": [
+      "investment banking",
+      "mergers and acquisitions",
+      "capital raising"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Investment Banker",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in advising on mergers, acquisitions, and capital raising. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Bloomberg Terminal",
+        "Excel",
+        "PowerPoint"
+      ],
+      "concepts": [
+        "Valuation Analysis",
+        "Financial Modeling",
+        "Market Research"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Investment Banker",
+        "company": "Global Capital Advisors",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a cross-functional team in the successful $1.5 billion acquisition of a tech startup, increasing the company's market share by 12%.",
+          "Advised on capital raising strategies resulting in over $500 million in equity financing for clients in the energy sector.",
+          "Implemented a new financial modeling process that improved forecast accuracy by 15% and reduced analysis time by 20%."
+        ]
+      },
+      {
+        "title": "Investment Banker",
+        "company": "Summit Investments",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Played a key role in securing a $300 million bond issuance deal for a healthcare client, contributing to a revenue growth of 8%.",
+          "Developed comprehensive valuation analysis for merger of two multinational retail companies valued at $800 million.",
+          "Collaborated with senior analysts in preparing financial documents and regulatory filings, ensuring compliance with SEC regulations."
+        ]
+      },
+      {
+        "title": "Junior Investment Banking Analyst",
+        "company": "Metro Finance Group",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior bankers in executing over 20 successful deals worth $1 billion collectively, focusing on the tech and consumer sectors.",
+          "Conducted market research that led to identifying new investment opportunities resulting in a $50 million client acquisition.",
+          "Prepared financial presentations and reports that were praised for clarity and impact by senior management and client stakeholders."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of Chicago",
+      "location": "Chicago, IL",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "M&A Market Analysis Tool",
+        "description": "Developed a proprietary market analysis tool using Excel VBA, optimizing the process of evaluating potential merger targets.",
+        "technologies": [
+          "Excel",
+          "VBA",
+          "Market Data APIs"
+        ]
+      }
+    ]
+  }
+}

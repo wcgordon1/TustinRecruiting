@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Outside Sales Representative Resume Template",
+    "description": "A professional resume template tailored for Outside Sales Representative positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Outside Sales Representative",
+    "slug": "outside-sales-representative",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Sales",
+      "Client Relations",
+      "Deal Closure",
+      "Account Management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Outside Sales Representative",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 5 years of experience in meeting clients in person to close deals. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "Microsoft Office",
+        "Salesforce"
+      ],
+      "concepts": [
+        "Relationship Building",
+        "Negotiation",
+        "Lead Generation",
+        "Closing Sales"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Outside Sales Representative",
+        "company": "Global Tech Solutions",
+        "location": "Dallas, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased annual sales by 25% by leveraging strong client relationships and strategic negotiation.",
+          "Achieved 'Top Sales Performer' award for exceeding quarterly targets by 30% consecutively.",
+          "Expanded the client base by 15% through targeted outreach and personalized follow-ups."
+        ]
+      },
+      {
+        "title": "Outside Sales Representative",
+        "company": "Innovate Now Inc.",
+        "location": "Houston, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Consistently achieved 110% of sales targets, securing new contracts with key accounts.",
+          "Successfully implemented a client referral program that boosted sales by 10% within one year.",
+          "Led a team project to enhance customer service delivery, improving client satisfaction scores by 20%."
+        ]
+      },
+      {
+        "title": "Junior Sales Associate",
+        "company": "Tech Start-Up LLC",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in client acquisition efforts, contributing to a 50% increase in customer base over two years.",
+          "Recognized for exceptional service in client onboarding, resulting in increased client retention rates.",
+          "Upsold products to existing clients, achieving a 10% increase in revenue."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Sales Optimization Initiative",
+        "description": "Developed a comprehensive sales process improvement plan that enhanced lead conversion rates.",
+        "technologies": [
+          "CRM",
+          "Data Analysis",
+          "Salesforce"
+        ]
+      }
+    ]
+  }
+}

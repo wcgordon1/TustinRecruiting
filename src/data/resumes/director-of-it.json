@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Director of IT Resume Template",
+    "description": "A professional resume template tailored for Director of IT positions, highlighting technical skills and project experience",
+    "category": "Executive Leadership",
+    "role": "Director of IT",
+    "slug": "director-of-it",
+    "experience_level": "senior",
+    "keywords": [
+      "IT operations",
+      "security infrastructure"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Director of IT",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in managing IT operations and security infrastructure. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "SQL"
+      ],
+      "frameworks": [
+        "Django",
+        "Spring"
+      ],
+      "tools": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+      ],
+      "concepts": [
+        "Cloud Computing",
+        "Cybersecurity",
+        "DevOps"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Director of IT",
+        "company": "Tech Innovators Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 25 IT professionals in implementing a new security protocol, reducing incidents by 30%.",
+          "Managed IT budget of $5M, optimizing resources and cutting costs by 15%.",
+          "Spearheaded cloud migration, resulting in a 40% increase in system performance."
+        ]
+      },
+      {
+        "title": "IT Manager",
+        "company": "Digital Solutions Co.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Improved network reliability by 25% through strategic system upgrades.",
+          "Reduced recovery times for system failures by 35% by implementing new disaster recovery protocols.",
+          "Facilitated collaboration between departments to successfully launch a new CRM system."
+        ]
+      },
+      {
+        "title": "Junior IT Specialist",
+        "company": "Innovatech Corp.",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Streamlined IT support processes, decreasing resolution time by 20%.",
+          "Assisted in the deployment of network security systems, enhancing security by 15%.",
+          "Provided technical support to over 200+ end-users, ensuring minimal downtime."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of Technology",
+      "location": "City, State",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Enterprise Network Security Overhaul",
+        "description": "Led a team in the comprehensive overhaul of an outdated security infrastructure for a mid-sized enterprise.",
+        "technologies": [
+          "Cisco ASA",
+          "Fortinet",
+          "MPLS"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Account Executive Resume Template",
+    "description": "A professional resume template tailored for Account Executive positions, highlighting managing client relationships and closing sales",
+    "category": "Sales",
+    "role": "Account Executive",
+    "slug": "account-executive",
+    "experience_level": "mid-level",
+    "keywords": [
+      "sales management",
+      "client relationship",
+      "account management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Account Executive",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 5+ years of experience in managing client relationships and closing sales. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM software",
+        "Salesforce",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Sales Strategies",
+        "Client Relationship Management",
+        "Negotiation",
+        "Lead Generation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Account Executive",
+        "company": "Pinnacle Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Managed a portfolio of over 50 key client accounts, increasing overall client satisfaction scores by 30%.",
+          "Achieved 120% of sales targets in 2023, leading the team as top performer for Q2/Q3.",
+          "Implemented a client feedback program which improved service delivery process, reducing churn by 15%."
+        ]
+      },
+      {
+        "title": "Account Executive",
+        "company": "Tech Innovations LLC",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully closed deals worth over $3 million in annual revenue within the first year.",
+          "Developed and executed strategic account plans for high-value clients, resulting in 25% growth in client accounts.",
+          "Collaborated with product development teams to tailor offerings based on client feedback, increasing customer retention by 20%."
+        ]
+      },
+      {
+        "title": "Junior Account Executive",
+        "company": "BrightHawk Inc.",
+        "location": "Denver, CO",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in growing client base by 18% through targeted outbound marketing campaigns.",
+          "Supported senior executives in managing major accounts, contributing to a 40% increase in monthly sales.",
+          "Recognized for exceptional customer service and awarded ‘Rising Star’ for outstanding performance in 2018."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of Colorado",
+      "location": "Boulder, CO",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Client Retention Strategy",
+        "description": "Designed and implemented a comprehensive client retention strategy that increased renewal rates by 20% within the first 6 months.",
+        "technologies": [
+          "Salesforce",
+          "HubSpot",
+          "Excel"
+        ]
+      }
+    ]
+  }
+}

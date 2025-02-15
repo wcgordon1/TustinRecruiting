@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "title": "Insurance Sales Agent Resume Template",
+    "description": "A professional resume template tailored for Insurance Sales Agent positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Insurance Sales Agent",
+    "slug": "insurance-sales-agent",
+    "experience_level": "mid-level",
+    "keywords": [
+      "insurance sales",
+      "customer service",
+      "relationship management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Insurance Sales Agent",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in selling life, health, and property insurance policies. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Customer Relationship Management",
+        "Insurance Policy Development",
+        "Client Needs Assessment",
+        "Sales Strategy Implementation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Insurance Sales Agent",
+        "company": "Heritage Insurance Group",
+        "location": "Dallas, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Consistently exceeded sales targets by 20% each quarter through innovative marketing strategies and client relationship management.",
+          "Developed and maintained a portfolio of 200+ clients, ensuring high retention rates and customer satisfaction.",
+          "Streamlined the application process by implementing a CRM tool, increasing efficiency by 30%."
+        ]
+      },
+      {
+        "title": "Insurance Sales Agent",
+        "company": "Prime Life Insurance Co.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Achieved an average increase in sales of 15% per annum, becoming a top performer in the regional office.",
+          "Successfully introduced and sold new insurance products to over 150 clients, diversifying client portfolios.",
+          "Trained and mentored junior sales staff, enhancing team productivity and performance."
+        ]
+      },
+      {
+        "title": "Junior Insurance Sales Associate",
+        "company": "Lonestar Insurance Solutions",
+        "location": "Houston, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the growth of client base by 25% through targeted marketing campaigns.",
+          "Recognized as 'Rookie of the Year' for exceptional sales performance and customer engagement.",
+          "Developed and delivered presentations to prospective clients, increasing sales conversion rates by 10%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Insurance Product Innovation Initiative",
+        "description": "Collaborated with a team to develop a new line of customizable insurance products tailored to millennials, resulting in a 40% increase in new policy sign-ups.",
+        "technologies": [
+          "CRM Software",
+          "Salesforce",
+          "Data Analytics"
+        ]
+      }
+    ]
+  }
+}

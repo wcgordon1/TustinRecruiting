@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Medical Sales Representative Resume Template",
+    "description": "A professional resume template tailored for Medical Sales Representative positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Medical Sales Representative",
+    "slug": "medical-sales-representative",
+    "experience_level": "mid-level",
+    "keywords": [
+      "medical sales",
+      "pharmaceuticals",
+      "medical equipment",
+      "client relations",
+      "sales strategies"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Medical Sales Representative",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6+ years of experience in selling medical equipment and pharmaceuticals. Proven track record of achieving sales targets and cultivating long-term client relationships.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "Microsoft Office Suite",
+        "Salesforce"
+      ],
+      "concepts": [
+        "Sales strategies",
+        "Client Relations",
+        "Product Demonstrations",
+        "Market Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Medical Sales Representative",
+        "company": "HealthTech Solutions Inc.",
+        "location": "Boston, MA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased territory sales by 25% within the first year by implementing targeted marketing strategies.",
+          "Achieved 'Top Performer' status three quarters in a row by exceeding quarterly sales targets by 15% on average.",
+          "Developed and maintained strong relationships with over 50 key clients, leading to repeat business and referrals."
+        ]
+      },
+      {
+        "title": "Medical Sales Representative",
+        "company": "MediCore Pharmaceuticals",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Consistently exceeded monthly sales targets by an average of 20% through proactive client engagement and product knowledge.",
+          "Launched a new pharmaceutical product, exceeding initial sales projections by 30% within the first six months.",
+          "Awarded 'Team Player' recognition for collaboration and support to junior sales staff, enhancing team efficiency."
+        ]
+      },
+      {
+        "title": "Junior Medical Sales Representative",
+        "company": "BioSolutions Inc.",
+        "location": "Newark, NJ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Successfully completed a rigorous training program, gaining proficiency in sales techniques and product knowledge.",
+          "Assisted senior sales representatives, resulting in a 15% increase in customer satisfaction and retention.",
+          "Organized and conducted over 30 product demonstrations, leading to a 10% increase in product awareness in the assigned region."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Regional Sales Expansion Project",
+        "description": "Led a comprehensive market analysis project to identify new business opportunities and increase regional market share.",
+        "technologies": [
+          "Salesforce",
+          "Microsoft Excel",
+          "Market Research Tools"
+        ]
+      }
+    ]
+  }
+}

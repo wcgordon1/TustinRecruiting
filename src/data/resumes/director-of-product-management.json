@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Director of Product Management Resume Template",
+    "description": "A professional resume template tailored for Director of Product Management positions, highlighting technical skills and project experience",
+    "category": "Executive Leadership",
+    "role": "Director of Product Management",
+    "slug": "director-of-product-management",
+    "experience_level": "senior",
+    "keywords": [
+      "product management",
+      "innovation",
+      "product lifecycle",
+      "leadership",
+      "strategy"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Director of Product Management",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing product lifecycle and innovation. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "React",
+        "Django",
+        "Node.js"
+      ],
+      "tools": [
+        "Jira",
+        "Asana",
+        "Tableau"
+      ],
+      "concepts": [
+        "Agile Methodologies",
+        "User-Centered Design",
+        "Market Research"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Director of Product Management",
+        "company": "TechSolutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the complete overhaul of the flagship product, resulting in a 40% increase in customer engagement and a 30% boost in revenue.",
+          "Introduced a new product roadmap strategy, improving alignment with business objectives and increasing NPS by 20%.",
+          "Championed the transition to an Agile development process, reducing time-to-market by 25%."
+        ]
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "InnovateCorp",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed a team of 5 product managers, leading to the successful launch of 3 new products within 18 months.",
+          "Increased user retention by 15% through implementing data-driven feature improvements.",
+          "Conducted market analysis that identified new growth opportunities, leading to a 10% increase in market share."
+        ]
+      },
+      {
+        "title": "Product Manager",
+        "company": "FutureWorks Ltd.",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Developed and managed product features that reduced customer churn by 12%.",
+          "Collaborated with cross-functional teams to enhance product usability, increasing customer satisfaction scores by 10%.",
+          "Executed a comprehensive competitor analysis, which informed the strategic repositioning of the product line."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of California",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "User Engagement Revamp",
+        "description": "A project aimed at redesigning the user interface and experience of our mobile application, resulting in a 25% increase in user retention.",
+        "technologies": [
+          "React Native",
+          "Sketch",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sales Director Resume Template",
+    "description": "A professional resume template tailored for Sales Director positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Sales Director",
+    "slug": "sales-director",
+    "experience_level": "senior",
+    "keywords": [
+      "sales strategy",
+      "team leadership",
+      "revenue growth",
+      "client relations"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Sales Director",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6+ years of experience in developing sales strategies and leading teams. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "Salesforce",
+        "Microsoft Office Suite",
+        "Data Analytics Tools"
+      ],
+      "concepts": [
+        "Sales Strategy Development",
+        "Team Leadership",
+        "Market Analysis",
+        "Client Relationship Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Sales Director",
+        "company": "Innovate Sales Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased regional sales by 30% within the first 12 months by implementing personalized client engagement strategies.",
+          "Led a team of 15 sales professionals to exceed quarterly revenue targets by 25%.",
+          "Designed and executed successful sales training programs that improved team productivity by 20%."
+        ]
+      },
+      {
+        "title": "Sales Manager",
+        "company": "RetailSolutions Group",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Spearheaded a new CRM implementation that improved customer retention rates by 15%.",
+          "Oversaw the launch of a key product line that generated $1.5 million in annual revenue.",
+          "Improved sales pipeline efficiency through targeted lead generation strategies, resulting in a 25% boost in closed deals."
+        ]
+      },
+      {
+        "title": "Junior Sales Associate",
+        "company": "Techmarket LLC",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Awarded 'Rookie of the Year' for achieving 120% of individual sales target in first year.",
+          "Developed and maintained relationships with over 50 key clients, contributing to a 10% yearly increase in client retention.",
+          "Coordinated and executed promotional events that elevated brand visibility and boosted sales by 15%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Global Sales Strategy Initiative",
+        "description": "Led a cross-functional team to redefine and implement a global sales strategy, resulting in a 40% increase in international sales.",
+        "technologies": [
+          "Salesforce",
+          "Data Analytics Tools",
+          "Microsoft Power BI"
+        ]
+      }
+    ]
+  }
+}

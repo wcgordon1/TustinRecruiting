@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "Sales Engineer Resume Template",
+    "description": "A professional resume template tailored for Sales Engineer positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Sales Engineer",
+    "slug": "sales-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Technical Sales",
+      "Solution Architecture",
+      "Customer Solutions",
+      "Sales Engineering",
+      "B2B Sales"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Sales Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Technical sales and solution architecture. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "React",
+        "Flask"
+      ],
+      "tools": [
+        "Salesforce",
+        "AWS",
+        "Docker"
+      ],
+      "concepts": [
+        "Cloud Computing",
+        "Network Security",
+        "CRM Systems",
+        "Solution Design"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Sales Engineer",
+        "company": "TechSolutions Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the technical architecture during the presales phase, resulting in a 30% increase in deals closed.",
+          "Developed custom solutions for key clients, driving $1.5M in new revenue.",
+          "Conducted workshops and training sessions that improved client satisfaction score by 20%."
+        ]
+      },
+      {
+        "title": "Sales Engineer",
+        "company": "Innovative Tech Corp.",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed technical integrations for enterprise clients, reducing deployment time by 40%.",
+          "Collaborated with the product team to refine solutions leading to a 25% reduction in post-sales support.",
+          "Closed $3M worth of sales over three years through effective technical presentations and demonstrations."
+        ]
+      },
+      {
+        "title": "Junior Sales Engineer",
+        "company": "SmartTech Enterprises",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in designing and deploying customized solutions for clients in the software industry.",
+          "Improved client onboarding processes which increased client retention by 15%.",
+          "Supported the sales team in achieving a 120% quota during tenure."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Computer Engineering",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Next-Gen CRM Integration",
+        "description": "Led a project to integrate next-gen CRM solutions with existing client systems, resulting in improved data flow and a 15% increase in data accuracy.",
+        "technologies": [
+          "Salesforce",
+          "API Integration",
+          "Python"
+        ]
+      }
+    ]
+  }
+}

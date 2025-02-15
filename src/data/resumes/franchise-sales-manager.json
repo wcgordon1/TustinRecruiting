@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Franchise Sales Manager Resume Template",
+    "description": "A professional resume template tailored for Franchise Sales Manager positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Franchise Sales Manager",
+    "slug": "franchise-sales-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Franchise Sales",
+      "Sales Management",
+      "Client Acquisition",
+      "Business Development",
+      "Strategic Partnerships"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Franchise Sales Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in selling and managing franchise opportunities. Proven track record of delivering high-quality solutions and optimizing performance in competitive markets.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Franchise Development",
+        "Sales Strategy",
+        "Negotiation",
+        "Relationship Building",
+        "Market Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Franchise Sales Manager",
+        "company": "Global Franchise Hub",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased franchise sales by 30% within the first year, surpassing company targets.",
+          "Developed and implemented strategic partnerships that enhanced brand presence and expanded market reach.",
+          "Successfully managed a team of 5 junior sales representatives, providing mentorship and training that increased team productivity by 20%."
+        ]
+      },
+      {
+        "title": "Franchise Sales Executive",
+        "company": "National Brand Developments",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Achieved 125% of annual sales quota, generating $2.5M in new franchise agreements.",
+          "Spearheaded a national marketing campaign that led to a 15% increase in lead generation.",
+          "Collaborated with the legal team to streamline the franchise agreement process, reducing time to close by 10%."
+        ]
+      },
+      {
+        "title": "Sales Associate - Franchising",
+        "company": "East Coast Franchises",
+        "location": "Philadelphia, PA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Contributed to the closure of 20+ franchise deals, supporting the sales team in reaching quarterly targets.",
+          "Assisted in the development of training materials for new franchisees, enhancing onboarding efficiency.",
+          "Conducted market research to identify potential areas of growth, contributing to strategic planning sessions."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "National Franchise Expansion Initiative",
+        "description": "Led a comprehensive project aimed at expanding franchise presence in underserved markets across the Midwest region.",
+        "technologies": [
+          "CRM Software",
+          "Data Analysis Tools",
+          "Project Management Software"
+        ]
+      }
+    ]
+  }
+}

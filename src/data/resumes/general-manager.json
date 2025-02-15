@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "title": "General Manager Resume Template",
+    "description": "A professional resume template tailored for General Manager positions, highlighting technical skills and project experience",
+    "category": "Executive Leadership",
+    "role": "General Manager",
+    "slug": "general-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "management",
+      "leadership",
+      "business operations",
+      "profitability",
+      "team development"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "General Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing business unit operations and profitability. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": []
+    },
+    "experience": [
+      {
+        "title": "General Manager",
+        "company": "Innovative Business Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased annual revenue by 30% by implementing strategic marketing initiatives and optimizing operational processes.",
+          "Led a team of 50+ staff, exceeding targets and enhancing team efficiency by 25% through improved training programs.",
+          "Spearheaded a digital transformation project, reducing costs by 15% and improving customer satisfaction by 20%."
+        ]
+      },
+      {
+        "title": "Operations Manager",
+        "company": "Dynamic Enterprises Ltd.",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Enhanced supply chain efficiency, resulting in a 20% decrease in lead time for product delivery.",
+          "Managed budget allocations and reduced operational expenses by 18%, positively impacting the bottom line.",
+          "Developed a robust Key Performance Indicator (KPI) system that increased productivity by 22% across departments."
+        ]
+      },
+      {
+        "title": "Assistant Operations Manager",
+        "company": "Future Vision Co.",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior management in executing strategic plans that led to a 15% growth in market share.",
+          "Coordinated a cross-functional team to streamline workflows, reducing operational inefficiencies by 12%.",
+          "Assisted in the implementation of a new CRM system, improving customer interaction and retention by 10%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of California",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Digital Transformation Initiative",
+        "description": "Led a company-wide digital transformation project to enhance operational efficiency and customer experience.",
+        "technologies": [
+          "Salesforce",
+          "SAP",
+          "Microsoft Power BI"
+        ]
+      }
+    ]
+  }
+}

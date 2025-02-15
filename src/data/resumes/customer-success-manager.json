@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Customer Success Manager Resume Template",
+    "description": "A professional resume template tailored for Customer Success Manager positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Customer Success Manager",
+    "slug": "customer-success-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "customer satisfaction",
+      "upselling",
+      "customer success",
+      "sales"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Customer Success Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in ensuring customer satisfaction and upselling. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish",
+        "French"
+      ],
+      "frameworks": [
+        "Customer Success Management",
+        "CRM"
+      ],
+      "tools": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk"
+      ],
+      "concepts": [
+        "Customer Retention",
+        "Relationship Building",
+        "Conflict Resolution"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Customer Success Manager",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased customer retention by 25% through the implementation of a new success strategy.",
+          "Led a team to develop a customer engagement program that improved upsell opportunities, generating an additional $500K in annual revenue.",
+          "Developed and maintained strong, long-lasting client relationships with senior management stakeholders in companies."
+        ]
+      },
+      {
+        "title": "Customer Success Specialist",
+        "company": "SysTech Corp",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Spearheaded a cross-departmental project to streamline the onboarding process, reducing the average onboarding time by 30%.",
+          "Achieved a Net Promoter Score (NPS) improvement of 15 points over two years.",
+          "Supported the sales team in upselling to existing clients, contributing a 35% growth in client revenue."
+        ]
+      },
+      {
+        "title": "Customer Success Associate",
+        "company": "Innovatech LLC",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in maintaining a customer satisfaction score of 95% by responding promptly to queries and resolving issues.",
+          "Organized customer feedback sessions leading to enhancements in product usability.",
+          "Effectively managed a portfolio of over 50 customer accounts to ensure a high level of customer satisfaction."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Client Success Automation",
+        "description": "Developed an automated tracking system for client interactions to enhance relationship-building efforts and improve satisfaction rates.",
+        "technologies": [
+          "Salesforce",
+          "Python",
+          "Tableau"
+        ]
+      }
+    ]
+  }
+}

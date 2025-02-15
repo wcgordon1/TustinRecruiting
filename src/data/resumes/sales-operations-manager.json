@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Sales Operations Manager Resume Template",
+    "description": "A professional resume template tailored for Sales Operations Manager positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Sales Operations Manager",
+    "slug": "sales-operations-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Sales Optimization",
+      "Process Improvement",
+      "CRM Management",
+      "Operational Efficiency"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Sales Operations Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in optimizing sales processes and performance. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "HubSpot",
+        "Microsoft Excel",
+        "Tableau"
+      ],
+      "concepts": [
+        "CRM Management",
+        "Sales Analytics",
+        "Process Optimization",
+        "Team Leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Sales Operations Manager",
+        "company": "TechSolutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Streamlined sales funnel processes, reducing lead response time by 30% through the integration of automated CRM systems.",
+          "Led a cross-functional project team to develop and implement a new sales analytic reporting system, resulting in a 20% increase in quarterly sales productivity.",
+          "Successfully implemented a sales training program that improved sales team efficiency by 15%."
+        ]
+      },
+      {
+        "title": "Senior Sales Operations Specialist",
+        "company": "Innovative Sales Co.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and executed strategic initiatives that increased sales pipeline efficiency by 25%.",
+          "Managed CRM platform transition, leading to improved data accuracy and integrity, reducing errors by 40%.",
+          "Collaborated with marketing to refine lead qualification processes, increasing qualified leads by 18%."
+        ]
+      },
+      {
+        "title": "Sales Operations Analyst",
+        "company": "MarketDrive LLC",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported sales performance evaluations and reporting, contributing to a 10% growth in annual sales.",
+          "Assisted in the preparation and analysis of sales forecasts, enhancing budget allocations and planning accuracy.",
+          "Introduced process improvements that reduced manual report generation time by 25%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Sales Optimization Initiative",
+        "description": "Developed and led a comprehensive project to enhance sales process efficiencies, utilizing advanced CRM tools and analytics.",
+        "technologies": [
+          "Salesforce",
+          "Tableau",
+          "Excel"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Technical Sales Representative Resume Template",
+    "description": "A professional resume template tailored for Technical Sales Representative positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Technical Sales Representative",
+    "slug": "technical-sales-representative",
+    "experience_level": "mid-level",
+    "keywords": [
+      "technical sales",
+      "complex solutions",
+      "customer relationship"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Technical Sales Representative",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in selling complex technical solutions and products. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL"
+      ],
+      "frameworks": [
+        "Django",
+        "Flask"
+      ],
+      "tools": [
+        "Salesforce",
+        "HubSpot",
+        "Power BI"
+      ],
+      "concepts": [
+        "Cloud Computing",
+        "Machine Learning",
+        "Data Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Technical Sales Representative",
+        "company": "Innovative Tech Solutions",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased sales revenue by 25% through successful engagement with key clients and strategic partnerships.",
+          "Led a team to implement a CRM system, improving lead tracking and conversion rates by 15%.",
+          "Developed tailored presentations and demos that enhanced client understanding of complex solutions, resulting in a 30% increase in successful product trials."
+        ]
+      },
+      {
+        "title": "Technical Sales Representative",
+        "company": "Advanced Systems Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Achieved 120% of sales targets for three consecutive quarters by tailoring solutions to client needs.",
+          "Collaborated with engineering teams to refine product offerings, leading to a customer satisfaction score increase of 20%.",
+          "Conducted over 50 product training sessions for customers, enhancing product utilization and customer loyalty."
+        ]
+      },
+      {
+        "title": "Junior Technical Sales Associate",
+        "company": "Tech Forward LLC",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior sales staff in closing deals worth over $500K by preparing technical documents and sales proposals.",
+          "Assisted in market research and analysis, identifying trends that informed product development strategies.",
+          "Provided technical support during client meetings, helping to clarify product features and capabilities."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Information Technology",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "AI-Driven Sales Optimization",
+        "description": "Developed a machine learning model that predicts customer purchasing behavior, resulting in a 15% increase in upsell opportunities.",
+        "technologies": [
+          "Python",
+          "Scikit-learn",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}

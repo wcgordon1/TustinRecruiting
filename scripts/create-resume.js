@@ -13,178 +13,184 @@ dotenv.config({ path: join(__dirname, 'config', '.env.local') });
 
 const RESUMES_TO_BUILD = [
     {
-        "role": "Frontend Developer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Building user-facing web applications and interfaces"
+        "role": "Chief Executive Officer (CEO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Overseeing overall business strategy and operations"
       },
       {
-        "role": "Backend Developer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Developing server-side logic and database interactions"
+        "role": "Chief Operating Officer (COO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Managing daily business operations and efficiency"
       },
       {
-        "role": "Full Stack Developer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Working on both frontend and backend development"
+        "role": "Chief Financial Officer (CFO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Overseeing financial planning, reporting, and strategy"
       },
       {
-        "role": "DevOps Engineer",
-        "category": "Technology",
+        "role": "Chief Technology Officer (CTO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Driving technology strategy and innovation"
+      },
+      {
+        "role": "Chief Information Officer (CIO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Managing IT infrastructure and digital transformation"
+      },
+      {
+        "role": "Chief Marketing Officer (CMO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Leading marketing, branding, and customer engagement"
+      },
+      {
+        "role": "Chief Revenue Officer (CRO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Maximizing revenue generation across all sales channels"
+      },
+      {
+        "role": "Chief Human Resources Officer (CHRO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Managing talent acquisition, employee relations, and culture"
+      },
+      {
+        "role": "Chief Product Officer (CPO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Overseeing product development and innovation"
+      },
+      {
+        "role": "Chief Customer Officer (CCO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Ensuring customer satisfaction and loyalty"
+      },
+      {
+        "role": "Chief Data Officer (CDO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Managing data strategy, governance, and analytics"
+      },
+      {
+        "role": "Chief Risk Officer (CRO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Overseeing risk management and regulatory compliance"
+      },
+      {
+        "role": "Chief Innovation Officer (CINO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Driving innovation and new business opportunities"
+      },
+      {
+        "role": "Chief Legal Officer (CLO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Managing legal strategy and corporate compliance"
+      },
+      {
+        "role": "Chief Strategy Officer (CSO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Developing and executing long-term corporate strategy"
+      },
+      {
+        "role": "Chief Communications Officer (CCO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Managing corporate communication and public relations"
+      },
+      {
+        "role": "Chief Experience Officer (CXO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Enhancing customer and employee experience strategies"
+      },
+      {
+        "role": "Chief Supply Chain Officer (CSCO)",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Overseeing logistics, procurement, and supply chain strategy"
+      },
+      {
+        "role": "General Manager",
+        "category": "Executive Leadership",
         "level": "senior",
-        "focus": "Managing CI/CD pipelines and cloud infrastructure"
+        "focus": "Managing business unit operations and profitability"
       },
       {
-        "role": "Data Scientist",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Analyzing data to extract insights and build predictive models"
-      },
-      {
-        "role": "Data Engineer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Building and maintaining data pipelines and warehouses"
-      },
-      {
-        "role": "Cybersecurity Analyst",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Protecting systems and networks from cyber threats"
-      },
-      {
-        "role": "Machine Learning Engineer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Developing and deploying machine learning models"
-      },
-      {
-        "role": "Cloud Engineer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Designing and managing cloud-based infrastructure"
-      },
-      {
-        "role": "AI Engineer",
-        "category": "Technology",
+        "role": "Vice President of Sales",
+        "category": "Executive Leadership",
         "level": "senior",
-        "focus": "Building AI-powered applications and solutions"
+        "focus": "Leading sales teams and revenue growth strategies"
       },
       {
-        "role": "Blockchain Developer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Developing decentralized applications and smart contracts"
-      },
-      {
-        "role": "IT Support Specialist",
-        "category": "Technology",
-        "level": "entry-level",
-        "focus": "Providing technical support and troubleshooting IT issues"
-      },
-      {
-        "role": "System Administrator",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Managing servers, networks, and IT infrastructure"
-      },
-      {
-        "role": "Network Engineer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Designing and maintaining computer networks"
-      },
-      {
-        "role": "Database Administrator",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Managing and optimizing databases"
-      },
-      {
-        "role": "Business Intelligence Analyst",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Using data to generate insights for business decisions"
-      },
-      {
-        "role": "Product Manager",
-        "category": "Technology",
+        "role": "Vice President of Marketing",
+        "category": "Executive Leadership",
         "level": "senior",
-        "focus": "Defining product strategy and managing development"
+        "focus": "Overseeing marketing campaigns and brand strategy"
       },
       {
-        "role": "Scrum Master",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Facilitating Agile development processes"
-      },
-      {
-        "role": "UI/UX Designer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Designing user-friendly interfaces and experiences"
-      },
-      {
-        "role": "QA Engineer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Testing software to ensure quality and reliability"
-      },
-      {
-        "role": "Embedded Systems Engineer",
-        "category": "Technology",
+        "role": "Vice President of Operations",
+        "category": "Executive Leadership",
         "level": "senior",
-        "focus": "Developing software for embedded devices"
+        "focus": "Managing and optimizing business operations"
       },
       {
-        "role": "IoT Engineer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Building Internet of Things applications and systems"
-      },
-      {
-        "role": "IT Project Manager",
-        "category": "Technology",
+        "role": "Vice President of Finance",
+        "category": "Executive Leadership",
         "level": "senior",
-        "focus": "Overseeing technology projects and teams"
+        "focus": "Leading financial strategy and budget planning"
       },
       {
-        "role": "Penetration Tester",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Simulating cyberattacks to find security vulnerabilities"
-      },
-      {
-        "role": "Robotics Engineer",
-        "category": "Technology",
+        "role": "Vice President of Engineering",
+        "category": "Executive Leadership",
         "level": "senior",
-        "focus": "Developing robotic systems and automation solutions"
+        "focus": "Overseeing engineering teams and product development"
       },
       {
-        "role": "Site Reliability Engineer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Ensuring system reliability and uptime"
-      },
-      {
-        "role": "IT Compliance Analyst",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Ensuring regulatory compliance in IT operations"
-      },
-      {
-        "role": "Solutions Architect",
-        "category": "Technology",
+        "role": "Vice President of Customer Success",
+        "category": "Executive Leadership",
         "level": "senior",
-        "focus": "Designing scalable technical solutions"
+        "focus": "Ensuring customer satisfaction and retention"
       },
       {
-        "role": "IT Security Consultant",
-        "category": "Technology",
+        "role": "Director of Business Development",
+        "category": "Executive Leadership",
         "level": "senior",
-        "focus": "Advising companies on cybersecurity best practices"
+        "focus": "Driving strategic partnerships and market expansion"
+      },
+      {
+        "role": "Director of Product Management",
+        "category": "Executive Leadership",
+        "level": "senior",
+        "focus": "Overseeing product lifecycle and innovation"
+      },
+      {
+        "role": "Director of IT",
+        "category": "Executive Leadership",
+        "level": "senior",
+        "focus": "Managing IT operations and security infrastructure"
+      },
+      {
+        "role": "Director of Human Resources",
+        "category": "Executive Leadership",
+        "level": "senior",
+        "focus": "Leading talent management and company culture initiatives"
+      },
+      {
+        "role": "Director of Finance",
+        "category": "Executive Leadership",
+        "level": "senior",
+        "focus": "Overseeing financial operations and risk management"
       }
 ];
 

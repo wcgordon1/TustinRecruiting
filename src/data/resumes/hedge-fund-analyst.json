@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Hedge Fund Analyst Resume Template",
+    "description": "A professional resume template tailored for Hedge Fund Analyst positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Hedge Fund Analyst",
+    "slug": "hedge-fund-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "investment strategies",
+      "financial modeling"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Hedge Fund Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in researching and evaluating investment strategies. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "R"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Bloomberg Terminal",
+        "Excel",
+        "Tableau"
+      ],
+      "concepts": [
+        "Financial Modelling",
+        "Equity Research",
+        "Risk Management",
+        "Quantitative Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Hedge Fund Analyst",
+        "company": "CapitalGrowth Partners",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Developed and maintained complex financial models resulting in a 15% increase in portfolio performance.",
+          "Conducted thorough market research to recommend investment opportunities, contributing to a 20% revenue growth.",
+          "Supervised a team of 3 junior analysts, providing mentorship and improving team productivity by 30%."
+        ]
+      },
+      {
+        "title": "Hedge Fund Analyst",
+        "company": "Equity Insights LLC",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Improved modeling accuracy by 25% through the implementation of advanced quantitative techniques.",
+          "Analyzed macroeconomic trends to guide asset allocation, enhancing fund profitability by 10%.",
+          "Collaborated with portfolio managers to optimize hedge fund performance, resulting in top-quartile fund returns."
+        ]
+      },
+      {
+        "title": "Junior Analyst",
+        "company": "Growth Capital Inc.",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the preparation of weekly market analysis reports utilized by senior management.",
+          "Tracked industry trends and created detailed financial models supporting investment decisions.",
+          "Supported the development of a new analytical framework increasing research efficiency by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Quantitative Trading Model",
+        "description": "Developed a quantitative trading model using Python to simulate and optimize trading strategies.",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "NumPy"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Estate Planner Resume Template",
+    "description": "A professional resume template tailored for Estate Planner positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Estate Planner",
+    "slug": "estate-planner",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Estate Planning",
+      "Asset Allocation",
+      "Financial Advisory"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Estate Planner",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in helping clients plan for asset distribution. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Estate Planning Software",
+        "MS Office Suite",
+        "Financial Modeling"
+      ],
+      "concepts": [
+        "Asset Allocation",
+        "Tax Planning",
+        "Trust Administration",
+        "Risk Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Estate Planner",
+        "company": "WealthGuard Financial Services",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Developed comprehensive estate plans for high-net-worth individuals, resulting in an average tax reduction of 15%.",
+          "Led a team of 4 junior planners, increasing client satisfaction scores by 20% over two years.",
+          "Implemented an automated solution for asset tracking, improving client reporting efficiency by 30%."
+        ]
+      },
+      {
+        "title": "Estate Planning Associate",
+        "company": "Greenwald & Associates",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in creating over 100 detailed asset distribution strategies, increasing client retention by 25%.",
+          "Coordinated with legal teams to streamline trust establishment, reducing setup time by 15%.",
+          "Conducted workshops for clients on wealth preservation techniques, resulting in a 40% increase in referrals."
+        ]
+      },
+      {
+        "title": "Junior Estate Planner",
+        "company": "Legacy Planning Partners",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Performed in-depth client asset analysis, contributing to the successful execution of 50+ estate plans.",
+          "Supported senior planners in drafting estate documents and managing client communications.",
+          "Streamlined client onboarding process, reducing administrative workload by 10%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Digital Estate Planning Initiative",
+        "description": "Developed a digital tool for clients to track and manage their estate planning documents securely.",
+        "technologies": [
+          "JavaScript",
+          "Node.js",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}

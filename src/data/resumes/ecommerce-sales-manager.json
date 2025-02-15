@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "title": "eCommerce Sales Manager Resume Template",
+    "description": "A professional resume template tailored for eCommerce Sales Manager positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "eCommerce Sales Manager",
+    "slug": "ecommerce-sales-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "eCommerce",
+      "Sales Management",
+      "Digital Marketing",
+      "Online Sales",
+      "Brand Development"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "eCommerce Sales Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in managing online sales and digital storefronts. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "JavaScript",
+        "Python"
+      ],
+      "frameworks": [
+        "React",
+        "Django"
+      ],
+      "tools": [
+        "Shopify",
+        "Google Analytics",
+        "Salesforce",
+        "SEMrush"
+      ],
+      "concepts": [
+        "SEO",
+        "PPC Advertising",
+        "A/B Testing",
+        "Customer Segmentation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "eCommerce Sales Manager",
+        "company": "TechTrend Ventures",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased online sales by 30% year-over-year by implementing targeted marketing strategies.",
+          "Managed a team of 10 eCommerce specialists and coordinated with cross-functional teams to enhance customer experience.",
+          "Devised and executed an A/B testing strategy that improved conversion rates by 15%."
+        ]
+      },
+      {
+        "title": "eCommerce Specialist",
+        "company": "NextGen Solutions",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Drove a 25% increase in traffic to the online store through strategic SEO initiatives.",
+          "Collaborated with the design team to revamp the digital storefront, resulting in a 20% increase in average order value.",
+          "Implemented a new CRM system that streamlined customer data handling and improved retention rates by 12%."
+        ]
+      },
+      {
+        "title": "Junior eCommerce Associate",
+        "company": "BrightCommerce Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in launching the company’s first online sales platform, resulting in a 40% increase in Q1 sales post-launch.",
+          "Conducted market research and competitor analysis to identify new growth opportunities, leading to a $100K increase in revenue.",
+          "Optimized digital marketing campaigns to improve ROI by 18%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Online Store Revamp Project",
+        "description": "Led a project to redesign the online store's UI/UX, resulting in a 20% reduction in cart abandonment rates.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Figma"
+        ]
+      }
+    ]
+  }
+}

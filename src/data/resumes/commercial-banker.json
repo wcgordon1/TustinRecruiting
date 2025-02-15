@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "Commercial Banker Resume Template",
+    "description": "A professional resume template tailored for Commercial Banker positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Commercial Banker",
+    "slug": "commercial-banker",
+    "experience_level": "mid-level",
+    "keywords": [
+      "financial services",
+      "business solutions"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Commercial Banker",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in providing financial services to businesses. Proven track record of delivering high-quality solutions and optimizing performance to enhance client satisfaction and profitability.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": []
+    },
+    "experience": [
+      {
+        "title": "Senior Commercial Banker",
+        "company": "Greenfield Bank & Trust",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased portfolio revenue by 25% by acquiring 15 new mid-sized business accounts and optimizing existing customer relationships.",
+          "Led a team of junior bankers, providing mentorship and improving team performance by 30% through sales strategy workshops.",
+          "Implemented a new client onboarding system reducing approval time by 40%."
+        ]
+      },
+      {
+        "title": "Commercial Banking Officer",
+        "company": "Lifeline Financial Services",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed a $50M loan portfolio, ensuring a 98% repayment compliance via effective risk assessment and client management strategies.",
+          "Developed a new credit analysis process that cut down loan processing time by 20%.",
+          "Secured $30M in new lending opportunities through networking events and client meetings."
+        ]
+      },
+      {
+        "title": "Commercial Banking Analyst",
+        "company": "Pacific Trust Corporation",
+        "location": "Los Angeles, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in preparing financial statements, loan proposals, and client presentations, contributing to a 15% increase in loan approvals.",
+          "Conducted comprehensive market research leading to the identification of new business opportunities, resulting in a 10% portfolio growth.",
+          "Reduced data processing errors by 20% through the development of a standardized workflow procedure."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Finance",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Business Loan Optimization",
+        "description": "Developed an algorithm to predict client creditworthiness, reducing loan default risk by 15% and enhancing lending decision accuracy.",
+        "technologies": [
+          "Python",
+          "SQL",
+          "Financial Modeling"
+        ]
+      }
+    ]
+  }
+}

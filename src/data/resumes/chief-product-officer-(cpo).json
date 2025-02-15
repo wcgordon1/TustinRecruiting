@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Chief Product Officer (CPO) Resume Template",
+    "description": "A professional resume template tailored for Chief Product Officer (CPO) positions, highlighting technical skills and project experience",
+    "category": "Executive Leadership",
+    "role": "Chief Product Officer (CPO)",
+    "slug": "chief-product-officer-(cpo)",
+    "experience_level": "executive",
+    "keywords": [
+      "product development",
+      "innovation",
+      "executive leadership",
+      "strategy",
+      "cross-functional teams"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Chief Product Officer (CPO)",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Overseeing product development and innovation. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "React",
+        "Django"
+      ],
+      "tools": [
+        "JIRA",
+        "Confluence",
+        "Miro",
+        "Figma"
+      ],
+      "concepts": [
+        "Agile methodology",
+        "Product Roadmaps",
+        "KPI Analysis",
+        "Cross-functional leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Chief Product Officer",
+        "company": "InnovateTech Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 20+ in successfully launching three new products, resulting in a 30% increase in market share",
+          "Implemented a new product development process that decreased time-to-market by 25%",
+          "Developed and executed a product innovation strategy that enhanced competitive positioning and customer satisfaction"
+        ]
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "NextGen Enterprises",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed the development of a key product line that achieved $10M in annual revenue",
+          "Collaborated with cross-functional teams to streamline operations, reducing costs by 15%",
+          "Introduced data-driven decision-making processes to enhance product strategy and execution"
+        ]
+      },
+      {
+        "title": "Product Manager",
+        "company": "TechWave Innovations",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Launched a cloud-based solution that increased customer retention by 20%",
+          "Coordinated with engineering, design, and marketing teams to ensure alignment with product goals",
+          "Led user research initiatives to gather valuable insights that informed product improvements"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "Stanford University",
+      "location": "Stanford, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Innovative Product Suite",
+        "description": "Developed a suite of interconnected products that leveraged AI to enhance user experience and engagement",
+        "technologies": [
+          "Python",
+          "AI",
+          "Cloud Computing"
+        ]
+      }
+    ]
+  }
+}

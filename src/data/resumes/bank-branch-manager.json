@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Bank Branch Manager Resume Template",
+    "description": "A professional resume template tailored for Bank Branch Manager positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Bank Branch Manager",
+    "slug": "bank-branch-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "bank management",
+      "customer service",
+      "operations optimization"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Bank Branch Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 5 years of experience in overseeing daily operations at a bank branch. Proven track record of delivering high-quality financial solutions, driving customer satisfaction, and optimizing branch performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Financial Analysis",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Risk Assessment",
+        "Process Improvement"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Bank Branch Manager",
+        "company": "Green Valley Bank",
+        "location": "Springfield, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased quarterly branch profitability by 15% through strategic customer engagement and relationship management.",
+          "Led a team of 15 staff members to consistently achieve a 95% customer satisfaction rating.",
+          "Implemented a new loan processing workflow, reducing approval times by 20%."
+        ]
+      },
+      {
+        "title": "Assistant Branch Manager",
+        "company": "Riverbank Financial",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in achieving a 10% increase in total account openings within one year.",
+          "Coordinated staff training initiatives, resulting in a 30% reduction in operational errors.",
+          "Managed branch operations during the Branch Manager's absence, ensuring seamless continued operations."
+        ]
+      },
+      {
+        "title": "Banking Associate",
+        "company": "Lakeside Bank",
+        "location": "Evanston, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Recognized for outstanding customer service, maintaining a 98% rating for client interactions.",
+          "Supported the branch's loan department, contributing to a 25% increase in loan sales.",
+          "Led a successful initiative to improve teller efficiency, cutting transaction processing time by 15%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.A. in Finance",
+      "school": "University of Illinois",
+      "location": "Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Customer Service Initiative",
+        "description": "Developed a customer feedback program to enhance service quality, leading to a 20% increase in customer retention.",
+        "technologies": [
+          "Customer Relationship Management Software",
+          "Survey Tools",
+          "Data Analysis"
+        ]
+      }
+    ]
+  }
+}

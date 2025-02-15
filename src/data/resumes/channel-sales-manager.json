@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Channel Sales Manager Resume Template",
+    "description": "A professional resume template tailored for Channel Sales Manager positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Channel Sales Manager",
+    "slug": "channel-sales-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "channel sales",
+      "partnership management",
+      "indirect sales"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Channel Sales Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing partnerships and indirect sales channels. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "HubSpot",
+        "Microsoft Excel"
+      ],
+      "concepts": [
+        "B2B Sales",
+        "Channel Strategy",
+        "Partner Relationship Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Channel Sales Manager",
+        "company": "TechDynamics Corp.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased channel partner sales by 20% year-on-year through strategic partnerships and improved communication.",
+          "Developed a comprehensive partner training program that resulted in a 30% increase in partner engagement.",
+          "Awarded 'Top Sales Manager' for Q2 2023 due to exceeding sales targets and maintaining excellent partner satisfaction."
+        ]
+      },
+      {
+        "title": "Assistant Channel Sales Manager",
+        "company": "InnovateX Solutions",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the development of a new channel sales strategy, resulting in a 15% increase in annual revenue.",
+          "Coordinated joint marketing efforts with partners, leading to a 10% increase in lead generation.",
+          "Managed a team of 5 junior sales associates, enhancing their productivity and sales effectiveness through targeted mentoring."
+        ]
+      },
+      {
+        "title": "Junior Channel Sales Associate",
+        "company": "Bright Future Technologies",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported the channel sales team in growing the partner base by 25%, contributing to exceeding sales targets.",
+          "Conceptualized and executed a pilot program that improved partner onboarding efficiency by 40%.",
+          "Received the 'Rising Star Award' for exceptional performance and potential in Q4 2018."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Channel Partner CRM Integration",
+        "description": "Led a project to integrate CRM systems with channel partners, enabling seamless sales tracking and enhanced communication.",
+        "technologies": [
+          "Salesforce",
+          "API Integration",
+          "Data Analytics"
+        ]
+      }
+    ]
+  }
+}

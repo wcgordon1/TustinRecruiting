@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Venture Capital Associate Resume Template",
+    "description": "A professional resume template tailored for Venture Capital Associate positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Venture Capital Associate",
+    "slug": "venture-capital-associate",
+    "experience_level": "mid-level",
+    "keywords": [
+      "venture capital",
+      "startup investment",
+      "financial analysis",
+      "market research"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Venture Capital Associate",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in evaluating and investing in startup companies. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Excel",
+        "PitchBook",
+        "Tableau"
+      ],
+      "concepts": [
+        "Financial Modeling",
+        "Market Analysis",
+        "Investment Strategy",
+        "Risk Assessment"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Venture Capital Associate",
+        "company": "Blue Horizon Ventures",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Evaluated and identified 15+ investment opportunities, leading to 3 successful funding rounds with an average ROI of 25%.",
+          "Developed financial models and conducted due diligence, providing critical insights for portfolio diversification.",
+          "Established and maintained strong relationships with startup founders, fostering collaboration and growth."
+        ]
+      },
+      {
+        "title": "Junior Investment Analyst",
+        "company": "Pinnacle Capital Partners",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the evaluation of 30+ early-stage technology startups, contributing to investment decisions totaling over $20 million.",
+          "Analyzed market trends and startup financial statements, enhancing the firm's strategic positioning in emerging markets.",
+          "Collaborated on the development of a comprehensive database to streamline investor relations and deal tracking."
+        ]
+      },
+      {
+        "title": "Investment Analyst Intern",
+        "company": "Vertex Growth",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior analysts in conducting due diligence on potential investment opportunities, contributing to a cumulative investment of $10 million.",
+          "Prepared reports and presentations that facilitated strategic discussions and informed investment strategies.",
+          "Participated in weekly team meetings, offering insights and ideas for process improvement and innovation."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Finance",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Startup Valuation Tool Development",
+        "description": "Developed a dynamic startup valuation tool using Excel and VBA, enhancing the accuracy and efficiency of investment analyses.",
+        "technologies": [
+          "Excel",
+          "VBA",
+          "Financial Modeling"
+        ]
+      }
+    ]
+  }
+}

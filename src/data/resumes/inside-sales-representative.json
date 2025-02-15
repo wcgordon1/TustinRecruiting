@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Inside Sales Representative Resume Template",
+    "description": "A professional resume template tailored for Inside Sales Representative positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Inside Sales Representative",
+    "slug": "inside-sales-representative",
+    "experience_level": "mid-level",
+    "keywords": [
+      "remote selling",
+      "customer engagement",
+      "sales growth"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Inside Sales Representative",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Selling remotely via phone, email, and web demos. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "Salesforce",
+        "Zoom",
+        "MS Office"
+      ],
+      "concepts": [
+        "Lead Generation",
+        "Customer Relationship Management",
+        "Sales Strategies"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Inside Sales Representative",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased sales revenue by 25% in the first year by implementing strategic upselling techniques.",
+          "Achieved top sales performer of the quarter for five consecutive quarters.",
+          "Collaborated with marketing to develop targeted email campaigns, resulting in a 15% increase in conversion rates."
+        ]
+      },
+      {
+        "title": "Inside Sales Representative",
+        "company": "Innovate Commerce",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Converted 30% of cold leads to closed deals within the first year.",
+          "Spearheaded virtual product demonstrations that led to a decrease in customer acquisition cost by 10%.",
+          "Awarded 'Employee of the Month' three times for exceeding sales targets."
+        ]
+      },
+      {
+        "title": "Junior Sales Representative",
+        "company": "StartUp Solutions",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in increasing the customer base by 20% through effective lead qualification.",
+          "Consistently surpassed monthly sales targets by at least 10%.",
+          "Conducted market research that contributed to the development of new sales strategies."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "New York University",
+      "location": "New York, NY",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Automated Lead Management System",
+        "description": "Developed an automated system for managing leads more effectively, resulting in a 50% reduction in response time.",
+        "technologies": [
+          "Salesforce",
+          "Zapier",
+          "Python"
+        ]
+      }
+    ]
+  }
+}

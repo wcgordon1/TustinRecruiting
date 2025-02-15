@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Financial Planner Resume Template",
+    "description": "A professional resume template tailored for Financial Planner positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Financial Planner",
+    "slug": "financial-planner",
+    "experience_level": "mid-level",
+    "keywords": [
+      "financial planning",
+      "investment strategies",
+      "client management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Financial Planner",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Creating long-term financial strategies for clients. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Microsoft Excel",
+        "Bloomberg Terminal",
+        "Morningstar Direct",
+        "Wealthscape"
+      ],
+      "concepts": [
+        "Investment Strategies",
+        "Retirement Planning",
+        "Risk Assessment",
+        "Portfolio Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Financial Planner",
+        "company": "Bright Future Financial Advisors",
+        "location": "Los Angeles, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Developed comprehensive retirement and investment plans for over 100 clients, leading to a 20% increase in portfolio value on average.",
+          "Implemented a client management system that improved customer satisfaction scores by 15%.",
+          "Advised on investment strategies resulting in a 4% better yield compared to market benchmarks."
+        ]
+      },
+      {
+        "title": "Financial Planner",
+        "company": "Prudent Partners Wealth Management",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed assets totaling over $50 million, achieving a client retention rate of 95%.",
+          "Collaborated with team to generate personalized financial strategies that increased client investment outputs by 18%.",
+          "Successfully reduced client portfolio risks through diversified investment options, improving average returns by 12%."
+        ]
+      },
+      {
+        "title": "Associate Financial Planner",
+        "company": "Horizon Wealth Group",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in providing financial planning advice that grew client portfolio base by 10%.",
+          "Conducted in-depth market analysis to support senior planners, directly impacting investment recommendations.",
+          "Developed financial reports and models to identify investment opportunities improving client engagement by 25%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Retirement Planning Workshop",
+        "description": "Organized and conducted workshops for clients focusing on retirement planning and investment diversification.",
+        "technologies": [
+          "Zoom",
+          "PowerPoint",
+          "SurveyMonkey"
+        ]
+      }
+    ]
+  }
+}

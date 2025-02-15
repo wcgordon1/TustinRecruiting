@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Forensic Accountant Resume Template",
+    "description": "A professional resume template tailored for Forensic Accountant positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Forensic Accountant",
+    "slug": "forensic-accountant",
+    "experience_level": "senior",
+    "keywords": [
+      "forensic accounting",
+      "financial investigation",
+      "fraud detection"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Forensic Accountant",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Investigating financial fraud and irregularities. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL"
+      ],
+      "frameworks": [
+        "NumPy",
+        "Pandas"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "ACL Analytics",
+        "IBM SPSS"
+      ],
+      "concepts": [
+        "Fraud Detection",
+        "Risk Assessment",
+        "Financial Reporting"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Forensic Accountant",
+        "company": "Global Financial Compliance, Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 forensic accountants in a project uncovering a $2M financial fraud scheme, enhancing operational integrity.",
+          "Conducted risk assessments for over 100 financial transactions, reducing potential fraud risks by 35%.",
+          "Implemented an automated audit process using Python scripts, increasing audit efficiency by 25%."
+        ]
+      },
+      {
+        "title": "Forensic Accountant",
+        "company": "SecureInvest Consulting",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Collaborated on forensic investigations that resulted in the recovery of $1.5M in misappropriated funds for clients.",
+          "Streamlined financial reporting processes, cutting operational costs by 15%.",
+          "Provided detailed reports on financial irregularities to senior management, influencing risk management strategies."
+        ]
+      },
+      {
+        "title": "Junior Forensic Accountant",
+        "company": "Integrity Assurance Group",
+        "location": "Houston, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the analysis of financial data to detect fraudulent activities, contributing to a 20% reduction in financial discrepancies.",
+          "Supported senior accountants in preparing detailed investigative reports, enhancing company transparency.",
+          "Conducted training for 10+ employees on red flags of financial fraud, improving organizational awareness."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Accounting",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Fraud Detection System",
+        "description": "Developed a predictive fraud detection system that utilizes machine learning algorithms to analyze transaction data.",
+        "technologies": [
+          "Python",
+          "Scikit-learn",
+          "TensorFlow"
+        ]
+      }
+    ]
+  }
+}

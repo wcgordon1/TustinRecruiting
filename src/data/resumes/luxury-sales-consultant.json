@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Luxury Sales Consultant Resume Template",
+    "description": "A professional resume template tailored for Luxury Sales Consultant positions, highlighting achievements and career progression.",
+    "category": "Sales",
+    "role": "Luxury Sales Consultant",
+    "slug": "luxury-sales-consultant",
+    "experience_level": "mid-level",
+    "keywords": [
+      "luxury sales",
+      "high-end products",
+      "customer service",
+      "luxury brand management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both sales and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Luxury Sales Consultant",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile"
+      }
+    },
+    "summary": "Results-driven professional with over five years of experience in selling high-end and luxury products. Proven track record of exceeding sales targets and providing exceptional customer service in luxury retail environments.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Salesforce CRM",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Customer Relationship Management",
+        "Luxury Brand Management",
+        "Upselling Techniques"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Luxury Sales Consultant",
+        "company": "Opulent Boutique",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased personal sales by 30% year-over-year, generating over $1.5M in annual revenue.",
+          "Led a team of 5 sales associates to achieve a collective 20% growth in quarter sales targets.",
+          "Established and maintained strong relationships with high-profile clients, enhancing brand loyalty."
+        ]
+      },
+      {
+        "title": "Luxury Sales Specialist",
+        "company": "Prestige Emporium",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Consistently exceeded monthly sales targets by an average of 25%.",
+          "Played a pivotal role in launching a new product line, resulting in a 15% increase in store foot traffic.",
+          "Awarded 'Top Sales Performer' for two consecutive years."
+        ]
+      },
+      {
+        "title": "Junior Sales Associate",
+        "company": "The Luxe Gallery",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in achieving the highest sales growth among junior staff, contributing to a 10% increase in overall store sales.",
+          "Developed expertise in product knowledge, providing tailored solutions to fulfill customer needs.",
+          "Recognized for outstanding customer service with a 95% customer satisfaction score."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "VIP Client Program Design",
+        "description": "Designed and implemented a VIP client program to enhance customer engagement and loyalty, resulting in a 20% increase in repeat sales.",
+        "technologies": [
+          "Salesforce CRM",
+          "Email Marketing Tools"
+        ]
+      }
+    ]
+  }
+}

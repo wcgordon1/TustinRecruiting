@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "National Sales Manager Resume Template",
+    "description": "A professional resume template tailored for National Sales Manager positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "National Sales Manager",
+    "slug": "national-sales-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "sales management",
+      "national strategy",
+      "business development",
+      "customer relationship management",
+      "B2B sales"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "National Sales Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in managing and growing national sales operations. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "Microsoft Office",
+        "CRM Software",
+        "Data Analysis Tools"
+      ],
+      "concepts": [
+        "Sales Strategy",
+        "Revenue Growth",
+        "Leadership",
+        "Customer Relationship Management",
+        "Negotiation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "National Sales Manager",
+        "company": "GlobalTech Solutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased national sales revenue by 25% within the first year by implementing a new sales strategy and expanding the sales team by 20%.",
+          "Led a team of 15 regional sales managers and drove market penetration in emerging markets, resulting in a 15% increase in market share.",
+          "Developed and launched a customer loyalty program that boosted customer retention rates by 30% over 18 months."
+        ]
+      },
+      {
+        "title": "Regional Sales Manager",
+        "company": "Innovatech Systems",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed sales operations across the Northeastern region, achieving a 40% growth in sales volume over two years.",
+          "Trained and mentored a team of 8 account executives, resulting in a 50% reduction in sales cycle time and improved team performance.",
+          "Negotiated and closed contracts with major clients, contributing to a $5M increase in annual revenue."
+        ]
+      },
+      {
+        "title": "Sales Executive",
+        "company": "TechPro Enterprises",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Exceeded sales targets by 150% in the first year and ranked as the top sales executive in the company for two consecutive quarters.",
+          "Initiated partnerships with key industry leaders that resulted in significant revenue opportunities.",
+          "Assisted in the development and execution of sales training programs that improved new hire performance by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "Boston University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "National Sales Innovation Project",
+        "description": "Led a cross-functional team to design and implement a new CRM system that optimized customer management processes across national sales operations.",
+        "technologies": [
+          "Salesforce",
+          "Data Analytics",
+          "CRM Implementation"
+        ]
+      }
+    ]
+  }
+}

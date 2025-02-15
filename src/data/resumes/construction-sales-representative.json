@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "title": "Construction Sales Representative Resume Template",
+    "description": "A professional resume template tailored for Construction Sales Representative positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Construction Sales Representative",
+    "slug": "construction-sales-representative",
+    "experience_level": "mid-level",
+    "keywords": [
+      "construction sales",
+      "client management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Construction Sales Representative",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in selling materials and services in the construction industry. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "Microsoft Office",
+        "Salesforce"
+      ],
+      "concepts": [
+        "Client Relationship Management",
+        "Market Analysis",
+        "Contract Negotiation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Construction Sales Representative",
+        "company": "BuildRight Solutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased sales revenue by 30% within first year through strategic account management and upselling techniques.",
+          "Successfully negotiated contracts with over 50 new clients, enhancing company’s market presence.",
+          "Led a team of 5 junior sales representatives, providing mentorship and increased team productivity by 25%."
+        ]
+      },
+      {
+        "title": "Construction Sales Representative",
+        "company": "Ace Construction Materials",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Achieved 110% of annual sales target for three consecutive years.",
+          "Developed strong client relationships, resulting in a 15% increase in customer retention rates.",
+          "Initiated a customer feedback program to improve service delivery, which led to a 20% improvement in client satisfaction."
+        ]
+      },
+      {
+        "title": "Junior Construction Sales Representative",
+        "company": "SolidBuild Supplies Co.",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in securing $500,000 in contracts with leading construction firms.",
+          "Regularly exceeded monthly sales quotas by 10% through effective cross-selling strategies.",
+          "Recognized as 'Employee of the Quarter' for Q4 2018 for outstanding sales performance."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Lead Generation Enhancement Project",
+        "description": "Developed a comprehensive strategy to improve lead generation through digital channels, resulting in a 25% increase in qualified leads.",
+        "technologies": [
+          "HubSpot",
+          "Google Analytics",
+          "LinkedIn Sales Navigator"
+        ]
+      }
+    ]
+  }
+}

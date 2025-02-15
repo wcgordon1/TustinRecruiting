@@ -46,7 +46,7 @@ const categoryTitle = category ? category.split(' ')
             {categoryTitle} Resume Templates     
           </h1>
           <p class="text-slate-500 mt-5 lg:text-pretty">
-            Professional resume templates tailored for {category} positions.
+            Professional resume templates tailored for {category} positions. Brought to you by Tustin Recruiting.
           </p>
           <div class="mt-10 flex gap-4">
             <a
@@ -68,11 +68,11 @@ const categoryTitle = category ? category.split(' ')
         </div>
       
         <!-- Resume Template Cards-->
-        <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 mt-8">
+        <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 mt-24 mb-24">
           {resumes.map(resume => (
             <a 
               href={`/resume-templates/${resume.metadata.category}/${resume.metadata.slug}`}
-              class="block p-6 bg-white rounded-2xl border border-gray-200 hover:border-blue-100 transition-all duration-200"
+              class="block p-6 bg-white rounded-xl border border-gray-200 hover:border-blue-100 transition-all duration-200"
             >
               <h2 class="text-lg font-semibold text-gray-900 mb-3">
                 {resume.metadata.role}

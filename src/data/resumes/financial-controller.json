@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Financial Controller Resume Template",
+    "description": "A professional resume template tailored for Financial Controller positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Financial Controller",
+    "slug": "financial-controller",
+    "experience_level": "senior",
+    "keywords": [
+      "Financial Management",
+      "Budgeting",
+      "Forecasting"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Financial Controller",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in overseeing accounting and financial operations. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Microsoft Excel",
+        "SAP",
+        "QuickBooks"
+      ],
+      "concepts": [
+        "Financial Analysis",
+        "Risk Management",
+        "Internal Controls"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Financial Controller",
+        "company": "Horizon Corp",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully streamlined financial reporting processes, reducing reporting time by 30%.",
+          "Led a team of 10 in completing the annual budget planning cycle, resulting in a 5% cost reduction.",
+          "Implemented an automated accounting system that improved data accuracy by 20%."
+        ]
+      },
+      {
+        "title": "Senior Financial Analyst",
+        "company": "ProFinance Inc.",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed a forecasting model that increased accuracy by 15% and enhanced financial decision-making.",
+          "Collaborated with cross-functional teams to achieve a 10% increase in operational efficiency.",
+          "Managed monthly financial reporting and identified cost-saving opportunities, saving $500k annually."
+        ]
+      },
+      {
+        "title": "Financial Analyst",
+        "company": "Equity Associates",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the preparation of financial statements, contributing to a timely and error-free close process.",
+          "Conducted variance analysis to support budgeting and forecasting efforts, identifying key trends and insights.",
+          "Supported the implementation of a new budget management system, improving tracking and accountability."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Accounting",
+      "school": "University of Illinois",
+      "location": "Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Financial Systems Upgrade",
+        "description": "Led the integration of a new financial software platform across the company, enhancing data accuracy and accessibility.",
+        "technologies": [
+          "SAP",
+          "SQL",
+          "Excel VBA"
+        ]
+      }
+    ]
+  }
+}

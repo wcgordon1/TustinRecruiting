@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Investment Consultant Resume Template",
+    "description": "A professional resume template tailored for Investment Consultant positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Investment Consultant",
+    "slug": "investment-consultant",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Investment Management",
+      "Portfolio Analysis",
+      "Financial Advisory"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Investment Consultant",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in advising clients on investment opportunities and portfolio management. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "R"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Bloomberg Terminal",
+        "Excel",
+        "Morningstar Direct"
+      ],
+      "concepts": [
+        "Portfolio Management",
+        "Risk Analysis",
+        "Asset Allocation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Investment Consultant",
+        "company": "Summit Financial Group",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Advised on investment portfolios worth $50M+ across diverse asset classes.",
+          "Increased client portfolio returns by an average of 15% annually through strategic asset allocation and market analysis.",
+          "Implemented advanced financial models to optimize investment strategies and performance."
+        ]
+      },
+      {
+        "title": "Associate Investment Analyst",
+        "company": "Horizon Asset Management",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted in-depth market research and analysis to support senior consultants in developing investment strategies.",
+          "Played key role in developing client presentations which led to a 25% increase in client acquisition.",
+          "Developed risk management solutions that enhanced portfolio performance by reducing volatility by 10%."
+        ]
+      },
+      {
+        "title": "Junior Investment Analyst",
+        "company": "Liberty Wealth Partners",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior analysts in the evaluation of financial data and preparation of detailed investment reports.",
+          "Assisted in the maintenance and updating of client portfolio data, ensuring accuracy and timely reporting.",
+          "Facilitated effective communication with clients, addressing inquiries and concerns to ensure satisfaction."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of Illinois",
+      "location": "Urbana-Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Portfolio Diversification Model",
+        "description": "Developed a diversification model to optimize client asset allocation and minimize risk exposure.",
+        "technologies": [
+          "Python",
+          "Excel",
+          "Tableau"
+        ]
+      }
+    ]
+  }
+}

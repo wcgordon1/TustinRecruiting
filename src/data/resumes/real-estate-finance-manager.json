@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Real Estate Finance Manager Resume Template",
+    "description": "A professional resume template tailored for Real Estate Finance Manager positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Real Estate Finance Manager",
+    "slug": "real-estate-finance-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Real Estate Finance",
+      "Investment Analysis",
+      "Financial Modeling"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Real Estate Finance Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing financial aspects of real estate investments. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "R"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Excel",
+        "Argus",
+        "Yardi"
+      ],
+      "concepts": [
+        "Financial Modeling",
+        "Investment Analysis",
+        "Portfolio Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Real Estate Finance Manager",
+        "company": "UrbanCore Investments",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the financial analysis for a $200M mixed-use development project, resulting in a 15% IRR.",
+          "Streamlined financial reporting processes reducing month-end close by 20%.",
+          "Managed a team of 3 analysts, providing training and development opportunities that improved team performance by 30%."
+        ]
+      },
+      {
+        "title": "Senior Financial Analyst",
+        "company": "Pinnacle Real Estate Group",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed comprehensive financial models for over 25 commercial properties valued at $1.5B.",
+          "Conducted due diligence analyses on potential acquisitions resulting in the successful acquisition of assets worth $400M.",
+          "Collaborated with cross-functional teams to implement budget forecasting tools, improving accuracy by 25%."
+        ]
+      },
+      {
+        "title": "Junior Financial Analyst",
+        "company": "StoneBridge Realty Advisors",
+        "location": "Los Angeles, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the preparation of quarterly financial reports and variance analyses for a portfolio of 50 properties.",
+          "Supported senior analysts in strategic planning and risk assessment for large-scale developments.",
+          "Recognized for outstanding performance with an Excellence in Finance award, increasing responsibility within 1 year."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Real Estate Investment Portfolio Optimization",
+        "description": "Developed a portfolio optimization model using Python to enhance the return on investment for a diversified real estate portfolio.",
+        "technologies": [
+          "Python",
+          "Excel",
+          "Yardi"
+        ]
+      }
+    ]
+  }
+}

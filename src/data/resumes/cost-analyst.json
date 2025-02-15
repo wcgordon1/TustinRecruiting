@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Cost Analyst Resume Template",
+    "description": "A professional resume template tailored for Cost Analyst positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Cost Analyst",
+    "slug": "cost-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Cost Analysis",
+      "Profitability Improvement",
+      "Financial Modeling"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Cost Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Analyzing costs to improve profitability. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "Python"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Excel",
+        "Tableau",
+        "SAP"
+      ],
+      "concepts": [
+        "Cost Optimization",
+        "Budgeting",
+        "Financial Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Cost Analyst",
+        "company": "PrimeCorp Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the reduction of operational costs by 15% through implementation of data-driven decision making strategies.",
+          "Spearheaded a project to revamp cost allocation methods resulting in $500,000 annual savings.",
+          "Automated monthly cost reporting process, reducing time taken by 30 hours monthly."
+        ]
+      },
+      {
+        "title": "Cost Analyst",
+        "company": "FinEdge Inc.",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed financial models to forecast quarterly expenses, improving accuracy by 20%.",
+          "Collaborated with cross-functional teams to implement cost tracking systems across departments.",
+          "Optimized inventory management, reducing holding costs by $200,000 annually."
+        ]
+      },
+      {
+        "title": "Junior Cost Analyst",
+        "company": "BudgetSolutions",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in creating annual budgets for major service lines, improving financial planning efficiency.",
+          "Conducted variance analysis to identify key drivers of cost fluctuations, prompting corrective actions.",
+          "Contributed to the development of a cost analysis dashboard, enhancing data visibility for stakeholders."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of Illinois",
+      "location": "Chicago, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Cost Reduction Initiative",
+        "description": "Led a team to identify and implement strategies for reducing overall company expenditure.",
+        "technologies": [
+          "Excel",
+          "SQL",
+          "Tableau"
+        ]
+      }
+    ]
+  }
+}

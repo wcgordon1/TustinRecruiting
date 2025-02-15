@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Director of Human Resources Resume Template",
+    "description": "A professional resume template tailored for Director of Human Resources positions, highlighting technical skills and project experience",
+    "category": "Executive Leadership",
+    "role": "Director of Human Resources",
+    "slug": "director-of-human-resources",
+    "experience_level": "senior",
+    "keywords": [
+      "Human Resources",
+      "Talent Management",
+      "Company Culture",
+      "Employee Engagement",
+      "Organizational Development"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Director of Human Resources",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in leading talent management and company culture initiatives. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Workday",
+        "LinkedIn Talent Solutions",
+        "BambooHR",
+        "ADP"
+      ],
+      "concepts": [
+        "Talent Acquisition",
+        "Employee Relations",
+        "Organizational Development",
+        "Performance Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Director of Human Resources",
+        "company": "Innovative Solutions Corp.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Developed a comprehensive talent management strategy that increased employee retention by 15% within the first year.",
+          "Led the implementation of a company-wide diversity and inclusion program, resulting in a 20% increase in diverse hires.",
+          "Streamlined the onboarding process, reducing the average time-to-productivity for new hires by 30%."
+        ]
+      },
+      {
+        "title": "Human Resources Manager",
+        "company": "Tech Bridge Inc.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed a team of 5 HR professionals, optimizing recruitment and HR services across three departments.",
+          "Engaged in policy redesign that improved employee satisfaction scores by 25% as measured in annual surveys.",
+          "Implemented a leadership development program, leading to a 40% internal promotion rate over two years."
+        ]
+      },
+      {
+        "title": "Human Resources Coordinator",
+        "company": "Bright Future Ltd.",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported the HR team in executing a system upgrade to a new HRIS, improving data accessibility and accuracy.",
+          "Coordinated recruitment processes resulting in a 50% increase in application rates and a 30% reduction in time-to-hire.",
+          "Organized company-wide training sessions that led to an 18% increase in participation in professional development programs."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Human Resource Management",
+      "school": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Employee Engagement Initiative",
+        "description": "Designed and implemented an employee engagement program aimed at increasing productivity and morale, achieving a 90% participation rate and a subsequent 12% increase in productivity.",
+        "technologies": [
+          "SurveyMonkey",
+          "Microsoft Power BI",
+          "Workplace Analytics"
+        ]
+      }
+    ]
+  }
+}

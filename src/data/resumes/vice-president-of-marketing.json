@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Vice President of Marketing Resume Template",
+    "description": "A professional resume template tailored for Vice President of Marketing positions, highlighting technical skills and project experience",
+    "category": "Executive Leadership",
+    "role": "Vice President of Marketing",
+    "slug": "vice-president-of-marketing",
+    "experience_level": "senior",
+    "keywords": [
+      "marketing strategy",
+      "brand management",
+      "campaign planning"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Vice President of Marketing",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in overseeing marketing campaigns and brand strategy. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Google Analytics",
+        "Salesforce",
+        "Adobe Creative Suite"
+      ],
+      "concepts": [
+        "Strategic Planning",
+        "Brand Development",
+        "Digital Marketing"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Vice President of Marketing",
+        "company": "Innovate Solutions Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 25+ marketing professionals, increasing overall brand awareness by 40% within the first year.",
+          "Successfully launched a multi-channel marketing campaign that resulted in a 30% increase in sales revenues.",
+          "Spearheaded the rebranding initiative, enhancing market positioning and generating a 20% uptick in customer engagement."
+        ]
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Creative Ventures LLC",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and executed comprehensive marketing plans that contributed to a 25% growth in market share.",
+          "Managed a $2M budget and optimized campaign ROI by 15% through strategic channel selection and analytics.",
+          "Collaborated cross-functionally to align on product launches, achieving consistent market penetration."
+        ]
+      },
+      {
+        "title": "Marketing Coordinator",
+        "company": "Bright Ideas Ltd.",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in planning and executing 10+ marketing campaigns annually, resulting in a 15% increase in lead generation.",
+          "Conducted market research and analysis to identify consumer trends, informing successful product adjustments.",
+          "Received the 'Outstanding Performance' award for contributing innovative ideas that boosted social media engagement."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Marketing",
+      "school": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Brand Revitalization Project",
+        "description": "Led a cross-departmental team to overhaul brand identity, resulting in a refreshed and cohesive market presence.",
+        "technologies": [
+          "Photoshop",
+          "HubSpot",
+          "Excel"
+        ]
+      }
+    ]
+  }
+}

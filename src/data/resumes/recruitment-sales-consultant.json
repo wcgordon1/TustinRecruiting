@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Recruitment Sales Consultant Resume Template",
+    "description": "A professional resume template tailored for Recruitment Sales Consultant positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Recruitment Sales Consultant",
+    "slug": "recruitment-sales-consultant",
+    "experience_level": "mid-level",
+    "keywords": [
+      "recruitment",
+      "sales",
+      "staffing",
+      "consulting"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Recruitment Sales Consultant",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in selling recruitment and staffing services. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Business Development",
+        "Client Relationship Management",
+        "Solution Selling",
+        "Market Research"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Recruitment Sales Consultant",
+        "company": "Global Recruit Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased sales revenue by 30% through the development of key client relationships.",
+          "Led a cross-functional team to deliver complex recruitment solutions for high-profile clients.",
+          "Successfully negotiated contracts worth over $2 million in total revenue."
+        ]
+      },
+      {
+        "title": "Recruitment Sales Consultant",
+        "company": "Talent Bridge Group",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Expanded client base by 25% by identifying and targeting niche markets.",
+          "Consistently achieved and surpassed quarterly sales targets by 20%.",
+          "Developed and presented customized staffing solutions to improve client retention rates."
+        ]
+      },
+      {
+        "title": "Junior Recruitment Sales Consultant",
+        "company": "Staffing Innovators",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Executed over 50 successful recruitment placements in various industries.",
+          "Assisted in the design of new marketing strategies that increased lead generation by 15%.",
+          "Participated in training programs that improved product knowledge and sales techniques."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Recruitment Process Optimization",
+        "description": "Led a project to streamline recruitment processes, resulting in a 20% increase in placement efficiency.",
+        "technologies": [
+          "ATS Systems",
+          "CRM Software",
+          "Data Analysis Tools"
+        ]
+      }
+    ]
+  }
+}

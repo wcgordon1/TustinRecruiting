@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Equity Research Analyst Resume Template",
+    "description": "A professional resume template tailored for Equity Research Analyst positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Equity Research Analyst",
+    "slug": "equity-research-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Equity Research",
+      "Financial Analysis",
+      "Investment Recommendations",
+      "Stock Analysis"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Equity Research Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Analyzing stocks and making investment recommendations. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "R"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Bloomberg Terminal",
+        "Excel",
+        "Tableau"
+      ],
+      "concepts": [
+        "Financial Modelling",
+        "Valuation Techniques",
+        "Market Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Equity Research Analyst",
+        "company": "Blue Horizon Capital",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased portfolio returns by 12% through strategic recommendations.",
+          "Developed a comprehensive equity research report on the tech sector that was frequently referenced by senior management.",
+          "Led a team of 3 analysts to improve the accuracy of stock valuation models, resulting in a 20% improvement in forecasting accuracy."
+        ]
+      },
+      {
+        "title": "Equity Research Analyst",
+        "company": "Global Markets Insights",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted detailed industry analysis within the healthcare sector leading to a 15% increase in sector-specific investment returns.",
+          "Collaborated with the sales team to create customized client reports, enhancing client engagement and retention by 25%.",
+          "Automated data acquisition and processing tasks using Python, reducing time spent on data collection by 30%."
+        ]
+      },
+      {
+        "title": "Junior Equity Research Analyst",
+        "company": "Capital Edge Advisors",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the valuation of over 40 small-cap stocks, directly influencing buy/sell decisions and improving overall portfolio performance.",
+          "Supported senior analysts in drafting and editing comprehensive reports and presentations for clients.",
+          "Successfully completed intensive financial modeling training, which led to improved accuracy in financial projections."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Finance",
+      "school": "University of Chicago",
+      "location": "Chicago, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Equity Valuation Dashboard",
+        "description": "Developed an interactive Tableau dashboard to visualize equity valuations and present key metrics for stakeholders.",
+        "technologies": [
+          "Tableau",
+          "Python",
+          "Excel"
+        ]
+      }
+    ]
+  }
+}

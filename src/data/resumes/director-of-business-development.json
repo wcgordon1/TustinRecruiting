@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Director of Business Development Resume Template",
+    "description": "A professional resume template tailored for Director of Business Development positions, highlighting technical skills and project experience",
+    "category": "Executive Leadership",
+    "role": "Director of Business Development",
+    "slug": "director-of-business-development",
+    "experience_level": "senior",
+    "keywords": [
+      "strategic partnerships",
+      "market expansion"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Director of Business Development",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in driving strategic partnerships and market expansion. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Strategic Partnerships",
+        "Market Expansion",
+        "Negotiation",
+        "Leadership",
+        "Revenue Growth",
+        "Client Relationship Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Director of Business Development",
+        "company": "Pinnacle Solutions Inc.",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Spearheaded a 25% annual increase in revenue through strategic partnerships with key industry leaders.",
+          "Led a team of 15 to identify and penetrate new markets, resulting in a 30% expansion in market presence.",
+          "Established a partnership with a Fortune 500 company, leading to a $10M contract."
+        ]
+      },
+      {
+        "title": "Senior Business Development Manager",
+        "company": "Innovate Dynamics LLC",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Negotiated and secured over $8M in new business by developing strategic relationships with high-profile clients.",
+          "Coordinated a cross-functional team to revamp sales strategy, increasing lead conversion rate by 20%.",
+          "Introduced a CRM system that improved client follow-up efficiency by 35%, enhancing customer satisfaction."
+        ]
+      },
+      {
+        "title": "Business Development Associate",
+        "company": "Venture Growth Partners",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the closure of $5M in new partnerships by conducting market research and competitor analysis.",
+          "Contributed to a 15% increase in sales by supporting business development initiatives and strategies.",
+          "Developed and maintained relationships with over 30 key stakeholders, enhancing the company's competitive position."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Global Market Expansion Initiative",
+        "description": "Led the initiative to expand company operations into three new international markets, resulting in a 40% increase in global revenue.",
+        "technologies": [
+          "CRM",
+          "Market Analysis Tools",
+          "Business Intelligence Software"
+        ]
+      }
+    ]
+  }
+}
