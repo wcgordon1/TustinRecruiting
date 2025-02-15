@@ -14,11 +14,9 @@ const formatTagDisplay = (tag) => {
 
 export async function getStaticPaths() {
   const allInterviews = await getCollection("interview");
-  
-  // Get all unique tags
-  const uniqueTags = [...new Set(allInterviews.map((post) => post.data.tags).flat())];
-
-  // Return paths for each tag
+  const uniqueTags = [
+    ...new Set(allInterviews.map((post) => post.data.tags).flat()),
+  ];
   return uniqueTags.map((tag) => {
     const filteredPosts = allInterviews.filter((post) =>
       post.data.tags.includes(tag)
