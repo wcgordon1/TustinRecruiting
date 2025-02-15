@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "Backend Developer Resume Template",
+    "description": "A professional resume template tailored for Backend Developer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Backend Developer",
+    "slug": "backend-developer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "backend development",
+      "server-side logic",
+      "database management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Backend Developer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in developing server-side logic and database interactions. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "SQL"
+      ],
+      "frameworks": [
+        "Django",
+        "Spring Boot",
+        "Express.js"
+      ],
+      "tools": [
+        "Docker",
+        "Git",
+        "Postman"
+      ],
+      "concepts": [
+        "REST APIs",
+        "Microservices",
+        "Database Design"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Backend Developer",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team that improved API response time by 30% by implementing a new caching strategy.",
+          "Designed and implemented a scalable microservices architecture for a cloud-based application, resulting in 40% increase in user satisfaction.",
+          "Collaborated with front-end developers to integrate server-side logic with user-end interfaces seamlessly."
+        ]
+      },
+      {
+        "title": "Backend Developer",
+        "company": "Innovative Apps Co.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Streamlined database queries, reducing average data retrieval time by 20%.",
+          "Developed and maintained robust RESTful APIs powering mobile and web applications, ensuring 99.9% uptime.",
+          "Implemented continuous integration/continuous deployment (CI/CD) processes that improved software deployment speed by 50%."
+        ]
+      },
+      {
+        "title": "Junior Backend Developer",
+        "company": "Next Gen Technologies",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in developing a multi-threaded server-client communication application that handled concurrent connections efficiently.",
+          "Participated in code reviews and improved code quality through actionable feedback, reducing bug rates by 15%.",
+          "Contributed in the development of automated unit tests, increasing code coverage to 85%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "University of Washington",
+      "location": "Seattle, WA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Real-time Analytics Platform",
+        "description": "Developed a robust analytics platform providing real-time insights for business operations.",
+        "technologies": [
+          "Python",
+          "Django",
+          "PostgreSQL",
+          "Redis"
+        ]
+      }
+    ]
+  }
+}

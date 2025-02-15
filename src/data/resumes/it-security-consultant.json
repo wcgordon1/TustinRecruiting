@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "IT Security Consultant Resume Template",
+    "description": "A professional resume template tailored for IT Security Consultant positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "IT Security Consultant",
+    "slug": "it-security-consultant",
+    "experience_level": "senior",
+    "keywords": [
+      "IT Security",
+      "Cybersecurity",
+      "Consultancy"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "IT Security Consultant",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in advising companies on cybersecurity best practices. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "C++"
+      ],
+      "frameworks": [
+        "NIST Cybersecurity Framework",
+        "ISO/IEC 27001"
+      ],
+      "tools": [
+        "Wireshark",
+        "Metasploit",
+        "Splunk"
+      ],
+      "concepts": [
+        "Network Security",
+        "Risk Management",
+        "Incident Response",
+        "Penetration Testing"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior IT Security Consultant",
+        "company": "SecureNet Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 security analysts to deliver comprehensive security assessments for over 20 clients, enhancing their security posture by 40%.",
+          "Implemented multi-layered security strategies that reduced the threat landscape by 30% within the first year of execution.",
+          "Conducted threat intelligence workshops resulting in a reduction of potential attack vectors by 50%."
+        ]
+      },
+      {
+        "title": "IT Security Analyst",
+        "company": "CyberPro Technologies",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Analyzed and reported vulnerabilities in client systems, leading to a 35% improvement in security readiness.",
+          "Assisted in developing security protocols that contributed to a 20% decrease in security breaches.",
+          "Collaborated with cross-functional teams to implement a SIEM solution that enhanced incident detection time by 70%."
+        ]
+      },
+      {
+        "title": "Junior IT Security Specialist",
+        "company": "TechGuard Security",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Performed network security audits resulting in a 25% enhancement in compliance with cybersecurity regulations.",
+          "Supported the enhancement of firewall configurations, achieving a 15% increase in threat blockage.",
+          "Developed and documented standard operating procedures for incident responses, reducing resolution time by 40%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Enterprise Security Overhaul",
+        "description": "Led a project to redesign the security infrastructure for a multinational corporation, improving data safety and compliance.",
+        "technologies": [
+          "Python",
+          "NIST Framework",
+          "Splunk",
+          "Metasploit"
+        ]
+      }
+    ]
+  }
+}

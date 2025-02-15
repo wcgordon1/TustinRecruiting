@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Business Intelligence Analyst Resume Template",
+    "description": "A professional resume template tailored for Business Intelligence Analyst positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Business Intelligence Analyst",
+    "slug": "business-intelligence-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "data analysis",
+      "business intelligence",
+      "SQL",
+      "Power BI",
+      "data visualization"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Business Intelligence Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in using data to generate insights for business decisions. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "Python"
+      ],
+      "frameworks": [
+        "Pandas"
+      ],
+      "tools": [
+        "Power BI",
+        "Tableau",
+        "Excel"
+      ],
+      "concepts": [
+        "Data Analysis",
+        "Data Visualization",
+        "Statistical Modeling"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Business Intelligence Analyst",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the migration of existing data pipelines to a new cloud platform, improving data processing speed by 40%.",
+          "Developed and maintained dashboards in Power BI that resulted in a 25% increase in operational efficiency through better data-driven decisions.",
+          "Collaborated with cross-functional teams to automate reporting processes, saving 15 hours of manual work per week."
+        ]
+      },
+      {
+        "title": "Business Intelligence Analyst",
+        "company": "GreenTech Innovations",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted in-depth analysis on customer behavior data, leading to a 10% increase in customer retention rates.",
+          "Streamlined data retrieval processes using advanced SQL queries, reducing data extraction time by 30%.",
+          "Worked collaboratively to develop predictive models that increased sales forecasts accuracy by 20%."
+        ]
+      },
+      {
+        "title": "Junior Business Intelligence Analyst",
+        "company": "DataWave Corp.",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the creation and optimization of data visualizations, leading to improved report clarity and communication.",
+          "Enhanced data quality metrics by implementing cross-check validation methods, resulting in a 15% improvement in data accuracy.",
+          "Supported senior analysts in various data management tasks and contributed to team knowledge sharing sessions."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Analytics",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Sales Forecasting Optimization",
+        "description": "Designed and implemented a sales forecasting model that improved demand prediction accuracy for the retail division.",
+        "technologies": [
+          "Python",
+          "SQL",
+          "Tableau"
+        ]
+      }
+    ]
+  }
+}

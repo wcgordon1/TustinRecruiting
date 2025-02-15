@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "title": "IoT Engineer Resume Template",
+    "description": "A professional resume template tailored for IoT Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "IoT Engineer",
+    "slug": "iot-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "IoT",
+      "Embedded Systems",
+      "Sensors",
+      "Microcontrollers",
+      "Connectivity"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "IoT Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Building Internet of Things applications and systems. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "C",
+        "Python",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Node.js",
+        "AWS IoT Core",
+        "MQTT"
+      ],
+      "tools": [
+        "Raspberry Pi",
+        "Arduino IDE",
+        "Git"
+      ],
+      "concepts": [
+        "Embedded Systems",
+        "Data Analytics",
+        "Cloud Integration",
+        "Machine Learning"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior IoT Engineer",
+        "company": "FutureTech Innovations",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 developers in creating a scalable IoT platform optimized for smart home devices, resulting in a 30% increase in user adoption.",
+          "Architected and deployed a predictive maintenance system using machine learning algorithms that reduced downtime by 25%.",
+          "Integrated edge computing techniques to enhance device reliability and minimize latency by 15%."
+        ]
+      },
+      {
+        "title": "IoT Developer",
+        "company": "SmartNet Solutions",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed a cloud-based IoT solution for energy management that resulted in a 20% reduction in energy consumption for over 1,000 clients.",
+          "Collaborated in a cross-functional team to implement real-time monitoring systems using MQTT protocol, improving data transmission speeds by 40%.",
+          "Designed and documented API interfaces for seamless device integration within an existing product ecosystem."
+        ]
+      },
+      {
+        "title": "Junior IoT Developer",
+        "company": "TechPioneers Inc.",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Contributed to the development of a smart irrigation system using Arduino and sensors, improving water use efficiency by 30%.",
+          "Assisted in deploying a firmware update process that decreased deployment time and increased security compliance across connected devices.",
+          "Participated in user testing and validation processes, ensuring IoT solutions met end-user requirements and industry standards."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Electrical Engineering",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Smart Home Automation System",
+        "description": "Developed a comprehensive smart home automation system that includes lighting, HVAC, and security solutions, controlled via a mobile app.",
+        "technologies": [
+          "Python",
+          "Raspberry Pi",
+          "Zigbee"
+        ]
+      }
+    ]
+  }
+}

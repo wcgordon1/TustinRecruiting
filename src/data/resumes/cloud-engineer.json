@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Cloud Engineer Resume Template",
+    "description": "A professional resume template tailored for Cloud Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Cloud Engineer",
+    "slug": "cloud-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "cloud infrastructure",
+      "AWS",
+      "Azure",
+      "DevOps",
+      "automation"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Cloud Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Designing and managing cloud-based infrastructure. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Bash"
+      ],
+      "frameworks": [
+        "Terraform",
+        "Kubernetes"
+      ],
+      "tools": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Jenkins"
+      ],
+      "concepts": [
+        "CI/CD",
+        "Infrastructure as Code",
+        "Cloud Security",
+        "Networking"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the migration of 150+ applications to AWS, improving system reliability and cutting costs by 20%",
+          "Implemented automated cloud security protocols resulting in a 30% reduction in potential vulnerabilities",
+          "Optimized cloud infrastructure usage through monitoring and capacity planning, saving $200k annually"
+        ]
+      },
+      {
+        "title": "Associate Cloud Engineer",
+        "company": "Digital Solutions Corp.",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Supported the architecture design and deployment of cloud solutions for 30+ clients using Azure",
+          "Developed and maintained CI/CD pipelines using Jenkins, resulting in a 15% increase in deployment speed",
+          "Collaborated with developers and operations teams to automate processes, reducing manual tasks by 50%"
+        ]
+      },
+      {
+        "title": "Junior Cloud Engineer",
+        "company": "CloudTech Services",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in managing and scaling AWS infrastructure for 10+ major projects",
+          "Implemented monitoring solutions using CloudWatch, improving system uptime by 10%",
+          "Participated in the design and execution of disaster recovery plans, ensuring data integrity"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "University of California",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Cloud Optimization Tool",
+        "description": "Developed a tool to analyze and optimize cloud resource usage, leading to a 25% increase in efficiency",
+        "technologies": [
+          "Python",
+          "AWS Lambda",
+          "DynamoDB"
+        ]
+      }
+    ]
+  }
+}

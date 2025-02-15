@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "title": "AI Engineer Resume Template",
+    "description": "A professional resume template tailored for AI Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "AI Engineer",
+    "slug": "ai-engineer",
+    "experience_level": "senior",
+    "keywords": [
+      "AI Engineer",
+      "Machine Learning",
+      "Deep Learning",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "AI Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Building AI-powered applications and solutions. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "R",
+        "C++"
+      ],
+      "frameworks": [
+        "TensorFlow",
+        "PyTorch",
+        "Keras"
+      ],
+      "tools": [
+        "Jupyter",
+        "Git",
+        "Docker"
+      ],
+      "concepts": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior AI Engineer",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 AI engineers in developing a machine learning model that improved prediction accuracy by 20%, resulting in a $500K annual savings.",
+          "Architected and implemented an AI-powered chatbot platform that increased customer engagement by 30% over two quarters.",
+          "Streamlined data processing pipelines, increasing data handling efficiency by 40%."
+        ]
+      },
+      {
+        "title": "AI Engineer",
+        "company": "Innovate AI Corp.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed a deep learning model for image classification, achieving 95% accuracy, deployed successfully in a real-time environment.",
+          "Collaborated with data scientist teams to design algorithms for customer sentiment analysis, improving marketing strategies by 15%.",
+          "Conducted thorough model performance evaluations using advanced statistical methodologies, leading to a 10% increase in model precision."
+        ]
+      },
+      {
+        "title": "Junior AI Engineer",
+        "company": "AI Innovations LLC",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of a predictive analytics engine that significantly enhanced user experience on digital platforms.",
+          "Implemented feature engineering techniques and model tuning that increased model accuracy by 10%.",
+          "Contributed to the design and deployment of an AI tool for automated data tagging, reducing manual processing time by 40%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Real-Time Fraud Detection System",
+        "description": "Developed a machine learning system to detect fraudulent transactions in real-time, reducing fraud by 25%.",
+        "technologies": [
+          "Python",
+          "Scikit-learn",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}

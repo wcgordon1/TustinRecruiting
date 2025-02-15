@@ -54,7 +54,7 @@ const breadcrumbs = [
             aria-label="About Us"
             target="_blank"
             href="https://chatgpt.com/g/g-67ab5ec27998819190f32c3ee4e7d72d-job-interview-question-and-answer-bot">
-            Interviw Prep AI
+            Interview Prep AI
           </a>
         </div>
       </div>
@@ -65,16 +65,16 @@ const breadcrumbs = [
         categories.map(category => (
           <section class="mb-12">
             <h2 class="text-2xl font-semibold mb-4 capitalize">{category}</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {resumes
                 .filter(resume => resume.metadata.category === category)
                 .map(resume => (
                   <a 
                     href={`/resume-templates/${resume.metadata.category}/${resume.metadata.slug}`}
-                    class="block p-6 border rounded-lg hover:shadow-lg transition-shadow"
+                    class="block p-6 border rounded-lg hover:shadow-lg transition-shadow bg-white"
                   >
                     <h3 class="text-xl font-semibold mb-2">{resume.metadata.title}</h3>
-                    <p class="text-gray-600">{resume.metadata.description}</p>
+                    <p class="text-gray-600 line-clamp-2">{resume.metadata.description}</p>
                     <span class="inline-block mt-4 text-blue-600">View Template →</span>
                   </a>
                 ))}

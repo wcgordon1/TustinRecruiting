@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "title": "Solutions Architect Resume Template",
+    "description": "A professional resume template tailored for Solutions Architect positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Solutions Architect",
+    "slug": "solutions-architect",
+    "experience_level": "senior",
+    "keywords": [
+      "cloud architecture",
+      "system design",
+      "scalable solutions",
+      "AWS",
+      "Azure"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Solutions Architect",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in designing scalable technical solutions. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Spring Boot",
+        "Node.js"
+      ],
+      "tools": [
+        "AWS",
+        "Azure DevOps",
+        "Docker",
+        "Kubernetes"
+      ],
+      "concepts": [
+        "Microservices",
+        "CI/CD",
+        "Cloud Architecture"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Solutions Architect",
+        "company": "Tech Innovations Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the design and implementation of a cloud-native architecture for a critical client application, improving resilience by 40%",
+          "Spearheaded the migration of legacy systems to AWS, reducing operational costs by 25%",
+          "Mentored a team of 5 junior architects and developers, increasing team productivity by 30%"
+        ]
+      },
+      {
+        "title": "Solutions Architect",
+        "company": "Future Tech Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Designed and deployed a microservices architecture that increased system scalability by 50%",
+          "Implemented CI/CD pipelines resulting in a 22% reduction in deployment times",
+          "Collaborated with cross-functional teams to ensure seamless integration of new technologies"
+        ]
+      },
+      {
+        "title": "Junior Solutions Architect",
+        "company": "Tech Pioneers LLP",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in designing RESTful APIs that improved data processing speed by 30%",
+          "Contributed to the development of an internal tool that streamlined project delivery processes",
+          "Participated in technical reviews, enhancing overall code quality"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Scalable E-commerce Platform",
+        "description": "Developed a scalable e-commerce platform using microservices architecture, enabling rapid deployment and integration with various payment gateways.",
+        "technologies": [
+          "Java",
+          "Spring Boot",
+          "Kubernetes",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}

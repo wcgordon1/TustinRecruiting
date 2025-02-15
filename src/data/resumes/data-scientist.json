@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "Data Scientist Resume Template",
+    "description": "A professional resume template tailored for Data Scientist positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Data Scientist",
+    "slug": "data-scientist",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Data Analysis",
+      "Machine Learning",
+      "Predictive Modeling",
+      "Analytics",
+      "Python"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Data Scientist",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in analyzing data to extract insights and build predictive models. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL",
+        "R"
+      ],
+      "frameworks": [
+        "TensorFlow",
+        "Scikit-learn"
+      ],
+      "tools": [
+        "Tableau",
+        "Apache Spark",
+        "Git"
+      ],
+      "concepts": [
+        "Predictive Modeling",
+        "Statistical Analysis",
+        "Data Mining"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Data Scientist",
+        "company": "Innovative Analytics Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the development of a predictive model to increase customer retention by 15% using Python and Scikit-learn.",
+          "Improved ETL processes, reducing data processing time by 30%.",
+          "Collaborated with engineering teams to deploy machine learning models, resulting in a 20% increase in system efficiency."
+        ]
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Tech Insights Inc.",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted data analysis for a major client project, resulting in a 10% improvement in operational efficiency.",
+          "Developed dashboards in Tableau that enhanced data accessibility for the marketing department.",
+          "Automated data reporting processes, saving 15 hours per month for the business intelligence team."
+        ]
+      },
+      {
+        "title": "Junior Data Analyst",
+        "company": "DataViz Pro",
+        "location": "Los Angeles, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in building a reporting system utilizing SQL and R to streamline data queries across departments.",
+          "Participated in a project that reduced data processing workload by 25% through data pipeline optimization.",
+          "Contributed to ad-hoc analyses that supported decision-making for the product development team."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Data Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Customer Segmentation Analysis",
+        "description": "Developed a customer segmentation model using K-means clustering that improved targeted marketing strategies.",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Matplotlib"
+        ]
+      }
+    ]
+  }
+}

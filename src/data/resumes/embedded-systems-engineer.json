@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "title": "Embedded Systems Engineer Resume Template",
+    "description": "A professional resume template tailored for Embedded Systems Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Embedded Systems Engineer",
+    "slug": "embedded-systems-engineer",
+    "experience_level": "senior",
+    "keywords": [
+      "embedded systems",
+      "firmware development",
+      "software engineering",
+      "real-time operating systems",
+      "IoT"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Embedded Systems Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in developing software for embedded devices. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "C",
+        "C++",
+        "Python"
+      ],
+      "frameworks": [
+        "FreeRTOS",
+        "Embedded Linux"
+      ],
+      "tools": [
+        "Git",
+        "JIRA",
+        "Eclipse",
+        "Keil",
+        "Matlab"
+      ],
+      "concepts": [
+        "Microcontroller Programming",
+        "RTOS",
+        "IoT",
+        "PCB Design"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Embedded Systems Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 engineers in the development of a real-time monitoring system, improving data accuracy by 30%",
+          "Designed and implemented firmware for IoT devices, resulting in a 20% increase in efficiency",
+          "Collaborated with cross-functional teams to optimize system performance, reducing power consumption by 15%"
+        ]
+      },
+      {
+        "title": "Embedded Systems Engineer",
+        "company": "Digital Solutions Ltd.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and maintained firmware for microcontroller-based products, achieving a 98% success rate in field tests",
+          "Implemented communication protocols leading to a 40% enhancement in system communication speed",
+          "Conducted code reviews and testing, reducing bugs in production by 25%"
+        ]
+      },
+      {
+        "title": "Junior Embedded Systems Engineer",
+        "company": "Innovative Tech Corp.",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development and debugging of embedded software for industrial automation systems",
+          "Contributed to the design and implementation of low-level drivers, improving device usability by 15%",
+          "Participated in system architecture discussions and provided valuable insights that enhanced project outcomes"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Electrical and Computer Engineering",
+      "school": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Smart Home Automation System",
+        "description": "Designed and implemented a complete smart home system using IoT devices, focusing on energy efficiency and user-friendly operation",
+        "technologies": [
+          "C++",
+          "MQTT",
+          "Raspberry Pi"
+        ]
+      }
+    ]
+  }
+}

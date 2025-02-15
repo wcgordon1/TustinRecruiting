@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Database Administrator Resume Template",
+    "description": "A professional resume template tailored for Database Administrator positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Database Administrator",
+    "slug": "database-administrator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Database Management",
+      "SQL",
+      "Performance Optimization",
+      "Data Security"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Database Administrator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in managing and optimizing databases. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "PL/SQL",
+        "T-SQL"
+      ],
+      "frameworks": [
+        "Oracle",
+        "MySQL",
+        "MS SQL Server"
+      ],
+      "tools": [
+        "PgAdmin",
+        "DBVisualizer",
+        "Oracle RAC"
+      ],
+      "concepts": [
+        "Data Modeling",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Data Security"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Database Administrator",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Spearheaded a database migration project that reduced downtime by 40% and improved system reliability.",
+          "Implemented advanced indexing strategies, resulting in a 30% reduction in query response times.",
+          "Developed backup and recovery plans that decreased potential data loss by 20%."
+        ]
+      },
+      {
+        "title": "Database Administrator",
+        "company": "Data Analytics Corp.",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Optimized database performance, leading to a 25% increase in application processing speed.",
+          "Maintained database security protocols and achieved a clean security audit for two consecutive years.",
+          "Automated routine maintenance tasks, which increased team efficiency by 15%."
+        ]
+      },
+      {
+        "title": "Junior Database Administrator",
+        "company": "Info Systems LLC",
+        "location": "Portland, OR",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the design and implementation of new database environments.",
+          "Monitored database performance and performed tuning activities to address bottlenecks.",
+          "Led a team project to consolidate multiple databases, reducing resource usage by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "High-Availability Database Cluster",
+        "description": "Designed and implemented a high-availability database cluster to ensure 99.99% uptime for critical applications.",
+        "technologies": [
+          "Oracle RAC",
+          "MySQL",
+          "Linux"
+        ]
+      }
+    ]
+  }
+}

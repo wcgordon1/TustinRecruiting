@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Site Reliability Engineer Resume Template",
+    "description": "A professional resume template tailored for Site Reliability Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Site Reliability Engineer",
+    "slug": "site-reliability-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "site reliability",
+      "system uptime",
+      "infrastructure",
+      "automation"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Site Reliability Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Ensuring system reliability and uptime. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Go",
+        "Bash"
+      ],
+      "frameworks": [
+        "Kubernetes",
+        "Docker"
+      ],
+      "tools": [
+        "Prometheus",
+        "Grafana",
+        "AWS",
+        "Terraform"
+      ],
+      "concepts": [
+        "CI/CD",
+        "Cloud Infrastructure",
+        "Load Balancing",
+        "Monitoring & Alerting"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Site Reliability Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Spearheaded the implementation of automated monitoring tools that reduced system downtime by 30%",
+          "Led a team in migrating 200+ microservices to Kubernetes, enhancing scalability and reliability",
+          "Developed disaster recovery strategies that improved data backup efficiency by 40%"
+        ]
+      },
+      {
+        "title": "Junior Site Reliability Engineer",
+        "company": "Digital Solutions LLC",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Contributed to the development and deployment pipeline by integrating CI/CD practices, reducing deployment errors by 25%",
+          "Optimized cloud infrastructure costs by 20% through resource efficiency improvements",
+          "Collaborated with the development team to implement incident management processes, leading to a 50% reduction in incident response time"
+        ]
+      },
+      {
+        "title": "Associate DevOps Engineer",
+        "company": "Cloud Sphere Solutions",
+        "location": "Portland, OR",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the design and management of cloud infrastructure, contributing to a 15% improvement in application performance",
+          "Developed infrastructure as code solutions using Terraform, resulting in streamlined processes and reduced configuration times",
+          "Supported the migration of legacy systems to cloud-based solutions, improving system flexibility and reducing maintenance costs"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "State University",
+      "location": "City, State",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Cloud Optimization Tool",
+        "description": "Developed an internal tool to optimize resources and reduce costs across multiple cloud providers",
+        "technologies": [
+          "Python",
+          "AWS",
+          "Terraform"
+        ]
+      }
+    ]
+  }
+}

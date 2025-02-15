@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Scrum Master Resume Template",
+    "description": "A professional resume template tailored for Scrum Master positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Scrum Master",
+    "slug": "scrum-master",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Agile",
+      "Scrum",
+      "Facilitation"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Scrum Master",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in facilitating Agile development processes. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [
+        "Scrum",
+        "Kanban"
+      ],
+      "tools": [
+        "JIRA",
+        "Confluence",
+        "Trello"
+      ],
+      "concepts": [
+        "Agile Methodology",
+        "Continuous Improvement",
+        "Team Leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Scrum Master",
+        "company": "Tech Innovators Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully facilitated Scrum rituals for three cross-functional teams, improving sprint velocity by 20%.",
+          "Implemented a new retrospective technique that increased team satisfaction scores by 15%.",
+          "Led the transition of the project tracking system to JIRA, enhancing project transparency and team productivity."
+        ]
+      },
+      {
+        "title": "Junior Scrum Master",
+        "company": "Digital Solutions LLC",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted the lead Scrum Master in managing Agile practices for multiple teams, resulting in consistent delivery of projects ahead of schedule.",
+          "Developed a series of training modules to onboard new team members to Agile best practices.",
+          "Collaborated with product owners to refine and maintain product backlogs, leading to a 30% reduction in backlog items."
+        ]
+      },
+      {
+        "title": "Scrum Apprentice",
+        "company": "Tech Startups Co.",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported the Scrum team in daily stand-ups and sprints, contributing to a 15% increase in overall productivity.",
+          "Participated in organizing Agile workshops that improved team understanding and adoption of Scrum principles.",
+          "Documented and tracked technical debt to facilitate prioritization and resolution during planning sessions."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Agile Transformation Initiative",
+        "description": "Led a company-wide initiative to transition development teams to Agile methodologies, significantly improving delivery times and customer satisfaction.",
+        "technologies": [
+          "SCRUM",
+          "JIRA",
+          "Confluence"
+        ]
+      }
+    ]
+  }
+}

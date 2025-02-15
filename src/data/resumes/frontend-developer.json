@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Frontend Developer Resume Template",
+    "description": "A professional resume template tailored for Frontend Developer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Frontend Developer",
+    "slug": "frontend-developer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Frontend Development",
+      "Web Applications",
+      "User Interfaces"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Frontend Developer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in building user-facing web applications and interfaces. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "frameworks": [
+        "React.js",
+        "Vue.js"
+      ],
+      "tools": [
+        "Webpack",
+        "Git",
+        "Sass"
+      ],
+      "concepts": [
+        "Responsive Design",
+        "User Experience (UX)",
+        "Cross-Browser Compatibility"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Frontend Developer",
+        "company": "TechWave Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the development of a new user interface for a high-traffic web application, resulting in a 25% increase in user engagement.",
+          "Optimized frontend performance, improving page load times by 40% through code splitting and lazy loading.",
+          "Implemented responsive designs, enhancing mobile user experience that led to a 30% increase in mobile usage."
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Innovatech Software",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed interactive web applications using React.js, resulting in a 15% increase in customer satisfaction.",
+          "Collaborated with backend developers to improve data fetching strategies, reducing server response time by 20%.",
+          "Integrated RESTful APIs and third-party services to extend application functionality."
+        ]
+      },
+      {
+        "title": "Junior Frontend Developer",
+        "company": "CodeCrafters Inc.",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the migration of a legacy web application to a modern JavaScript framework, leading to a 50% reduction in maintenance costs.",
+          "Implemented various UI components that enhanced the overall user experience.",
+          "Utilized version control systems for effective team collaboration."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of Washington",
+      "location": "Seattle, WA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Responsive E-commerce Platform",
+        "description": "Developed a fully-responsive front-end for an e-commerce platform, significantly improving the shopping experience across all devices.",
+        "technologies": [
+          "React.js",
+          "Redux",
+          "Bootstrap"
+        ]
+      }
+    ]
+  }
+}

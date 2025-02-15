@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "IT Compliance Analyst Resume Template",
+    "description": "A professional resume template tailored for IT Compliance Analyst positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "IT Compliance Analyst",
+    "slug": "it-compliance-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "IT compliance",
+      "regulatory compliance",
+      "risk management",
+      "auditing"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "IT Compliance Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in ensuring regulatory compliance in IT operations. Proven track record of delivering high-quality solutions and optimizing performance in alignment with corporate and legal standards.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL"
+      ],
+      "frameworks": [
+        "COBIT",
+        "ITIL"
+      ],
+      "tools": [
+        "RSA Archer",
+        "Qualys",
+        "ServiceNow GRC"
+      ],
+      "concepts": [
+        "Risk Management",
+        "IT Governance",
+        "Audit Procedures",
+        "Data Privacy"
+      ]
+    },
+    "experience": [
+      {
+        "title": "IT Compliance Analyst",
+        "company": "TechSecure Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a cross-functional team to achieve 100% compliance with new GDPR requirements, resulting in a reduction of potential penalties by $500K.",
+          "Developed and implemented a comprehensive IT compliance training program improving team awareness by 40%.",
+          "Collaborated with internal auditors to streamline the audit process, reducing audit preparation time by 30%."
+        ]
+      },
+      {
+        "title": "Junior IT Compliance Analyst",
+        "company": "SecureNet Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the successful implementation of a new ITIL framework which improved incident response times by 25%.",
+          "Conducted regular compliance audits that identified and rectified 15% of previously unrecognized data privacy risks.",
+          "Facilitated compliance workshops, increasing employee engagement and understanding by 50%."
+        ]
+      },
+      {
+        "title": "IT Compliance Intern",
+        "company": "DataGuard Solutions",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior analysts in preparing compliance documentation for PCI DSS audits, contributing to achieving certification with no major findings.",
+          "Monitored and reported on IT compliance status to internal stakeholders, creating monthly reports that improved transparency.",
+          "Developed a scripts library to automate common compliance checks, reducing manual workload by 20 hours per month."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Information Systems",
+      "school": "State University of New York",
+      "location": "Albany, NY",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "GDPR Compliance Initiative",
+        "description": "Led a project to enhance data protection and privacy management, ensuring GDPR compliance across all company IT systems.",
+        "technologies": [
+          "RSA Archer",
+          "Python",
+          "SQL"
+        ]
+      }
+    ]
+  }
+}

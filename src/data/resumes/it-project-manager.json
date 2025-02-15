@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "title": "IT Project Manager Resume Template",
+    "description": "A professional resume template tailored for IT Project Manager positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "IT Project Manager",
+    "slug": "it-project-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "Project Management",
+      "IT Leadership",
+      "Agile",
+      "Scrum",
+      "Stakeholder Communication"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "IT Project Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 7 years of experience in overseeing technology projects and teams. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "SQL"
+      ],
+      "frameworks": [
+        "Agile",
+        "Scrum"
+      ],
+      "tools": [
+        "JIRA",
+        "Confluence",
+        "MS Project",
+        "Git"
+      ],
+      "concepts": [
+        "Project Planning",
+        "Risk Management",
+        "Budgeting",
+        "Stakeholder Communication"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior IT Project Manager",
+        "company": "Tech Innovations Corp",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a cross-functional team to deliver a $2M project ahead of schedule, improving client satisfaction score by 20%.",
+          "Implemented agile methodologies across the department, reducing project delivery times by 15%.",
+          "Enhanced the project tracking system, leading to a 25% increase in efficiency."
+        ]
+      },
+      {
+        "title": "IT Project Manager",
+        "company": "GreenLeaf Technologies",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed 10 simultaneous projects with a total budget of $5M, delivering 90% of them on time and within budget.",
+          "Developed a new stakeholder engagement plan that improved communication by 30% and reduced project risks.",
+          "Awarded 'Project Manager of the Year' in 2020 for outstanding leadership and project outcomes."
+        ]
+      },
+      {
+        "title": "Junior IT Project Coordinator",
+        "company": "FutureTech Solutions",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in coordinating project schedules and budgets, contributing to a 98% success rate of project deliverables.",
+          "Streamlined communication protocols, leading to a 15% reduction in project delays.",
+          "Supported senior management in implementing a new software system, enhancing team productivity by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Enterprise Resource Planning (ERP) System Implementation",
+        "description": "Led the implementation of a company-wide ERP system to improve data accuracy and business operations efficiency.",
+        "technologies": [
+          "SAP",
+          "SQL",
+          "Java"
+        ]
+      }
+    ]
+  }
+}

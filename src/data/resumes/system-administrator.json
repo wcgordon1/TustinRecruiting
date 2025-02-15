@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "System Administrator Resume Template",
+    "description": "A professional resume template tailored for System Administrator positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "System Administrator",
+    "slug": "system-administrator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "System Administration",
+      "Network Management"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "System Administrator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in managing servers, networks, and IT infrastructure. Proven track record of delivering high-quality solutions and optimizing performance to boost organizational efficiency.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Bash",
+        "PowerShell"
+      ],
+      "frameworks": [
+        "Ansible",
+        "Terraform"
+      ],
+      "tools": [
+        "Linux",
+        "Windows Server",
+        "VMware",
+        "AWS",
+        "Azure",
+        "Git"
+      ],
+      "concepts": [
+        "Network Security",
+        "Virtualization",
+        "Disaster Recovery",
+        "Cloud Computing"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior System Administrator",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Designed and implemented a new VMware virtualized environment, reducing server costs by 30%.",
+          "Led a team of 3 in migrating 50+ applications to Azure resulting in enhanced performance and reliability.",
+          "Streamlined disaster recovery processes by introducing automated backups, reducing potential downtime by 40%."
+        ]
+      },
+      {
+        "title": "System Administrator",
+        "company": "Innovatech Corp",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed an IT infrastructure supporting 300+ employees, maintaining 99.9% system uptime.",
+          "Implemented network security protocols that reduced incidents by 25% within the first year.",
+          "Optimized software deployment processes using Ansible, decreasing deployment time by 50%."
+        ]
+      },
+      {
+        "title": "Junior System Administrator",
+        "company": "Global Tech Enterprises",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in setting up and maintaining 200+ Windows and Linux servers.",
+          "Developed scripts in Python and Bash for daily system maintenance tasks, increasing task efficiency by 40%.",
+          "Coordinated troubleshooting efforts during network outages, improving resolution time by 30%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "State University",
+      "location": "City, State",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Cloud Migration Initiative",
+        "description": "Led a project to migrate on-premise resources to AWS cloud, including data storage and application hosting.",
+        "technologies": [
+          "AWS",
+          "Terraform",
+          "Linux"
+        ]
+      }
+    ]
+  }
+}

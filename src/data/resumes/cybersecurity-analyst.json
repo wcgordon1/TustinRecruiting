@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "Cybersecurity Analyst Resume Template",
+    "description": "A professional resume template tailored for Cybersecurity Analyst positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Cybersecurity Analyst",
+    "slug": "cybersecurity-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "cybersecurity",
+      "threat analysis",
+      "network security"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Cybersecurity Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in protecting systems and networks from cyber threats. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript",
+        "SQL"
+      ],
+      "frameworks": [
+        "Django",
+        "React"
+      ],
+      "tools": [
+        "Wireshark",
+        "Nmap",
+        "Splunk",
+        "Metasploit"
+      ],
+      "concepts": [
+        "Network Security",
+        "Threat Analysis",
+        "Incident Response",
+        "Risk Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Cybersecurity Analyst",
+        "company": "SecureTech Solutions",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team in implementing advanced intrusion detection systems, reducing incident response time by 30%.",
+          "Conducted quarterly risk assessments, leading to a 25% improvement in system resilience.",
+          "Developed a training module for new hires, enhancing the team's threat response capabilities."
+        ]
+      },
+      {
+        "title": "Cybersecurity Analyst",
+        "company": "NetDefense Corp.",
+        "location": "Dallas, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Implemented network scanning protocols that decreased system vulnerabilities by 40%.",
+          "Coordinated with a cross-functional team to develop a comprehensive security policy framework.",
+          "Monitored and analyzed network traffic, preventing potential breaches and saving the company an estimated $200,000 annually."
+        ]
+      },
+      {
+        "title": "Junior Cybersecurity Analyst",
+        "company": "Infosec Dynamics",
+        "location": "Houston, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the deployment of firewalls and intrusion prevention systems across 20+ corporate users.",
+          "Supported the senior analyst team in responding to and mitigating cyber threats effectively.",
+          "Helped in maintaining and fine-tuning SIEM tools to ensure immediate alert and response to threats."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Cybersecurity",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Enterprise Network Defense Tool",
+        "description": "Developed a tool to simulate real-world network attack scenarios, enhancing the defense strategy planning.",
+        "technologies": [
+          "Python",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ]
+  }
+}

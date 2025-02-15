@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Network Engineer Resume Template",
+    "description": "A professional resume template tailored for Network Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Network Engineer",
+    "slug": "network-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "network administration",
+      "network design",
+      "Cisco",
+      "firewalls",
+      "troubleshooting"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Network Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in designing and maintaining computer networks. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Bash"
+      ],
+      "frameworks": [
+        "Cisco DNA Center",
+        "VMware NSX"
+      ],
+      "tools": [
+        "Wireshark",
+        "SolarWinds",
+        "Puppet",
+        "Ansible"
+      ],
+      "concepts": [
+        "Network Security",
+        "Cloud Networking",
+        "Virtualization",
+        "Load Balancing"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Network Engineer",
+        "company": "TechNet Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team to design and implement a scalable network architecture that increased network uptime by 15%.",
+          "Optimized network performance by deploying load balancing strategies, improving speed by 25%.",
+          "Implemented advanced security protocols, reducing potential threat exposure by 30%."
+        ]
+      },
+      {
+        "title": "Network Engineer",
+        "company": "DataLink Corporation",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed network infrastructure for a mid-sized enterprise, reducing maintenance costs by 20% through automation.",
+          "Developed and enforced network policies that increased compliance with industry standards.",
+          "Successfully integrated cloud networking solutions, achieving a 40% reduction in infrastructure costs."
+        ]
+      },
+      {
+        "title": "Junior Network Engineer",
+        "company": "TechWave Ltd.",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Collaborated on the implementation of a company-wide VoIP solution, minimizing telecommunication expenses by 35%.",
+          "Conducted regular network assessments that improved system reliability and efficiency.",
+          "Assisted in troubleshooting network issues, achieving a 98% resolution rate on first contact."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Network and Systems Management",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Company-wide Network Upgrade",
+        "description": "Led and executed a comprehensive network upgrade including hardware, software, and security components, improving overall network performance and security posture.",
+        "technologies": [
+          "Cisco Routers",
+          "Fortinet Firewalls",
+          "VMware ESXi"
+        ]
+      }
+    ]
+  }
+}

@@ -12,18 +12,180 @@ const __dirname = dirname(__filename);
 dotenv.config({ path: join(__dirname, 'config', '.env.local') });
 
 const RESUMES_TO_BUILD = [
-  {
-    role: "UX Designer",
-    category: "creative",
-    level: "mid-level",
-    focus: "User research and interface design"
-  },
-  {
-    role: "Sales Engineer",
-    category: "sales",
-    level: "mid-level",
-    focus: "Technical sales and solution architecture"
-  }
+    {
+        "role": "Frontend Developer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Building user-facing web applications and interfaces"
+      },
+      {
+        "role": "Backend Developer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Developing server-side logic and database interactions"
+      },
+      {
+        "role": "Full Stack Developer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Working on both frontend and backend development"
+      },
+      {
+        "role": "DevOps Engineer",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Managing CI/CD pipelines and cloud infrastructure"
+      },
+      {
+        "role": "Data Scientist",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Analyzing data to extract insights and build predictive models"
+      },
+      {
+        "role": "Data Engineer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Building and maintaining data pipelines and warehouses"
+      },
+      {
+        "role": "Cybersecurity Analyst",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Protecting systems and networks from cyber threats"
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Developing and deploying machine learning models"
+      },
+      {
+        "role": "Cloud Engineer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Designing and managing cloud-based infrastructure"
+      },
+      {
+        "role": "AI Engineer",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Building AI-powered applications and solutions"
+      },
+      {
+        "role": "Blockchain Developer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Developing decentralized applications and smart contracts"
+      },
+      {
+        "role": "IT Support Specialist",
+        "category": "Technology",
+        "level": "entry-level",
+        "focus": "Providing technical support and troubleshooting IT issues"
+      },
+      {
+        "role": "System Administrator",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Managing servers, networks, and IT infrastructure"
+      },
+      {
+        "role": "Network Engineer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Designing and maintaining computer networks"
+      },
+      {
+        "role": "Database Administrator",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Managing and optimizing databases"
+      },
+      {
+        "role": "Business Intelligence Analyst",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Using data to generate insights for business decisions"
+      },
+      {
+        "role": "Product Manager",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Defining product strategy and managing development"
+      },
+      {
+        "role": "Scrum Master",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Facilitating Agile development processes"
+      },
+      {
+        "role": "UI/UX Designer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Designing user-friendly interfaces and experiences"
+      },
+      {
+        "role": "QA Engineer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Testing software to ensure quality and reliability"
+      },
+      {
+        "role": "Embedded Systems Engineer",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Developing software for embedded devices"
+      },
+      {
+        "role": "IoT Engineer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Building Internet of Things applications and systems"
+      },
+      {
+        "role": "IT Project Manager",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Overseeing technology projects and teams"
+      },
+      {
+        "role": "Penetration Tester",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Simulating cyberattacks to find security vulnerabilities"
+      },
+      {
+        "role": "Robotics Engineer",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Developing robotic systems and automation solutions"
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Ensuring system reliability and uptime"
+      },
+      {
+        "role": "IT Compliance Analyst",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Ensuring regulatory compliance in IT operations"
+      },
+      {
+        "role": "Solutions Architect",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Designing scalable technical solutions"
+      },
+      {
+        "role": "IT Security Consultant",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Advising companies on cybersecurity best practices"
+      }
 ];
 
 const openai = new OpenAI({
@@ -35,7 +197,8 @@ const RESUMES_DIR = join(process.cwd(), 'src/data/resumes');
 async function generateResume(position) {
   const systemPrompt = `You are a professional resume writer. Create a resume template for a ${position.role} position. 
   The resume should be focused on ${position.focus} and target a ${position.level} position.
-  Return the response as a JSON object matching the exact structure provided.`;
+  Include 3 relevant job experiences showing career progression from junior to current level.
+  Use realistic company names, locations, and achievements specific to the ${position.role} role.`;
 
   try {
     const completion = await openai.chat.completions.create({
@@ -47,7 +210,9 @@ async function generateResume(position) {
         },
         {
           role: "user",
-          content: `Create a detailed resume template with realistic placeholder data. Return the response as JSON with this exact structure:
+          content: `Create a detailed resume template with realistic placeholder data. Include 3 jobs showing progression from junior to current level, with specific achievements for a ${position.role}. 
+          The most recent job should be current (2022-Present), with previous jobs having appropriate dates showing 5-6 years of experience.
+          Return the response as JSON with this exact structure:
           {
             "metadata": {
               "title": "${position.role} Resume Template",
@@ -86,15 +251,25 @@ async function generateResume(position) {
               },
               "experience": [
                 {
-                  "title": "Senior ${position.role}",
-                  "company": "Company Name",
-                  "location": "City, State",
+                  "title": "",
+                  "company": "",
+                  "location": "",
                   "dates": "Jan 2022 - Present",
-                  "achievements": [
-                    "Achievement 1",
-                    "Achievement 2",
-                    "Achievement 3"
-                  ]
+                  "achievements": []
+                },
+                {
+                  "title": "",
+                  "company": "",
+                  "location": "",
+                  "dates": "Mar 2019 - Dec 2021",
+                  "achievements": []
+                },
+                {
+                  "title": "",
+                  "company": "",
+                  "location": "",
+                  "dates": "Jun 2017 - Feb 2019",
+                  "achievements": []
                 }
               ],
               "education": {

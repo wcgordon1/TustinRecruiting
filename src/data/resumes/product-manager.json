@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Product Manager Resume Template",
+    "description": "A professional resume template tailored for Product Manager positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Product Manager",
+    "slug": "product-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "Product Strategy",
+      "Product Development",
+      "Team Leadership",
+      "Agile Methodologies"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Product Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in defining product strategy and managing development. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "React",
+        "Django"
+      ],
+      "tools": [
+        "JIRA",
+        "Confluence",
+        "Google Analytics"
+      ],
+      "concepts": [
+        "Agile Methodologies",
+        "Roadmap Planning",
+        "User-Centric Design"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Product Manager",
+        "company": "Innovative Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a cross-functional team of 10+ engineers and designers in developing a cloud-based analytics platform, resulting in a 25% increase in user engagement.",
+          "Defined product vision and roadmap, aligning with company objectives, leading to a 40% increase in market reach within the first year.",
+          "Implemented data-driven decision-making processes, which reduced feature development time by 15%."
+        ]
+      },
+      {
+        "title": "Product Manager",
+        "company": "Tech Pioneers Ltd.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed the launch of a mobile application that ranked top 10 in the App Store within two months of release.",
+          "Worked closely with UX/UI teams to redesign user interfaces, increasing user satisfaction scores by 30%.",
+          "Streamlined product development cycles through the introduction of Agile methodologies, improving efficiency by 20%."
+        ]
+      },
+      {
+        "title": "Junior Product Manager",
+        "company": "Digital Dynamics Corp.",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the creation and prioritization of a product backlog, facilitating a smooth transition from legacy systems.",
+          "Collaborated with sales and marketing teams to define go-to-market strategies, which increased product adoption by 15%.",
+          "Conducted market analysis and user research to support product innovation and feature enhancements."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "AI-Powered Recommendation Engine",
+        "description": "Developed an AI-driven engine that recommends personalized content to users, increasing engagement by 50%.",
+        "technologies": [
+          "Python",
+          "TensorFlow",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}

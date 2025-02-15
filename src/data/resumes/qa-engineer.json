@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "QA Engineer Resume Template",
+    "description": "A professional resume template tailored for QA Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "QA Engineer",
+    "slug": "qa-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "QA",
+      "Testing",
+      "Automation",
+      "Software Quality Assurance",
+      "Bug Tracking"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "QA Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in testing software to ensure quality and reliability. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Java"
+      ],
+      "frameworks": [
+        "Selenium",
+        "Appium"
+      ],
+      "tools": [
+        "JIRA",
+        "TestRail",
+        "Postman"
+      ],
+      "concepts": [
+        "Test Automation",
+        "Agile Methodologies",
+        "Continuous Integration"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior QA Engineer",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Implemented a new test automation framework using Selenium, reducing manual testing efforts by 40%",
+          "Led a team of 4 QA engineers in testing complex enterprise solutions, resulting in a 30% reduction in post-release defects",
+          "Collaborated with cross-functional teams to ensure seamless integration and deployment, increasing overall project quality by 25%"
+        ]
+      },
+      {
+        "title": "QA Engineer",
+        "company": "Innovative Apps LLC",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and executed detailed test plans for web and mobile applications, resulting in a 95% on-time software release rate",
+          "Automated regression testing using Appium, improving test coverage and accuracy by 50%",
+          "Streamlined bug tracking and resolution processes, reducing bug resolution time by 30%"
+        ]
+      },
+      {
+        "title": "Junior QA Engineer",
+        "company": "Pioneer Tech",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Conducted functional and regression testing for multiple software projects, enhancing overall product quality",
+          "Assisted in the documentation of test cases and reporting of defects using JIRA",
+          "Participated in sprint planning and estimation sessions, contributing to an agile environment"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of Washington",
+      "location": "Seattle, WA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Cross-Platform Automation Framework",
+        "description": "Developed a cross-platform test automation framework that supports both web and mobile applications, enhancing testing efficiency",
+        "technologies": [
+          "Selenium",
+          "Appium",
+          "Java"
+        ]
+      }
+    ]
+  }
+}

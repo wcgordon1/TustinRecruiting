@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Penetration Tester Resume Template",
+    "description": "A professional resume template tailored for Penetration Tester positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Penetration Tester",
+    "slug": "penetration-tester",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Penetration Testing",
+      "Cybersecurity",
+      "Vulnerability Assessment",
+      "Ethical Hacking"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Penetration Tester",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 5+ years of experience in simulating cyberattacks to find security vulnerabilities. Proven track record of delivering high-quality solutions and optimizing performance for diverse organizations.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript",
+        "Bash"
+      ],
+      "frameworks": [
+        "Metasploit",
+        "Burp Suite"
+      ],
+      "tools": [
+        "Wireshark",
+        "Nmap",
+        "Nessus"
+      ],
+      "concepts": [
+        "Vulnerability Assessment",
+        "Social Engineering",
+        "Network Security"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Penetration Tester",
+        "company": "TechGuard Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team in identifying and mitigating vulnerabilities in over 50 network infrastructures for various clients, improving security posture by 30%.",
+          "Developed a customized penetration testing toolkit that increased efficiency by 25% and was adopted company-wide.",
+          "Authored a comprehensive report on a critical zero-day vulnerability discovered during testing, leading to immediate client remediation actions."
+        ]
+      },
+      {
+        "title": "Penetration Tester",
+        "company": "SecureWorks LLC",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Executed end-to-end penetration testing activities for banking sector clients, uncovering critical vulnerabilities in web applications.",
+          "Trained junior staff on best practices in ethical hacking and vulnerability assessment, contributing to a 15% reduction in incident response time.",
+          "Collaborated with development teams to remediate security issues, resulting in a 20% decrease in vulnerabilities per application release."
+        ]
+      },
+      {
+        "title": "Junior Penetration Tester",
+        "company": "CyberSec Labs",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in conducting security audits and penetration testing for small and medium businesses, discovering numerous critical vulnerabilities.",
+          "Performed network security assessments, providing actionable insights that enhanced client system defenses.",
+          "Contributed to the development of automated scripts that improved vulnerability scanning processes by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Cyber Security",
+      "school": "University of Washington",
+      "location": "Seattle, WA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Automated Security Testing Framework",
+        "description": "Developed a framework to automate security testing processes, incorporating multiple open-source tools for enhanced efficiency and coverage.",
+        "technologies": [
+          "Python",
+          "Docker",
+          "Jenkins"
+        ]
+      }
+    ]
+  }
+}

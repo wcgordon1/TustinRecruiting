@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "title": "Full Stack Developer Resume Template",
+    "description": "A professional resume template tailored for Full Stack Developer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Full Stack Developer",
+    "slug": "full-stack-developer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "full stack development",
+      "frontend",
+      "backend",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Full Stack Developer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Working on both frontend and backend development. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "frameworks": [
+        "React",
+        "Node.js",
+        "Express",
+        "Django"
+      ],
+      "tools": [
+        "Git",
+        "Docker",
+        "AWS",
+        "Jenkins"
+      ],
+      "concepts": [
+        "RESTful API",
+        "Agile Methodologies",
+        "Continuous Integration/Continuous Deployment"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Full Stack Developer",
+        "company": "Innovatech Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the development of a cloud-based application used by over 200,000 users, increasing company revenue by 15%.",
+          "Optimized backend services, reducing API response time by 30% and improving application performance.",
+          "Devised a streamlined CI/CD pipeline that reduced deployment time by 60%."
+        ]
+      },
+      {
+        "title": "Backend Developer",
+        "company": "DigitalNext Innovations",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Engineered RESTful APIs supporting mobile and web platforms, handling over 50,000 daily requests.",
+          "Integrated third-party services, expanding application functionality and user engagement.",
+          "Mentored junior developers and co-led a team to transition a monolithic application to microservices architecture."
+        ]
+      },
+      {
+        "title": "Junior Developer",
+        "company": "Tech Ventures",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Contributed to front-end redesign projects, enhancing user experience and increasing user satisfaction by 20%.",
+          "Maintained code quality through consistent practices and collaborative code review sessions.",
+          "Assisted in developing full-stack applications as part of a cross-functional team."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "E-commerce Platform",
+        "description": "Developed a scalable e-commerce platform with integrated payment processing and order management.",
+        "technologies": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ]
+      }
+    ]
+  }
+}

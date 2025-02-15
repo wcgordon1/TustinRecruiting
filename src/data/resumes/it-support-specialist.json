@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "IT Support Specialist Resume Template",
+    "description": "A professional resume template tailored for IT Support Specialist positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "IT Support Specialist",
+    "slug": "it-support-specialist",
+    "experience_level": "entry-level",
+    "keywords": [
+      "IT Support",
+      "Troubleshooting",
+      "Technical Support"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "IT Support Specialist",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in providing technical support and troubleshooting IT issues. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript"
+      ],
+      "frameworks": [],
+      "tools": [
+        "ServiceNow",
+        "Jira",
+        "Active Directory",
+        "Remote Desktop"
+      ],
+      "concepts": [
+        "Network Troubleshooting",
+        "Customer Support",
+        "Problem Solving",
+        "Technical Documentation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "IT Support Specialist",
+        "company": "Acme Tech Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Resolved over 500+ technical issues per month for end-users, increasing satisfaction scores by 20%.",
+          "Implemented a new ticketing system that reduced response times by 30%.",
+          "Assisted in training new team members on troubleshooting best practices."
+        ]
+      },
+      {
+        "title": "Junior IT Support Technician",
+        "company": "Global IT Services",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Provided remote and on-site support to over 200 clients, improving average resolution time by 15%.",
+          "Contributed to knowledge base articles that enhanced team efficiency by 10%.",
+          "Collaborated with network engineers on major infrastructure upgrade projects."
+        ]
+      },
+      {
+        "title": "IT Support Assistant",
+        "company": "TechWorks Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in setting up and maintaining over 1000 workstations, achieving a system uptime of 99.9%.",
+          "Managed software installations and updates, enhancing workstation stability.",
+          "Received Employee of the Month award for exceptional customer service and technical skills."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Information Technology",
+      "school": "Tech University",
+      "location": "San Francisco, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Remote Support Process Automation",
+        "description": "Developed automated scripts to streamline repetitive tasks, reducing manual effort by 25%.",
+        "technologies": [
+          "Python",
+          "PowerShell",
+          "ServiceNow"
+        ]
+      }
+    ]
+  }
+}

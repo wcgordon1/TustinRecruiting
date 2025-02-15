@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "Data Engineer Resume Template",
+    "description": "A professional resume template tailored for Data Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Data Engineer",
+    "slug": "data-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "data engineering",
+      "pipelines",
+      "ETL",
+      "data warehouses"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Data Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in building and maintaining data pipelines and warehouses. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL",
+        "Java"
+      ],
+      "frameworks": [
+        "Apache Spark",
+        "Apache Kafka"
+      ],
+      "tools": [
+        "AWS Redshift",
+        "Airflow",
+        "Tableau"
+      ],
+      "concepts": [
+        "ETL processes",
+        "Data Warehousing",
+        "Data Modelling",
+        "Big Data Technologies"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Data Engineer",
+        "company": "Tech Solutions Corp",
+        "location": "Boston, MA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the development and implementation of a scalable data pipeline using Apache Kafka, reducing data processing time by 40%.",
+          "Optimized existing ETL processes, resulting in a 25% increase in data accuracy and consistency.",
+          "Collaborated with data scientists to integrate machine learning models into data pipelines, enhancing predictive accuracy by 15%."
+        ]
+      },
+      {
+        "title": "Junior Data Engineer",
+        "company": "Data Innovators Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in migrating legacy data systems to a cloud-based architecture, leading to a 30% reduction in operational costs.",
+          "Contributed to the design and implementation of a data warehousing solution using AWS Redshift, improving query performance by 50%.",
+          "Developed automated scripts for data cleansing, improving data quality by 20%."
+        ]
+      },
+      {
+        "title": "Data Engineering Intern",
+        "company": "Future Data Tech",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior engineers in building data pipelines for high-volume data processing applications.",
+          "Conducted performance analysis and troubleshooting for existing data pipelines, improving efficiency by 15%.",
+          "Maintained comprehensive documentation for data pipeline processes, facilitating better team understanding and collaboration."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "State University",
+      "location": "City, State",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Real-time Analytics Dashboard",
+        "description": "Developed a real-time analytics dashboard for monitoring system performance using Tableau and Apache Kafka.",
+        "technologies": [
+          "Tableau",
+          "Apache Kafka",
+          "Python"
+        ]
+      }
+    ]
+  }
+}

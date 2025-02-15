@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "title": "DevOps Engineer Resume Template",
+    "description": "A professional resume template tailored for DevOps Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "DevOps Engineer",
+    "slug": "devops-engineer",
+    "experience_level": "senior",
+    "keywords": [
+      "DevOps",
+      "CI/CD",
+      "Cloud Infrastructure",
+      "Automation",
+      "AWS",
+      "Docker"
+    ],
+    "last_updated": "2025-02-15"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "DevOps Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Managing CI/CD pipelines and cloud infrastructure. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Bash",
+        "Go"
+      ],
+      "frameworks": [
+        "Flask",
+        "Spring"
+      ],
+      "tools": [
+        "Jenkins",
+        "Kubernetes",
+        "Docker",
+        "AWS",
+        "Terraform",
+        "GitLab"
+      ],
+      "concepts": [
+        "Infrastructure as Code (IaC)",
+        "Continuous Integration",
+        "Continuous Delivery",
+        "Microservices",
+        "Agile methodologies"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior DevOps Engineer",
+        "company": "CloudTech Innovations",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 6 in designing and implementing a new CI/CD pipeline that reduced deployment time by 40%.",
+          "Migrated and managed infrastructure on AWS, improving system uptime to 99.99%.",
+          "Implemented Docker and Kubernetes for containerization, which decreased server costs by 25%."
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "TechSolutions Inc.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Streamlined the release cycle by automating testing and deployment processes, resulting in a 30% increase in release frequency.",
+          "Collaborated with the development team to integrate infrastructure changes into CI pipelines.",
+          "Enhanced security protocols within cloud services, resulting in a 15% decrease in security incidents."
+        ]
+      },
+      {
+        "title": "Junior DevOps Engineer",
+        "company": "Innovatech Services",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the maintenance and improvement of existing CI/CD pipelines.",
+          "Participated in the implementation of a new monitoring solution, reducing response time to incidents by 50%.",
+          "Supported cloud infrastructure operations and helped improve system logging and alerting mechanisms."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of Illinois",
+      "location": "Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "NextGen Deployment Automation",
+        "description": "Developed an automated deployment system using Jenkins and Terraform to improve the deployment efficiency and accuracy.",
+        "technologies": [
+          "Jenkins",
+          "Terraform",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}
