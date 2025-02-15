@@ -14,6 +14,14 @@ const formatTagDisplay = (tag) => {
 
 export async function getStaticPaths() {
   const allInterviews = await getCollection("interview");
+  // Sanitize tags to replace problematic characters
+  const sanitizeTag = (tag) => {
+    return tag
+      .replace(/\//g, '-') // Replace forward slashes with hyphens
+      .replace(/\s+/g, '-') // Replace spaces with hyphens
+      .toLowerCase();
+  };
+
   const uniqueTags = [
     ...new Set(allInterviews.map((post) => post.data.tags).flat()),
   ];
@@ -28,15 +36,15 @@ export async function getStaticPaths() {
       post.data.tags.includes(tag)
     );
     return {
-      params: { tag },
-      props: { posts: filteredPosts },
+      params: { tag: sanitizeTag(tag) },
+      props: { posts: filteredPosts, originalTag: tag },
     };
   }).filter(Boolean); // Remove any null entries
 }
 
-const { tag } = Astro.params;
 const { posts } = Astro.props;
-const formattedTag = formatTagDisplay(tag);
+const { originalTag } = Astro.props;
+const formattedTag = formatTagDisplay(originalTag);
 ---
 
 <BaseLayout pageTitle={formattedTag}>
@@ -56,7 +64,7 @@ const formattedTag = formatTagDisplay(tag);
                 <li aria-label="tag">
                   <BlogPost
                     url={`/interview-prep/${post.data.category.toLowerCase().replace(/\s+/g, '-')}/${post.data.vertical.toLowerCase().replace(/\s+/g, '-')}/${post.slug}`}
-                    title={post.data.term}
+                    title={post.data.term || post.data.title}
                   />
                 </li>
               ))
