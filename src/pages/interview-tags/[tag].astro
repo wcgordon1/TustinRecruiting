@@ -17,7 +17,13 @@ export async function getStaticPaths() {
   const uniqueTags = [
     ...new Set(allInterviews.map((post) => post.data.tags).flat()),
   ];
+  // Make sure we have tags to return
+  if (uniqueTags.length === 0) {
+    return [{ params: { tag: 'default' }, props: { posts: [] } }];
+  }
+
   return uniqueTags.map((tag) => {
+    if (!tag) return null; // Skip if tag is undefined
     const filteredPosts = allInterviews.filter((post) =>
       post.data.tags.includes(tag)
     );
@@ -25,7 +31,7 @@ export async function getStaticPaths() {
       params: { tag },
       props: { posts: filteredPosts },
     };
-  });
+  }).filter(Boolean); // Remove any null entries
 }
 
 const { tag } = Astro.params;
