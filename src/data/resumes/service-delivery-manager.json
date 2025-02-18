@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Service Delivery Manager Resume Template",
+    "description": "A professional resume template tailored for Service Delivery Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Service Delivery Manager",
+    "slug": "service-delivery-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "service delivery",
+      "customer satisfaction",
+      "process improvement"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Service Delivery Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in ensuring efficient delivery of services to customers. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "Python"
+      ],
+      "frameworks": [],
+      "tools": [
+        "ITIL",
+        "ServiceNow",
+        "Jira"
+      ],
+      "concepts": [
+        "Incident Management",
+        "Change Management",
+        "Process Improvement"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Service Delivery Manager",
+        "company": "Tech Solutions Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 15 in delivering IT services to over 500 enterprise clients, maintaining a customer satisfaction rate of 98%.",
+          "Implemented a new service management software that reduced service delivery time by 30%, resulting in improved efficiency and customer satisfaction.",
+          "Developed and executed standard operating procedures to streamline service delivery processes, which decreased incident resolution time by 25%."
+        ]
+      },
+      {
+        "title": "Senior Service Delivery Analyst",
+        "company": "Innovatech Data Systems",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed service performance metrics and developed dashboards that provided insights to leadership, improving strategic business decisions.",
+          "Facilitated inter-departmental communication and collaboration, resulting in a 15% improvement in service delivery metrics.",
+          "Conducted training and development workshops for junior staff, improving team efficiency and service quality by 20%."
+        ]
+      },
+      {
+        "title": "Service Delivery Analyst",
+        "company": "BlueSky IT Solutions",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development and maintenance of service level agreements (SLAs) to ensure compliance and client satisfaction.",
+          "Monitored and analyzed service delivery metrics to identify areas for improvement, contributing to a 10% reduction in operational costs.",
+          "Supported the implementation of an incident management system, decreasing response times by 15%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Information Technology",
+      "school": "University of California",
+      "location": "Los Angeles, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Customer Service Portal Implementation",
+        "description": "Led a cross-functional team to implement a new customer service portal, enhancing user experience and reducing inquiry processing time.",
+        "technologies": [
+          "ServiceNow",
+          "Jira",
+          "SQL"
+        ]
+      }
+    ]
+  }
+}

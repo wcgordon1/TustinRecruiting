@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Customs Compliance Specialist Resume Template",
+    "description": "A professional resume template tailored for Customs Compliance Specialist positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Customs Compliance Specialist",
+    "slug": "customs-compliance-specialist",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Customs Regulations",
+      "Compliance",
+      "International Shipping",
+      "Trade Compliance"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Customs Compliance Specialist",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over six years of experience ensuring shipments comply with customs regulations. Proven track record of optimizing compliance processes and reducing operational costs.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP GTS",
+        "MIC Customs Solutions",
+        "Microsoft Excel"
+      ],
+      "concepts": [
+        "HTS Classification",
+        "Import/Export Documentation",
+        "Customs Valuation",
+        "Trade Compliance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Customs Compliance Specialist",
+        "company": "Global Logistics Solutions",
+        "location": "Houston, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Streamlined the customs clearance process, reducing processing times by 25% and cutting costs by 15% annually.",
+          "Implemented a new compliance auditing system, increasing accuracy by 30% and diminishing potential regulatory fines.",
+          "Led team of four in analyzing and updating company’s import/export compliance manuals adhering to new international regulations."
+        ]
+      },
+      {
+        "title": "Customs Compliance Analyst",
+        "company": "TradeBridge Corp",
+        "location": "Atlanta, GA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted detailed audits on import/export entries, resulting in a 40% improvement in compliance rating over two years.",
+          "Collaborated with international suppliers to ensure proper tariff classifications and minimized duty payments by 18%.",
+          "Developed training materials and conducted workshops for junior staff, boosting departmental productivity by 20%."
+        ]
+      },
+      {
+        "title": "Junior Customs Analyst",
+        "company": "LogiTrade Inc.",
+        "location": "Charlotte, NC",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the preparation and submission of over 1000 customs documentation packets with a 98% approval rate.",
+          "Researched and resolved classification and valuation inconsistencies, saving the company $50,000 in potential penalties.",
+          "Maintained and updated compliance records ensuring all documentation was up to date with current regulations."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. International Business",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Global Compliance Improvement Initiative",
+        "description": "Led a project team to identify and address compliance gaps in the company's international supply chain operations, achieving a reduction in customs delays by 30%.",
+        "technologies": [
+          "SAP GTS",
+          "MIC Customs Solutions",
+          "Power BI"
+        ]
+      }
+    ]
+  }
+}

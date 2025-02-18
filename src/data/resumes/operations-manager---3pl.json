@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Operations Manager - 3PL Resume Template",
+    "description": "A professional resume template tailored for Operations Manager - 3PL positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Operations Manager - 3PL",
+    "slug": "operations-manager---3pl",
+    "experience_level": "mid-level",
+    "keywords": [
+      "logistics",
+      "supply chain",
+      "operations management",
+      "3PL"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Operations Manager - 3PL",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing daily logistics operations and enhancing supply chain efficiency. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP",
+        "Oracle Transportation Management",
+        "Microsoft Excel",
+        "Warehouse Management Systems"
+      ],
+      "concepts": [
+        "Supply Chain Management",
+        "Process Improvement",
+        "Team Leadership",
+        "KPI Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Operations Manager",
+        "company": "Precision Logistics Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 15 to improve warehouse efficiency by 25% through process optimization initiatives.",
+          "Implemented a new transportation management system, reducing shipping costs by 18%.",
+          "Enhanced supplier coordination that resulted in a 30% reduction in delivery time."
+        ]
+      },
+      {
+        "title": "Assistant Operations Manager",
+        "company": "Streamline Distribution",
+        "location": "Dallas, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in reducing operational costs by 15% through strategic inventory control.",
+          "Collaborated with the IT department to introduce a real-time tracking system, boosting on-time deliveries by 20%.",
+          "Managed daily operations ensuring compliance with health and safety regulations."
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "company": "LogiFlex Solutions",
+        "location": "Denver, CO",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Coordinated logistics for a portfolio of over 50 clients, maintaining a 98% satisfaction rate.",
+          "Optimized routing schedules which saved the company 10% on fuel costs annually.",
+          "Trained and mentored new staff, decreasing the onboarding time by 40%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "State University",
+      "location": "City, State",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Real-time Inventory Management System Implementation",
+        "description": "Led the implementation of a real-time inventory management system that increased accuracy in inventory reporting by 40%.",
+        "technologies": [
+          "Oracle",
+          "Excel",
+          "Power BI"
+        ]
+      }
+    ]
+  }
+}

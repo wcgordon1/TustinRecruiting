@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Production Planner Resume Template",
+    "description": "A professional resume template tailored for Production Planner positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Production Planner",
+    "slug": "production-planner",
+    "experience_level": "mid-level",
+    "keywords": [
+      "production planning",
+      "scheduling",
+      "manufacturing processes"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Production Planner",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in scheduling and coordinating manufacturing processes. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP",
+        "MRP Systems",
+        "Microsoft Excel"
+      ],
+      "concepts": [
+        "Lean Manufacturing",
+        "Just-In-Time Production",
+        "Inventory Management",
+        "Production Scheduling"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Production Planner",
+        "company": "Tech Manufacturing Co.",
+        "location": "Newark, NJ",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Reduced production lead time by 20% through improved scheduling techniques.",
+          "Implemented a new MRP system that increased production efficiency by 15%.",
+          "Coordinated cross-departmental teams to streamline operations, resulting in a 10% increase in on-time delivery."
+        ]
+      },
+      {
+        "title": "Production Planner",
+        "company": "Manufacturing Solutions Inc.",
+        "location": "Trenton, NJ",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed schedules for multiple product lines, achieving a 95% on-time delivery rate.",
+          "Collaborated with purchasing to reduce raw material costs by 8%.",
+          "Trained junior planners in efficient production scheduling practices."
+        ]
+      },
+      {
+        "title": "Junior Production Planner",
+        "company": "Industrial Products Ltd.",
+        "location": "Camden, NJ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the implementation of lean practices, reducing waste by 12%.",
+          "Created daily production schedules under tight deadlines, maintaining a 92% adherence rate.",
+          "Monitored inventories to ensure optimal stock levels and reduced backorders by 5%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Industrial Engineering",
+      "school": "Rutgers University",
+      "location": "New Brunswick, NJ",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Supply Chain Optimization Project",
+        "description": "Led a team in analyzing and enhancing supply chain processes, resulting in a 15% reduction in logistics costs.",
+        "technologies": [
+          "Excel",
+          "Tableau",
+          "SQL"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "3PL Sales Executive Resume Template",
+    "description": "A professional resume template tailored for 3PL Sales Executive positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "3PL Sales Executive",
+    "slug": "3pl-sales-executive",
+    "experience_level": "senior",
+    "keywords": [
+      "logistics",
+      "sales",
+      "freight",
+      "business development",
+      "supply chain"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "3PL Sales Executive",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in selling logistics and freight services to businesses. Proven track record of delivering high-quality solutions and optimizing performance in logistic sales.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM systems",
+        "MS Office Suite",
+        "Logistics Management Software"
+      ],
+      "concepts": [
+        "Business Development",
+        "Supply Chain Management",
+        "Client Relationship Management",
+        "Negotiation"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior 3PL Sales Executive",
+        "company": "Global Freight Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased sales revenue by 35% in the first year by developing new territories.",
+          "Successfully negotiated contracts with over 15 new clients, contributing to a $2M annual revenue increase.",
+          "Led a team of 4 sales reps, resulting in team sales growth of 40% YoY."
+        ]
+      },
+      {
+        "title": "3PL Sales Representative",
+        "company": "Logistics Dynamics Inc.",
+        "location": "Toronto, ON",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and maintained client relationships leading to a 20% increase in repeat business.",
+          "Played a key role in implementing a new sales strategy that increased monthly sales volume by 25%.",
+          "Exceeded quarterly sales targets consecutively for 8 quarters by leveraging data analytics to identify potential clients."
+        ]
+      },
+      {
+        "title": "Junior Sales Associate",
+        "company": "TransWare Shipping LLC",
+        "location": "Newark, NJ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in acquiring new clients by executing effective sales presentations and follow-ups, leading to a 15% increase in customer base.",
+          "Contributed to the development of a new client onboarding process that reduced onboarding time by 30%.",
+          "Recognized as 'Rookie of the Year' for exceptional sales performance and client engagement."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Strategic Sales Initiative",
+        "description": "Led a strategic initiative to redesign the sales process, resulting in a 20% increase in overall effectiveness.",
+        "technologies": [
+          "Salesforce CRM",
+          "Data Analytics",
+          "Process Mapping"
+        ]
+      }
+    ]
+  }
+}

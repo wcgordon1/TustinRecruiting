@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Security Operations Manager Resume Template",
+    "description": "A professional resume template tailored for Security Operations Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Security Operations Manager",
+    "slug": "security-operations-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "security operations",
+      "risk management",
+      "incident response",
+      "cybersecurity"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Security Operations Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing security measures and risk management. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL"
+      ],
+      "frameworks": [
+        "NIST",
+        "ISO/IEC 27001"
+      ],
+      "tools": [
+        "Splunk",
+        "ArcSight",
+        "FireEye"
+      ],
+      "concepts": [
+        "Incident Response",
+        "Threat Analysis",
+        "Vulnerability Management",
+        "Access Control"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Security Operations Manager",
+        "company": "SecureTech Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 10 security analysts to reduce incident response time by 30% within the first year.",
+          "Implemented a new risk assessment strategy that reduced vulnerabilities by 25% across the organization.",
+          "Developed and executed comprehensive security protocols that improved overall system integrity by 40%."
+        ]
+      },
+      {
+        "title": "Senior Security Analyst",
+        "company": "CyberGuard Inc.",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated a cross-functional team to implement Splunk for security monitoring, achieving a 50% reduction in false positives.",
+          "Enhanced threat detection capabilities by integrating AI-powered tools, increasing threat identification by 35%.",
+          "Collaborated with IT and legal teams to establish compliance procedures that satisfied all regulatory requirements."
+        ]
+      },
+      {
+        "title": "Junior Security Analyst",
+        "company": "InfoSec Enterprises",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of security measures, significantly contributing to a 70% decrease in phishing incidents.",
+          "Monitored a wide array of tools to safeguard the network, resulting in a 20% reduction in unauthorized access attempts.",
+          "Produced comprehensive reports and alerted upper management on potential risks, improving proactive measures by 25%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Cybersecurity",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Network Vulnerability Assessment",
+        "description": "Led a project to assess and improve network security, identifying critical vulnerabilities and developing mitigation strategies.",
+        "technologies": [
+          "Nessus",
+          "Wireshark",
+          "Metasploit"
+        ]
+      }
+    ]
+  }
+}

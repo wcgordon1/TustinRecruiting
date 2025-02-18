@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Logistics Sales Manager Resume Template",
+    "description": "A professional resume template tailored for Logistics Sales Manager positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Logistics Sales Manager",
+    "slug": "logistics-sales-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "logistics sales",
+      "3PL",
+      "supply chain management",
+      "business development"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Logistics Sales Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in developing sales strategies for logistics services. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM software",
+        "Salesforce",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Sales Strategy Development",
+        "Client Relationship Management",
+        "Team Leadership",
+        "Logistics and Supply Chain Optimization"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Logistics Sales Manager",
+        "company": "Global Freight Solutions",
+        "location": "Atlanta, GA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased regional sales by 25% within the first year by implementing targeted sales strategies and improving client engagement.",
+          "Led a team of 10 sales professionals, achieving a 98% client satisfaction rate.",
+          "Developed a new sales training program, resulting in a 40% reduction in onboarding time for new hires."
+        ]
+      },
+      {
+        "title": "Senior Sales Executive",
+        "company": "TransGlobe Logistics",
+        "location": "Dallas, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Achieved and surpassed quarterly sales targets by an average of 10% over three years.",
+          "Collaborated with the marketing team to launch a successful promotional campaign that increased lead generation by 30%.",
+          "Awarded 'Top Sales Performer of the Year' in 2020 for exceeding individual sales goals."
+        ]
+      },
+      {
+        "title": "Sales Associate",
+        "company": "Express Transport Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the negotiation and closure of over $2 million in contracts, contributing significantly to company revenue growth.",
+          "Developed strong relationships with 50+ clients, maintaining an 85% customer retention rate.",
+          "Recognized for excellent customer service with a company award in 2018."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Illinois",
+      "location": "Chicago, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Sales Process Optimization Initiative",
+        "description": "Led a project to optimize sales processes, resulting in a 15% increase in sales efficiency and a 10% reduction in the sales cycle.",
+        "technologies": [
+          "Salesforce",
+          "Microsoft Excel",
+          "Power BI"
+        ]
+      }
+    ]
+  }
+}

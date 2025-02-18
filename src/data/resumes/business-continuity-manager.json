@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Business Continuity Manager Resume Template",
+    "description": "A professional resume template tailored for Business Continuity Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Business Continuity Manager",
+    "slug": "business-continuity-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "business continuity",
+      "risk management",
+      "crisis response",
+      "operational resilience"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Business Continuity Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in developing plans to maintain operations during disruptions. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Business Impact Analysis (BIA)",
+        "Risk Assessment",
+        "Disaster Recovery Planning",
+        "Crisis Communication"
+      ],
+      "concepts": [
+        "Operational Resilience",
+        "Crisis Management",
+        "Continuity Plan Testing",
+        "Regulatory Compliance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Business Continuity Manager",
+        "company": "Phoenix Financial Group",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the development and implementation of a comprehensive business continuity plan, reducing potential downtime by 30%.",
+          "Managed crisis response for unexpected data center outage, restoring full operations within 4 hours, minimizing service disruptions.",
+          "Coordinated annual continuity drills and testing, increasing employee preparedness by 40%."
+        ]
+      },
+      {
+        "title": "Business Continuity Specialist",
+        "company": "Anderson Industries",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and executed risk management strategies that reduced operational risk exposure by 25%.",
+          "Collaborated with cross-functional teams to establish incident response protocols, enhancing team response efficiency by 20%.",
+          "Revised continuity policies to align with updated industry standards and regulatory requirements."
+        ]
+      },
+      {
+        "title": "Junior Business Continuity Analyst",
+        "company": "Central Tech Corp",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in conducting Business Impact Analysis (BIA), identifying critical business functions and potential risks.",
+          "Supported the integration of new software solutions, improving crisis communication processes by 15%.",
+          "Contributed to the development of a crisis management framework, increasing organizational readiness."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Global Continuity Plan Overhaul",
+        "description": "Led the redesign and implementation of the company's global continuity plan, integrating modern risk assessment tools and technologies.",
+        "technologies": [
+          "Tableau",
+          "Microsoft Power BI",
+          "GRC Software"
+        ]
+      }
+    ]
+  }
+}

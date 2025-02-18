@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Customer Success Manager - 3PL Resume Template",
+    "description": "A professional resume template tailored for Customer Success Manager - 3PL positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Customer Success Manager - 3PL",
+    "slug": "customer-success-manager---3pl",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Customer Success",
+      "Logistics",
+      "3PL",
+      "Account Management",
+      "Client Relations"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Customer Success Manager - 3PL",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in ensuring logistics clients receive high-quality service. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "Order Management Systems",
+        "Logistics Platforms"
+      ],
+      "concepts": [
+        "Client Engagement",
+        "Performance Optimization",
+        "Vendor Management",
+        "Data Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Customer Success Manager",
+        "company": "Global Logistics Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team to enhance customer satisfaction, resulting in a 20% increase in client retention.",
+          "Developed tailored solutions for high-value clients, resulting in a 30% increase in service efficiency.",
+          "Implemented a new CRM system that reduced customer complaints by 15% within the first six months."
+        ]
+      },
+      {
+        "title": "Senior Client Services Specialist",
+        "company": "TransLogistics Corp",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed portfolio of top-tier clients, achieving a 98% satisfaction rate.",
+          "Streamlined communication processes between departments, decreasing resolution time by 25%.",
+          "Conducted training workshops for new clients, improving onboarding efficiency by 40%."
+        ]
+      },
+      {
+        "title": "Client Support Associate",
+        "company": "FastTrack Logistics",
+        "location": "Los Angeles, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Provided first-tier support for customer inquiries, consistently exceeding response time targets.",
+          "Collaborated with internal teams to develop a new client communication strategy, increasing client engagement by 35%.",
+          "Awarded 'Employee of the Month' twice for outstanding customer service and problem-solving skills."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Client Onboarding Optimization Project",
+        "description": "Led a cross-functional team to redesign the client onboarding process, reducing setup time by 50% and improving client feedback scores.",
+        "technologies": [
+          "Jira",
+          "HubSpot",
+          "Slack"
+        ]
+      }
+    ]
+  }
+}

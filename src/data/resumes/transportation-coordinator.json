@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Transportation Coordinator Resume Template",
+    "description": "A professional resume template tailored for Transportation Coordinator positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Transportation Coordinator",
+    "slug": "transportation-coordinator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "transport coordination",
+      "logistics management",
+      "fleet optimization"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Transportation Coordinator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in managing transportation logistics and fleet operations. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "MS Excel",
+        "Logistics Management Systems",
+        "Routing Software"
+      ],
+      "concepts": [
+        "Route Optimization",
+        "Fleet Management",
+        "Supply Chain Optimization",
+        "Compliance and Safety Protocols"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Transportation Coordinator",
+        "company": "GreenLine Logistics",
+        "location": "Houston, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Managed scheduling and routing for a fleet of 50+ vehicles, reducing transportation costs by 15% through route optimization.",
+          "Implemented a new fleet management software, improving vehicle maintenance tracking accuracy by 30%.",
+          "Developed key partnerships with local suppliers, enhancing service reliability and reducing delivery times by 10%."
+        ]
+      },
+      {
+        "title": "Assistant Transportation Coordinator",
+        "company": "LogiTech Transport Services",
+        "location": "Dallas, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated daily logistics operations, successfully handling over 500 shipments per month.",
+          "Assisted in the redesign of company routing software, which led to a 20% reduction in delivery delays.",
+          "Supported compliance initiatives, contributing to an impeccable safety record with zero major incidents for two consecutive years."
+        ]
+      },
+      {
+        "title": "Transportation Logistics Assistant",
+        "company": "Swift Transolutions",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in daily logistical planning and execution, contributing to a 5% increase in on-time deliveries.",
+          "Maintained detailed logs and reports, improving data accuracy by 10% and aiding in decision-making processes.",
+          "Optimized inventory and ordering processes, leading to a cost reduction of 8% in resource procurement."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Transportation and Logistics Management",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Fleet Efficiency Project",
+        "description": "Led a team to develop an in-depth analysis on fleet efficiency parameters and implemented strategies that improved fuel efficiency by 12%.",
+        "technologies": [
+          "MS Excel",
+          "Fleet Management Software",
+          "Data Analysis Tools"
+        ]
+      }
+    ]
+  }
+}

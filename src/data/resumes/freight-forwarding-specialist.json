@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Freight Forwarding Specialist Resume Template",
+    "description": "A professional resume template tailored for Freight Forwarding Specialist positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Freight Forwarding Specialist",
+    "slug": "freight-forwarding-specialist",
+    "experience_level": "mid-level",
+    "keywords": [
+      "freight forwarding",
+      "logistics",
+      "supply chain management",
+      "international shipping"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Freight Forwarding Specialist",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in coordinating international and domestic freight shipments. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "CargoWise",
+        "SAP",
+        "MS Office Suite"
+      ],
+      "concepts": [
+        "Customs compliance",
+        "Risk Management",
+        "Supply Chain Optimization",
+        "Inventory Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Freight Forwarding Specialist",
+        "company": "Global Transco",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Managed over 500 international shipments annually, ensuring on-time delivery and compliance with global regulations.",
+          "Developed a new tracking system, reducing shipment delivery times by 15% and improving customer satisfaction scores by 20%.",
+          "Led a team of 5 logistics coordinators, successfully optimizing workflow and increasing productivity by 25%."
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "company": "TransLogistics Solutions",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated logistics operations for high-value client accounts, resulting in a 30% increase in account retention.",
+          "Streamlined customs clearance procedures, achieving a 10% reduction in processing time.",
+          "Trained junior staff on logistics management software, enhancing team efficiency and software utilization by 40%."
+        ]
+      },
+      {
+        "title": "Junior Logistics Assistant",
+        "company": "Freight Masters Inc.",
+        "location": "Miami, FL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in managing daily freight operations, supporting an increase in freight volume handling capacity by 20%.",
+          "Implemented inventory management strategies that reduced stock discrepancies by 10%.",
+          "Contributed to the successful execution of a logistics audit, ensuring full compliance with industry standards."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Global Shipment Tracking Enhancement",
+        "description": "Led a project to improve the international shipment tracking system, integrating real-time notifications and analytics.",
+        "technologies": [
+          "Python",
+          "SQL",
+          "Tableau"
+        ]
+      }
+    ]
+  }
+}

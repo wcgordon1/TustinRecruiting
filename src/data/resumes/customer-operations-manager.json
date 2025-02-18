@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Customer Operations Manager Resume Template",
+    "description": "A professional resume template tailored for Customer Operations Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Customer Operations Manager",
+    "slug": "customer-operations-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Customer Service",
+      "Operations Management",
+      "Process Optimization"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Customer Operations Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in improving customer service and support processes. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [],
+      "tools": [
+        "CRM Software",
+        "Zendesk",
+        "Salesforce"
+      ],
+      "concepts": [
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Process Improvement"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Customer Operations Manager",
+        "company": "Bright Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 15 to improve customer satisfaction scores by 25% within a year through enhanced training programs and process optimizations.",
+          "Implemented a new CRM system that reduced response times by 40%, achieving a significant boost in team efficiency.",
+          "Collaborated with product teams to tailor solutions based on customer feedback, increasing product adoption by 18%."
+        ]
+      },
+      {
+        "title": "Senior Customer Service Specialist",
+        "company": "InnovateTech Co.",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed a customer feedback management program that led to a 30% improvement in Net Promoter Score (NPS).",
+          "Trained and mentored a team of 8 customer service agents, enhancing productivity by 20%.",
+          "Streamlined communication processes between departments, resulting in a 15% increase in resolution rates."
+        ]
+      },
+      {
+        "title": "Customer Service Associate",
+        "company": "GlobalMark LLC",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Consistently exceeded monthly customer satisfaction goals, receiving recognition for outstanding service.",
+          "Assisted in the creation of a new knowledge base, reducing repetitive queries by 25%.",
+          "Participated in cross-functional teams to implement a ticketing system that improved resolution speeds."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Customer Retention Initiative",
+        "description": "Led a project to develop and implement a loyalty program that increased customer retention by 20% over six months.",
+        "technologies": [
+          "CRM Software",
+          "Data Analytics",
+          "Marketing Automation"
+        ]
+      }
+    ]
+  }
+}

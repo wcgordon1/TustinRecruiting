@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Drayage Coordinator Resume Template",
+    "description": "A professional resume template tailored for Drayage Coordinator positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Drayage Coordinator",
+    "slug": "drayage-coordinator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "logistics",
+      "drayage",
+      "supply chain",
+      "transportation",
+      "port management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Drayage Coordinator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in managing short-distance port and rail transportation logistics. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "TMS Software",
+        "MS Excel",
+        "SAP"
+      ],
+      "concepts": [
+        "Route Optimization",
+        "Freight Cost Negotiation",
+        "Carrier Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Drayage Coordinator",
+        "company": "Global Transport Solutions",
+        "location": "Houston, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Efficiently coordinated over 500 drayage movements per month, ensuring timely deliveries with a 98% on-time rate.",
+          "Implemented a new TMS software that reduced operational costs by 15% and improved service levels.",
+          "Developed partnerships with key carriers, leading to negotiated contracts that reduced freight costs by 10%."
+        ]
+      },
+      {
+        "title": "Drayage Coordinator",
+        "company": "Port & Rail Logistics",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully managed a portfolio of 15 client accounts, providing tailored solutions to meet specific logistical needs.",
+          "Optimized drayage routes which resulted in a 20% reduction in transit times and better resource allocation.",
+          "Collaborated with cross-functional teams to improve communication flows and enhance operational transparency."
+        ]
+      },
+      {
+        "title": "Junior Drayage Coordinator",
+        "company": "Coastal Transportation Inc.",
+        "location": "Long Beach, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the management of daily drayage operations, contributing to a 15% increase in efficiency.",
+          "Compiled and analyzed data to support senior management in strategic planning and operational decision making.",
+          "Played a key role in onboarding new clients, ensuring a seamless integration into logistics processes."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "California State University",
+      "location": "Long Beach, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Drayage Optimization Project",
+        "description": "Led a project to implement a process improvement initiative that increased load efficiency by 25% through effective route optimization and resource management.",
+        "technologies": [
+          "TMS Software",
+          "Excel",
+          "Data Analytics"
+        ]
+      }
+    ]
+  }
+}

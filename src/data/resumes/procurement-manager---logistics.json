@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Procurement Manager - Logistics Resume Template",
+    "description": "A professional resume template tailored for Procurement Manager - Logistics positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Procurement Manager - Logistics",
+    "slug": "procurement-manager---logistics",
+    "experience_level": "mid-level",
+    "keywords": [
+      "procurement",
+      "logistics",
+      "negotiation"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Procurement Manager - Logistics",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Sourcing transportation providers and negotiating contracts. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "ERP Systems",
+        "MS Office Suite",
+        "Contract Management Software"
+      ],
+      "concepts": [
+        "Vendor Management",
+        "Cost Optimization",
+        "Supply Chain Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Procurement Manager - Logistics",
+        "company": "Global Freight Solutions",
+        "location": "Phoenix, AZ",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully reduced transportation costs by 20% through strategic vendor negotiations.",
+          "Implemented a new supplier evaluation system, improving service levels by 15%.",
+          "Led a cross-functional team in developing logistics cost-saving initiatives that generated annual savings of $500k."
+        ]
+      },
+      {
+        "title": "Senior Procurement Specialist",
+        "company": "Quick Transport Services",
+        "location": "Dallas, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed over $10 million in annual transportation spend across multiple service providers.",
+          "Negotiated long-term contracts with key suppliers, achieving a 10% reduction in rates.",
+          "Streamlined the procurement process, resulting in a 25% increase in efficiency."
+        ]
+      },
+      {
+        "title": "Procurement Analyst",
+        "company": "Logistics Partners Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of a supplier risk management program, reducing supplier-related disruptions by 30%.",
+          "Conducted market analysis to identify potential cost reductions and supplier opportunities.",
+          "Supported contract negotiations resulting in a 5% cost savings across select service lines."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Illinois",
+      "location": "Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Transportation Optimization Project",
+        "description": "Led a team to evaluate and redesign the logistics network, resulting in a more efficient supply chain and 15% reduction in lead time.",
+        "technologies": [
+          "Data Analysis",
+          "Logistics Software",
+          "Project Management Tools"
+        ]
+      }
+    ]
+  }
+}

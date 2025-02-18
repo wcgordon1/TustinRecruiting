@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Distribution Manager Resume Template",
+    "description": "A professional resume template tailored for Distribution Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Distribution Manager",
+    "slug": "distribution-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "distribution",
+      "logistics",
+      "supply chain",
+      "operations management",
+      "warehouse management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Distribution Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Managing product distribution and logistics. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "Python"
+      ],
+      "frameworks": [],
+      "tools": [
+        "ERP Systems",
+        "Warehouse Management Software",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Supply Chain Optimization",
+        "Inventory Control",
+        "Cost Reduction"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Distribution Manager",
+        "company": "Logix Solutions Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Streamlined distribution processes which reduced delivery times by 20%.",
+          "Implemented an inventory management system that cut storage costs by 15%.",
+          "Led a team of 15 logistics coordinators, improving team productivity by 30%."
+        ]
+      },
+      {
+        "title": "Assistant Distribution Manager",
+        "company": "Swift Logistics LLC",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in developing a logistics strategy that reduced transportation costs by 10%.",
+          "Managed daily operations of a 100,000 sq. ft. warehouse, achieving a 98% accuracy rate in order fulfillment.",
+          "Trained and supervised a team of 10, resulting in a 20% increase in efficiency."
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "company": "BrightPath Deliveries",
+        "location": "Los Angeles, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Coordinated shipments across multiple warehouses, ensuring timely delivery to retailers.",
+          "Developed tracking systems to monitor shipment statuses, reducing delivery errors by 12%.",
+          "Supported the implementation of a fleet management system, which improved route efficiency."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "State University",
+      "location": "City, State",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Distribution Optimization Project",
+        "description": "Led a project aimed at optimizing the distribution network, resulting in a 25% reduction in logistics costs.",
+        "technologies": [
+          "Advanced Planning Systems",
+          "Data Analytics Tools",
+          "Process Simulation Software"
+        ]
+      }
+    ]
+  }
+}

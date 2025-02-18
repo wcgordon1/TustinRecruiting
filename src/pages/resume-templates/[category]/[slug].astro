@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 
   return resumes.map(resume => ({
     params: { 
-      category: resume.metadata.category,
+      category: resume.metadata.category.toLowerCase(),
       slug: resume.metadata.slug
     },
     props: { resume },
@@ -32,8 +32,8 @@ const { metadata, template_tips, resume_content } = resume;
 const breadcrumbs = [
   { text: 'Home', href: '/' },
   { text: 'Resume Templates', href: '/resume-templates' },
-  { text: category.charAt(0).toUpperCase() + category.slice(1), href: `/resume-templates/${category}` },
-  { text: metadata.role, href: `/resume-templates/${category}/${slug}`, current: true }
+  { text: category.charAt(0).toUpperCase() + category.slice(1), href: `/resume-templates/${category.toLowerCase()}` },
+  { text: metadata.role, href: `/resume-templates/${category.toLowerCase()}/${slug}`, current: true }
 ];
 ---
 

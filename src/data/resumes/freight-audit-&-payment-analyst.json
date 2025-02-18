@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Freight Audit & Payment Analyst Resume Template",
+    "description": "A professional resume template tailored for Freight Audit & Payment Analyst positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Freight Audit & Payment Analyst",
+    "slug": "freight-audit-&-payment-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "freight audit",
+      "payment analysis",
+      "cost management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Freight Audit & Payment Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in ensuring accuracy in freight invoicing and cost management. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "Python"
+      ],
+      "frameworks": [],
+      "tools": [
+        "SAP",
+        "Oracle Transportation Management",
+        "Microsoft Excel"
+      ],
+      "concepts": [
+        "Cost Optimization",
+        "Data Analysis",
+        "Freight Accounting"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Freight Audit & Payment Analyst",
+        "company": "Global Logistics Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team to optimize freight payment processes, reducing discrepancies by 30% and saving $200,000 annually.",
+          "Implemented a new auditing system, increasing invoice processing efficiency by 25%.",
+          "Coordinated with cross-functional teams to resolve freight invoice disputes, achieving a 90% resolution rate within the first month."
+        ]
+      },
+      {
+        "title": "Freight Audit Specialist",
+        "company": "TransLogistics Solutions",
+        "location": "Dallas, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and maintained database systems to track and analyze freight costs, resulting in a 15% reduction in transportation expenses.",
+          "Collaborated with financial departments to streamline payment processes, ensuring 99% on-time payments.",
+          "Analyzed freight data to identify cost-saving opportunities, contributing to a $75,000 annual reduction."
+        ]
+      },
+      {
+        "title": "Junior Freight Audit Analyst",
+        "company": "Shipping & Freight Partners",
+        "location": "Atlanta, GA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in auditing over 1,000 invoices monthly to ensure billing accuracy and compliance with contracts.",
+          "Supported the development of reporting tools for audit results, enhancing transparency and accountability.",
+          "Played a key role in handling carrier disputes, achieving a 85% satisfactory resolution rate."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Chicago",
+      "location": "Chicago, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Freight Cost Reduction Initiative",
+        "description": "Led a project to analyze freight costs and implement cost-saving measures, resulting in a significant reduction in overhead expenses.",
+        "technologies": [
+          "SQL",
+          "Excel",
+          "Power BI"
+        ]
+      }
+    ]
+  }
+}

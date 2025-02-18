@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Event Operations Manager Resume Template",
+    "description": "A professional resume template tailored for Event Operations Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Event Operations Manager",
+    "slug": "event-operations-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "event management",
+      "logistics",
+      "team leadership",
+      "vendor coordination",
+      "budgeting"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Event Operations Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Coordinating logistics and execution of events. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Eventbrite",
+        "Trello",
+        "Slack",
+        "Microsoft Office Suite",
+        "Google Workspace"
+      ],
+      "concepts": [
+        "Event Planning",
+        "Vendor Management",
+        "Budgeting",
+        "Team Leadership",
+        "Client Relations"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Event Operations Manager",
+        "company": "Summit Events Group",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully planned and executed over 20 large-scale events annually, each with over 500 attendees, increasing attendance by 15%.",
+          "Optimized event logistics and vendor coordination, reducing overhead costs by 10% in the first year.",
+          "Led a team of 10, enhancing team efficiency and productivity by 20% through training and development."
+        ]
+      },
+      {
+        "title": "Event Coordinator",
+        "company": "Elite Event Solutions",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated logistics for diverse events ensuring on-time delivery and customer satisfaction rated at 95% positive feedback.",
+          "Managed vendor relationships and negotiations, resulting in a 12% reduction in vendor costs.",
+          "Implemented a new event management software that increased planning efficiency by 25%."
+        ]
+      },
+      {
+        "title": "Assistant Event Planner",
+        "company": "Creative Gatherings LLC",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in organizing over 30 events annually, including corporate, weddings, and non-profit gala events.",
+          "Developed detailed event itineraries, contributing to a 30% increase in client satisfaction.",
+          "Supported marketing efforts that boosted event attendance by 20% year over year."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Hospitality Management",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Tech Expo 2023",
+        "description": "Led a team to successfully execute a 3-day tech expo with over 100 exhibitors and 2,000 attendees.",
+        "technologies": [
+          "Eventbrite",
+          "QuickBooks",
+          "Slack"
+        ]
+      }
+    ]
+  }
+}

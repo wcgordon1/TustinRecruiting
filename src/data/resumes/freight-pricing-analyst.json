@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Freight Pricing Analyst Resume Template",
+    "description": "A professional resume template tailored for Freight Pricing Analyst positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Freight Pricing Analyst",
+    "slug": "freight-pricing-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "freight",
+      "pricing",
+      "data analysis"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Freight Pricing Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Analyzing and setting freight pricing strategies. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Excel",
+        "Tableau",
+        "SPSS"
+      ],
+      "concepts": [
+        "Data Analysis",
+        "Pricing Strategy",
+        "Logistics Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Lead Freight Pricing Analyst",
+        "company": "Logistic Solutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Developed pricing models that resulted in a 15% increase in profit margins.",
+          "Led a team of junior analysts in conducting comprehensive freight cost analysis.",
+          "Implemented dynamic pricing strategies, reducing operational costs by 10%."
+        ]
+      },
+      {
+        "title": "Freight Pricing Analyst",
+        "company": "Global Transport Corp.",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Analyzed historical data to forecast shipping trends, increasing accuracy by 20%.",
+          "Collaborated with sales teams to optimize pricing strategies based on market demands.",
+          "Reduced pricing decision times by 30% through automation of data analysis processes."
+        ]
+      },
+      {
+        "title": "Junior Freight Pricing Analyst",
+        "company": "Freight Networks Ltd.",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in developing pricing models that enhanced competitive positioning.",
+          "Conducted market research that supported strategic pricing decisions.",
+          "Reduced data processing time by 25% by implementing advanced excel formulas."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Logistics and Supply Chain Management",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Freight Cost Optimization Project",
+        "description": "Led a project to optimize freight costs using predictive analytics and dynamic pricing models, achieving a 12% reduction in costs.",
+        "technologies": [
+          "Python",
+          "Excel",
+          "Tableau"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "Quality Assurance Manager Resume Template",
+    "description": "A professional resume template tailored for Quality Assurance Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Quality Assurance Manager",
+    "slug": "quality-assurance-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "QA",
+      "Quality Assurance",
+      "Manager",
+      "Quality Control"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Quality Assurance Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in ensuring product and service quality standards. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL"
+      ],
+      "frameworks": [
+        "Selenium",
+        "JUnit"
+      ],
+      "tools": [
+        "JIRA",
+        "HP ALM",
+        "TestRail"
+      ],
+      "concepts": [
+        "Agile Methodologies",
+        "Risk Management",
+        "Continuous Improvement"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Quality Assurance Manager",
+        "company": "Tech Solutions Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the QA team to achieve a 30% reduction in defect rates by optimizing test procedures and implementing automated testing strategies.",
+          "Spearheaded a cross-departmental project to integrate quality metrics with project management tools, increasing transparency and accountability.",
+          "Developed and conducted training programs for teams, contributing to a 20% increase in quality compliance scores."
+        ]
+      },
+      {
+        "title": "Senior Quality Assurance Engineer",
+        "company": "InnovateTech Corp.",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed a team of 5 QA engineers to successfully launch high-profile projects on time, maintaining quality standards and exceeding client expectations.",
+          "Introduced new testing frameworks that reduced testing cycle times by 25%, enhancing team productivity.",
+          "Collaborated with product managers to streamline defect reporting processes, resulting in a 15% faster resolution rate."
+        ]
+      },
+      {
+        "title": "Quality Assurance Analyst",
+        "company": "NextGen Software",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Executed test plans and scripts for multiple projects, contributing to consistently meeting project deadlines.",
+          "Recognized for improving test coverage by 40% by identifying and addressing gaps in testing processes.",
+          "Participated in the development of user acceptance testing standards, improving client satisfaction by 10%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Automated Testing Framework Enhancement",
+        "description": "Enhanced the existing automated testing framework to improve efficiency and accuracy of test outcomes.",
+        "technologies": [
+          "Selenium",
+          "Python",
+          "Jenkins"
+        ]
+      }
+    ]
+  }
+}

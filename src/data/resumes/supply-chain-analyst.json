@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Supply Chain Analyst Resume Template",
+    "description": "A professional resume template tailored for Supply Chain Analyst positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Supply Chain Analyst",
+    "slug": "supply-chain-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "supply chain",
+      "process optimization",
+      "cost savings"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Supply Chain Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in optimizing supply chain processes for efficiency and cost savings. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "Python"
+      ],
+      "frameworks": [],
+      "tools": [
+        "SAP ERP",
+        "Oracle SCM",
+        "Tableau"
+      ],
+      "concepts": [
+        "Inventory Management",
+        "Demand Forecasting",
+        "Logistics Optimization"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Supply Chain Analyst",
+        "company": "OptiChain Logistics",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 analysts to streamline logistics operations, resulting in a 15% reduction in transportation costs.",
+          "Developed a demand forecasting model that improved inventory turnover by 10%.",
+          "Implemented a supplier scorecard system that increased supplier performance by 20%."
+        ]
+      },
+      {
+        "title": "Supply Chain Analyst",
+        "company": "Global Goods Inc.",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Optimized procurement strategies that saved the company $200K annually.",
+          "Analyzed supply chain data to identify inefficiencies, leading to a 12% improvement in order fulfillment speed.",
+          "Coordinated cross-functional teams to successfully launch a new distribution center, enhancing regional delivery capabilities."
+        ]
+      },
+      {
+        "title": "Junior Supply Chain Analyst",
+        "company": "LogiDepot Solutions",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of a real-time tracking system that improved shipment visibility by 25%.",
+          "Collaborated in a team to reduce warehouse inventory discrepancies by 15%.",
+          "Contributed to the implementation of a new ERP system, facilitating smoother supply chain operations."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Illinois at Urbana-Champaign",
+      "location": "Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Supply Chain Optimization Project",
+        "description": "Developed an end-to-end supply chain strategy to enhance efficiency and reduce costs for a leading retailer. Employed advanced analytics and machine learning models to predict demand and optimize inventory levels.",
+        "technologies": [
+          "Python",
+          "R",
+          "Tableau"
+        ]
+      }
+    ]
+  }
+}

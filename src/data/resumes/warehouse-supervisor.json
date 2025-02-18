@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Warehouse Supervisor Resume Template",
+    "description": "A professional resume template tailored for Warehouse Supervisor positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Warehouse Supervisor",
+    "slug": "warehouse-supervisor",
+    "experience_level": "mid-level",
+    "keywords": [
+      "warehouse management",
+      "inventory control",
+      "team leadership",
+      "logistics",
+      "supply chain"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Warehouse Supervisor",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in managing warehouse operations and inventory control. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Warehouse Management Systems (WMS)",
+        "ERP Software",
+        "Microsoft Excel"
+      ],
+      "concepts": [
+        "Inventory Management",
+        "Shipping & Receiving",
+        "Team Leadership",
+        "Process Optimization"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Warehouse Supervisor",
+        "company": "LogiTech Solutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 15 warehouse associates to improve operational efficiency by 20% through process optimization and team training.",
+          "Implemented a new inventory tracking system that reduced order errors by 30% and improved stock accuracy.",
+          "Collaborated with the logistics team to reduce delivery time by 15% through strategic route planning and scheduling."
+        ]
+      },
+      {
+        "title": "Warehouse Coordinator",
+        "company": "GreenWare Distribution",
+        "location": "Denver, CO",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated daily warehouse operations, resulting in a 25% increase in productivity through improved workflow management.",
+          "Streamlined receiving processes and reduced processing time by 18% with enhanced barcode scanning procedures.",
+          "Played a key role in implementing a new ERP system, resulting in improved inventory management and real-time tracking capabilities."
+        ]
+      },
+      {
+        "title": "Warehouse Associate",
+        "company": "SupplyLink Corporation",
+        "location": "Phoenix, AZ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Processed and organized incoming shipments, achieving 100% accuracy in stock placement and documentation.",
+          "Developed a labeling system that reduced pick-and-pack time by 10%, contributing to faster order fulfillment.",
+          "Assisted in annual inventory audits, helping to identify discrepancies which led to a 15% improvement in record accuracy."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "Arizona State University",
+      "location": "Tempe, AZ",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Warehouse Efficiency Improvement Initiative",
+        "description": "Led a project aimed at improving warehouse operational efficiency by utilizing lean management techniques and advanced WMS integration.",
+        "technologies": [
+          "Lean Management",
+          "Advanced WMS",
+          "Process Mapping"
+        ]
+      }
+    ]
+  }
+}

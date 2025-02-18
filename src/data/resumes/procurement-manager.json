@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Procurement Manager Resume Template",
+    "description": "A professional resume template tailored for Procurement Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Procurement Manager",
+    "slug": "procurement-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Procurement",
+      "Supplier Management",
+      "Negotiation",
+      "Contract Management",
+      "Cost Reduction"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Procurement Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven Procurement Manager with over 5 years of experience in managing purchasing and supplier relationships. Proven track record of delivering high-quality solutions and optimizing performance through strategic sourcing and cost-saving initiatives.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP Ariba",
+        "Oracle Procurement",
+        "Microsoft Excel"
+      ],
+      "concepts": [
+        "Negotiation",
+        "Contract Management",
+        "Supplier Relationship Management",
+        "Cost Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Procurement Manager",
+        "company": "Tech Innovations Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 5 procurement specialists in managing $15M annual spend, achieving a 10% cost reduction across key categories.",
+          "Successfully renegotiated contracts with top suppliers, resulting in $1.5M in annual savings.",
+          "Implemented a new vendor management system, increasing efficiency and reducing processing time by 25%."
+        ]
+      },
+      {
+        "title": "Senior Procurement Specialist",
+        "company": "Global Solutions Corp.",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed strategic sourcing initiatives for IT and office equipment, saving the company over $500K annually.",
+          "Managed over 50 supplier relationships, ensuring compliance with company standards and SLA agreements.",
+          "Received 'Employee of the Year' award for exceptional performance and contribution to team goals."
+        ]
+      },
+      {
+        "title": "Procurement Analyst",
+        "company": "Apex Supply Co.",
+        "location": "Portland, OR",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Analyzed market trends and advised on procurement strategies leading to a 15% improvement in cost efficiency.",
+          "Assisted in the development and implementation of procurement policies and procedures across multiple departments.",
+          "Collaborated with cross-functional teams to identify sourcing needs and optimize vendor selection process."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Washington",
+      "location": "Seattle, WA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Supplier Diversity Program",
+        "description": "Led the initiative to diversify the supplier base by incorporating minority-owned and eco-friendly vendors, resulting in recognition from industry peers.",
+        "technologies": [
+          "SAP Ariba",
+          "Project Management Software"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Carrier Sales Representative Resume Template",
+    "description": "A professional resume template tailored for Carrier Sales Representative positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Carrier Sales Representative",
+    "slug": "carrier-sales-representative",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Carrier Sales",
+      "Logistics",
+      "Relationship Management",
+      "Capacity Planning"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Carrier Sales Representative",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in developing relationships with carriers and securing capacity. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Transportation Management Systems",
+        "CRM Software"
+      ],
+      "concepts": [
+        "Carrier Negotiation",
+        "Logistics Operations",
+        "Capacity Planning"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Carrier Sales Manager",
+        "company": "LogiTrans Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased carrier network by 30%, enhancing route efficiency across key lanes.",
+          "Developed strategic partnerships leading to a 25% reduction in transportation costs.",
+          "Implemented a new carrier onboarding process, cutting onboarding time by 40%."
+        ]
+      },
+      {
+        "title": "Senior Carrier Sales Representative",
+        "company": "FreightLink Inc.",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed top-tier client accounts, driving annual sales growth by 15%.",
+          "Negotiated long-term contracts, resulting in 20% cost savings for clients.",
+          "Led a team project to improve service levels, achieving a 98% on-time delivery rate."
+        ]
+      },
+      {
+        "title": "Carrier Sales Associate",
+        "company": "TransWay Logistics",
+        "location": "Atlanta, GA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in expanding carrier portfolio by 50%, significantly increasing capacity.",
+          "Contributed to a 12% increase in monthly revenue through improved carrier relations.",
+          "Streamlined communication processes, enhancing coordination efficiency by 25%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Transportation Cost Analysis Tool",
+        "description": "Developed an internal tool to analyze and optimize transportation costs across various shipping lanes, resulting in a 15% cost reduction.",
+        "technologies": [
+          "Excel",
+          "SQL",
+          "Microsoft Power BI"
+        ]
+      }
+    ]
+  }
+}

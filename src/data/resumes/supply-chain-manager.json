@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Supply Chain Manager Resume Template",
+    "description": "A professional resume template tailored for Supply Chain Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Supply Chain Manager",
+    "slug": "supply-chain-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "supply chain",
+      "logistics",
+      "inventory management",
+      "process optimization"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Supply Chain Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in optimizing supply chain processes and logistics. Proven track record of delivering high-quality solutions and enhancing operational efficiency.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP",
+        "Oracle SCM",
+        "Microsoft Excel",
+        "Tableau"
+      ],
+      "concepts": [
+        "Inventory Management",
+        "Process Optimization",
+        "Vendor Management",
+        "Forecasting and Demand Planning"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Supply Chain Manager",
+        "company": "LogiTech Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a cross-functional team to optimize supply chain operations, reducing costs by 15% through improved inventory management.",
+          "Implemented a new logistics strategy, decreasing delivery time by 20% and increasing customer satisfaction scores.",
+          "Developed key performance indicators (KPIs) to measure and track improvements, resulting in a 10% increase in operational efficiency."
+        ]
+      },
+      {
+        "title": "Supply Chain Analyst",
+        "company": "Global Warehouse Inc.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Analyzed data to forecast inventory needs, reducing stockouts by 30% and oversupply by 25%.",
+          "Collaborated with vendors to negotiate contracts, achieving a 10% reduction in procurement costs.",
+          "Improved data collection processes to enhance forecasting accuracy and reduce errors by 40%."
+        ]
+      },
+      {
+        "title": "Junior Supply Chain Coordinator",
+        "company": "Distribution Masters",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of a new inventory tracking system, improving inventory accuracy by 15%.",
+          "Coordinated logistics for inbound and outbound shipments, achieving a 95% on-time delivery rate.",
+          "Supported senior managers in process improvement initiatives, contributing to a 5% increase in overall productivity."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Washington",
+      "location": "Seattle, WA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Supply Chain Optimization Project",
+        "description": "Led a project to streamline the supply chain process by integrating a new software system, resulting in a 25% reduction in processing time.",
+        "technologies": [
+          "SAP",
+          "Tableau",
+          "Microsoft Excel"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "3PL Account Manager Resume Template",
+    "description": "A professional resume template tailored for 3PL Account Manager positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "3PL Account Manager",
+    "slug": "3pl-account-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "3PL",
+      "Account Management",
+      "Logistics",
+      "Client Relationship",
+      "Supply Chain"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "3PL Account Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in managing client relationships and logistics accounts. Proven track record of delivering high-quality solutions and optimizing performance to enhance client satisfaction and business success.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Customer Relationship Management (CRM)",
+        "Warehouse Management Systems (WMS)",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Logistics Management",
+        "Account Management",
+        "Client Relationship Building",
+        "Supply Chain Optimization"
+      ]
+    },
+    "experience": [
+      {
+        "title": "3PL Account Manager",
+        "company": "Cargo Solutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Managed accounts for top-tier clients leading to a 20% increase in client retention and satisfaction over two years.",
+          "Implemented new strategic initiatives that improved logistics efficiency by 15%, reducing delivery times and costs.",
+          "Led a team of 5 account executives, providing training and mentorship to ensure consistent performance improvements."
+        ]
+      },
+      {
+        "title": "Logistics Account Specialist",
+        "company": "Global Freight Co.",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and maintained relationships with 15 key clients, achieving an annual revenue increase of 12%.",
+          "Collaborated with cross-functional teams to streamline logistics processes, enhancing the delivery network's reliability.",
+          "Received Employee of the Year award in 2020 for exceptional client management and operational success."
+        ]
+      },
+      {
+        "title": "Junior Logistics Coordinator",
+        "company": "LogiTech Services",
+        "location": "Atlanta, GA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in coordinating shipments and resolving logistics issues, contributing to a 10% reduction in shipping delays.",
+          "Supported senior managers in executing daily operational tasks, gaining hands-on experience in supply chain management.",
+          "Earned recognition for proactive problem-solving abilities and dependable support to the logistics team."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "State University",
+      "location": "City, State",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Supply Chain Optimization Project",
+        "description": "Led a cross-departmental team in a project aimed at optimizing the supply chain processes, resulting in reduced operational costs by 10% and improved client service levels.",
+        "technologies": [
+          "Project Management Software",
+          "Data Analysis Tools",
+          "CRM"
+        ]
+      }
+    ]
+  }
+}

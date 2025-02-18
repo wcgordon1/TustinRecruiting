@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Logistics Coordinator Resume Template",
+    "description": "A professional resume template tailored for Logistics Coordinator positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Logistics Coordinator",
+    "slug": "logistics-coordinator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "logistics",
+      "supply chain",
+      "transportation management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Logistics Coordinator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing transportation and shipment schedules. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP",
+        "Oracle Transportation Management",
+        "Advanced Excel"
+      ],
+      "concepts": [
+        "Supply Chain Optimization",
+        "Carrier Negotiations",
+        "Inventory Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Logistics Coordinator",
+        "company": "Global Supply Chain Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully reduced transportation costs by 15% through strategic carrier negotiations and route optimization.",
+          "Implemented a real-time tracking system that improved customer satisfaction scores by 20%.",
+          "Led a team of five in coordinating logistics activities for a client acquisition project, leading to a 30% increase in order fulfillment efficiency."
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "company": "National Freight Logistics",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated transportation schedules and improved on-time delivery rates by 25% through enhanced planning and execution.",
+          "Streamlined inventory management processes, reducing warehouse costs by 10% annually.",
+          "Played a key role in launching a new shipment tracking platform, enhancing visibility and accuracy in shipment status reports."
+        ]
+      },
+      {
+        "title": "Junior Logistics Associate",
+        "company": "Metro Distribution Services",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the scheduling and dispatching of transportation services, contributing to a 15% increase in delivery reliability.",
+          "Supported senior coordinators with logistical planning, resulting in a 10% reduction in transit times.",
+          "Managed daily shipping records, ensuring accuracy and improving data integrity by 40%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Supply Chain Digital Transformation",
+        "description": "Led a cross-functional team to implement a digital logistics platform, enhancing operational efficiency and reducing manual tasks.",
+        "technologies": [
+          "SAP",
+          "Oracle",
+          "RFID"
+        ]
+      }
+    ]
+  }
+}

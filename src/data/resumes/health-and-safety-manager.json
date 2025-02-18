@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Health and Safety Manager Resume Template",
+    "description": "A professional resume template tailored for Health and Safety Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Health and Safety Manager",
+    "slug": "health-and-safety-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "health and safety",
+      "workplace safety",
+      "risk management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Health and Safety Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 5+ years of experience in Implementing workplace safety protocols and policies. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "MS Office",
+        "SAP EHS",
+        "OSHA"
+      ],
+      "concepts": [
+        "Risk Assessments",
+        "Safety Audits",
+        "Emergency Response Planning"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Health and Safety Manager",
+        "company": "Industrial Safety Solutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Implemented new safety protocols resulting in a 25% reduction in workplace accidents within the first year.",
+          "Conducted over 50 safety audits contributing to enhanced regulatory compliance and reduced incident rate.",
+          "Developed training programs for 200+ employees to improve emergency preparedness."
+        ]
+      },
+      {
+        "title": "Health and Safety Coordinator",
+        "company": "GreenTech Manufacturing",
+        "location": "Springfield, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated and managed safety programs that increased staff safety awareness by 40%.",
+          "Spearheaded a safety inspection initiative leading to a 20% improvement in hazard identification and control.",
+          "Collaborated with management to update the organization's emergency response plan, gaining positive feedback in subsequent drills."
+        ]
+      },
+      {
+        "title": "Junior Health and Safety Officer",
+        "company": "ClearPath Logistics",
+        "location": "Peoria, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in conducting risk assessments, which reduced potential hazards by 15%.",
+          "Contributed to the implementation of new safety measures, providing direct support to the senior safety team.",
+          "Participated in incident investigations, helping to develop corrective action plans."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Occupational Health and Safety",
+      "school": "University of Illinois",
+      "location": "Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Emergency Preparedness Enhancement",
+        "description": "Led a project to overhauled the company's emergency preparedness strategy, improving response times by 30% during drills.",
+        "technologies": [
+          "MS Visio",
+          "Tableau",
+          "SharePoint"
+        ]
+      }
+    ]
+  }
+}

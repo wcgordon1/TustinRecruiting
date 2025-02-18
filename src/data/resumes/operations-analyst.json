@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Operations Analyst Resume Template",
+    "description": "A professional resume template tailored for Operations Analyst positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Operations Analyst",
+    "slug": "operations-analyst",
+    "experience_level": "entry-level",
+    "keywords": [
+      "data analysis",
+      "process optimization",
+      "performance enhancement",
+      "operational efficiency",
+      "analytical skills"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Operations Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in analyzing data to improve operational processes. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "SQL"
+      ],
+      "frameworks": [
+        "Pandas",
+        "Numpy"
+      ],
+      "tools": [
+        "Tableau",
+        "Excel",
+        "PowerBI"
+      ],
+      "concepts": [
+        "Data Analysis",
+        "Process Optimization",
+        "KPI Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Operations Analyst",
+        "company": "Innovative Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Implemented a data-driven approach to monitor operations efficiency, resulting in a 15% increase in output within the first six months.",
+          "Collaborated with cross-functional teams to redesign operational processes, reducing cycle time by 20%.",
+          "Developed and maintained real-time dashboards in Tableau to better visualize team performance metrics."
+        ]
+      },
+      {
+        "title": "Junior Operations Analyst",
+        "company": "Tech Dynamics Corp.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted in-depth data analysis using SQL, identifying key trends that led to cost savings of $50,000 annually.",
+          "Supported senior analysts in optimizing supply chain logistics, improving delivery times by 10%.",
+          "Created automated reporting systems to provide weekly updates on performance KPIs to management."
+        ]
+      },
+      {
+        "title": "Operations Assistant",
+        "company": "Proactive Industries",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in data collection and entry for the operations department, contributing to a 25% reduction in processing errors.",
+          "Played a key role in the development of a new inventory management system that reduced holding costs by 8%.",
+          "Facilitated team meetings to brainstorm solutions for process improvements, leading to enhanced team productivity."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Operations Management",
+      "school": "University of Chicago",
+      "location": "Chicago, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Inventory Optimization Tool",
+        "description": "Developed a tool to optimize inventory levels using historical sales data and predictive analytics, leading to reduced holding costs and improved stock availability.",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Excel"
+        ]
+      }
+    ]
+  }
+}

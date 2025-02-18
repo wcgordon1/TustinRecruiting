@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "title": "Production Supervisor Resume Template",
+    "description": "A professional resume template tailored for Production Supervisor positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Production Supervisor",
+    "slug": "production-supervisor",
+    "experience_level": "mid-level",
+    "keywords": [
+      "production management",
+      "process optimization"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Production Supervisor",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing production processes and workforce. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "MS Office Suite",
+        "ERP Systems",
+        "Lean Manufacturing"
+      ],
+      "concepts": [
+        "Team Leadership",
+        "Quality Assurance",
+        "Supply Chain Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Production Supervisor",
+        "company": "EcoTech Manufacturing",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 20 in optimized production scheduling, increasing efficiency by 15%.",
+          "Implemented a new quality control initiative, reducing defect rates by 10%.",
+          "Facilitated cross-departmental communication, enhancing workflow and reducing downtime."
+        ]
+      },
+      {
+        "title": "Assistant Production Supervisor",
+        "company": "GreenTech Solutions",
+        "location": "Houston, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in managing daily operations across two production lines, ensuring adherence to budget and deadlines.",
+          "Resolved technical issues promptly, reducing machine downtime by 20%.",
+          "Trained new employees in safety and operational protocols, improving overall team performance."
+        ]
+      },
+      {
+        "title": "Junior Production Coordinator",
+        "company": "Future Fabrics Inc.",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior staff in daily operations, contributing to a 10% increase in production output.",
+          "Developed a tracking system for raw materials, improving inventory accuracy by 25%.",
+          "Collaborated with cross-functional teams to streamline production processes, reducing waste by 5%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Industrial Engineering",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Lean Manufacturing Initiative",
+        "description": "Led a project to implement lean manufacturing principles, resulting in a 20% reduction in production costs.",
+        "technologies": [
+          "Lean Tools",
+          "Process Mapping",
+          "Quality Circles"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Intermodal Logistics Coordinator Resume Template",
+    "description": "A professional resume template tailored for Intermodal Logistics Coordinator positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Intermodal Logistics Coordinator",
+    "slug": "intermodal-logistics-coordinator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "multi-modal transport",
+      "logistics coordination",
+      "supply chain management",
+      "rail, truck, ocean transport"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Intermodal Logistics Coordinator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Managing multi-modal transport solutions including rail, truck, and ocean. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "ERP Systems",
+        "TMS Software",
+        "MS Office Suite"
+      ],
+      "concepts": [
+        "Supply Chain Optimization",
+        "Vendor Negotiations",
+        "Cost Reduction Strategies",
+        "Risk Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Intermodal Logistics Coordinator",
+        "company": "Global Transport Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully coordinated 200+ intermodal shipments monthly, optimizing schedules to reduce transit time by 15%.",
+          "Implemented a new tracking system that improved visibility across the network, achieving a 25% reduction in delays.",
+          "Negotiated contracts with key suppliers, resulting in a cost savings of $150,000 annually."
+        ]
+      },
+      {
+        "title": "Intermodal Logistics Coordinator",
+        "company": "LogiLink Inc.",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed end-to-end logistics for client accounts, improving delivery accuracy from 92% to 98%.",
+          "Collaborated with cross-functional teams to enhance supply chain processes, increasing efficiency by 20%.",
+          "Developed and maintained strong vendor relationships to ensure on-time delivery and service excellence."
+        ]
+      },
+      {
+        "title": "Junior Logistics Coordinator",
+        "company": "Trans-Connect Services",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the management of domestic and international shipments, contributing to a 30% increase in on-time performance.",
+          "Streamlined documentation processes, which reduced preparation time by 10%.",
+          "Provided exceptional customer service, maintaining a client satisfaction rate of 95% or higher."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Logistics and Supply Chain Management",
+      "school": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Intermodal Transport Optimization Project",
+        "description": "Led a team in the development of a predictive analytics tool to optimize intermodal route selection and improve transport efficiency.",
+        "technologies": [
+          "Python",
+          "Tableau",
+          "SQL"
+        ]
+      }
+    ]
+  }
+}

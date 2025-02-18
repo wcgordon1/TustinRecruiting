@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "title": "LTL (Less-than-Truckload) Specialist Resume Template",
+    "description": "A professional resume template tailored for LTL (Less-than-Truckload) Specialist positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "LTL (Less-than-Truckload) Specialist",
+    "slug": "ltl-(less-than-truckload)-specialist",
+    "experience_level": "mid-level",
+    "keywords": [
+      "LTL shipping",
+      "carrier negotiations"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "LTL (Less-than-Truckload) Specialist",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Managing LTL freight shipments and carrier negotiations. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "TMS (Transportation Management System)",
+        "Microsoft Excel",
+        "Power BI"
+      ],
+      "concepts": [
+        "Carrier Negotiations",
+        "Shipment Optimization",
+        "Supply Chain Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "LTL Specialist",
+        "company": "FreightHub LLC",
+        "location": "Atlanta, GA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Managed an average of 150 LTL shipments monthly, achieving a 98% on-time delivery rate.",
+          "Implemented a strategic carrier bidding process, reducing transportation costs by 12%.",
+          "Developed relationships with key LTL carriers, leading to a 15% improvement in service levels."
+        ]
+      },
+      {
+        "title": "LTL Coordinator",
+        "company": "LogiTrans Solutions",
+        "location": "Dallas, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Streamlined LTL shipment tracking through automation, enhancing visibility and reducing manual errors by 30%.",
+          "Assisted in renegotiating carrier contracts, which saved the company over $50,000 annually.",
+          "Improved customer satisfaction scores from 85% to 92% through proactive communication and problem-solving."
+        ]
+      },
+      {
+        "title": "Logistics Associate",
+        "company": "QuickMove Logistics",
+        "location": "Phoenix, AZ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Coordinated over 100 LTL shipments monthly, ensuring compliance with customer and carrier requirements.",
+          "Assisted in the implementation of a new TMS system, improving routing efficiency by 20%.",
+          "Developed an internal training program for new logistics staff, reducing onboarding time by 25%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "Arizona State University",
+      "location": "Tempe, AZ",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "LTL Optimization Project",
+        "description": "Led a cross-functional team to develop and implement new strategies for optimizing LTL shipments, resulting in a 20% cost reduction.",
+        "technologies": [
+          "TMS",
+          "Excel",
+          "Data Analysis"
+        ]
+      }
+    ]
+  }
+}

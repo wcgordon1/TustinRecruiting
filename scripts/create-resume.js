@@ -13,184 +13,364 @@ dotenv.config({ path: join(__dirname, 'config', '.env.local') });
 
 const RESUMES_TO_BUILD = [
     {
-        "role": "Construction Manager",
-        "category": "Construction",
+        "role": "Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Overseeing day-to-day business operations and efficiency"
+      },
+      {
+        "role": "Director of Operations",
+        "category": "Operations",
         "level": "senior",
-        "focus": "Overseeing construction projects from planning to completion"
+        "focus": "Developing and implementing operational strategies"
       },
       {
-        "role": "Project Engineer",
-        "category": "Construction",
+        "role": "Chief Operating Officer (COO)",
+        "category": "Operations",
+        "level": "executive",
+        "focus": "Managing overall company operations and performance"
+      },
+      {
+        "role": "Supply Chain Manager",
+        "category": "Operations",
         "level": "mid-level",
-        "focus": "Managing technical aspects of construction projects"
+        "focus": "Optimizing supply chain processes and logistics"
       },
       {
-        "role": "Civil Engineer",
-        "category": "Construction",
+        "role": "Logistics Coordinator",
+        "category": "Operations",
         "level": "mid-level",
-        "focus": "Designing and overseeing infrastructure projects"
+        "focus": "Managing transportation and inventory flow"
       },
       {
-        "role": "Structural Engineer",
-        "category": "Construction",
+        "role": "Warehouse Manager",
+        "category": "Operations",
         "level": "mid-level",
-        "focus": "Ensuring structural integrity of buildings and bridges"
+        "focus": "Supervising warehouse operations and inventory management"
       },
       {
-        "role": "Mechanical Engineer",
-        "category": "Construction",
+        "role": "Fleet Manager",
+        "category": "Operations",
         "level": "mid-level",
-        "focus": "Designing mechanical systems for buildings"
+        "focus": "Overseeing company vehicle maintenance and logistics"
       },
       {
-        "role": "Electrical Engineer",
-        "category": "Construction",
+        "role": "Inventory Control Specialist",
+        "category": "Operations",
+        "level": "entry-level",
+        "focus": "Tracking and managing inventory levels"
+      },
+      {
+        "role": "Facilities Manager",
+        "category": "Operations",
         "level": "mid-level",
-        "focus": "Designing and maintaining electrical systems in construction"
+        "focus": "Maintaining and overseeing physical facilities and assets"
       },
       {
-        "role": "General Contractor",
-        "category": "Construction",
+        "role": "Procurement Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Managing purchasing and supplier relationships"
+      },
+      {
+        "role": "Quality Assurance Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Ensuring product and service quality standards"
+      },
+      {
+        "role": "Compliance Officer",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Ensuring operational adherence to legal and regulatory requirements"
+      },
+      {
+        "role": "Process Improvement Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Optimizing workflows and increasing efficiency"
+      },
+      {
+        "role": "Operations Analyst",
+        "category": "Operations",
+        "level": "entry-level",
+        "focus": "Analyzing data to improve operational processes"
+      },
+      {
+        "role": "Business Continuity Manager",
+        "category": "Operations",
         "level": "senior",
-        "focus": "Managing and coordinating construction projects"
+        "focus": "Developing plans to maintain operations during disruptions"
       },
       {
-        "role": "Site Superintendent",
-        "category": "Construction",
+        "role": "Production Supervisor",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Overseeing production processes and workforce"
+      },
+      {
+        "role": "Customer Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Improving customer service and support processes"
+      },
+      {
+        "role": "Workforce Planning Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Managing staffing levels and workforce efficiency"
+      },
+      {
+        "role": "Service Delivery Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Ensuring efficient delivery of services to customers"
+      },
+      {
+        "role": "Event Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Coordinating logistics and execution of events"
+      },
+      {
+        "role": "Health and Safety Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Implementing workplace safety protocols and policies"
+      },
+      {
+        "role": "Security Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Overseeing security measures and risk management"
+      },
+      {
+        "role": "Production Planner",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Scheduling and coordinating manufacturing processes"
+      },
+      {
+        "role": "Distribution Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Managing product distribution and logistics"
+      },
+      {
+        "role": "Energy Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Overseeing energy efficiency and sustainability initiatives"
+      },
+      {
+        "role": "Transportation Coordinator",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Managing transportation logistics and fleet operations"
+      },
+      {
+        "role": "Restaurant Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Overseeing daily operations of a restaurant or food service"
+      },
+      {
+        "role": "Retail Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Managing store operations and sales efficiency"
+      },
+      {
+        "role": "E-commerce Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Optimizing online store logistics and fulfillment processes"
+      },
+      {
+        "role": "Field Operations Manager",
+        "category": "Operations",
+        "level": "mid-level",
+        "focus": "Managing on-site field operations and logistics"
+      },
+      {
+        "role": "3PL Account Manager",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Managing client relationships and logistics accounts"
+      },
+      {
+        "role": "Freight Forwarding Specialist",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Coordinating international and domestic freight shipments"
+      },
+      {
+        "role": "Logistics Coordinator",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Managing transportation and shipment schedules"
+      },
+      {
+        "role": "Freight Broker",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Negotiating and coordinating freight transportation for clients"
+      },
+      {
+        "role": "Carrier Sales Representative",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Developing relationships with carriers and securing capacity"
+      },
+      {
+        "role": "Customs Compliance Specialist",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Ensuring shipments comply with customs regulations"
+      },
+      {
+        "role": "Import/Export Coordinator",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Managing international trade logistics and documentation"
+      },
+      {
+        "role": "3PL Sales Executive",
+        "category": "3PL",
         "level": "senior",
-        "focus": "Overseeing daily construction site operations"
+        "focus": "Selling logistics and freight services to businesses"
       },
       {
-        "role": "Estimator",
-        "category": "Construction",
+        "role": "Operations Manager - 3PL",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Calculating costs and budgets for construction projects"
+        "focus": "Overseeing daily logistics operations and supply chain efficiency"
       },
       {
-        "role": "Surveyor",
-        "category": "Construction",
+        "role": "Warehouse Supervisor",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Measuring land and defining construction boundaries"
+        "focus": "Managing warehouse operations and inventory control"
       },
       {
-        "role": "Electrician",
-        "category": "Construction",
+        "role": "Freight Pricing Analyst",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Installing and repairing electrical systems in buildings"
+        "focus": "Analyzing and setting freight pricing strategies"
       },
       {
-        "role": "Journeyman Electrician",
-        "category": "Construction",
+        "role": "Supply Chain Analyst",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Performing advanced electrical installations and repairs"
+        "focus": "Optimizing supply chain processes for efficiency and cost savings"
       },
       {
-        "role": "Master Electrician",
-        "category": "Construction",
+        "role": "Logistics Sales Manager",
+        "category": "3PL",
         "level": "senior",
-        "focus": "Leading electrical projects and ensuring code compliance"
+        "focus": "Developing sales strategies for logistics services"
       },
       {
-        "role": "Plumber",
-        "category": "Construction",
+        "role": "Transportation Manager",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Installing and maintaining plumbing systems"
+        "focus": "Coordinating and managing transportation networks"
       },
       {
-        "role": "HVAC Technician",
-        "category": "Construction",
+        "role": "LTL (Less-than-Truckload) Specialist",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Installing and servicing heating and cooling systems"
+        "focus": "Managing LTL freight shipments and carrier negotiations"
       },
       {
-        "role": "Welder",
-        "category": "Construction",
+        "role": "FTL (Full-Truckload) Coordinator",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Joining metal parts in construction projects"
+        "focus": "Managing full-truckload shipments and logistics planning"
       },
       {
-        "role": "Crane Operator",
-        "category": "Construction",
+        "role": "Reverse Logistics Coordinator",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Operating heavy cranes for lifting materials"
+        "focus": "Managing returns and product lifecycle logistics"
       },
       {
-        "role": "Heavy Equipment Operator",
-        "category": "Construction",
+        "role": "Cold Chain Logistics Manager",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Operating machinery like bulldozers and excavators"
+        "focus": "Overseeing temperature-sensitive freight logistics"
       },
       {
-        "role": "Mason",
-        "category": "Construction",
+        "role": "E-commerce Fulfillment Manager",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Building structures with brick, stone, and concrete"
+        "focus": "Managing warehousing and shipping for e-commerce clients"
       },
       {
-        "role": "Carpenter",
-        "category": "Construction",
+        "role": "Distribution Center Manager",
+        "category": "3PL",
+        "level": "senior",
+        "focus": "Overseeing operations at a 3PL distribution facility"
+      },
+      {
+        "role": "Last Mile Delivery Manager",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Constructing and repairing wooden structures"
+        "focus": "Optimizing final-stage logistics for fast delivery"
       },
       {
-        "role": "Roofer",
-        "category": "Construction",
+        "role": "Freight Claims Specialist",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Installing and repairing roofs on buildings"
+        "focus": "Handling lost, damaged, or delayed shipment claims"
       },
       {
-        "role": "Drywall Installer",
-        "category": "Construction",
-        "level": "entry-level",
-        "focus": "Installing drywall panels in buildings"
-      },
-      {
-        "role": "Concrete Finisher",
-        "category": "Construction",
+        "role": "Drayage Coordinator",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Smoothing and finishing concrete surfaces"
+        "focus": "Managing short-distance port and rail transportation logistics"
       },
       {
-        "role": "Demolition Worker",
-        "category": "Construction",
-        "level": "entry-level",
-        "focus": "Safely tearing down buildings and structures"
-      },
-      {
-        "role": "Glazier",
-        "category": "Construction",
+        "role": "Intermodal Logistics Coordinator",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Installing and repairing glass in buildings"
+        "focus": "Managing multi-modal transport solutions including rail, truck, and ocean"
       },
       {
-        "role": "Steel Erector",
-        "category": "Construction",
+        "role": "Freight Audit & Payment Analyst",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Assembling steel structures and frameworks"
+        "focus": "Ensuring accuracy in freight invoicing and cost management"
       },
       {
-        "role": "Construction Laborer",
-        "category": "Construction",
-        "level": "entry-level",
-        "focus": "Performing general tasks on construction sites"
-      },
-      {
-        "role": "Landscaper",
-        "category": "Construction",
-        "level": "entry-level",
-        "focus": "Designing and maintaining outdoor spaces"
-      },
-      {
-        "role": "Scaffolder",
-        "category": "Construction",
+        "role": "Procurement Manager - Logistics",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Erecting and dismantling scaffolding for workers"
+        "focus": "Sourcing transportation providers and negotiating contracts"
       },
       {
-        "role": "Tiler",
-        "category": "Construction",
+        "role": "Fleet Coordinator",
+        "category": "3PL",
         "level": "mid-level",
-        "focus": "Installing ceramic and stone tiles on surfaces"
+        "focus": "Managing fleet operations and vehicle maintenance"
+      },
+      {
+        "role": "Customer Success Manager - 3PL",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Ensuring logistics clients receive high-quality service"
+      },
+      {
+        "role": "International Freight Coordinator",
+        "category": "3PL",
+        "level": "mid-level",
+        "focus": "Handling global freight movement and customs compliance"
+      },
+      {
+        "role": "3PL Implementation Manager",
+        "category": "3PL",
+        "level": "senior",
+        "focus": "Onboarding new clients and integrating logistics solutions"
       }
 ];
 

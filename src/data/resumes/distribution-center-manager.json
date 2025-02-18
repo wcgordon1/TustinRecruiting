@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Distribution Center Manager Resume Template",
+    "description": "A professional resume template tailored for Distribution Center Manager positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Distribution Center Manager",
+    "slug": "distribution-center-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "logistics",
+      "3PL",
+      "supply chain",
+      "distribution",
+      "management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Distribution Center Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in overseeing operations at a 3PL distribution facility. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "WMS Systems",
+        "ERP Software",
+        "MS Excel"
+      ],
+      "concepts": [
+        "Inventory Management",
+        "Process Optimization",
+        "Team Leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Distribution Center Manager",
+        "company": "LogiSolutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 50+ in a high-volume 3PL distribution center handling over 1 million units monthly.",
+          "Implemented new inventory management system that reduced picking errors by 25% within the first year.",
+          "Increased facility throughput by 15% through process improvement initiatives and workflow optimization."
+        ]
+      },
+      {
+        "title": "Assistant Distribution Manager",
+        "company": "RapidFulfill LLC",
+        "location": "Atlanta, GA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in daily operations of a 500,000 sq ft facility, managing a team of 30 personnel.",
+          "Streamlined inbound logistics processes, reducing receiving times by 20% and improving dock efficiency.",
+          "Collaborated with IT to develop a cross-functional reporting tool, enhancing data visibility across departments."
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "company": "SupplyChain Masters",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Coordinated the daily distribution operations, ensuring timely delivery across 10+ regional locations.",
+          "Developed a real-time tracking system for outbound shipments, reducing lost shipment cases by 30%.",
+          "Facilitated vendor relationship management leading to a 10% decrease in transport costs."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Warehouse Automation Initiative",
+        "description": "Led a project aimed at integrating automated systems in the warehouse, resulting in a 30% increase in operational efficiency.",
+        "technologies": [
+          "Conveyor Systems",
+          "Automated Sortation",
+          "RFID"
+        ]
+      }
+    ]
+  }
+}

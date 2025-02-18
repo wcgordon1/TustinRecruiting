@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Energy Operations Manager Resume Template",
+    "description": "A professional resume template tailored for Energy Operations Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Energy Operations Manager",
+    "slug": "energy-operations-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "energy efficiency",
+      "sustainability",
+      "operations management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Energy Operations Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing energy efficiency and sustainability initiatives. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "Python"
+      ],
+      "frameworks": [],
+      "tools": [
+        "EnergyPlus",
+        "AutoCAD",
+        "Project Management Software"
+      ],
+      "concepts": [
+        "Energy Management Systems",
+        "Sustainability Strategies",
+        "Data Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Energy Operations Manager",
+        "company": "Green Innovations Inc.",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Oversaw the implementation of a new energy management system that reduced energy costs by 15% within the first year.",
+          "Led a cross-functional team to develop sustainability strategies that increased resource efficiency and reduced carbon footprint by 20%.",
+          "Collaborated with government agencies to secure grants, resulting in $200,000 funding towards energy efficiency projects."
+        ]
+      },
+      {
+        "title": "Assistant Energy Operations Manager",
+        "company": "Eco Solutions Corp.",
+        "location": "San Diego, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the redesign of lighting systems across 10 facilities, achieving a 12% reduction in energy usage.",
+          "Implemented a monitoring system that improved data accuracy and helped identify energy wastage, leading to cost savings of $50,000 annually.",
+          "Played a key role in the development of training programs for over 50 engineers on energy efficiency technologies."
+        ]
+      },
+      {
+        "title": "Energy Analyst",
+        "company": "Power & Efficiency Solutions",
+        "location": "Phoenix, AZ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Conducted comprehensive energy audits that identified $100,000 in annual energy savings for clients.",
+          "Developed analytical models for predicting energy consumption, improving forecast accuracy by 18%.",
+          "Prepared detailed reports on energy usage and efficiency improvements, contributing to more informed decision-making by senior management."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Environmental Engineering",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Corporate Energy Efficiency Initiative",
+        "description": "Led a project to implement energy efficiency measures at 15 corporate sites, resulting in a 25% reduction in overall energy consumption.",
+        "technologies": [
+          "Energy Modeling Software",
+          "Smart Sensors",
+          "Data Visualization Tools"
+        ]
+      }
+    ]
+  }
+}

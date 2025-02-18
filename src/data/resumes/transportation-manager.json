@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Transportation Manager Resume Template",
+    "description": "A professional resume template tailored for Transportation Manager positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Transportation Manager",
+    "slug": "transportation-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "logistics",
+      "supply chain",
+      "operations management",
+      "fleet management",
+      "transportation planning"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Transportation Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in coordinating and managing transportation networks. Proven track record of delivering high-quality solutions and optimizing operational performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP Transportation Management",
+        "Oracle Transportation Management",
+        "MS Excel",
+        "Tableau"
+      ],
+      "concepts": [
+        "Supply Chain Optimization",
+        "Route Planning",
+        "Cost Reduction Strategies",
+        "Fleet Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Transportation Manager",
+        "company": "Streamline Logistics",
+        "location": "Boston, MA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 10 in optimizing the transportation network, resulting in a 15% reduction in operational costs over 12 months.",
+          "Implemented a real-time tracking system that increased delivery accuracy by 20%.",
+          "Developed strategic partnerships with local carriers to expand service coverage by 30%."
+        ]
+      },
+      {
+        "title": "Assistant Transportation Manager",
+        "company": "Global Freight Solutions",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the design and implementation of a new logistics platform, reducing delivery time by 25%.",
+          "Maintained a 98% on-time delivery rate through effective scheduling and route optimization.",
+          "Trained and managed a team of five coordinators, improving department efficiency by 30%."
+        ]
+      },
+      {
+        "title": "Transportation Coordinator",
+        "company": "Express Transit Services",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Coordinated daily dispatch activities, supporting the operational needs of over 50 drivers.",
+          "Streamlined communication processes, improving customer satisfaction by 10%.",
+          "Managed inventory and logistics processes leading to a decrease in vehicle downtime by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Transportation Efficiency Enhancement Project",
+        "description": "Led a project aimed at improving transportation efficiency for a major retailer using advanced data analysis techniques.",
+        "technologies": [
+          "Tableau",
+          "SQL",
+          "R"
+        ]
+      }
+    ]
+  }
+}

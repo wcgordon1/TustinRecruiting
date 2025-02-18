@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Last Mile Delivery Manager Resume Template",
+    "description": "A professional resume template tailored for Last Mile Delivery Manager positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Last Mile Delivery Manager",
+    "slug": "last-mile-delivery-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "logistics",
+      "delivery",
+      "supply chain",
+      "optimization",
+      "management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Last Mile Delivery Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in optimizing final-stage logistics for fast delivery. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Route Optimization Software",
+        "Logistics Management Systems",
+        "Data Analytics Tools"
+      ],
+      "concepts": [
+        "Last Mile Delivery",
+        "Supply Chain Optimization",
+        "Customer Satisfaction Enhancement",
+        "Cost Reduction Strategies"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Last Mile Delivery Manager",
+        "company": "RapidTransit Solutions",
+        "location": "Dallas, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Reduced delivery times by 15% through the implementation of advanced route optimization software.",
+          "Led a team of 15 drivers to improve on-time delivery performance to 98%.",
+          "Developed and launched a customer feedback system that increased satisfaction ratings by 20%."
+        ]
+      },
+      {
+        "title": "Senior Logistics Coordinator",
+        "company": "UrbanCourier Inc.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed logistics operations for a fleet servicing over 5,000 deliveries monthly.",
+          "Coordinated with suppliers to decrease stock backlog by 25%.",
+          "Implemented a digital tracking system that improved pre-delivery communication efficiency by 30%."
+        ]
+      },
+      {
+        "title": "Logistics Assistant",
+        "company": "QuickMove Carriers",
+        "location": "Houston, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in streamlining delivery routes, resulting in a 10% reduction in fuel costs.",
+          "Supported senior staff in daily logistics operations and customer communication.",
+          "Compiled delivery statistics that were utilized in the optimization project plan."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Logistics and Supply Chain Management",
+      "school": "Texas A&M University",
+      "location": "College Station, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Smart Delivery Routing System",
+        "description": "Developed a system to optimize delivery routes, reduce fuel consumption, and improve delivery speed.",
+        "technologies": [
+          "GIS Software",
+          "Python",
+          "Machine Learning"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Operations Manager Resume Template",
+    "description": "A professional resume template tailored for Operations Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Operations Manager",
+    "slug": "operations-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "operations management",
+      "business optimization",
+      "process improvement"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Operations Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with a proven track record in overseeing day-to-day business operations and improving efficiency. Skilled in delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Microsoft Office",
+        "SAP",
+        "Asana",
+        "Monday.com"
+      ],
+      "concepts": [
+        "Operational strategy",
+        "Process optimization",
+        "Team leadership",
+        "Lean management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Operations Manager",
+        "company": "Innovate Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 15 to streamline processes, reducing operational costs by 20% in one year.",
+          "Implemented a new inventory management system, improving stock accuracy by 25%.",
+          "Developed and standardized operating procedures across departments, enhancing overall efficiency by 15%."
+        ]
+      },
+      {
+        "title": "Senior Operations Coordinator",
+        "company": "Efficient Dynamics LLC",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated cross-functional projects that improved productivity by 18% over two years.",
+          "Facilitated training sessions for 50+ staff members on new software, ensuring successful adoption and usage.",
+          "Optimized supply chain processes, resulting in a 30% reduction in delivery time."
+        ]
+      },
+      {
+        "title": "Operations Analyst",
+        "company": "Bright Future Corp.",
+        "location": "Portland, OR",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Analyzed operational data to identify key areas for improvement, contributing to a 10% increase in efficiency.",
+          "Supported the development of a new performance management system, leading to improved employee engagement.",
+          "Assisted in the implementation of cost-saving initiatives, saving the company approximately $50,000 annually."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Oregon",
+      "location": "Eugene, OR",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Operational Efficiency Enhancement",
+        "description": "A project aimed at identifying bottlenecks within existing processes and implementing solutions to enhance operational flow.",
+        "technologies": [
+          "Lean Six Sigma",
+          "Process Mapping",
+          "Data Analysis"
+        ]
+      }
+    ]
+  }
+}

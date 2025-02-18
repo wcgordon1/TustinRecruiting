@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Warehouse Manager Resume Template",
+    "description": "A professional resume template tailored for Warehouse Manager positions, highlighting operational, leadership, and inventory management skills",
+    "category": "Operations",
+    "role": "Warehouse Manager",
+    "slug": "warehouse-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Warehouse Management",
+      "Inventory Control",
+      "Logistics",
+      "Supply Chain Management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Warehouse Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in supervising warehouse operations and inventory management. Proven track record of delivering high-quality solutions and optimizing operational performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP",
+        "Microsoft Excel",
+        "WMS Software"
+      ],
+      "concepts": [
+        "Inventory Management",
+        "Supply Chain Optimization",
+        "Team Leadership",
+        "Logistics Coordination"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Warehouse Manager",
+        "company": "Global Goods Distribution",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully reduced operational costs by 15% through process re-engineering and consolidation of shipments.",
+          "Implemented a new inventory management system resulting in a 25% improvement in order accuracy and a 50% reduction in stock discrepancies.",
+          "Led a team of 20 warehouse staff, enhancing productivity by introducing regular training programs and performance incentives."
+        ]
+      },
+      {
+        "title": "Assistant Warehouse Manager",
+        "company": "Midwest Supply Co.",
+        "location": "Indianapolis, IN",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the introduction of a new warehouse layout that increased storage capacity by 30% and reduced retrieval times by 20%.",
+          "Played a key role in implementing a digital inventory tracking system that enhanced accuracy and reduced overstock by 18%.",
+          "Coordinated daily warehouse activities and supervised a team of 15, ensuring timely and efficient operations."
+        ]
+      },
+      {
+        "title": "Warehouse Coordinator",
+        "company": "LogiTech Solutions",
+        "location": "Columbus, OH",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Managed daily shipping and receiving operations, handling up to 500 orders per week with a 98% on-time delivery rate.",
+          "Contributed to a team that implemented a lean inventory strategy, enhancing space efficiency and SKU tracking.",
+          "Supported warehouse safety initiatives, resulting in a 50% reduction in incidents over two years."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "Ohio State University",
+      "location": "Columbus, OH",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Warehouse Optimization Project",
+        "description": "Led a project team to optimize warehouse layout and improve order picking processes, resulting in a 30% increase in efficiency.",
+        "technologies": [
+          "AutoCAD",
+          "Lean Principles",
+          "Data Analytics"
+        ]
+      }
+    ]
+  }
+}

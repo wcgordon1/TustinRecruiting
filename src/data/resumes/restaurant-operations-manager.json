@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Restaurant Operations Manager Resume Template",
+    "description": "A professional resume template tailored for Restaurant Operations Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Restaurant Operations Manager",
+    "slug": "restaurant-operations-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Restaurant Management",
+      "Operations",
+      "Customer Service",
+      "Team Leadership"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Restaurant Operations Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing daily operations of a restaurant or food service. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Financial Management",
+        "Quality Assurance",
+        "Customer Relationship Management",
+        "Team Leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Restaurant Operations Manager",
+        "company": "Premier Bistros Inc.",
+        "location": "Seattle, WA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Streamlined operations to achieve a 20% increase in profit margins through efficient inventory management and cost control.",
+          "Implemented a customer feedback system, improving customer satisfaction scores by 15% within the first year.",
+          "Trained and developed a team of 30+ staff members, resulting in a 25% reduction in employee turnover."
+        ]
+      },
+      {
+        "title": "Assistant Restaurant Manager",
+        "company": "Gourmet Haven",
+        "location": "Portland, OR",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the management of daily operations, leading to a 10% increase in operational efficiency.",
+          "Played a key role in revamping the service training program, enhancing staff performance and improving guest experience ratings by 20%.",
+          "Coordinated with suppliers to reduce food costs by 15% while maintaining high-quality standards."
+        ]
+      },
+      {
+        "title": "Shift Supervisor",
+        "company": "Urban Eats Co.",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supervised a team of 15 staff during peak hours, maintaining a high standard of service and speed.",
+          "Optimized seating arrangements to increase table turnover by 10%, enhancing revenue during busy shifts.",
+          "Developed new scheduling techniques, reducing labor costs by 5% without affecting service quality."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Hospitality Management",
+      "school": "University of California",
+      "location": "Los Angeles, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Community Culinary Event",
+        "description": "Organized and managed a large-scale community culinary event featuring 50+ local chefs and vendors.",
+        "technologies": [
+          "Eventbrite",
+          "Microsoft Office",
+          "Social Media Platforms"
+        ]
+      }
+    ]
+  }
+}

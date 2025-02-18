@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Freight Claims Specialist Resume Template",
+    "description": "A professional resume template tailored for Freight Claims Specialist positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Freight Claims Specialist",
+    "slug": "freight-claims-specialist",
+    "experience_level": "mid-level",
+    "keywords": [
+      "shipment claims",
+      "supply chain",
+      "claims resolution",
+      "logistics",
+      "customer service"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "John Doe",
+      "title": "Freight Claims Specialist",
+      "contact": {
+        "email": "john.doe@example.com",
+        "phone": "(555) 555-5555",
+        "location": "Los Angeles, CA",
+        "linkedin": "linkedin.com/in/johndoe",
+        "github": "github.com/johndoegithub"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in handling lost, damaged, or delayed shipment claims. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Microsoft Excel",
+        "SAP",
+        "Oracle TMS"
+      ],
+      "concepts": [
+        "Claims Management",
+        "Customer Service",
+        "Problem Solving",
+        "Data Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Freight Claims Specialist",
+        "company": "Global Logistics Solutions",
+        "location": "Los Angeles, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team to reduce claim processing time by 30% through improved workflows.",
+          "Successfully reclaimed over $1.5 million in unresolved freight claims in 2023.",
+          "Implemented an automated tracking system that increased claim resolution efficiency by 25%."
+        ]
+      },
+      {
+        "title": "Freight Claims Analyst",
+        "company": "Pacific Transport Inc.",
+        "location": "San Diego, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Resolved 98% of claims within the contractual time limits, maintaining high customer satisfaction.",
+          "Developed a reporting tool that streamlined data presentation for upper management.",
+          "Trained 5 new hires on the claims process, reducing onboarding time by 20%."
+        ]
+      },
+      {
+        "title": "Junior Claims Coordinator",
+        "company": "National Freight Partners",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Handled over 200 claims per month with an 85% success rate in favor of the company.",
+          "Improved documentation accuracy by 15% by implementing a new filing system.",
+          "Collaborated with the legal team on complex claims, contributing to a 10% reduction in litigations."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Logistics and Supply Chain Management",
+      "school": "California State University",
+      "location": "Long Beach, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Freight Claims Automation Project",
+        "description": "Led a project to automate the freight claims process, reducing manual entry errors and speeding up the claims resolution timeline.",
+        "technologies": [
+          "SAP",
+          "Excel VBA",
+          "SQL"
+        ]
+      }
+    ]
+  }
+}

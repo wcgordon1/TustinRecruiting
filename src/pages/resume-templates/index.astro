@@ -59,18 +59,29 @@ const breadcrumbs = [
         </div>
       </div>
 
-      <!-- Resume Template Cards-->
-      
+      <!-- Category Pills -->
+      <div class="flex flex-wrap gap-3 mt-16 mb-12">
+        {categories.map(category => (
+          <a 
+            href={`/resume-templates/${category.toLowerCase()}`}
+            class="inline-flex items-center px-4 py-2 rounded-full bg-blue-50 text-blue-600 hover:bg-blue-100 transition-colors duration-200 text-sm font-medium"
+          >
+            {category}
+          </a>
+        ))}
+      </div>
+
+      <!-- Resume Template Cards -->
       {categories.length > 0 ? (
         categories.map(category => (
           <section class="mb-12">
-            <h2 class="text-xl font-semibold mb-4 capitalize">{category}</h2>
+            <h2 class="text-lg font-semibold mb-4 capitalize">{category}</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {resumes
                 .filter(resume => resume.metadata.category === category)
                 .map(resume => (
                   <a 
-                    href={`/resume-templates/${resume.metadata.category}/${resume.metadata.slug}`}
+                    href={`/resume-templates/${category.toLowerCase()}/${resume.metadata.slug}`}
                     class="block p-6 border rounded-lg hover:shadow-lg transition-shadow bg-white"
                   >
                     <h3 class="text-lg font-semibold mb-2">{resume.metadata.title}</h3>

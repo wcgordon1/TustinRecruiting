@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Fleet Manager Resume Template",
+    "description": "A professional resume template tailored for Fleet Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Fleet Manager",
+    "slug": "fleet-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Fleet Management",
+      "Logistics",
+      "Vehicle Maintenance"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Fleet Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Overseeing company vehicle maintenance and logistics. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Fleet Management Software",
+        "Logistics Systems",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Route Optimization",
+        "Cost Reduction Strategies",
+        "Preventive Maintenance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Fleet Manager",
+        "company": "MaxTransport Ltd.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Implemented a new fleet tracking system, reducing vehicle idle time by 15%",
+          "Optimized route planning that led to a 10% decrease in fuel consumption",
+          "Managed a fleet of over 150 vehicles ensuring operational efficiency and compliance"
+        ]
+      },
+      {
+        "title": "Assistant Fleet Manager",
+        "company": "LogiTrack Solutions",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the transition of fleet operations to a paperless system, improving data accuracy and access",
+          "Contributed to a 12% cost reduction in vehicle maintenance through enhanced preventive strategies",
+          "Coordinated with suppliers to streamline parts procurement, reducing downtime by 20%"
+        ]
+      },
+      {
+        "title": "Fleet Coordinator",
+        "company": "GreenWays Transport",
+        "location": "Denver, CO",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Monitored and ensured compliance with DOT regulations for a fleet of 80 vehicles",
+          "Developed a driver training program improving safety records by 25%",
+          "Assisted in scheduling maintenance checks, leading to a 30% increase in vehicle availability"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Logistics and Supply Chain Management",
+      "school": "University of Colorado Boulder",
+      "location": "Boulder, CO",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Fleet Efficiency Enhancement Initiative",
+        "description": "Led a project to enhance overall fleet efficiency through strategic route planning and driver training.",
+        "technologies": [
+          "Telematics",
+          "GPS Tracking",
+          "Data Analytics"
+        ]
+      }
+    ]
+  }
+}

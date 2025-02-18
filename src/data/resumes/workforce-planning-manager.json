@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Workforce Planning Manager Resume Template",
+    "description": "A professional resume template tailored for Workforce Planning Manager positions, highlighting technical skills and project experience.",
+    "category": "Operations",
+    "role": "Workforce Planning Manager",
+    "slug": "workforce-planning-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "staffing management",
+      "workforce efficiency",
+      "resource optimization"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Workforce Planning Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing staffing levels and workforce efficiency. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Microsoft Excel",
+        "Tableau",
+        "Workforce Management Software"
+      ],
+      "concepts": [
+        "Resource Allocation",
+        "Data Analysis",
+        "Forecasting"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Workforce Planning Manager",
+        "company": "Global Solutions Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Designed staffing plans that improved workforce efficiency by 18% through comprehensive data analysis and strategic forecasting.",
+          "Led a cross-functional team in a project that reduced manpower costs by 12% without compromising service quality.",
+          "Implemented a new workforce management software, resulting in enhanced productivity tracking and optimization of schedules."
+        ]
+      },
+      {
+        "title": "Senior Workforce Analyst",
+        "company": "Innovative Corp.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Collaborated with department heads to forecast workforce needs, achieving a 95% accuracy rate in projections.",
+          "Developed automated reporting tools, reducing data preparation time by 30% and increasing stakeholder satisfaction.",
+          "Spearheaded a task force that systematically identified bottlenecks in staffing, leading to a 10% improvement in process efficiency."
+        ]
+      },
+      {
+        "title": "Workforce Analyst",
+        "company": "Tech Solutions Ltd.",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Analyzed employment trends and data to support strategic planning, contributing to a 15% reduction in staffing gaps.",
+          "Played a key role in the deployment of workforce analytics tools, enhancing data-driven decision-making.",
+          "Prepared in-depth reports on staffing metrics and presented findings to upper management, aiding in strategic decisions."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Workforce Optimization Project",
+        "description": "Led a project aimed at optimizing workforce allocation using predictive analysis, resulting in a 20% increase in operational efficiency.",
+        "technologies": [
+          "Python",
+          "Tableau",
+          "SQL"
+        ]
+      }
+    ]
+  }
+}

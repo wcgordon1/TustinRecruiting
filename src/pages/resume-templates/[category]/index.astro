@@ -8,7 +8,7 @@ export async function getStaticPaths() {
   const categories = [...new Set(resumes.map(resume => resume.metadata.category))];
   
   return categories.map(category => ({
-    params: { category },
+    params: { category: category.toLowerCase() },
     props: { 
       category,
       resumes: resumes.filter(resume => resume.metadata.category === category)
@@ -21,7 +21,7 @@ const { category, resumes } = Astro.props;
 const breadcrumbs = [
   { text: 'Home', href: '/' },
   { text: 'Resume Templates', href: '/resume-templates' },
-  { text: category.charAt(0).toUpperCase() + category.slice(1), href: `/resume-templates/${category}`, current: true }
+  { text: category.charAt(0).toUpperCase() + category.slice(1), href: `/resume-templates/${category.toLowerCase()}`, current: true }
 ];
 
 const categoryTitle = category ? category.split(' ')
@@ -71,7 +71,7 @@ const categoryTitle = category ? category.split(' ')
         <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 mt-24 mb-24">
           {resumes.map(resume => (
             <a 
-              href={`/resume-templates/${resume.metadata.category}/${resume.metadata.slug}`}
+              href={`/resume-templates/${category.toLowerCase()}/${resume.metadata.slug}`}
               class="block p-6 bg-white rounded-xl border border-gray-200 hover:border-blue-100 transition-all duration-200"
             >
               <h2 class="text-lg font-semibold text-gray-900 mb-3">

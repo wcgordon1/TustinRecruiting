@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Fleet Coordinator Resume Template",
+    "description": "A professional resume template tailored for Fleet Coordinator positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Fleet Coordinator",
+    "slug": "fleet-coordinator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "fleet management",
+      "vehicle maintenance",
+      "logistics"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Fleet Coordinator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing fleet operations and vehicle maintenance. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Fleet Management Software",
+        "Microsoft Excel",
+        "GPS Tracking"
+      ],
+      "concepts": [
+        "Route Optimization",
+        "Preventive Maintenance",
+        "Cost Control"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Fleet Coordinator",
+        "company": "Global Logistics Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Implemented a new fleet tracking system that improved route efficiency by 15%, reducing fuel costs by 10%.",
+          "Coordinated maintenance schedules for a fleet of 120 vehicles, achieving a 98% on-time maintenance rate.",
+          "Led a team of 5 fleet management professionals and improved vehicle uptime by 20% through predictive maintenance analysis."
+        ]
+      },
+      {
+        "title": "Assistant Fleet Manager",
+        "company": "TransLine Partners",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the development of a preventive maintenance program that extended vehicle lifespan by 30% and reduced downtime by 25%.",
+          "Negotiated with suppliers to reduce maintenance costs by 12%.",
+          "Supervised a team of 3 fleet maintenance technicians to ensure adherence to company standards and safety protocols."
+        ]
+      },
+      {
+        "title": "Fleet Management Intern",
+        "company": "FleetPro Services",
+        "location": "Los Angeles, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Participated in the rollout of a new GPS tracking initiative that enhanced fleet visibility and improved customer satisfaction roles.",
+          "Supported the development and implementation of a daily fleet inspection checklist, ensuring safety compliance.",
+          "Conducted data analysis on fleet performance, contributing to the reduction of operating costs by 8%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Logistics and Supply Chain Management",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Fleet Optimization Project",
+        "description": "Developed an optimization model to improve delivery routes and decrease completion times for cargo deliveries.",
+        "technologies": [
+          "Route Optimization Software",
+          "Data Analytics",
+          "Python"
+        ]
+      }
+    ]
+  }
+}

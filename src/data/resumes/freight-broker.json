@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "Freight Broker Resume Template",
+    "description": "A professional resume template tailored for Freight Broker positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Freight Broker",
+    "slug": "freight-broker",
+    "experience_level": "mid-level",
+    "keywords": [
+      "negotiating",
+      "transportation",
+      "logistics",
+      "client relations"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Freight Broker",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 5 years of experience in negotiating and coordinating freight transportation for clients. Proven track record of delivering high-quality solutions and optimizing performance within the logistics industry.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "TMS (Transportation Management System)",
+        "CRM Software",
+        "Microsoft Office Suite"
+      ],
+      "concepts": [
+        "Logistics Coordination",
+        "Client Relationship Management",
+        "Strategic Negotiation",
+        "Carrier Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Freight Broker",
+        "company": "LogiTrans Solutions",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased revenue by 25% through strategic partnerships and improved carrier negotiations.",
+          "Successfully onboarded over 30 new clients, enhancing the company's market presence.",
+          "Implemented a new CRM system that improved client interaction efficiency by 40%."
+        ]
+      },
+      {
+        "title": "Freight Broker",
+        "company": "TransportLink Corp.",
+        "location": "Newark, NJ",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Facilitated a 15% reduction in transportation costs by optimizing shipment routes.",
+          "Brokered transportation arrangements for high-profile clients, maintaining a 98% satisfaction rate.",
+          "Mentored junior brokers, leading to a 30% increase in team performance."
+        ]
+      },
+      {
+        "title": "Junior Freight Broker",
+        "company": "RapidFreight Ltd.",
+        "location": "Dallas, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in negotiating freight transportation deals, contributing to a 20% increase in company profits.",
+          "Developed strong relationships with carriers, resulting in a 10% increase in available shipping options.",
+          "Streamlined booking processes, improving accuracy and reducing booking errors by 15%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "Texas A&M University",
+      "location": "College Station, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Freight Optimization Initiative",
+        "description": "Led a project to improve route and carrier selection efficiency, resulting in a 20% cost reduction.",
+        "technologies": [
+          "TMS",
+          "Data Analysis Tools",
+          "Route Planning Software"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Facilities Manager Resume Template",
+    "description": "A professional resume template tailored for Facilities Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Facilities Manager",
+    "slug": "facilities-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Facilities Management",
+      "Physical Assets",
+      "Building Maintenance"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Facilities Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in maintaining and overseeing physical facilities and assets. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "CMMS (Computerized Maintenance Management System)",
+        "BMS (Building Management System)"
+      ],
+      "concepts": [
+        "Vendor Management",
+        "Preventive Maintenance",
+        "Facilities Planning"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Facilities Manager",
+        "company": "Prime Realty Corp",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Oversaw the maintenance of over 500,000 square feet of commercial office space, increasing tenant satisfaction scores by 20%.",
+          "Implemented a computerized maintenance management system, resulting in a 30% reduction in facility-related downtime.",
+          "Led a team of 15 maintenance staff, focusing on continuous training and performance improvement."
+        ]
+      },
+      {
+        "title": "Assistant Facilities Manager",
+        "company": "Evergreen Properties",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated daily operations including cleaning, security, maintenance, and repair tasks for a multi-building complex.",
+          "Reduced operating costs by 15% through strategic vendor negotiations and energy management initiatives.",
+          "Developed a preventive maintenance schedule that increased equipment lifespan by 25%."
+        ]
+      },
+      {
+        "title": "Facilities Coordinator",
+        "company": "Urban Spaces Group",
+        "location": "Boston, MA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in managing facility projects and budgets, maintaining a consistent record of on-time and under-budget delivery.",
+          "Supported the successful implementation of an enterprise-wide building management system.",
+          "Collaborated with cross-functional teams to ensure compliance with health, safety, and environmental regulations."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Facilities Management",
+      "school": "Northeastern University",
+      "location": "Boston, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "New Office Expansion Project",
+        "description": "Managed the facilities logistics for a 50,000 square foot office expansion, from planning to execution, completed on schedule and within a $3M budget.",
+        "technologies": [
+          "AutoCAD",
+          "CMMS",
+          "Project Management Software"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "International Freight Coordinator Resume Template",
+    "description": "A professional resume template tailored for International Freight Coordinator positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "International Freight Coordinator",
+    "slug": "international-freight-coordinator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "global freight",
+      "customs compliance",
+      "logistics",
+      "supply chain management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "International Freight Coordinator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Handling global freight movement and customs compliance. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP",
+        "Oracle Transportation Management",
+        "CargoWise"
+      ],
+      "concepts": [
+        "Customs regulations",
+        "Freight forwarding",
+        "International trade compliance",
+        "Supply chain optimization"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior International Freight Coordinator",
+        "company": "Global Logistics Inc.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Managed freight operations for over 300 shipments per month, ensuring compliance with international customs regulations.",
+          "Reduced shipping costs by 15% through the development and implementation of a new vendor negotiation strategy.",
+          "Led a team of four junior coordinators, providing training on international trade compliance and software use."
+        ]
+      },
+      {
+        "title": "International Freight Coordinator",
+        "company": "TransGlobal Shipping",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated end-to-end logistics for shipments to over 20 countries, with an on-time delivery rate of 98%.",
+          "Implemented a new tracking system that improved shipment transparency and customer satisfaction ratings by 22%.",
+          "Collaborated with international partners to streamline customs documentation, reducing processing time by 30%."
+        ]
+      },
+      {
+        "title": "Junior Freight Coordinator",
+        "company": "WorldWide Freight Solutions",
+        "location": "Miami, FL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in managing freight schedules and handled client communications for transatlantic shipments.",
+          "Developed a database to track shipping expenses, contributing to a 10% reduction in overhead costs.",
+          "Supported senior coordinators in processing customs paperwork, achieving a 95% accuracy rate."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in International Business",
+      "school": "University of Miami",
+      "location": "Miami, FL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Global Shipping Optimization Project",
+        "description": "Led a cross-functional team to analyze and optimize shipping routes worldwide, achieving a 20% reduction in transit times.",
+        "technologies": [
+          "SQL",
+          "Python programming",
+          "Data visualization tools"
+        ]
+      }
+    ]
+  }
+}

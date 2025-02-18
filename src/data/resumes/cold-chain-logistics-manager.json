@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Cold Chain Logistics Manager Resume Template",
+    "description": "A professional resume template tailored for Cold Chain Logistics Manager positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "Cold Chain Logistics Manager",
+    "slug": "cold-chain-logistics-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "cold chain logistics",
+      "temperature-sensitive freight",
+      "supply chain management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Cold Chain Logistics Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in overseeing temperature-sensitive freight logistics. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP Logistics",
+        "Microsoft Excel",
+        "TMS"
+      ],
+      "concepts": [
+        "Cold Chain Management",
+        "Supply Chain Optimization",
+        "Team Leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Cold Chain Logistics Manager",
+        "company": "Frostline Freight Solutions",
+        "location": "Seattle, WA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 15 logistics specialists in managing temperature-controlled shipments, achieving a 98% on-time delivery rate.",
+          "Implemented a real-time tracking system, reducing shipment delays by 20%.",
+          "Reduced freight costs by 15% through route optimization and vendor renegotiation."
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "company": "ChillTrans Logistics",
+        "location": "Portland, OR",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated over 500 temperature-sensitive shipments monthly with zero losses due to spoilage.",
+          "Streamlined internal communication processes, improving team efficiency by 25%.",
+          "Developed training materials for new hires, reducing onboarding time by 30%."
+        ]
+      },
+      {
+        "title": "Junior Logistics Analyst",
+        "company": "Cool Chain Operations Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of a temperature monitoring protocol that improved cold chain compliance by 15%.",
+          "Analyzed logistics data to identify and recommend process improvements, resulting in a 10% reduction in operational costs.",
+          "Facilitated cross-functional meetings to ensure alignment on key logistics initiatives."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Cold Chain Optimization Project",
+        "description": "Led a project to implement advanced temperature tracking systems across all distribution centers, resulting in a 20% reduction in wasted goods.",
+        "technologies": [
+          "IoT Sensors",
+          "Data Analytics",
+          "TMS Integration"
+        ]
+      }
+    ]
+  }
+}

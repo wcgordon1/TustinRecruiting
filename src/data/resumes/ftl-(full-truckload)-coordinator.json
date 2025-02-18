@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "FTL (Full-Truckload) Coordinator Resume Template",
+    "description": "A professional resume template tailored for FTL (Full-Truckload) Coordinator positions, highlighting technical skills and project experience",
+    "category": "3PL",
+    "role": "FTL (Full-Truckload) Coordinator",
+    "slug": "ftl-(full-truckload)-coordinator",
+    "experience_level": "mid-level",
+    "keywords": [
+      "logistics",
+      "supply chain"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "FTL (Full-Truckload) Coordinator",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing full-truckload shipments and logistics planning. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "frameworks": [],
+      "tools": [
+        "TMS software",
+        "MS Excel",
+        "SAP"
+      ],
+      "concepts": [
+        "Logistics planning",
+        "Carrier negotiations",
+        "Route optimization"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior FTL Coordinator",
+        "company": "Global Freight Logistics",
+        "location": "Dallas, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Streamlined logistics processes, reducing transportation costs by 15% over two years.",
+          "Led a team of 5 logistics specialists to successfully manage over 200 monthly full-truckload shipments.",
+          "Collaborated with cross-functional teams to improve delivery accuracy by 20%."
+        ]
+      },
+      {
+        "title": "FTL Coordinator",
+        "company": "National Cargo Solutions",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed logistics planning for 150+ FTL shipments per month, ensuring timely delivery and cost efficiency.",
+          "Implemented a new tracking system, improving shipment visibility and customer satisfaction rates by 25%.",
+          "Negotiated contracts with carriers to achieve an average freight cost reduction of 10%."
+        ]
+      },
+      {
+        "title": "Junior Logistics Coordinator",
+        "company": "Swift Transport Inc.",
+        "location": "Atlanta, GA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in coordinating daily full-truckload operations, achieving an on-time delivery rate of 95%.",
+          "Developed strong relationships with carriers, boosting cooperation and service level compliance.",
+          "Conducted data analysis to support senior colleagues in identifying opportunities for logistics optimization."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Georgia",
+      "location": "Athens, GA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Logistics Optimization Project",
+        "description": "Led a comprehensive project to identify and implement optimization strategies across multiple logistics channels, resulting in a 30% increase in operational efficiency.",
+        "technologies": [
+          "Excel",
+          "Tableau",
+          "TMS"
+        ]
+      }
+    ]
+  }
+}
