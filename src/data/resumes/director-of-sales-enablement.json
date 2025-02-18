@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Director of Sales Enablement Resume Template",
+    "description": "A professional resume template tailored for Director of Sales Enablement positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Director of Sales Enablement",
+    "slug": "director-of-sales-enablement",
+    "experience_level": "senior",
+    "keywords": [
+      "Sales Enablement",
+      "Sales Strategy",
+      "Training",
+      "Tools Implementation"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Director of Sales Enablement",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in providing sales teams with tools and training for success. Proven track record of delivering high-quality solutions and optimizing performance in fast-paced sales environments.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "HubSpot",
+        "Outreach.io"
+      ],
+      "concepts": [
+        "Sales Strategy",
+        "Performance Metrics",
+        "Training Development"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Director of Sales Enablement",
+        "company": "Innovative Solutions, Inc.",
+        "location": "Denver, CO",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Implemented a new sales tool training program that increased team efficiency by 25%",
+          "Led a team to successfully develop and launch a scalable sales training module, resulting in 30% reduction in onboarding time.",
+          "Forged collaborative relationships with cross-functional teams to improve sales pitch efficacy leading to a 15% increase in closed deals."
+        ]
+      },
+      {
+        "title": "Sales Enablement Manager",
+        "company": "Tech Dynamics Corp.",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Designed and deployed a sales playbook that improved win rates by 20%.",
+          "Managed and executed quarterly sales training sessions, improving knowledge retention by 40%.",
+          "Collaborated with product teams to deliver updated training materials for product launches, improving sales team readiness."
+        ]
+      },
+      {
+        "title": "Sales Enablement Specialist",
+        "company": "Digital Ventures LLC",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Worked with sales leadership to establish a comprehensive onboarding funnel, reducing new hire ramp-up time by 2 weeks.",
+          "Developed an analytics framework to measure the effectiveness of training programs, increasing data transparency.",
+          "Assisted in the implementation of a CRM platform, enhancing sales data tracking by 50%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Sales Excellence Initiative",
+        "description": "Led the initiative to redesign the sales enablement process, incorporating new technologies and training methodologies.",
+        "technologies": [
+          "Salesforce",
+          "Zoom",
+          "LMS (Learning Management System)"
+        ]
+      }
+    ]
+  }
+}

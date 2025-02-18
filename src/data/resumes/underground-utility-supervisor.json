@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Underground Utility Supervisor Resume Template",
+    "description": "A professional resume template tailored for Underground Utility Supervisor positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Underground Utility Supervisor",
+    "slug": "underground-utility-supervisor",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Underground Utility",
+      "Project Management",
+      "Construction Supervision"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Underground Utility Supervisor",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing underground utility installation and maintenance projects. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "MS Project",
+        "Bluebeam"
+      ],
+      "concepts": [
+        "Site Safety",
+        "Regulatory Compliance",
+        "Team Leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Underground Utility Supervisor",
+        "company": "Citywide Solutions Inc.",
+        "location": "Chicago, IL",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Supervised installation and maintenance of underground utilities, ensuring compliance with safety standards and project specifications.",
+          "Led a team of 15 personnel to successfully complete a major downtown fiber optics upgrade project 15% under budget and two weeks ahead of schedule.",
+          "Streamlined project coordination processes, reducing time spent on planning meetings by 20%."
+        ]
+      },
+      {
+        "title": "Assistant Underground Utility Supervisor",
+        "company": "Northshore Infrastructure",
+        "location": "Evanston, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in supervising multiple utility installation projects, focusing on safety and quality control.",
+          "Developed new training protocols that increased team efficiency by 10% within the first quarter of implementation.",
+          "Collaborated with engineers to troubleshoot and resolve complex installation challenges, resulting in a 25% reduction in project downtime."
+        ]
+      },
+      {
+        "title": "Junior Utility Technician",
+        "company": "Metro Construction Co.",
+        "location": "Naperville, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported senior supervisors in utility layout and installation for large-scale projects.",
+          "Performed daily inspections and maintenance of machinery, contributing to a 30% decrease in equipment-related delays.",
+          "Awarded 'Employee of the Month' twice for exemplary performance and dedication to team goals."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Civil Engineering",
+      "school": "University of Illinois at Urbana-Champaign",
+      "location": "Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "City Sewer Line Expansion",
+        "description": "Led a team in the expansion of city sewer lines, integrating new technologies to enhance efficiency and sustainability.",
+        "technologies": [
+          "AutoCAD",
+          "MS Project",
+          "Bluebeam"
+        ]
+      }
+    ]
+  }
+}

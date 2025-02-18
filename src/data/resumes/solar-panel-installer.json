@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Solar Panel Installer Resume Template",
+    "description": "A professional resume template tailored for Solar Panel Installer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Solar Panel Installer",
+    "slug": "solar-panel-installer",
+    "experience_level": "entry-level",
+    "keywords": [
+      "Solar Installation",
+      "Maintenance",
+      "Renewable Energy",
+      "Electrical Systems",
+      "Safety Compliance"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Solar Panel Installer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in installing and maintaining solar energy systems. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Multimeter",
+        "Drills",
+        "Solar Design Software",
+        "Hand Tools"
+      ],
+      "concepts": [
+        "PV System Installation",
+        "Roof Mount Systems",
+        "Electrical Wiring",
+        "Safety Protocols"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Solar Panel Installer",
+        "company": "SunTech Energy Solutions",
+        "location": "Austin, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully installed over 150 residential solar systems, resulting in an average energy savings of 25% for clients.",
+          "Led a team of 4 junior installers on a large commercial project, completing the project 2 weeks ahead of schedule.",
+          "Recognized for excellence in safety compliance, reducing workplace incidents by 30%."
+        ]
+      },
+      {
+        "title": "Junior Solar Installer",
+        "company": "EcoSun Installations",
+        "location": "San Diego, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the installation of over 200 solar panels across multiple projects, exceeding company's quality standards.",
+          "Developed a new tool inventory system that improved equipment tracking efficiency by 40%.",
+          "Awarded Employee of the Month twice for outstanding teamwork and reliability."
+        ]
+      },
+      {
+        "title": "Apprentice Solar Technician",
+        "company": "GreenWave Solar",
+        "location": "Phoenix, AZ",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Acquired hands-on experience in solar panel installation and maintenance under professional guidance.",
+          "Contributed to the successful completion of a 100-panel solar farm project, supporting with groundwork and panel alignment.",
+          "Earned recognition for learning and implementing advanced installation techniques rapidly."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Renewable Energy Engineering",
+      "school": "State University of Technology",
+      "location": "Tempe, AZ",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Community Solar Project",
+        "description": "Designed and installed a 30 kW solar power system for a local community center, enhancing their energy efficiency by 40%.",
+        "technologies": [
+          "PV Solar Panels",
+          "Inverter Systems",
+          "Energy Management Software"
+        ]
+      }
+    ]
+  }
+}

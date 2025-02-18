@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "Augmented Reality Developer Resume Template",
+    "description": "A professional resume template tailored for Augmented Reality Developer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Augmented Reality Developer",
+    "slug": "augmented-reality-developer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "AR Development",
+      "Immersive Experiences",
+      "3D Modeling",
+      "User Experience Design"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Augmented Reality Developer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Building immersive AR applications and user experiences. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "C#",
+        "JavaScript",
+        "Python"
+      ],
+      "frameworks": [
+        "Unity3D",
+        "ARKit",
+        "ARCore"
+      ],
+      "tools": [
+        "Blender",
+        "Vuforia",
+        "Adobe Creative Suite"
+      ],
+      "concepts": [
+        "3D Modeling",
+        "Spatial Mapping",
+        "User Experience Design"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Augmented Reality Developer",
+        "company": "Immersion Technologies",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 4 to develop an AR-based retail application, increasing customer engagement by 30%.",
+          "Optimized AR rendering process, reducing latency by roughly 15% through efficient coding practices.",
+          "Collaborated closely with UX designers to integrate intuitive user interfaces that improved application usability."
+        ]
+      },
+      {
+        "title": "Augmented Reality Developer",
+        "company": "Virtual Visions",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed interactive AR experiences for mobile platforms, resulting in a 20% increase in app downloads.",
+          "Implemented new tracking technologies that enhanced application accuracy and user immersion.",
+          "Participated in cross-functional teams to create AR demos for prospective clients, resulting in 4 new business acquisitions."
+        ]
+      },
+      {
+        "title": "Junior Augmented Reality Developer",
+        "company": "RealWorld Innovations",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development and deployment of AR educational tools for interactive learning modules.",
+          "Contributed to the design and coding of AR prototypes, 3 of which were patented.",
+          "Managed bug tracking and resolution processes, leading to a 40% increase in application stability."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Augmented Reality Museum Tour",
+        "description": "Developed an AR application that provides immersive virtual tours of museum exhibits, enhancing visitor engagement with interactive elements.",
+        "technologies": [
+          "Unity3D",
+          "Vuforia",
+          "C#"
+        ]
+      }
+    ]
+  }
+}

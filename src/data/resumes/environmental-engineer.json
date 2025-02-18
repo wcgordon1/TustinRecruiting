@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Environmental Engineer Resume Template",
+    "description": "A professional resume template tailored for Environmental Engineer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Environmental Engineer",
+    "slug": "environmental-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Environmental Engineering",
+      "Sustainability",
+      "Construction",
+      "Waste Management",
+      "Renewable Energy"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Environmental Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6+ years of experience in developing solutions for environmental sustainability in construction. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "MATLAB"
+      ],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "ArcGIS",
+        "MS Project"
+      ],
+      "concepts": [
+        "Waste Management",
+        "Environmental Impact Assessments",
+        "Renewable Energy Systems"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Environmental Engineer",
+        "company": "EcoBuild Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a project team in developing a sustainable waste management system, reducing landfill waste by 30% within the first year.",
+          "Conducted comprehensive environmental assessments for construction projects, ensuring compliance with state and federal regulations.",
+          "Implemented renewable energy solutions which increased energy efficiency by 20% in new build projects."
+        ]
+      },
+      {
+        "title": "Environmental Engineer",
+        "company": "GreenTech Engineering",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Collaborated with a multidisciplinary team to design and execute an eco-friendly water management system for a major development project.",
+          "Optimized the use of sustainable materials in construction, leading to a 15% reduction in project costs.",
+          "Developed and delivered environmental training programs for over 100 employees, enhancing company-wide sustainability awareness."
+        ]
+      },
+      {
+        "title": "Junior Environmental Engineer",
+        "company": "Sustainable Innovations Inc.",
+        "location": "Denver, CO",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in performing site assessments and soil tests for potential environmental hazards for various construction sites.",
+          "Contributed to the design and evaluation of systems for pollution control and environmental restoration.",
+          "Worked on a team that achieved a 10% improvement in energy efficiency for existing building systems through applied research and innovative solutions."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Environmental Engineering",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Green Building Initiative",
+        "description": "Developed a set of guidelines for sustainable construction practices, which was adopted by a major city for all new public infrastructure projects.",
+        "technologies": [
+          "AutoCAD",
+          "ArcGIS",
+          "Python"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "Enterprise Account Manager Resume Template",
+    "description": "A professional resume template tailored for Enterprise Account Manager positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Enterprise Account Manager",
+    "slug": "enterprise-account-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "enterprise sales",
+      "account management",
+      "customer relationship management",
+      "strategic planning"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Enterprise Account Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing high-value enterprise customer relationships. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": []
+    },
+    "experience": [
+      {
+        "title": "Senior Enterprise Account Manager",
+        "company": "TechSolutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased portfolio revenue by 25% within the first year by implementing strategic account management practices.",
+          "Managed and expanded relationships with key Fortune 500 clients, maintaining a 98% client retention rate.",
+          "Led cross-functional teams to deliver customized solutions, resulting in a 50% reduction in delivery time."
+        ]
+      },
+      {
+        "title": "Enterprise Account Manager",
+        "company": "GlobalTech Partners",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Enhanced customer satisfaction score by 20% by conducting regular feedback sessions and telephonic interviews.",
+          "Developed account plans for over 50 enterprise clients, resulting in a 30% increase in sales conversions.",
+          "Collaborated with product teams to design tailored solutions, contributing to a 15% sales growth in underserved sectors."
+        ]
+      },
+      {
+        "title": "Junior Account Manager",
+        "company": "NextGen Solutions",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in onboarding 10+ new clients and facilitated smooth integration, leading to an immediate 5% increase in quarterly sales.",
+          "Supported senior account managers in client meetings, presentations, and proposal development, gaining valuable exposure to enterprise account management.",
+          "Developed proficiency in CRM tools, improving account data accuracy by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Client Retention Program",
+        "description": "Designed and implemented a comprehensive client retention program that reduced churn rates by 10% within one year.",
+        "technologies": [
+          "CRM Software",
+          "Data Analytics",
+          "Customer Survey Tools"
+        ]
+      }
+    ]
+  }
+}

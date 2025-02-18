@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "title": "Director of Artificial Intelligence Resume Template",
+    "description": "A professional resume template tailored for Director of Artificial Intelligence positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Director of Artificial Intelligence",
+    "slug": "director-of-artificial-intelligence",
+    "experience_level": "senior",
+    "keywords": [
+      "AI",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Science",
+      "Leadership"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Director of Artificial Intelligence",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with 6+ years of experience in developing AI strategies and machine learning solutions. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "R",
+        "Java"
+      ],
+      "frameworks": [
+        "TensorFlow",
+        "PyTorch",
+        "Keras"
+      ],
+      "tools": [
+        "Apache Spark",
+        "Docker",
+        "Kubernetes",
+        "SQL"
+      ],
+      "concepts": [
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Data Analytics"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Director of Artificial Intelligence",
+        "company": "TechnoVision Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 15 data scientists and engineers to develop an AI-driven customer insights platform, resulting in a 30% increase in customer satisfaction.",
+          "Designed and implemented a scalable machine learning pipeline that accelerated model deployment time by 40%.",
+          "Collaborated with cross-functional teams to establish AI ethics guidelines, enhancing transparency and trust in AI implementations."
+        ]
+      },
+      {
+        "title": "Senior Machine Learning Engineer",
+        "company": "InnoData Technologies",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed advanced NLP models to automate content classification, reducing processing time by 50%.",
+          "Improved model accuracy by 20% through the integration of a novel ensemble learning approach.",
+          "Mentored junior engineers, contributing to a 15% improvement in team productivity."
+        ]
+      },
+      {
+        "title": "Junior Data Scientist",
+        "company": "DataMetrics Inc.",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in designing algorithms for predicting customer churn, achieving an accuracy rate of 85%.",
+          "Contributed to the development of data processing scripts, reducing data preparation time by 30%.",
+          "Presented key findings from data analysis in comprehensive reports, aiding strategic business decisions."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "AI-Powered Predictive Maintenance System",
+        "description": "Developed an AI system to predict equipment failures using sensor data, resulting in a 25% reduction in maintenance costs.",
+        "technologies": [
+          "Python",
+          "TensorFlow",
+          "Apache Kafka"
+        ]
+      }
+    ]
+  }
+}

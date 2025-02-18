@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Global Logistics Manager Resume Template",
+    "description": "A professional resume template tailored for Global Logistics Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Global Logistics Manager",
+    "slug": "global-logistics-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "global logistics",
+      "supply chain management",
+      "freight operations",
+      "international logistics",
+      "senior logistics"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Global Logistics Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in Overseeing international supply chain logistics and freight operations. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "SAP ERP",
+        "Oracle Transportation Management",
+        "Microsoft Excel"
+      ],
+      "concepts": [
+        "Supply Chain Management",
+        "International Logistics",
+        "Process Optimization",
+        "Cost Reduction",
+        "Vendor Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Global Logistics Manager",
+        "company": "Futura Transport Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led cross-functional teams to optimize international logistics, resulting in a 15% reduction in transportation costs.",
+          "Implemented a robust freight tracking system, increasing on-time delivery rate by 20%.",
+          "Negotiated contracts with freight carriers, securing a 10% reduction in shipping costs while improving service levels."
+        ]
+      },
+      {
+        "title": "Senior Logistics Coordinator",
+        "company": "GreenWave Logistics",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Streamlined shipment processes by developing an automated routing system, reducing lead times by 25%.",
+          "Supervised a team of 10 coordinators, increasing operational efficiency by 30%.",
+          "Collaborated with international suppliers to improve supply chain efficiency, cutting delays by 18%."
+        ]
+      },
+      {
+        "title": "Logistics Analyst",
+        "company": "TransGlobal Freight Systems",
+        "location": "San Francisco, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Developed data-driven insights to optimize shipping routes, saving over $250,000 annually in logistics costs.",
+          "Facilitated communication between 3PL providers and internal teams, enhancing delivery performance by 15%.",
+          "Conducted analysis on freight cost disparities, recommending strategies that reduced the variance by 12%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Supply Chain Management",
+      "school": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Global Supply Chain Optimization",
+        "description": "Led a project to optimize the global supply chain for a multinational company, resulting in decreased lead times and reduced inventory costs.",
+        "technologies": [
+          "SAP ERP",
+          "Tableau",
+          "Microsoft Excel"
+        ]
+      }
+    ]
+  }
+}

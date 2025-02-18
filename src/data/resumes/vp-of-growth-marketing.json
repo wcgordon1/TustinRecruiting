@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "VP of Growth Marketing Resume Template",
+    "description": "A professional resume template tailored for VP of Growth Marketing positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "VP of Growth Marketing",
+    "slug": "vp-of-growth-marketing",
+    "experience_level": "executive",
+    "keywords": [
+      "growth marketing",
+      "customer acquisition",
+      "demand generation"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "VP of Growth Marketing",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in overseeing demand generation and customer acquisition strategies. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Google Analytics",
+        "HubSpot",
+        "Salesforce"
+      ],
+      "concepts": [
+        "SEO/SEM",
+        "Digital Marketing",
+        "Customer Segmentation",
+        "A/B Testing"
+      ]
+    },
+    "experience": [
+      {
+        "title": "VP of Growth Marketing",
+        "company": "Innovative Solutions Corp",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased customer acquisition by 40% through integrated marketing campaigns and data-driven strategies.",
+          "Led a team of 15 marketers to achieve a 30% improvement in lead conversion rates.",
+          "Implemented advanced analytics programs that improved marketing ROI by 25%."
+        ]
+      },
+      {
+        "title": "Director of Demand Generation",
+        "company": "TechAdvancers Inc.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Orchestrated email marketing strategies that resulted in an 85% increase in subscriber base.",
+          "Developed and launched a SEM/SEO strategy that boosted organic traffic by 65%.",
+          "Managed cross-functional teams to successfully deploy 10 major digital campaigns annually."
+        ]
+      },
+      {
+        "title": "Growth Marketing Manager",
+        "company": "DigitalHorizons LLC",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Pioneered growth hacking strategies that resulted in a 50% increase in user engagement.",
+          "Managed a budget of $750K and executed targeted acquisition campaigns that yielded a 150% ROI.",
+          "Developed and implemented a customer loyalty and referral program that boosted customer retention by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Marketing",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Comprehensive Customer Acquisition Strategy",
+        "description": "Developed a multi-channel customer acquisition strategy leveraging PPC, content marketing, and social media, resulting in a significant increase in qualified leads.",
+        "technologies": [
+          "Google Ads",
+          "Analytics Platforms",
+          "Content Management Systems"
+        ]
+      }
+    ]
+  }
+}

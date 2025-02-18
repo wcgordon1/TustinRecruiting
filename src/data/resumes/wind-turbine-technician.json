@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Wind Turbine Technician Resume Template",
+    "description": "A professional resume template tailored for Wind Turbine Technician positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Wind Turbine Technician",
+    "slug": "wind-turbine-technician",
+    "experience_level": "entry-level",
+    "keywords": [
+      "wind energy",
+      "turbine maintenance",
+      "renewable energy",
+      "technical skills"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Wind Turbine Technician",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in maintaining and repairing wind energy turbines. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Multimeter",
+        "Torque Wrench",
+        "Vibration Analysis Equipment"
+      ],
+      "concepts": [
+        "Diagnostic Testing",
+        "Mechanical Repair",
+        "Safety Procedures"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Wind Turbine Technician",
+        "company": "Green Wind Solutions",
+        "location": "Denver, CO",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Improved turbine efficiency by 12% through predictive maintenance strategies.",
+          "Conducted over 50 successful turbine repairs, minimizing downtime and maximizing energy production."
+        ]
+      },
+      {
+        "title": "Junior Wind Turbine Technician",
+        "company": "Eco Energy Holdings",
+        "location": "Omaha, NE",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the maintenance of 75+ turbines, ensuring operational efficiency and compliance with safety standards.",
+          "Developed a preventive maintenance schedule which reduced unexpected failures by 15%."
+        ]
+      },
+      {
+        "title": "Trainee Turbine Technician",
+        "company": "Renewable Winds Inc.",
+        "location": "Lincoln, NE",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Completed a comprehensive training program focusing on turbine mechanics and safety procedures.",
+          "Assisted in routine inspections and repairs, contributing to a team that achieved a 95% uptime rate."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Renewable Energy Technology",
+      "school": "University of Nebraska",
+      "location": "Lincoln, NE",
+      "graduation": "2019"
+    },
+    "projects": [
+      {
+        "name": "Turbine Efficiency Enhancement",
+        "description": "Led a project aiming to improve the energy output of older turbine models through mechanical adjustments and software upgrades.",
+        "technologies": [
+          "PLC Programming",
+          "SCADA Systems",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  }
+}

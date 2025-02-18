@@ -13,364 +13,262 @@ dotenv.config({ path: join(__dirname, 'config', '.env.local') });
 
 const RESUMES_TO_BUILD = [
     {
-        "role": "Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Overseeing day-to-day business operations and efficiency"
-      },
-      {
-        "role": "Director of Operations",
-        "category": "Operations",
-        "level": "senior",
-        "focus": "Developing and implementing operational strategies"
-      },
-      {
-        "role": "Chief Operating Officer (COO)",
-        "category": "Operations",
+        "role": "Chief Sustainability Officer",
+        "category": "Executive Leadership",
         "level": "executive",
-        "focus": "Managing overall company operations and performance"
+        "focus": "Overseeing corporate sustainability initiatives and ESG compliance"
       },
       {
-        "role": "Supply Chain Manager",
+        "role": "Chief People Officer",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Leading talent strategy, employee engagement, and company culture"
+      },
+      {
+        "role": "Director of Procurement",
+        "category": "Executive Leadership",
+        "level": "senior",
+        "focus": "Managing supplier relationships and procurement strategy"
+      },
+      {
+        "role": "Director of Investor Relations",
+        "category": "Executive Leadership",
+        "level": "senior",
+        "focus": "Maintaining relationships with investors and handling financial communications"
+      },
+      {
+        "role": "VP of Strategic Partnerships",
+        "category": "Executive Leadership",
+        "level": "executive",
+        "focus": "Developing high-value partnerships and business alliances"
+      },
+      {
+        "role": "Global Logistics Manager",
+        "category": "Operations",
+        "level": "senior",
+        "focus": "Overseeing international supply chain logistics and freight operations"
+      },
+      {
+        "role": "Director of Manufacturing Operations",
+        "category": "Operations",
+        "level": "senior",
+        "focus": "Leading production processes and factory efficiency"
+      },
+      {
+        "role": "Director of Supply Chain Optimization",
+        "category": "Operations",
+        "level": "senior",
+        "focus": "Enhancing supply chain efficiency and cost-effectiveness"
+      },
+      {
+        "role": "Food Safety Manager",
         "category": "Operations",
         "level": "mid-level",
-        "focus": "Optimizing supply chain processes and logistics"
+        "focus": "Ensuring compliance with food safety regulations and quality control"
       },
       {
-        "role": "Logistics Coordinator",
+        "role": "Director of Customer Experience",
         "category": "Operations",
+        "level": "senior",
+        "focus": "Optimizing customer service operations and satisfaction strategies"
+      },
+      {
+        "role": "Construction Safety Manager",
+        "category": "Construction",
         "level": "mid-level",
-        "focus": "Managing transportation and inventory flow"
+        "focus": "Developing and enforcing workplace safety regulations on construction sites"
       },
       {
-        "role": "Warehouse Manager",
-        "category": "Operations",
+        "role": "Underground Utility Supervisor",
+        "category": "Construction",
         "level": "mid-level",
-        "focus": "Supervising warehouse operations and inventory management"
+        "focus": "Managing underground utility installation and maintenance projects"
       },
       {
-        "role": "Fleet Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Overseeing company vehicle maintenance and logistics"
-      },
-      {
-        "role": "Inventory Control Specialist",
-        "category": "Operations",
+        "role": "Solar Panel Installer",
+        "category": "Construction",
         "level": "entry-level",
-        "focus": "Tracking and managing inventory levels"
+        "focus": "Installing and maintaining solar energy systems"
       },
       {
-        "role": "Facilities Manager",
-        "category": "Operations",
+        "role": "Highway Engineer",
+        "category": "Construction",
         "level": "mid-level",
-        "focus": "Maintaining and overseeing physical facilities and assets"
+        "focus": "Designing and overseeing highway and road infrastructure projects"
       },
       {
-        "role": "Procurement Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Managing purchasing and supplier relationships"
-      },
-      {
-        "role": "Quality Assurance Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Ensuring product and service quality standards"
-      },
-      {
-        "role": "Compliance Officer",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Ensuring operational adherence to legal and regulatory requirements"
-      },
-      {
-        "role": "Process Improvement Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Optimizing workflows and increasing efficiency"
-      },
-      {
-        "role": "Operations Analyst",
-        "category": "Operations",
+        "role": "Wind Turbine Technician",
+        "category": "Construction",
         "level": "entry-level",
-        "focus": "Analyzing data to improve operational processes"
+        "focus": "Maintaining and repairing wind energy turbines"
       },
       {
-        "role": "Business Continuity Manager",
+        "role": "Geotechnical Engineer",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Analyzing soil and rock mechanics for construction projects"
+      },
+      {
+        "role": "Environmental Engineer",
+        "category": "Construction",
+        "level": "mid-level",
+        "focus": "Developing solutions for environmental sustainability in construction"
+      },
+      {
+        "role": "Director of Risk and Compliance",
+        "category": "Finance",
+        "level": "senior",
+        "focus": "Ensuring regulatory compliance and managing financial risks"
+      },
+      {
+        "role": "Head of Investor Relations",
+        "category": "Finance",
+        "level": "executive",
+        "focus": "Managing communication with investors and financial stakeholders"
+      },
+      {
+        "role": "Bank Compliance Officer",
+        "category": "Finance",
+        "level": "mid-level",
+        "focus": "Monitoring banking operations for compliance with financial regulations"
+      },
+      {
+        "role": "Commercial Loan Officer",
+        "category": "Finance",
+        "level": "mid-level",
+        "focus": "Evaluating and approving commercial loan applications"
+      },
+      {
+        "role": "Equity Trader",
+        "category": "Finance",
+        "level": "mid-level",
+        "focus": "Executing buy and sell orders for stocks and securities"
+      },
+      {
+        "role": "Derivatives Analyst",
+        "category": "Finance",
+        "level": "mid-level",
+        "focus": "Analyzing financial derivatives and risk exposure"
+      },
+      {
+        "role": "VP of Corporate Development",
+        "category": "Finance",
+        "level": "executive",
+        "focus": "Driving mergers, acquisitions, and strategic investments"
+      },
+      {
+        "role": "AI Product Manager",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Managing the development and deployment of AI-driven products"
+      },
+      {
+        "role": "Quantum Computing Engineer",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Researching and developing quantum computing applications"
+      },
+      {
+        "role": "Augmented Reality Developer",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Building immersive AR applications and user experiences"
+      },
+      {
+        "role": "Chief Information Security Officer (CISO)",
+        "category": "Technology",
+        "level": "executive",
+        "focus": "Leading cybersecurity strategy and risk management"
+      },
+      {
+        "role": "Site Reliability Architect",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Designing scalable and resilient system infrastructures"
+      },
+      {
+        "role": "Director of Artificial Intelligence",
+        "category": "Technology",
+        "level": "senior",
+        "focus": "Developing AI strategies and machine learning solutions"
+      },
+      {
+        "role": "Ethical Hacker",
+        "category": "Technology",
+        "level": "mid-level",
+        "focus": "Performing security penetration testing and vulnerability assessments"
+      },
+      {
+        "role": "VP of Growth Marketing",
+        "category": "Sales",
+        "level": "executive",
+        "focus": "Overseeing demand generation and customer acquisition strategies"
+      },
+      {
+        "role": "Director of Customer Acquisition",
+        "category": "Sales",
+        "level": "senior",
+        "focus": "Developing and executing strategies to attract new customers"
+      },
+      {
+        "role": "Enterprise Account Manager",
+        "category": "Sales",
+        "level": "mid-level",
+        "focus": "Managing high-value enterprise customer relationships"
+      },
+      {
+        "role": "Director of Sales Enablement",
+        "category": "Sales",
+        "level": "senior",
+        "focus": "Providing sales teams with tools and training for success"
+      },
+      {
+        "role": "Luxury Goods Sales Manager",
+        "category": "Sales",
+        "level": "mid-level",
+        "focus": "Selling high-end luxury products and managing VIP clients"
+      },
+      {
+        "role": "Medical Device Sales Representative",
+        "category": "Sales",
+        "level": "mid-level",
+        "focus": "Selling medical devices to healthcare facilities"
+      },
+      {
+        "role": "EdTech Sales Executive",
+        "category": "Sales",
+        "level": "mid-level",
+        "focus": "Selling educational technology solutions to institutions"
+      },
+      {
+        "role": "Director of Client Success",
+        "category": "Sales",
+        "level": "senior",
+        "focus": "Ensuring client retention and maximizing lifetime value"
+      },
+      {
+        "role": "Regional Director of Operations",
         "category": "Operations",
         "level": "senior",
-        "focus": "Developing plans to maintain operations during disruptions"
+        "focus": "Overseeing operational performance across multiple locations"
       },
       {
-        "role": "Production Supervisor",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Overseeing production processes and workforce"
+        "role": "Chief Automation Officer",
+        "category": "Technology",
+        "level": "executive",
+        "focus": "Leading robotic process automation (RPA) and AI transformation"
       },
       {
-        "role": "Customer Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Improving customer service and support processes"
-      },
-      {
-        "role": "Workforce Planning Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Managing staffing levels and workforce efficiency"
-      },
-      {
-        "role": "Service Delivery Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Ensuring efficient delivery of services to customers"
-      },
-      {
-        "role": "Event Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Coordinating logistics and execution of events"
-      },
-      {
-        "role": "Health and Safety Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Implementing workplace safety protocols and policies"
-      },
-      {
-        "role": "Security Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Overseeing security measures and risk management"
-      },
-      {
-        "role": "Production Planner",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Scheduling and coordinating manufacturing processes"
-      },
-      {
-        "role": "Distribution Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Managing product distribution and logistics"
-      },
-      {
-        "role": "Energy Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Overseeing energy efficiency and sustainability initiatives"
-      },
-      {
-        "role": "Transportation Coordinator",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Managing transportation logistics and fleet operations"
-      },
-      {
-        "role": "Restaurant Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Overseeing daily operations of a restaurant or food service"
-      },
-      {
-        "role": "Retail Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Managing store operations and sales efficiency"
-      },
-      {
-        "role": "E-commerce Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Optimizing online store logistics and fulfillment processes"
-      },
-      {
-        "role": "Field Operations Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Managing on-site field operations and logistics"
-      },
-      {
-        "role": "3PL Account Manager",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing client relationships and logistics accounts"
-      },
-      {
-        "role": "Freight Forwarding Specialist",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Coordinating international and domestic freight shipments"
-      },
-      {
-        "role": "Logistics Coordinator",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing transportation and shipment schedules"
-      },
-      {
-        "role": "Freight Broker",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Negotiating and coordinating freight transportation for clients"
-      },
-      {
-        "role": "Carrier Sales Representative",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Developing relationships with carriers and securing capacity"
-      },
-      {
-        "role": "Customs Compliance Specialist",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Ensuring shipments comply with customs regulations"
-      },
-      {
-        "role": "Import/Export Coordinator",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing international trade logistics and documentation"
-      },
-      {
-        "role": "3PL Sales Executive",
-        "category": "3PL",
+        "role": "Director of Cyber Risk Management",
+        "category": "Technology",
         "level": "senior",
-        "focus": "Selling logistics and freight services to businesses"
+        "focus": "Developing risk mitigation strategies for cybersecurity threats"
       },
       {
-        "role": "Operations Manager - 3PL",
-        "category": "3PL",
+        "role": "Consumer Insights Analyst",
+        "category": "Sales",
         "level": "mid-level",
-        "focus": "Overseeing daily logistics operations and supply chain efficiency"
-      },
-      {
-        "role": "Warehouse Supervisor",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing warehouse operations and inventory control"
-      },
-      {
-        "role": "Freight Pricing Analyst",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Analyzing and setting freight pricing strategies"
-      },
-      {
-        "role": "Supply Chain Analyst",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Optimizing supply chain processes for efficiency and cost savings"
-      },
-      {
-        "role": "Logistics Sales Manager",
-        "category": "3PL",
-        "level": "senior",
-        "focus": "Developing sales strategies for logistics services"
-      },
-      {
-        "role": "Transportation Manager",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Coordinating and managing transportation networks"
-      },
-      {
-        "role": "LTL (Less-than-Truckload) Specialist",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing LTL freight shipments and carrier negotiations"
-      },
-      {
-        "role": "FTL (Full-Truckload) Coordinator",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing full-truckload shipments and logistics planning"
-      },
-      {
-        "role": "Reverse Logistics Coordinator",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing returns and product lifecycle logistics"
-      },
-      {
-        "role": "Cold Chain Logistics Manager",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Overseeing temperature-sensitive freight logistics"
-      },
-      {
-        "role": "E-commerce Fulfillment Manager",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing warehousing and shipping for e-commerce clients"
-      },
-      {
-        "role": "Distribution Center Manager",
-        "category": "3PL",
-        "level": "senior",
-        "focus": "Overseeing operations at a 3PL distribution facility"
-      },
-      {
-        "role": "Last Mile Delivery Manager",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Optimizing final-stage logistics for fast delivery"
-      },
-      {
-        "role": "Freight Claims Specialist",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Handling lost, damaged, or delayed shipment claims"
-      },
-      {
-        "role": "Drayage Coordinator",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing short-distance port and rail transportation logistics"
-      },
-      {
-        "role": "Intermodal Logistics Coordinator",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing multi-modal transport solutions including rail, truck, and ocean"
-      },
-      {
-        "role": "Freight Audit & Payment Analyst",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Ensuring accuracy in freight invoicing and cost management"
-      },
-      {
-        "role": "Procurement Manager - Logistics",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Sourcing transportation providers and negotiating contracts"
-      },
-      {
-        "role": "Fleet Coordinator",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Managing fleet operations and vehicle maintenance"
-      },
-      {
-        "role": "Customer Success Manager - 3PL",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Ensuring logistics clients receive high-quality service"
-      },
-      {
-        "role": "International Freight Coordinator",
-        "category": "3PL",
-        "level": "mid-level",
-        "focus": "Handling global freight movement and customs compliance"
-      },
-      {
-        "role": "3PL Implementation Manager",
-        "category": "3PL",
-        "level": "senior",
-        "focus": "Onboarding new clients and integrating logistics solutions"
+        "focus": "Analyzing customer data to drive sales strategy"
       }
 ];
 

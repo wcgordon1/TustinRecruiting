@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Site Reliability Architect Resume Template",
+    "description": "A professional resume template tailored for Site Reliability Architect positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Site Reliability Architect",
+    "slug": "site-reliability-architect",
+    "experience_level": "senior",
+    "keywords": [
+      "Site Reliability",
+      "Infrastructure Design",
+      "System Architecture"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Site Reliability Architect",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Designing scalable and resilient system infrastructures. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "frameworks": [
+        "Kubernetes",
+        "Docker",
+        "Terraform"
+      ],
+      "tools": [
+        "AWS",
+        "Prometheus",
+        "GitLab CI/CD"
+      ],
+      "concepts": [
+        "DevOps",
+        "Continuous Integration",
+        "Cloud Architecture"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Site Reliability Architect",
+        "company": "Tech Innovations Ltd.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Designed and implemented a multi-cloud platform to support seamless scaling, reducing downtime by 30% during peak loads.",
+          "Led a team of 5 engineers in automating CI/CD pipelines, improving deployment efficiency by 40%.",
+          "Streamlined incident response processes, cutting average resolution time from 3 hours to under 1 hour."
+        ]
+      },
+      {
+        "title": "Site Reliability Engineer",
+        "company": "Innovate Solutions Inc.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed monitoring and alerting frameworks using Prometheus and Grafana, enhancing system observability by 50%.",
+          "Instrumented infrastructure with Terraform, migrating 70% of services to a containerized architecture.",
+          "Collaborated with developers to implement performance enhancements, resulting in a 25% increase in application efficiency."
+        ]
+      },
+      {
+        "title": "Junior Site Reliability Engineer",
+        "company": "Techworks Global",
+        "location": "Seattle, WA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the transition of legacy applications to AWS cloud, reducing hosting costs by 15%.",
+          "Participated in overhauling disaster recovery plans, improving system resilience against outages.",
+          "Supported deployment of automation tools, aligning with DevOps best practices to enhance service delivery."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of Washington",
+      "location": "Seattle, WA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Scalable E-commerce Platform",
+        "description": "Designed a resilient and scalable infrastructure for an e-commerce platform handling millions of transactions daily.",
+        "technologies": [
+          "Kubernetes",
+          "AWS Lambda",
+          "Terraform"
+        ]
+      }
+    ]
+  }
+}

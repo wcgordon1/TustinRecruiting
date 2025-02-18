@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Food Safety Manager Resume Template",
+    "description": "A professional resume template tailored for Food Safety Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Food Safety Manager",
+    "slug": "food-safety-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "food safety",
+      "quality control"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Food Safety Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in ensuring compliance with food safety regulations and quality control. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "HACCP",
+        "ISO 22000",
+        "SQF",
+        "FSMA"
+      ],
+      "concepts": [
+        "Risk Assessment",
+        "Food Safety Audits",
+        "Corrective Action Planning",
+        "Supply Chain Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Food Safety Manager",
+        "company": "Green Valley Foods Inc.",
+        "location": "Newark, NJ",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 10 to implement a new food safety management system, resulting in 25% reduction in safety incidents.",
+          "Successfully passed an unannounced FDA audit with no major findings.",
+          "Developed comprehensive training programs for food safety best practices, increasing employee compliance by 40%."
+        ]
+      },
+      {
+        "title": "Senior Food Safety Specialist",
+        "company": "Harvest Fields Organization",
+        "location": "Marietta, GA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Played a key role in achieving industry certification ISO 22000.",
+          "Assessed potential food safety risks leading to a 30% improvement in quality control measures.",
+          "Collaborated with cross-functional teams to enhance supply chain integrity, reducing contamination risks by 15%."
+        ]
+      },
+      {
+        "title": "Food Safety Associate",
+        "company": "NutriLife Foods",
+        "location": "Columbus, OH",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in routine audits and inspections, ensuring 100% compliance with regulatory standards.",
+          "Executed SOPs for sanitation processes resulting in a 20% increase in operational efficiency.",
+          "Conducted daily verification of CCPs, improving the accuracy of process controls by 15%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Food Science and Technology",
+      "school": "Ohio State University",
+      "location": "Columbus, OH",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Comprehensive Food Safety Enhancement Initiative",
+        "description": "Led a cross-departmental project to revamp the company's food safety protocols, introducing new risk assessment tools and training procedures.",
+        "technologies": [
+          "HACCP",
+          "ISO 22000",
+          "FSMA"
+        ]
+      }
+    ]
+  }
+}

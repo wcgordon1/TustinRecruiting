@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Ethical Hacker Resume Template",
+    "description": "A professional resume template tailored for Ethical Hacker positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Ethical Hacker",
+    "slug": "ethical-hacker",
+    "experience_level": "mid-level",
+    "keywords": [
+      "penetration testing",
+      "vulnerability assessment"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Ethical Hacker",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Performing security penetration testing and vulnerability assessments. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Bash",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Metasploit",
+        "Nmap"
+      ],
+      "tools": [
+        "Wireshark",
+        "Burp Suite",
+        "Kali Linux"
+      ],
+      "concepts": [
+        "Network Security",
+        "Risk Management",
+        "Cryptography"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Ethical Hacker",
+        "company": "TechSecure Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 4 in a comprehensive security audit resulting in a 40% reduction in identified threats.",
+          "Developed an automated vulnerability detection tool that increased the efficiency of security assessments by 30%.",
+          "Collaborated with the software development team to integrate security best practices, reducing potential exploits by 50%."
+        ]
+      },
+      {
+        "title": "Ethical Hacker",
+        "company": "CyberShield Corp",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted over 50 successful penetration tests across various platforms, identifying critical vulnerabilities.",
+          "Reduced attack surface by 25% through comprehensive testing and threat assessment.",
+          "Trained junior staff in using advanced security tools and methodologies, improving overall team performance."
+        ]
+      },
+      {
+        "title": "Junior Penetration Tester",
+        "company": "SafeNet Enterprises",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in conducting vulnerability assessments for a major banking application, discovering a critical security flaw.",
+          "Successfully executed phishing simulations, raising employee awareness and reducing incidents by 20%.",
+          "Participated in weekly security knowledge sharing sessions, fostering a culture of continuous learning."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Cybersecurity",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Network Security Tool Development",
+        "description": "Developed a tool to automate network configuration checks, improving security compliance checks.",
+        "technologies": [
+          "Python",
+          "SNMP",
+          "SQL"
+        ]
+      }
+    ]
+  }
+}

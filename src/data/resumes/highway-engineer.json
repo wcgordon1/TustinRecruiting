@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Highway Engineer Resume Template",
+    "description": "A professional resume template tailored for Highway Engineer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Highway Engineer",
+    "slug": "highway-engineer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "highway engineering",
+      "road infrastructure",
+      "project management"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Highway Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Designing and overseeing highway and road infrastructure projects. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "AutoCAD",
+        "Civil 3D",
+        "MATLAB"
+      ],
+      "frameworks": [
+        "AASHTO Standards"
+      ],
+      "tools": [
+        "MS Project",
+        "MicroStation"
+      ],
+      "concepts": [
+        "Geometric Design",
+        "Pavement Design",
+        "Traffic Engineering"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Highway Engineer",
+        "company": "Riverside Infrastructure Group",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led design and engineering of a $15M highway development project, improving traffic flow by 25%.",
+          "Implemented advanced pavement quality monitoring systems, reducing maintenance costs by 10%.",
+          "Supervised a cross-functional team of 15, enhancing project efficiency and meeting deadlines."
+        ]
+      },
+      {
+        "title": "Assistant Highway Engineer",
+        "company": "Turner & Associates Engineering",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Contributed to the completion of a 30-mile urban expressway project, achieving a 98% satisfaction rate from stakeholders.",
+          "Coordinated with environmental engineers to ensure compliance with federal regulations, leading to a successful project evaluation.",
+          "Assisted in the development of a traffic signal coordination system, reducing congestion time by 15%."
+        ]
+      },
+      {
+        "title": "Junior Highway Engineer",
+        "company": "Apollo Roadworks",
+        "location": "San Diego, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Participated in design team meetings, contributing innovative ideas for highway safety improvements which were later implemented.",
+          "Conducted site assessments to ensure construction was in line with design specifications, resulting in zero deviation reports.",
+          "Supported senior engineers in preparing detailed project documentation and reports, increasing departmental productivity by 20%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Civil Engineering",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Interstate Optimization Project",
+        "description": "Developed a comprehensive plan for interstate highway optimization that increased efficiency and reduced travel time.",
+        "technologies": [
+          "AutoCAD",
+          "Civil 3D",
+          "MS Project"
+        ]
+      }
+    ]
+  }
+}

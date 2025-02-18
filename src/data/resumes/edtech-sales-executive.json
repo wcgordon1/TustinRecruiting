@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "EdTech Sales Executive Resume Template",
+    "description": "A professional resume template tailored for EdTech Sales Executive positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "EdTech Sales Executive",
+    "slug": "edtech-sales-executive",
+    "experience_level": "mid-level",
+    "keywords": [
+      "EdTech",
+      "Sales Executive",
+      "Educational Technology",
+      "B2B Sales"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "EdTech Sales Executive",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in selling educational technology solutions to institutions. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": []
+    },
+    "experience": [
+      {
+        "title": "Senior EdTech Sales Executive",
+        "company": "Innovative Learning Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased territory sales by 35% in the first year by leveraging strategic partnerships with key educational institutions.",
+          "Developed and implemented a new client acquisition strategy that expanded the customer base by 20%.",
+          "Consistently exceeded quarterly sales targets by an average of 15%."
+        ]
+      },
+      {
+        "title": "EdTech Sales Specialist",
+        "company": "TechInspire Education",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Coordinated cross-functional teams to successfully launch 5 major product updates, resulting in a 25% increase in customer satisfaction.",
+          "Negotiated and closed deals with top-tier universities, contributing to a 40% growth in revenue.",
+          "Trained and mentored junior sales associates, helping improve team sales effectiveness by 30%."
+        ]
+      },
+      {
+        "title": "Junior Sales Associate",
+        "company": "Future Leaders EdTech",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Achieved 120% of annual sales quota in the first year by implementing innovative sales techniques and building strong client relationships.",
+          "Participated in the development and execution of marketing campaigns that increased brand awareness by 15%.",
+          "Provided high-quality customer support that led to a 10% boost in client retention rates."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Business Administration",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "EdTech Market Expansion Project",
+        "description": "Led a market expansion project that targeted under-served regions, resulting in a 25% increase in market penetration.",
+        "technologies": [
+          "CRM Software",
+          "Data Analysis Tools",
+          "Salesforce"
+        ]
+      }
+    ]
+  }
+}

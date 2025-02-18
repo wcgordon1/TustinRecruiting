@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "title": "Construction Safety Manager Resume Template",
+    "description": "A professional resume template tailored for Construction Safety Manager positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Construction Safety Manager",
+    "slug": "construction-safety-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "construction safety",
+      "workplace safety",
+      "OSHA compliance"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Construction Safety Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Developing and enforcing workplace safety regulations on construction sites. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [],
+      "concepts": [
+        "Safety Audit",
+        "Risk Management",
+        "OSHA Compliance",
+        "Incident Investigation",
+        "Safety Training"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Construction Safety Manager",
+        "company": "SafeBuild Constructors",
+        "location": "Dallas, TX",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Implemented a comprehensive safety training program that decreased onsite incidents by 25% within the first year.",
+          "Conducted monthly safety audits for 12 construction sites, improving compliance rates by 30%.",
+          "Collaborated with project managers to integrate safety protocols into project workflows, enhancing team efficiency and safety awareness."
+        ]
+      },
+      {
+        "title": "Safety Coordinator",
+        "company": "Prime Construction Group",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Led incident investigations and developed action plans, reducing recurrence of similar accidents by 40%.",
+          "Facilitated OSHA training programs for over 200 employees, increasing certification rates by 50%.",
+          "Assisted in the development of site-specific safety plans, leading to a 20% improvement in safety compliance scores."
+        ]
+      },
+      {
+        "title": "Junior Safety Officer",
+        "company": "BuildSafe Enterprises",
+        "location": "Houston, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Conducted regular safety inspections across multiple construction sites, reported findings, and suggested improvements.",
+          "Supported the senior safety team in drafting safety protocols, increasing adherence to safety regulations among staff.",
+          "Participated in safety drills and emergency response exercises, enhancing preparedness and response times."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Occupational Safety and Health",
+      "school": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Safety Enhancement Initiative",
+        "description": "A project aimed at updating and standardizing safety protocols across all company sites.",
+        "technologies": [
+          "Safety Management Software",
+          "Data Analysis Tools",
+          "E-learning Platforms"
+        ]
+      }
+    ]
+  }
+}

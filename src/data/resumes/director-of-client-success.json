@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "Director of Client Success Resume Template",
+    "description": "A professional resume template tailored for Director of Client Success positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Director of Client Success",
+    "slug": "director-of-client-success",
+    "experience_level": "senior",
+    "keywords": [
+      "client retention",
+      "lifetime value",
+      "customer success",
+      "relationship management",
+      "strategic planning"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Director of Client Success",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in ensuring client retention and maximizing lifetime value. Proven track record of delivering high-quality solutions and optimizing performance across various sectors.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Salesforce",
+        "Zendesk",
+        "Gainsight",
+        "HubSpot"
+      ],
+      "concepts": [
+        "Customer Journey Mapping",
+        "Client Onboarding",
+        "Retention Strategies",
+        "Cross-functional Leadership"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Director of Client Success",
+        "company": "MirageTech Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased client retention rate by 15% through revamped onboarding and engagement processes, contributing to a $3M increase in annual revenue.",
+          "Developed a comprehensive client feedback loop, resulting in a 20% boost in customer satisfaction scores and a 10% reduction in churn.",
+          "Led a team of 15 client success managers, enhancing professional development and achieving a 95% team retention rate."
+        ]
+      },
+      {
+        "title": "Senior Client Success Manager",
+        "company": "Innovatech Corp",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed a $12M book of business, maintaining a 98% client renewal rate through effective strategic planning and relationship management.",
+          "Implemented automated reporting for client health scores, reducing time spent on data collection by 40% and increasing response rate to potential issues.",
+          "Collaborated with product teams to align features with client needs, resulting in a 30% increase in feature adoption."
+        ]
+      },
+      {
+        "title": "Client Success Associate",
+        "company": "TechPro Solutions",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in reducing client onboarding time by 25% through the creation of streamlined documentation and process improvements.",
+          "Supported the management of over 50 client accounts, ensuring satisfaction and aiding in the resolution of technical issues within 24 hours.",
+          "Played a critical role in the pilot of a new client relationship management tool, improving efficiency by 30%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. Business Administration",
+      "school": "New York University",
+      "location": "New York, NY",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Client Success Toolkit Implementation",
+        "description": "Led the implementation of a new client success management toolkit, which enhanced data-driven decision-making and improved team collaboration.",
+        "technologies": [
+          "Gainsight",
+          "Tableau",
+          "Slack"
+        ]
+      }
+    ]
+  }
+}

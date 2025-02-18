@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Consumer Insights Analyst Resume Template",
+    "description": "A professional resume template tailored for Consumer Insights Analyst positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Consumer Insights Analyst",
+    "slug": "consumer-insights-analyst",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Consumer Insights",
+      "Data Analysis",
+      "Market Research",
+      "Sales Strategy",
+      "Customer Data"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Consumer Insights Analyst",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in analyzing customer data to drive sales strategy. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "SQL",
+        "Python",
+        "R"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Excel",
+        "Tableau",
+        "Google Analytics",
+        "SPSS"
+      ],
+      "concepts": [
+        "Market Segmentation",
+        "Data Visualization",
+        "Predictive Modeling",
+        "Customer Lifetime Value"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Consumer Insights Analyst",
+        "company": "Market Analytics Solutions",
+        "location": "Boston, MA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team in designing a new consumer segmentation model that increased customer retention by 15%",
+          "Developed dashboards using Tableau that provided key insights on customer behavior, leading to a 10% increase in sales",
+          "Collaborated with marketing teams to apply data-driven strategies, resulting in a 5% growth in new customer acquisition"
+        ]
+      },
+      {
+        "title": "Consumer Insights Analyst",
+        "company": "Insight Dynamics Corp.",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted in-depth analysis of customer feedback data, contributing to a 20% improvement in product satisfaction",
+          "Optimized reporting processes that reduced data processing time by 30%",
+          "Assisted in the development of a predictive model that improved sales forecasting accuracy by 12%"
+        ]
+      },
+      {
+        "title": "Junior Consumer Insights Analyst",
+        "company": "Strategic Data Group",
+        "location": "San Diego, CA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Participated in customer data analysis projects supporting product launches, achieving a 25% increase in market penetration",
+          "Used SPSS to carry out statistical analysis that informed strategic business decisions",
+          "Supported the senior analytics team in generating monthly insights reports for stakeholders"
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Marketing Analytics",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Customer Journey Mapping Initiative",
+        "description": "Developed a comprehensive customer journey map utilizing cross-channel data to enhance the understanding of customer interactions and identification of key touchpoints.",
+        "technologies": [
+          "R",
+          "Tableau",
+          "Google Analytics"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Commercial Loan Officer Resume Template",
+    "description": "A professional resume template tailored for Commercial Loan Officer positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Commercial Loan Officer",
+    "slug": "commercial-loan-officer",
+    "experience_level": "mid-level",
+    "keywords": [
+      "Commercial Loans",
+      "Loan Approval",
+      "Financial Analysis"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Commercial Loan Officer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in evaluating and approving commercial loan applications. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Microsoft Excel",
+        "CRM Platforms",
+        "SAP"
+      ],
+      "concepts": [
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Commercial Loan Officer",
+        "company": "Midtown Finance Corp.",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Successfully managed a portfolio of over $150 million in commercial loans.",
+          "Improved loan approval rates by 20% through strategic risk analysis and customer profiling.",
+          "Led a team of 5 junior officers and facilitated cross-department training sessions, enhancing team productivity by 15%."
+        ]
+      },
+      {
+        "title": "Commercial Loan Officer",
+        "company": "Riverbank Financial Services",
+        "location": "Chicago, IL",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Reviewed and approved over 200 commercial loan applications, with a 98% customer satisfaction rating.",
+          "Developed a risk assessment model reducing loan default rates by 12%.",
+          "Collaborated with senior officers to streamline loan processing time by 25%."
+        ]
+      },
+      {
+        "title": "Junior Loan Officer",
+        "company": "Pinnacle National Bank",
+        "location": "Philadelphia, PA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in processing over 300 loan applications, achieving a 95% on-time approval rate.",
+          "Conducted client interviews and financial assessments to support loan recommendations.",
+          "Awarded Employee of the Month twice for exceptional customer service and attention to detail."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Finance",
+      "school": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Loan Approval Automation System",
+        "description": "Developed an automated system to streamline the loan approval process, significantly reducing manual errors and processing time.",
+        "technologies": [
+          "Python",
+          "SQL",
+          "APIs"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Director of Cyber Risk Management Resume Template",
+    "description": "A professional resume template tailored for Director of Cyber Risk Management positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Director of Cyber Risk Management",
+    "slug": "director-of-cyber-risk-management",
+    "experience_level": "senior",
+    "keywords": [
+      "cybersecurity",
+      "risk management",
+      "threat mitigation",
+      "strategic planning"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Director of Cyber Risk Management",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with extensive experience in developing risk mitigation strategies for cybersecurity threats. Proven track record of delivering high-quality solutions and optimizing performance through effective leadership and management of cybersecurity initiatives.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Java"
+      ],
+      "frameworks": [
+        "NIST Cybersecurity Framework",
+        "ISO 27001"
+      ],
+      "tools": [
+        "SIEM Tools",
+        "Firewall Configurations",
+        "IDS/IPS"
+      ],
+      "concepts": [
+        "Risk Assessment",
+        "Threat Intelligence",
+        "Incident Response",
+        "Governance"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Director of Cyber Risk Management",
+        "company": "TechGuard Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the development and implementation of a comprehensive cybersecurity risk management program, reducing incident response time by 30%.",
+          "Orchestrated cross-departmental efforts to secure cloud infrastructure leading to a 50% reduction in identified vulnerabilities.",
+          "Directed a cybersecurity awareness campaign that improved employee threat identification skills by 40%."
+        ]
+      },
+      {
+        "title": "Senior Cyber Risk Analyst",
+        "company": "CyberSafe Solutions",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Analyzed and prioritized security vulnerabilities for remediation, achieving a 20% lateral movement reduction in penetration tests.",
+          "Designed and implemented incident response strategies, cutting down incident resolution times by 45%.",
+          "Collaborated with IT and business units to ensure adherence to security policies, enhancing compliance by 60%."
+        ]
+      },
+      {
+        "title": "Junior Cybersecurity Analyst",
+        "company": "SecureNet Corp.",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in conducting threat analyses and vulnerability assessments, contributing to a 25% improvement in threat deterrence.",
+          "Participated in SOC operations, monitoring and analyzing security alerts to preempt potential cyber threats.",
+          "Supported the deployment of new cybersecurity tools that improved data protection mechanisms by 30%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Cybersecurity",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2016"
+    },
+    "projects": [
+      {
+        "name": "Enterprise Cybersecurity Overhaul",
+        "description": "Led a team in overhauling the enterprise's cybersecurity framework, focusing on threat management, response strategies, and security protocol enhancements.",
+        "technologies": [
+          "AWS Security",
+          "Splunk",
+          "Python"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "title": "AI Product Manager Resume Template",
+    "description": "A professional resume template tailored for AI Product Manager positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "AI Product Manager",
+    "slug": "ai-product-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "AI",
+      "Product Management",
+      "Machine Learning",
+      "Project Deployment",
+      "Technical Leadership"
+    ],
+    "last_updated": "2025-02-18"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "AI Product Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in managing the development and deployment of AI-driven products. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "R",
+        "Java"
+      ],
+      "frameworks": [
+        "TensorFlow",
+        "PyTorch",
+        "Keras"
+      ],
+      "tools": [
+        "JIRA",
+        "Trello",
+        "Tableau"
+      ],
+      "concepts": [
+        "Machine Learning",
+        "Deep Learning",
+        "Product Development",
+        "Agile Methodologies"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior AI Product Manager",
+        "company": "TechVision Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the team in developing an AI-driven customer insights platform that increased user engagement by 30% over six months.",
+          "Streamlined the AI model deployment process, reducing time to production by 40%, thereby enabling quicker iterations and better user feedback.",
+          "Collaborated with data science and engineering teams to enhance model accuracy by 20% through innovative feature selection."
+        ]
+      },
+      {
+        "title": "AI Product Manager",
+        "company": "Innovative Algorithms LLC",
+        "location": "New York, NY",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully managed the launch of a real-time recommendation engine, which resulted in a 25% increase in conversion rates.",
+          "Implemented a comprehensive monitoring system for AI products, enhancing system reliability and reducing downtime by 15%.",
+          "Orchestrated cross-functional teams, accelerating product development cycles by 20% through agile methodologies."
+        ]
+      },
+      {
+        "title": "Junior AI Product Manager",
+        "company": "NextGen AI Solutions",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of a predictive analytics tool that improved sales forecasting accuracy by 12%.",
+          "Conducted market analysis to identify customer needs which directly informed feature prioritization for upcoming product releases.",
+          "Played a key role in user feedback sessions, translating insights into actionable product enhancements."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of Illinois at Urbana-Champaign",
+      "location": "Champaign, IL",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Smart Insights Platform",
+        "description": "Developed a platform providing predictive analytics for small businesses, leveraging machine learning algorithms to optimize decision-making processes.",
+        "technologies": [
+          "Python",
+          "TensorFlow",
+          "AWS"
+        ]
+      }
+    ]
+  }
+}
