@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Omnichannel Marketing Director Resume Template",
+    "description": "A professional resume template tailored for Omnichannel Marketing Director positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "Omnichannel Marketing Director",
+    "slug": "omnichannel-marketing-director",
+    "experience_level": "senior",
+    "keywords": [
+      "omnichannel",
+      "marketing",
+      "digital integration",
+      "retail strategies"
+    ],
+    "last_updated": "2025-02-20"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Omnichannel Marketing Director",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Integrating digital and physical retail marketing strategies. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "English"
+      ],
+      "frameworks": [],
+      "tools": [
+        "Google Analytics",
+        "Adobe Marketing Cloud",
+        "Salesforce Marketing Cloud"
+      ],
+      "concepts": [
+        "Omnichannel Strategy",
+        "Customer Journey Mapping",
+        "Digital Campaign Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Omnichannel Marketing Director",
+        "company": "Retail Innovations Group",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the successful integration of digital and physical marketing strategies, increasing customer engagement by 30%.",
+          "Implemented a unified customer data platform, resulting in a 20% increase in customer retention.",
+          "Developed cross-channel marketing campaigns that boosted sales by 25% annually."
+        ]
+      },
+      {
+        "title": "Omnichannel Marketing Manager",
+        "company": "NextGen Retailers",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed a team to execute a seamless blend of in-store and online promotions, increasing overall sales by 15%.",
+          "Executed a successful rebranding initiative that improved brand visibility across both digital and physical channels.",
+          "Collaborated with product teams to launch a new app that increased customer interaction by 40%."
+        ]
+      },
+      {
+        "title": "Digital Marketing Specialist",
+        "company": "Innovative Retail Corp",
+        "location": "New York, NY",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Rolled out targeted digital campaigns, achieving a click-through rate of 4.5%, exceeding industry standards.",
+          "Enhanced social media presence, contributing to a 10% growth in online sales.",
+          "Assisted in the development and execution of the company's first omnichannel strategy."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Marketing",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Unified Customer Experience Platform",
+        "description": "Developed a platform that unified customer experiences across digital and physical channels for a seamless shopping experience.",
+        "technologies": [
+          "Python",
+          "AWS",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
+}

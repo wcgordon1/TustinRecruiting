@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Neural Interface Engineer Resume Template",
+    "description": "A professional resume template tailored for Neural Interface Engineer positions, highlighting technical skills and project experience",
+    "category": "Technology",
+    "role": "Neural Interface Engineer",
+    "slug": "neural-interface-engineer",
+    "experience_level": "senior",
+    "keywords": [
+      "neural engineering",
+      "brain-machine interface",
+      "signal processing",
+      "neurotechnology"
+    ],
+    "last_updated": "2025-02-20"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Neural Interface Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over six years of experience in developing brain-machine interface technologies. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "C++",
+        "MATLAB"
+      ],
+      "frameworks": [
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "tools": [
+        "EEG/EMG systems",
+        "Neuralynx",
+        "LabVIEW"
+      ],
+      "concepts": [
+        "Signal Processing",
+        "Neural Decoding",
+        "Neurofeedback"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Neural Interface Engineer",
+        "company": "NeuroTech Innovations",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the development of a novel brain-machine interface system that improved signal decoding accuracy by 30%.",
+          "Managed a team of 5 engineers to design and implement real-time data processing algorithms for neural signal interpretation.",
+          "Collaborated with researchers to integrate neural interfaces with virtual reality solutions, enhancing user engagement by 25%."
+        ]
+      },
+      {
+        "title": "Neural Interface Engineer",
+        "company": "BrainLink Systems",
+        "location": "Boston, MA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Developed and optimized algorithms for processing EEG signals, reducing signal noise by 15%.",
+          "Facilitated cross-functional collaboration to deploy neural interface technology in clinical trials for motor impairment patients.",
+          "Authored documentation and conducted workshops, improving the technical team's understanding of brain-computer interaction by 40%."
+        ]
+      },
+      {
+        "title": "Junior Neural Engineer",
+        "company": "NeuroTech Research Labs",
+        "location": "Pittsburgh, PA",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the design of brain-machine interfaces, contributing to two patent submissions.",
+          "Executed data analysis on neural dataset leading to the discovery of new signal patterns that informed device enhancement.",
+          "Implemented testing protocols for prototype systems, achieving a 95% success rate in controlled environments."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Biomedical Engineering",
+      "school": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Neurovisual Platform",
+        "description": "Developed a platform to visualize and interpret EEG data in real-time, facilitating quicker diagnosis in neurological research.",
+        "technologies": [
+          "Python",
+          "OpenBCI",
+          "Django"
+        ]
+      }
+    ]
+  }
+}

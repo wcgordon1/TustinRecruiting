@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Green Building Consultant Resume Template",
+    "description": "A professional resume template tailored for Green Building Consultant positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Green Building Consultant",
+    "slug": "green-building-consultant",
+    "experience_level": "senior",
+    "keywords": [
+      "green building",
+      "sustainability",
+      "LEED",
+      "energy efficiency"
+    ],
+    "last_updated": "2025-02-20"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Green Building Consultant",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven Green Building Consultant with over 6 years of experience in advising on sustainable construction practices. Proven track record of delivering high-quality solutions and optimizing performance through energy efficiency and LEED certification processes.",
+    "skills": {
+      "languages": [
+        "Python",
+        "R"
+      ],
+      "frameworks": [],
+      "tools": [
+        "AutoCAD",
+        "Revit",
+        "EnergyPlus"
+      ],
+      "concepts": [
+        "LEED Certification",
+        "Energy Modeling",
+        "Sustainable Design",
+        "Project Management"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Green Building Consultant",
+        "company": "EcoBuild Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of consultants to achieve LEED Platinum certification for a prominent downtown mixed-use project, resulting in a 30% increase in energy savings.",
+          "Developed and implemented sustainable building strategies for over 15 commercial projects, improving overall energy efficiency by an average of 25%.",
+          "Consulted with city planners to integrate sustainable practices into urban development projects, enhancing long-term environmental impact."
+        ]
+      },
+      {
+        "title": "Green Building Consultant",
+        "company": "Sustainable Design Group",
+        "location": "Denver, CO",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully managed sustainable construction projects targeting LEED Gold certification, achieving certification for 9 out of 10 client projects.",
+          "Collaborated with architects and engineers to integrate energy modeling software, optimizing building designs for maximum energy efficiency.",
+          "Conducted workshops on sustainable building practices, empowering over 200 industry professionals with the latest green construction techniques."
+        ]
+      },
+      {
+        "title": "Junior Green Building Analyst",
+        "company": "GreenWorks Design Studio",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the analysis and reporting for LEED projects, contributing to successful certifications and increased client satisfaction.",
+          "Utilized EnergyPlus to conduct energy simulations and detailed reports, promoting informed decisions in sustainable building projects.",
+          "Collaborated with senior consultants to support over 10 sustainability assessments for commercial and residential projects."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Environmental Engineering",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Green Neighborhood Initiative",
+        "description": "Developed a comprehensive plan for a sustainable neighborhood, focusing on energy efficiency, waste reduction, and water conservation.",
+        "technologies": [
+          "ArcGIS",
+          "AutoCAD",
+          "EnergyPlus"
+        ]
+      }
+    ]
+  }
+}

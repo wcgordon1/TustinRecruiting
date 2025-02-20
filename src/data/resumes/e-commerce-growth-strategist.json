@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "title": "E-commerce Growth Strategist Resume Template",
+    "description": "A professional resume template tailored for E-commerce Growth Strategist positions, highlighting technical skills and project experience",
+    "category": "Sales",
+    "role": "E-commerce Growth Strategist",
+    "slug": "e-commerce-growth-strategist",
+    "experience_level": "senior",
+    "keywords": [
+      "E-commerce",
+      "Growth Strategy",
+      "Online Sales",
+      "Digital Marketing",
+      "Consumer Engagement"
+    ],
+    "last_updated": "2025-02-20"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "E-commerce Growth Strategist",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in developing and optimizing online sales strategies. Proven track record of delivering high-quality solutions and optimizing performance, increasing conversion rates, and driving significant revenue growth.",
+    "skills": {
+      "languages": [
+        "English"
+      ],
+      "frameworks": [
+        "React.js",
+        "Angular"
+      ],
+      "tools": [
+        "Google Analytics",
+        "Shopify",
+        "Salesforce",
+        "SEMrush"
+      ],
+      "concepts": [
+        "SEO",
+        "PPC",
+        "A/B Testing",
+        "Data Analysis"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior E-commerce Growth Strategist",
+        "company": "TechTrade Solutions",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Increased online sales by 35% year-over-year through targeted digital marketing campaigns and optimization strategies.",
+          "Led a team of 5 to successfully launch a new e-commerce platform, resulting in a 50% increase in customer engagement.",
+          "Developed and implemented data-driven strategies that reduced cart abandonment rates by 20%."
+        ]
+      },
+      {
+        "title": "E-commerce Analyst",
+        "company": "FashionForward Inc.",
+        "location": "Los Angeles, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Executed A/B testing to optimize product pages, increasing average order value by 15%.",
+          "Analyzed website data to improve user experience and achieved a 25% increase in conversion rates within 12 months.",
+          "Collaborated with marketing and product teams to launch targeted campaigns, boosting website traffic by 40%."
+        ]
+      },
+      {
+        "title": "Junior E-commerce Specialist",
+        "company": "Retail Nexus",
+        "location": "Chicago, IL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the development of SEO strategies that improved site visibility, leading to a 30% increase in organic traffic.",
+          "Supported the management of paid search campaigns, contributing to a 20% reduction in customer acquisition costs.",
+          "Streamlined email marketing processes, enhancing customer engagement and increasing open rates by 10%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Marketing",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "E-commerce Platform Redesign",
+        "description": "Led a cross-functional team to redesign and optimize the e-commerce platform for improved user experience and performance.",
+        "technologies": [
+          "React.js",
+          "Google Analytics",
+          "Shopify"
+        ]
+      }
+    ]
+  }
+}

@@ -43,232 +43,94 @@ const RESUMES_TO_BUILD = [
         "focus": "Developing high-value partnerships and business alliances"
       },
       {
-        "role": "Global Logistics Manager",
-        "category": "Operations",
-        "level": "senior",
-        "focus": "Overseeing international supply chain logistics and freight operations"
-      },
-      {
-        "role": "Director of Manufacturing Operations",
-        "category": "Operations",
-        "level": "senior",
-        "focus": "Leading production processes and factory efficiency"
-      },
-      {
-        "role": "Director of Supply Chain Optimization",
-        "category": "Operations",
-        "level": "senior",
-        "focus": "Enhancing supply chain efficiency and cost-effectiveness"
-      },
-      {
-        "role": "Food Safety Manager",
-        "category": "Operations",
-        "level": "mid-level",
-        "focus": "Ensuring compliance with food safety regulations and quality control"
-      },
-      {
-        "role": "Director of Customer Experience",
-        "category": "Operations",
-        "level": "senior",
-        "focus": "Optimizing customer service operations and satisfaction strategies"
-      },
-      {
-        "role": "Construction Safety Manager",
-        "category": "Construction",
-        "level": "mid-level",
-        "focus": "Developing and enforcing workplace safety regulations on construction sites"
-      },
-      {
-        "role": "Underground Utility Supervisor",
-        "category": "Construction",
-        "level": "mid-level",
-        "focus": "Managing underground utility installation and maintenance projects"
-      },
-      {
-        "role": "Solar Panel Installer",
-        "category": "Construction",
-        "level": "entry-level",
-        "focus": "Installing and maintaining solar energy systems"
-      },
-      {
-        "role": "Highway Engineer",
-        "category": "Construction",
-        "level": "mid-level",
-        "focus": "Designing and overseeing highway and road infrastructure projects"
-      },
-      {
-        "role": "Wind Turbine Technician",
-        "category": "Construction",
-        "level": "entry-level",
-        "focus": "Maintaining and repairing wind energy turbines"
-      },
-      {
-        "role": "Geotechnical Engineer",
-        "category": "Construction",
-        "level": "mid-level",
-        "focus": "Analyzing soil and rock mechanics for construction projects"
-      },
-      {
-        "role": "Environmental Engineer",
-        "category": "Construction",
-        "level": "mid-level",
-        "focus": "Developing solutions for environmental sustainability in construction"
-      },
-      {
-        "role": "Director of Risk and Compliance",
+        "role": "Cryptocurrency Compliance Officer",
         "category": "Finance",
         "level": "senior",
-        "focus": "Ensuring regulatory compliance and managing financial risks"
+        "focus": "Ensuring regulatory compliance for digital asset transactions"
       },
       {
-        "role": "Head of Investor Relations",
-        "category": "Finance",
-        "level": "executive",
-        "focus": "Managing communication with investors and financial stakeholders"
-      },
-      {
-        "role": "Bank Compliance Officer",
+        "role": "Sustainable Finance Manager",
         "category": "Finance",
         "level": "mid-level",
-        "focus": "Monitoring banking operations for compliance with financial regulations"
+        "focus": "Developing financial strategies aligned with ESG goals"
       },
       {
-        "role": "Commercial Loan Officer",
-        "category": "Finance",
+        "role": "Smart City Infrastructure Engineer",
+        "category": "Construction",
+        "level": "senior",
+        "focus": "Designing and implementing urban infrastructure solutions"
+      },
+      {
+        "role": "Renewable Energy Project Manager",
+        "category": "Construction",
         "level": "mid-level",
-        "focus": "Evaluating and approving commercial loan applications"
+        "focus": "Overseeing the development of solar and wind energy projects"
       },
       {
-        "role": "Equity Trader",
-        "category": "Finance",
-        "level": "mid-level",
-        "focus": "Executing buy and sell orders for stocks and securities"
-      },
-      {
-        "role": "Derivatives Analyst",
-        "category": "Finance",
-        "level": "mid-level",
-        "focus": "Analyzing financial derivatives and risk exposure"
-      },
-      {
-        "role": "VP of Corporate Development",
-        "category": "Finance",
-        "level": "executive",
-        "focus": "Driving mergers, acquisitions, and strategic investments"
-      },
-      {
-        "role": "AI Product Manager",
+        "role": "Autonomous Vehicle Safety Engineer",
         "category": "Technology",
         "level": "senior",
-        "focus": "Managing the development and deployment of AI-driven products"
+        "focus": "Ensuring safety compliance for self-driving vehicle systems"
       },
       {
-        "role": "Quantum Computing Engineer",
-        "category": "Technology",
+        "role": "E-commerce Growth Strategist",
+        "category": "Sales",
         "level": "senior",
-        "focus": "Researching and developing quantum computing applications"
+        "focus": "Developing and optimizing online sales strategies"
       },
       {
-        "role": "Augmented Reality Developer",
-        "category": "Technology",
-        "level": "mid-level",
-        "focus": "Building immersive AR applications and user experiences"
+        "role": "Omnichannel Marketing Director",
+        "category": "Sales",
+        "level": "senior",
+        "focus": "Integrating digital and physical retail marketing strategies"
       },
       {
-        "role": "Chief Information Security Officer (CISO)",
+        "role": "Director of Workplace Experience",
+        "category": "Operations",
+        "level": "senior",
+        "focus": "Enhancing employee engagement and office efficiency"
+      },
+      {
+        "role": "Chief Ethical AI Officer",
         "category": "Technology",
         "level": "executive",
-        "focus": "Leading cybersecurity strategy and risk management"
+        "focus": "Ensuring responsible AI development and deployment"
       },
       {
-        "role": "Site Reliability Architect",
-        "category": "Technology",
-        "level": "senior",
-        "focus": "Designing scalable and resilient system infrastructures"
-      },
-      {
-        "role": "Director of Artificial Intelligence",
-        "category": "Technology",
-        "level": "senior",
-        "focus": "Developing AI strategies and machine learning solutions"
-      },
-      {
-        "role": "Ethical Hacker",
+        "role": "Personalized Healthcare Data Analyst",
         "category": "Technology",
         "level": "mid-level",
-        "focus": "Performing security penetration testing and vulnerability assessments"
+        "focus": "Analyzing genetic and health data for tailored treatments"
       },
       {
-        "role": "VP of Growth Marketing",
-        "category": "Sales",
-        "level": "executive",
-        "focus": "Overseeing demand generation and customer acquisition strategies"
-      },
-      {
-        "role": "Director of Customer Acquisition",
-        "category": "Sales",
-        "level": "senior",
-        "focus": "Developing and executing strategies to attract new customers"
-      },
-      {
-        "role": "Enterprise Account Manager",
-        "category": "Sales",
-        "level": "mid-level",
-        "focus": "Managing high-value enterprise customer relationships"
-      },
-      {
-        "role": "Director of Sales Enablement",
-        "category": "Sales",
-        "level": "senior",
-        "focus": "Providing sales teams with tools and training for success"
-      },
-      {
-        "role": "Luxury Goods Sales Manager",
-        "category": "Sales",
-        "level": "mid-level",
-        "focus": "Selling high-end luxury products and managing VIP clients"
-      },
-      {
-        "role": "Medical Device Sales Representative",
-        "category": "Sales",
-        "level": "mid-level",
-        "focus": "Selling medical devices to healthcare facilities"
-      },
-      {
-        "role": "EdTech Sales Executive",
-        "category": "Sales",
-        "level": "mid-level",
-        "focus": "Selling educational technology solutions to institutions"
-      },
-      {
-        "role": "Director of Client Success",
-        "category": "Sales",
-        "level": "senior",
-        "focus": "Ensuring client retention and maximizing lifetime value"
-      },
-      {
-        "role": "Regional Director of Operations",
+        "role": "Blockchain Supply Chain Manager",
         "category": "Operations",
         "level": "senior",
-        "focus": "Overseeing operational performance across multiple locations"
+        "focus": "Implementing blockchain for transparent supply chain management"
       },
       {
-        "role": "Chief Automation Officer",
-        "category": "Technology",
-        "level": "executive",
-        "focus": "Leading robotic process automation (RPA) and AI transformation"
+        "role": "Director of Remote Workforce Integration",
+        "category": "Operations",
+        "level": "senior",
+        "focus": "Managing infrastructure and policies for remote teams"
       },
       {
-        "role": "Director of Cyber Risk Management",
+        "role": "Neural Interface Engineer",
         "category": "Technology",
         "level": "senior",
-        "focus": "Developing risk mitigation strategies for cybersecurity threats"
+        "focus": "Developing brain-machine interface technologies"
       },
       {
-        "role": "Consumer Insights Analyst",
-        "category": "Sales",
+        "role": "Sustainable Packaging Specialist",
+        "category": "Operations",
         "level": "mid-level",
-        "focus": "Analyzing customer data to drive sales strategy"
+        "focus": "Developing eco-friendly packaging solutions"
+      },
+      {
+        "role": "Green Building Consultant",
+        "category": "Construction",
+        "level": "senior",
+        "focus": "Advising on sustainable construction practices"
       }
 ];
 

@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "title": "Blockchain Supply Chain Manager Resume Template",
+    "description": "A professional resume template tailored for Blockchain Supply Chain Manager positions, highlighting technical skills and project experience",
+    "category": "Operations",
+    "role": "Blockchain Supply Chain Manager",
+    "slug": "blockchain-supply-chain-manager",
+    "experience_level": "senior",
+    "keywords": [
+      "Blockchain",
+      "Supply Chain",
+      "Transparent Management",
+      "Optimization"
+    ],
+    "last_updated": "2025-02-20"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Blockchain Supply Chain Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in Implementing blockchain for transparent supply chain management. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript",
+        "Solidity"
+      ],
+      "frameworks": [
+        "Ethereum",
+        "Hyperledger"
+      ],
+      "tools": [
+        "Truffle",
+        "Ganache",
+        "IBM Blockchain"
+      ],
+      "concepts": [
+        "Smart Contracts",
+        "Decentralized Applications (dApps)",
+        "Supply Chain Analytics"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Blockchain Supply Chain Manager",
+        "company": "InnoLogix Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 12 to integrate blockchain technology across the supply chain, resulting in a 30% increase in transparency and a 15% reduction in delivery times.",
+          "Developed a decentralized application to track product provenance, enhancing customer trust and increasing sales by 10%.",
+          "Collaborated with cross-functional teams to implement smart contracts, reducing manual audit labor by 25%."
+        ]
+      },
+      {
+        "title": "Blockchain Supply Chain Specialist",
+        "company": "TechCargo Ltd.",
+        "location": "Seattle, WA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Successfully deployed an enterprise blockchain solution, reducing supply chain costs by 18% through better transparency and efficiency.",
+          "Designed and implemented a real-time product tracking system, improving supply chain accuracy by 22%.",
+          "Conducted training sessions for over 100 employees on the benefits and usage of blockchain technology in supply chains."
+        ]
+      },
+      {
+        "title": "Junior Blockchain Analyst",
+        "company": "BlockInnovate Corp.",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in launching a pilot blockchain project that digitized shipment records, reducing operational errors by 20%.",
+          "Developed a prototype for a blockchain-powered supplier verification system, increasing supplier accountability by 35%.",
+          "Performed extensive data analysis to identify inefficiencies within the supply chain processes."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Computer Science",
+      "school": "University of Texas",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Blockchain Supply Chain Optimization",
+        "description": "Developed a blockchain-based solution to enhance end-to-end visibility in the supply chain for a major retail client.",
+        "technologies": [
+          "Ethereum",
+          "Node.js",
+          "React"
+        ]
+      }
+    ]
+  }
+}

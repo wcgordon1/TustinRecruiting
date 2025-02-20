@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "title": "Sustainable Finance Manager Resume Template",
+    "description": "A professional resume template tailored for Sustainable Finance Manager positions, highlighting technical skills and project experience",
+    "category": "Finance",
+    "role": "Sustainable Finance Manager",
+    "slug": "sustainable-finance-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "ESG",
+      "Sustainable Finance",
+      "Financial Strategies",
+      "Performance Optimization",
+      "Stakeholder Engagement"
+    ],
+    "last_updated": "2025-02-20"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Sustainable Finance Manager",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with experience in developing financial strategies aligned with ESG goals. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "Microsoft Excel",
+        "Tableau",
+        "SQL",
+        "SAP"
+      ],
+      "concepts": [
+        "ESG Reporting",
+        "Sustainable Investment Analysis",
+        "Financial Modelling",
+        "Risk Management",
+        "Stakeholder Engagement"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Sustainable Finance Manager",
+        "company": "Green Future Investments",
+        "location": "New York, NY",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led the development of a sustainable investment framework, resulting in a 20% increase in ESG-compliant assets under management.",
+          "Collaborated with cross-functional teams to integrate ESG criteria into financial risk assessments, reducing firm-wide risk exposure by 15%.",
+          "Managed stakeholder engagement processes to secure $30M in green bonds, contributing to company growth and sustainability goals."
+        ]
+      },
+      {
+        "title": "Senior Financial Analyst",
+        "company": "EcoFinance Capital",
+        "location": "San Francisco, CA",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Conducted comprehensive analyses of ESG investment opportunities, directly overseeing projects worth over $150M.",
+          "Implemented a sustainability reporting dashboard, enhancing transparency and resulting in a 25% improvement in stakeholder engagement scores.",
+          "Developed models for carbon footprint reduction strategies, achieving a 10% decrease by end of project phase."
+        ]
+      },
+      {
+        "title": "Financial Analyst",
+        "company": "Sustainable Solutions LLC",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Supported the launch of a renewable energy finance product, contributing to a 30% increase in new client acquisitions.",
+          "Assessed financial viability of various green projects, aiding in investment decisions which yielded a 12% ROI.",
+          "Assisted in preparing sustainability reports for clients, fostering transparency and accountability."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Environmental Finance",
+      "school": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Green Investment Initiative",
+        "description": "Developed a strategy for increasing sustainable investments through enhanced ESG criteria testing.",
+        "technologies": [
+          "Tableau",
+          "SQL",
+          "Python"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Smart City Infrastructure Engineer Resume Template",
+    "description": "A professional resume template tailored for Smart City Infrastructure Engineer positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Smart City Infrastructure Engineer",
+    "slug": "smart-city-infrastructure-engineer",
+    "experience_level": "senior",
+    "keywords": [
+      "urban infrastructure",
+      "smart city",
+      "engineering",
+      "project management",
+      "GIS",
+      "IoT"
+    ],
+    "last_updated": "2025-02-20"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "[Your Full Name]",
+      "title": "Smart City Infrastructure Engineer",
+      "contact": {
+        "email": "your.email@example.com",
+        "phone": "(555) 555-5555",
+        "location": "City, State",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+      }
+    },
+    "summary": "Results-driven professional with over 6 years of experience in designing and implementing urban infrastructure solutions. Proven track record of delivering high-quality solutions and optimizing performance in smart city projects.",
+    "skills": {
+      "languages": [
+        "Python",
+        "JavaScript",
+        "SQL"
+      ],
+      "frameworks": [
+        "Node-RED",
+        "OpenStreetMap"
+      ],
+      "tools": [
+        "AutoCAD",
+        "ArcGIS",
+        "QGIS"
+      ],
+      "concepts": [
+        "IoT Integration",
+        "GIS Mapping",
+        "Sustainable Urban Planning"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Senior Smart City Infrastructure Engineer",
+        "company": "TechCity Solutions Inc.",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team in deploying a city-wide IoT network that reduced traffic congestion by 15%.",
+          "Developed and implemented sustainable urban infrastructure strategies, achieving 20% increase in energy efficiency.",
+          "Collaborated with city officials to integrate smart metering systems across 50,000 households."
+        ]
+      },
+      {
+        "title": "Smart City Infrastructure Engineer",
+        "company": "UrbanFuture Corp.",
+        "location": "Austin, TX",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Managed the deployment of smart lighting across major city zones, reducing energy consumption by 30%.",
+          "Designed GIS-based solutions for real-time urban planning, which improved decision making efficiency by 25%.",
+          "Played a key role in a project that installed 500 smart sensors throughout the city for environmental monitoring."
+        ]
+      },
+      {
+        "title": "Junior Infrastructure Engineer",
+        "company": "Innovative Urban Systems",
+        "location": "Miami, FL",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Assisted in the integration of solar-powered infrastructure in urban areas, promoting renewable energy usage.",
+          "Utilized AutoCAD and GIS software to draft preliminary urban development plans.",
+          "Contributed to a project that implemented smart traffic systems, which reduced city accident rates by 10%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Civil Engineering",
+      "school": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "CitySmart Initiative",
+        "description": "Implemented a comprehensive IoT and data analytics framework to enhance urban living through smart technologies.",
+        "technologies": [
+          "IoT",
+          "Data Analytics",
+          "Python"
+        ]
+      }
+    ]
+  }
+}

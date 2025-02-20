@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Renewable Energy Project Manager Resume Template",
+    "description": "A professional resume template tailored for Renewable Energy Project Manager positions, highlighting technical skills and project experience",
+    "category": "Construction",
+    "role": "Renewable Energy Project Manager",
+    "slug": "renewable-energy-project-manager",
+    "experience_level": "mid-level",
+    "keywords": [
+      "renewable energy",
+      "project management",
+      "solar energy",
+      "wind energy",
+      "sustainability"
+    ],
+    "last_updated": "2025-02-20"
+  },
+  "template_tips": [
+    "Focus on specific achievements",
+    "Include metrics and impact where possible",
+    "Highlight both technical and soft skills",
+    "Keep it to one page unless you have 10+ years of experience"
+  ],
+  "resume_content": {
+    "header": {
+      "name": "Jane Doe",
+      "title": "Renewable Energy Project Manager",
+      "contact": {
+        "email": "jane.doe@example.com",
+        "phone": "(555) 555-5555",
+        "location": "San Francisco, CA",
+        "linkedin": "linkedin.com/in/janedoe",
+        "github": "github.com/janedoe"
+      }
+    },
+    "summary": "Results-driven professional with 6 years of experience in overseeing the development of solar and wind energy projects. Proven track record of delivering high-quality solutions and optimizing performance.",
+    "skills": {
+      "languages": [],
+      "frameworks": [],
+      "tools": [
+        "MS Project",
+        "AutoCAD",
+        "SCADA"
+      ],
+      "concepts": [
+        "Project Management",
+        "Risk Assessment",
+        "Sustainability",
+        "Stakeholder Communication"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Renewable Energy Project Manager",
+        "company": "Green Future Solutions",
+        "location": "San Francisco, CA",
+        "dates": "Jan 2022 - Present",
+        "achievements": [
+          "Led a team of 10 in the successful execution of a 50 MW solar farm project, completed 8% under budget and 3 weeks ahead of schedule.",
+          "Implemented a new project tracking system that increased efficiency by 20% and reduced project downtime by 15%.",
+          "Collaborated with cross-functional teams to integrate wind energy solutions, increasing project portfolio by 25%."
+        ]
+      },
+      {
+        "title": "Assistant Project Manager",
+        "company": "EcoPower Inc.",
+        "location": "Portland, OR",
+        "dates": "Mar 2019 - Dec 2021",
+        "achievements": [
+          "Assisted in the management of a $10 million solar project, achieving all milestones in a timely manner, resulting in a 12% increase in annual revenue.",
+          "Coordinated with government agencies to ensure all regulatory compliance and permit approvals, leading to a 30% reduction in project delays.",
+          "Streamlined communication between engineering and construction teams, cutting response times by 25%."
+        ]
+      },
+      {
+        "title": "Junior Project Engineer",
+        "company": "SunTech Renewable",
+        "location": "Austin, TX",
+        "dates": "Jun 2017 - Feb 2019",
+        "achievements": [
+          "Contributed to the design and implementation of a 100 MW wind farm, supporting the project management team in exceeding efficiency targets by 10%.",
+          "Developed detailed project documentation that improved project tracking and reduced errors during transitions by 18%.",
+          "Enhanced team productivity by integrating new project management tools, increasing overall workflow efficiency by 15%."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.S. in Environmental Engineering",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation": "2017"
+    },
+    "projects": [
+      {
+        "name": "Hybrid Renewable Energy System Implementation",
+        "description": "Led a project team to design and implement a hybrid renewable energy system integrating both solar and wind technologies to optimize energy efficiency for a residential community.",
+        "technologies": [
+          "Solar PV",
+          "Wind Turbines",
+          "Battery Storage Systems"
+        ]
+      }
+    ]
+  }
+}
