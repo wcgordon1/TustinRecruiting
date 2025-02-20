@@ -39,7 +39,7 @@
     "@tailwindcss/typography": "^0.5.12",
     "@types/alpinejs": "^3.13.10",
     "@types/node": "^22.13.4",
-    "astro": "^4.5.16"
+    "astro": "^4.16.18"
   },
   "dependencies": {
     "@astrojs/mdx": "^2.2.4",
